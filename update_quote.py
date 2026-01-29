@@ -24,7 +24,7 @@ def update_readme(quote):
 
 This repository automatically updates itself to keep my GitHub contribution streak alive.
 
-## 📅 Quote for {date_str}
+## 📅 Quote for {date_str} {current_time}
 
 > {quote}
 
