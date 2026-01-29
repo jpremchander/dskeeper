@@ -1,0 +1,44 @@
+name: Hourly Quote Update
+
+on:
+  schedule:
+        # Runs every hour (UTC-based). Local timezone: Waterloo, ON (Eastern Time)
+    - cron: '0/5 * * * *'
+  workflow_dispatch: # Allows manual triggering
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+
+      - name: Run Python script
+        run: |
+          python update_quote.py
+
+      - name: Commit and Push
+        run: |
+          git config --global user.name "Quote Bot"
+          git config --global user.email "${{ github.actor }}@users.noreply.github.com"
+          
+          # Check if there are changes before committing to avoid empty commit errors
+          git add README.md
+          if git diff-index --quiet HEAD; then
+            echo "No changes to commit"
+          else
+            git commit -m "Daily Quote: Updated README with new inspiration 📜"
+            git push
+          fi
