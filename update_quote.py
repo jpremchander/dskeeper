@@ -15,8 +15,10 @@ def get_quote():
         return f"Error fetching quote: {e}"
 
 def update_readme(quote):
-    # Get current date
-    date_str = datetime.datetime.now().strftime("%Y-%m-%d")
+    # Get current date and time
+    now = datetime.datetime.now()
+    date_str = now.strftime("%Y-%m-%d")
+    current_time = now.strftime("%H:%M:%S")
     
     # Define the content of the README
     readme_content = f"""
