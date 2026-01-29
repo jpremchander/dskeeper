@@ -1,9 +1,9 @@
-name: Hourly Quote Update
+name: Cyber News Update
 
 on:
   schedule:
-        # Runs every hour (UTC-based). Local timezone: Waterloo, ON (Eastern Time)
-    - cron: '0/5 * * * *'
+        # Runs every 6 hours (UTC-based). Local timezone: Waterloo, ON (Eastern Time)
+    - cron: '0 0,6,12,18 * * *'
   workflow_dispatch: # Allows manual triggering
 
 jobs:
@@ -25,13 +25,13 @@ jobs:
         run: |
           pip install -r requirements.txt
 
-      - name: Run Python script
+      - name: Fetch cybersecurity news and update README
         run: |
           python update_quote.py
 
       - name: Commit and Push
         run: |
-          git config --global user.name "Quote Bot"
+          git config --global user.name "Cyber News Bot"
           git config --global user.email "${{ github.actor }}@users.noreply.github.com"
           
           # Check if there are changes before committing to avoid empty commit errors
@@ -39,6 +39,6 @@ jobs:
           if git diff-index --quiet HEAD; then
             echo "No changes to commit"
           else
-            git commit -m "Daily Quote: Updated README with new inspiration 📜"
+            git commit -m "Daily Update: Latest cybersecurity news 🛡️"
             git push
           fi
