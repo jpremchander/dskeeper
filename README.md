@@ -1,11 +1,84 @@
+# 🛡️ Cybersecurity Threat Intelligence Log
 
-# 🚀 Daily Streak Keeper
-
-This repository automatically updates itself to keep my GitHub contribution streak alive.
-
-## 📅 Quote for 2026-02-03 15:50:47
-
-> "Music Is The Art Of The Prophets And The Gift Of God." — **Martin Luther**
+This repository tracks real-world cybersecurity threats,
+vulnerabilities, and exploitation activity for continuous learning.
 
 ---
-*Last updated automatically by GitHub Actions.*
+## 📅 2026-02-03
+### 📰 [Webinar] The Smarter SOC Blueprint: Learn What to Build, Buy, and Automate
+**Category:** 📅 Webinar/Event
+**Time:** 21:01 UTC
+
+**Summary:**  
+Most security teams today are buried under tools. Too many dashboards. Too much noise. Not enough real progress. Every vendor promises “complete coverage” or “AI-powered automation,” but inside most SOCs, teams are still overwhelmed, stretched thin, and unsure which tools are truly pulling their weight. The result? Bloated stacks, missed signals, and mounting pressure to do more with less. This
+
+🔗 [Read Full Article](https://thehackernews.com/2026/02/webinar-smarter-soc-blueprint-learn.html)
+
+---
+### 📰 Hackers Exploit Metro4Shell RCE Flaw in React Native CLI npm Package
+**Category:** 🔴 Vulnerability
+**Time:** 21:01 UTC
+
+**Summary:**  
+Threat actors have been observed exploiting a critical security flaw impacting the Metro Development Server in the popular "@react-native-community/cli" npm package. Cybersecurity company VulnCheck said it first observed exploitation of CVE-2025-11953 (aka Metro4Shell) on December 21, 2025. With a CVSS score of 9.8, the vulnerability allows remote unauthenticated attackers to execute arbitrary
+
+🔗 [Read Full Article](https://thehackernews.com/2026/02/hackers-exploit-metro4shell-rce-flaw-in.html)
+
+---
+### 📰 When Cloud Outages Ripple Across the Internet
+**Category:** 📰 News
+**Time:** 21:01 UTC
+
+**Summary:**  
+Recent major cloud service outages have been hard to miss. High-profile incidents affecting providers such as AWS, Azure, and Cloudflare have disrupted large parts of the internet, taking down websites and services that many other systems depend on. The resulting ripple effects have halted applications and workflows that many organizations rely on every day. For consumers, these outages are
+
+🔗 [Read Full Article](https://thehackernews.com/2026/02/when-cloud-outages-ripple-across.html)
+
+---
+### 📰 APT28 Uses Microsoft Office CVE-2026-21509 in Espionage-Focused Malware Attacks
+**Category:** 🔴 Vulnerability
+**Time:** 21:01 UTC
+
+**Summary:**  
+The Russia-linked state-sponsored threat actor known as APT28 (aka UAC-0001) has been attributed to attacks exploiting a newly disclosed security flaw in Microsoft Office as part of a campaign codenamed Operation Neusploit. Zscaler ThreatLabz said it observed the hacking group weaponizing the shortcoming on January 29, 2026, in attacks targeting users in Ukraine, Slovakia, and Romania, three
+
+🔗 [Read Full Article](https://thehackernews.com/2026/02/apt28-uses-microsoft-office-cve-2026.html)
+
+---
+### 📰 Mozilla Adds One-Click Option to Disable Generative AI Features in Firefox
+**Category:** 📰 News
+**Time:** 21:01 UTC
+
+**Summary:**  
+Mozilla on Monday announced a new controls section in its Firefox desktop browser settings that allows users to completely turn off generative artificial intelligence (GenAI) features. "It provides a single place to block current and future generative AI features in Firefox," Ajit Varma, head of Firefox, said. "You can also review and manage individual AI features if you choose to use them. This
+
+🔗 [Read Full Article](https://thehackernews.com/2026/02/mozilla-adds-one-click-option-to.html)
+
+---
+### 📰 Notepad++ Hosting Breach Attributed to China-Linked Lotus Blossom Hacking Group
+**Category:** 📰 News
+**Time:** 21:01 UTC
+
+**Summary:**  
+A China-linked threat actor known as Lotus Blossom has been attributed with medium confidence to the recently discovered compromise of the infrastructure hosting Notepad++. The attack enabled the state-sponsored hacking group to deliver a previously undocumented backdoor codenamed Chrysalis to users of the open-source editor, according to new findings from Rapid7. The development comes shortly
+
+🔗 [Read Full Article](https://thehackernews.com/2026/02/notepad-hosting-breach-attributed-to.html)
+
+---
+
+### ⏰ 20:55 UTC
+**Title:** Docker Fixes Critical Ask Gordon AI Flaw Allowing Code Execution via Image Metadata
+**Source:** The Hacker News
+
+**CVE:** N/A  
+**CVSS Score:** N/A  
+**Severity:** N/A  
+**Known Exploited (CISA KEV):** N/A
+
+**Summary:**  
+Cybersecurity researchers have disclosed details of a now-patched security flaw impacting Ask Gordon, an artificial intelligence (AI) assistant built into Docker Desktop and the Docker Command-Line Interface (CLI), that could be exploited to execute code and exfiltrate sensitive data. The critical vulnerability has been codenamed DockerDash by cybersecurity company Noma Labs. It was addressed by
+
+🔗 Article: https://thehackernews.com/2026/02/docker-fixes-critical-ask-gordon-ai.html
+
+
+---
