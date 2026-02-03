@@ -3,7 +3,8 @@ name: Cyber News Update
 on:
   schedule:
         # Runs every 6 hours (UTC-based). Local timezone: Waterloo, ON (Eastern Time)
-    - cron: '0 0,6,12,18 * * *'
+    #- cron: '0 0,6,12,18 * * *'
+     - cron: '0/5 * * * *'
   workflow_dispatch: # Allows manual triggering
 
 jobs:
@@ -27,7 +28,7 @@ jobs:
 
       - name: Fetch cybersecurity news and update README
         run: |
-          python update_quote.py
+          python update_cyber_news.py
 
       - name: Commit and Push
         run: |
