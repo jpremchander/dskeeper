@@ -5,6 +5,16 @@ vulnerabilities, and exploitation activity for continuous learning.
 
 ---
 ## 📅 2026-02-04
+### 📰 Microsoft Warns Python Infostealers Target macOS via Fake Ads and Installers
+**Category:** 📰 News
+**Time:** 08:47 UTC
+
+**Summary:**  
+Microsoft has warned that information-stealing attacks are "rapidly expanding" beyond Windows to target Apple macOS environments by leveraging cross-platform languages like Python and abusing trusted platforms for distribution at scale. The tech giant's Defender Security Research Team said it observed macOS-targeted infostealer campaigns using social engineering techniques such as ClickFix since
+
+🔗 [Read Full Article](https://thehackernews.com/2026/02/microsoft-warns-python-infostealers.html)
+
+---
 ### 📰 Eclipse Foundation Mandates Pre-Publish Security Checks for Open VSX Extensions
 **Category:** 📰 News
 **Time:** 07:22 UTC
