@@ -5,6 +5,16 @@ vulnerabilities, and exploitation activity for continuous learning.
 
 ---
 ## 📅 2026-02-04
+### 📰 Orchid Security Introduces Continuous Identity Observability for Enterprise Applications
+**Category:** 📰 News
+**Time:** 12:22 UTC
+
+**Summary:**  
+An innovative approach to discovering, analyzing, and governing identity usage beyond traditional IAM controls. The Challenge: Identity Lives Outside the Identity Stack Identity and access management tools were built to govern users and directories. Modern enterprises run on applications. Over time, identity logic has moved into application code, APIs, service accounts, and custom authentication
+
+🔗 [Read Full Article](https://thehackernews.com/2026/02/orchid-security-introduces-continuous.html)
+
+---
 ### 📰 The First 90 Seconds: How Early Decisions Shape Incident Response Investigations
 **Category:** 📰 News
 **Time:** 11:16 UTC
