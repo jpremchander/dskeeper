@@ -5,6 +5,16 @@ vulnerabilities, and exploitation activity for continuous learning.
 
 ---
 ## 📅 2026-02-04
+### 📰 China-Linked Amaranth-Dragon Exploits WinRAR Flaw in Espionage Campaigns
+**Category:** 🔴 Vulnerability
+**Time:** 15:02 UTC
+
+**Summary:**  
+Threat actors affiliated with China have been attributed to a fresh set of cyber espionage campaigns targeting government and law enforcement agencies across Southeast Asia throughout 2025. Check Point Research is tracking the previously undocumented activity cluster under the moniker Amaranth-Dragon, which it said shares links to the APT 41 ecosystem. Targeted countries include Cambodia,
+
+🔗 [Read Full Article](https://thehackernews.com/2026/02/china-linked-amaranth-dragon-exploits.html)
+
+---
 ### 📰 Orchid Security Introduces Continuous Identity Observability for Enterprise Applications
 **Category:** 📰 News
 **Time:** 12:22 UTC
