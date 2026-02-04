@@ -5,6 +5,16 @@ vulnerabilities, and exploitation activity for continuous learning.
 
 ---
 ## 📅 2026-02-04
+### 📰 The First 90 Seconds: How Early Decisions Shape Incident Response Investigations
+**Category:** 📰 News
+**Time:** 11:16 UTC
+
+**Summary:**  
+Many incident response failures do not come from a lack of tools, intelligence, or technical skills. They come from what happens immediately after detection, when pressure is high, and information is incomplete. I have seen IR teams recover from sophisticated intrusions with limited telemetry. I have also seen teams lose control of investigations they should have been able to handle. The
+
+🔗 [Read Full Article](https://thehackernews.com/2026/02/the-first-90-seconds-how-early.html)
+
+---
 ### 📰 Microsoft Warns Python Infostealers Target macOS via Fake Ads and Installers
 **Category:** 📰 News
 **Time:** 08:47 UTC
