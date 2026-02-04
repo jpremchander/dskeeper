@@ -5,6 +5,26 @@ vulnerabilities, and exploitation activity for continuous learning.
 
 ---
 ## 📅 2026-02-04
+### 📰 Microsoft Develops Scanner to Detect Backdoors in Open-Weight Large Language Models
+**Category:** 📰 News
+**Time:** 19:19 UTC
+
+**Summary:**  
+Microsoft on Wednesday said it built a lightweight scanner that it said can detect backdoors in open-weight large language models (LLMs) and improve the overall trust in artificial intelligence (AI) systems. The tech giant's AI Security team said the scanner leverages three observable signals that can be used to reliably flag the presence of backdoors while maintaining a low false positive
+
+🔗 [Read Full Article](https://thehackernews.com/2026/02/microsoft-develops-scanner-to-detect.html)
+
+---
+### 📰 DEAD#VAX Malware Campaign Deploys AsyncRAT via IPFS-Hosted VHD Phishing Files
+**Category:** 📰 News
+**Time:** 19:19 UTC
+
+**Summary:**  
+Threat hunters have disclosed details of a new, stealthy malware campaign dubbed DEAD#VAX that employs a mix of "disciplined tradecraft and clever abuse of legitimate system features" to bypass traditional detection mechanisms and deploy a remote access trojan (RAT) known as AsyncRAT. "The attack leverages IPFS-hosted VHD files, extreme script obfuscation, runtime decryption, and in-memory
+
+🔗 [Read Full Article](https://thehackernews.com/2026/02/deadvax-malware-campaign-deploys.html)
+
+---
 ### 📰 China-Linked Amaranth-Dragon Exploits WinRAR Flaw in Espionage Campaigns
 **Category:** 🔴 Vulnerability
 **Time:** 15:02 UTC
