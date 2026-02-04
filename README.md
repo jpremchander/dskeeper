@@ -4,6 +4,28 @@ This repository tracks real-world cybersecurity threats,
 vulnerabilities, and exploitation activity for continuous learning.
 
 ---
+## 📅 2026-02-04
+### 📰 Eclipse Foundation Mandates Pre-Publish Security Checks for Open VSX Extensions
+**Category:** 📰 News
+**Time:** 07:22 UTC
+
+**Summary:**  
+The Eclipse Foundation, which maintains the Open VSX Registry, has announced plans to enforce security checks before Microsoft Visual Studio Code (VS Code) extensions are published to the open-source repository to combat supply chain threats. The move marks a shift from a reactive to a proactive approach to ensure that malicious extensions don't end up getting published on the Open VSX Registry.
+
+🔗 [Read Full Article](https://thehackernews.com/2026/02/eclipse-foundation-mandates-pre-publish.html)
+
+---
+### 📰 CISA Adds Actively Exploited SolarWinds Web Help Desk RCE to KEV Catalog
+**Category:** 🔴 Vulnerability
+**Time:** 07:22 UTC
+
+**Summary:**  
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a critical security flaw impacting SolarWinds Web Help Desk (WHD) to its Known Exploited Vulnerabilities (KEV) catalog, flagging it as actively exploited in attacks. The vulnerability, tracked as CVE-2025-40551 (CVSS score: 9.8), is a untrusted data deserialization vulnerability that could pave the way for remote
+
+🔗 [Read Full Article](https://thehackernews.com/2026/02/cisa-adds-actively-exploited-solarwinds.html)
+
+---
+
 ## 📅 2026-02-03
 ### 📰 [Webinar] The Smarter SOC Blueprint: Learn What to Build, Buy, and Automate
 **Category:** 📅 Webinar/Event
