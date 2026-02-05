@@ -5,6 +5,16 @@ vulnerabilities, and exploitation activity for continuous learning.
 
 ---
 ## 📅 2026-02-05
+### 📰 AISURU/Kimwolf Botnet Launches Record-Setting 31.4 Tbps DDoS Attack
+**Category:** 📰 News
+**Time:** 18:22 UTC
+
+**Summary:**  
+The distributed denial-of-service (DDoS) botnet known as AISURU/Kimwolf has been attributed to a record-setting attack that peaked at 31.4 Terabits per second (Tbps) and lasted only 35 seconds. Cloudflare, which automatically detected and mitigated the activity, said it's part of a growing number of hyper-volumetric HTTP DDoS attacks mounted by the botnet in the fourth quarter of 2025. The
+
+🔗 [Read Full Article](https://thehackernews.com/2026/02/aisurukimwolf-botnet-launches-record.html)
+
+---
 ### 📰 ThreatsDay Bulletin: Codespaces RCE, AsyncRAT C2, BYOVD Abuse, AI Cloud Intrusions & 15+ Stories
 **Category:** 📰 News
 **Time:** 14:08 UTC
