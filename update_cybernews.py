@@ -138,9 +138,8 @@ def update_readme(news_items, kev_set):
     date_str = now.strftime("%Y-%m-%d")
     time_str = now.strftime("%H:%M UTC")
 
-    existing = read_readme()
-    
     # Filter out news items already in README
+    existing = read_readme()
     new_items = [item for item in news_items if item["link"] not in existing]
     if not new_items:
         print("No new items to add.")
@@ -186,19 +185,9 @@ vulnerabilities, and exploitation activity for continuous learning.
 """
         entries += entry
 
-    if not existing.strip():
-        write_readme(header + daily_section + entries)
-    elif daily_section not in existing:
-        # Insert new day section after header
-        if "---" in existing and existing.startswith("# 🛡️"):
-            parts = existing.split("---", 1)
-            write_readme(parts[0] + "---\n" + daily_section + entries + parts[1])
-        else:
-            # If existing README is not in expected format, replace it
-            write_readme(header + daily_section + entries)
-    else:
-        parts = existing.split(daily_section)
-        write_readme(parts[0] + daily_section + entries + parts[1])
+    # Always keep only today's data - start fresh with today's section
+    content = header + daily_section + entries
+    write_readme(content)
     
     print(f"Added {len(new_items)} new items to README.")
 
@@ -206,6 +195,9 @@ if __name__ == "__main__":
     print("Fetching CISA Known Exploited Vulnerabilities...")
     kev = get_cisa_kev()
     print(f"Found {len(kev)} KEV entries.")
+    
+    print("Archiving previous day's data...")
+    archive_previous_day()
     
     print("Fetching latest cybersecurity news...")
     news_items = fetch_news()
