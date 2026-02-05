@@ -5,6 +5,16 @@ vulnerabilities, and exploitation activity for continuous learning.
 
 ---
 ## 📅 2026-02-05
+### 📰 Critical n8n Flaw CVE-2026-25049 Enables System Command Execution via Malicious Workflows
+**Category:** 🔴 Vulnerability
+**Time:** 06:35 UTC
+
+**Summary:**  
+A new, critical security vulnerability has been disclosed in the n8n workflow automation platform that, if successfully exploited, could result in the execution of arbitrary system commands. The flaw, tracked as CVE-2026-25049 (CVSS score: 9.4), is the result of inadequate sanitization that bypasses safeguards put in place to address CVE-2025-68613 (CVSS score: 9.9), another critical defect that
+
+🔗 [Read Full Article](https://thehackernews.com/2026/02/critical-n8n-flaw-cve-2026-25049.html)
+
+---
 ### 📰 Hackers Exploit React2Shell to Hijack Web Traffic via Compromised NGINX Servers
 **Category:** 🔴 Vulnerability
 **Time:** 05:39 UTC
