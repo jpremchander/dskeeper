@@ -5,6 +5,26 @@ vulnerabilities, and exploitation activity for continuous learning.
 
 ---
 ## 📅 2026-02-05
+### 📰 The Buyer’s Guide to AI Usage Control
+**Category:** 💡 Expert Insight
+**Time:** 11:44 UTC
+
+**Summary:**  
+Today’s “AI everywhere” reality is woven into everyday workflows across the enterprise, embedded in SaaS platforms, browsers, copilots, extensions, and a rapidly expanding universe of shadow tools that appear faster than security teams can track. Yet most organizations still rely on legacy controls that operate far away from where AI interactions actually occur. The result is a widening
+
+🔗 [Read Full Article](https://thehackernews.com/2026/02/the-buyers-guide-to-ai-usage-control.html)
+
+---
+### 📰 Infy Hackers Resume Operations with New C2 Servers After Iran Internet Blackout Ends
+**Category:** 📰 News
+**Time:** 11:44 UTC
+
+**Summary:**  
+The elusive Iranian threat group known as Infy (aka Prince of Persia) has evolved its tactics as part of efforts to hide its tracks, even as it readied new command-and-control (C2) infrastructure coinciding with the end of the widespread internet blackout the regime imposed at the start of the month. "The threat actor stopped maintaining its C2 servers on January 8 for the first time since we
+
+🔗 [Read Full Article](https://thehackernews.com/2026/02/infy-hackers-resume-operations-with-new.html)
+
+---
 ### 📰 Critical n8n Flaw CVE-2026-25049 Enables System Command Execution via Malicious Workflows
 **Category:** 🔴 Vulnerability
 **Time:** 06:35 UTC
