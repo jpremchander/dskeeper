@@ -4,6 +4,18 @@ This repository tracks real-world cybersecurity threats,
 vulnerabilities, and exploitation activity for continuous learning.
 
 ---
+## 📅 2026-02-05
+### 📰 Hackers Exploit React2Shell to Hijack Web Traffic via Compromised NGINX Servers
+**Category:** 🔴 Vulnerability
+**Time:** 05:39 UTC
+
+**Summary:**  
+Cybersecurity researchers have disclosed details of an active web traffic hijacking campaign that has targeted NGINX installations and management panels like Baota (BT) in an attempt to route it through the attacker's infrastructure. Datadog Security Labs said it observed threat actors associated with the recent React2Shell (CVE-2025-55182, CVSS score: 10.0) exploitation using malicious NGINX
+
+🔗 [Read Full Article](https://thehackernews.com/2026/02/hackers-exploit-react2shell-to-hijack.html)
+
+---
+
 ## 📅 2026-02-04
 ### 📰 Microsoft Develops Scanner to Detect Backdoors in Open-Weight Large Language Models
 **Category:** 📰 News
