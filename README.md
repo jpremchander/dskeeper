@@ -5,33 +5,33 @@ vulnerabilities, and exploitation activity for continuous learning.
 
 ---
 ## 📅 2026-02-06
-### 📰 CISA Orders Removal of Unsupported Edge Devices to Reduce Federal Network Risk
+### 📰 China-Linked DKnife AitM Framework Targets Routers for Traffic Hijacking, Malware Delivery
 **Category:** 📰 News
-**Time:** 14:47 UTC
+**Time:** 15:18 UTC
 
 **Summary:**  
-The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has ordered Federal Civilian Executive Branch (FCEB) agencies to strengthen asset lifecycle management for edge network devices and remove those that no longer receive security updates from original equipment manufacturers (OEMs) over the next 12 to 18 months. The agency said the move is to drive down technical debt and minimize
+Cybersecurity researchers have taken the wraps off a gateway-monitoring and adversary-in-the-middle (AitM) framework dubbed DKnife that's operated by China-nexus threat actors since at least 2019. The framework comprises seven Linux-based implants that are designed to perform deep packet inspection, manipulate traffic, and deliver malware via routers and edge devices. Its primary targets seem to
 
-🔗 [Read Full Article](https://thehackernews.com/2026/02/cisa-orders-removal-of-unsupported-edge.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/02/china-linked-dknife-aitm-framework.html)
 
 ---
-### 📰 Asian State-Backed Group TGR-STA-1030 Breaches 70 Government, Infrastructure Entities
+### 📰 How Samsung Knox Helps Stop Your Network Security Breach
 **Category:** 📰 News
-**Time:** 14:47 UTC
+**Time:** 15:18 UTC
 
 **Summary:**  
-A previously undocumented cyber espionage group operating from Asia broke into the networks of at least 70 government and critical infrastructure organizations across 37 countries over the past year, according to new findings from Palo Alto Networks Unit 42. In addition, the hacking crew has been observed conducting active reconnaissance against government infrastructure associated with 155
+As you know, enterprise network security has undergone significant evolution over the past decade. Firewalls have become more intelligent, threat detection methods have advanced, and access controls are now more detailed. However (and it&rsquo;s a big &ldquo;however&rdquo;), the increasing use of mobile devices in business operations necessitates network security measures that are specifically
 
-🔗 [Read Full Article](https://thehackernews.com/2026/02/asian-state-backed-group-tgr-sta-1030.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/02/how-samsung-knox-helps-stop-your-network-security-breach.html)
 
 ---
-### 📰 Compromised dYdX npm and PyPI Packages Deliver Wallet Stealers and RAT Malware
+### 📰 Claude Opus 4.6 Finds 500+ High-Severity Flaws Across Major Open-Source Libraries
 **Category:** 📰 News
-**Time:** 14:47 UTC
+**Time:** 15:18 UTC
 
 **Summary:**  
-Cybersecurity researchers have discovered a new supply chain attack in which legitimate packages on npm and the Python Package Index (PyPI) repository have been compromised to push malicious versions to facilitate wallet credential theft and remote code execution. The compromised versions of the two packages are listed below -  @dydxprotocol/v4-client-js (npm) - 3.4.1, 1.22.1, 1.15.2, 1.0.31&
+Artificial intelligence (AI) company Anthropic revealed that its latest large language model (LLM), Claude Opus 4.6, has found more than 500 previously unknown high-severity security flaws in open-source libraries, including Ghostscript, OpenSC, and CGIF. Claude Opus 4.6, which was launched Thursday, comes with improved coding skills, including code review and debugging capabilities, along with
 
-🔗 [Read Full Article](https://thehackernews.com/2026/02/compromised-dydx-npm-and-pypi-packages.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/02/claude-opus-46-finds-500-high-severity.html)
 
 ---
