@@ -5,13 +5,13 @@ vulnerabilities, and exploitation activity for continuous learning.
 
 ---
 ## 📅 2026-02-09
-### 📰 BeyondTrust Fixes Critical Pre-Auth RCE Vulnerability in Remote Support and PRA
+### 📰 TeamPCP Worm Exploits Cloud Infrastructure to Build Criminal Infrastructure
 **Category:** 🔴 Vulnerability
-**Time:** 08:32 UTC
+**Time:** 10:09 UTC
 
 **Summary:**  
-BeyondTrust has released updates to address a critical security flaw impacting Remote Support (RS) and Privileged Remote Access (PRA) products that, if successfully exploited, could result in remote code execution. "BeyondTrust Remote Support (RS) and certain older versions of Privileged Remote Access (PRA) contain a critical pre-authentication remote code execution vulnerability," the company
+Cybersecurity researchers have called attention to a "massive campaign" that has systematically targeted cloud native environments to set up malicious infrastructure for follow-on exploitation. The activity, observed around December 25, 2025, and described as "worm-driven," leveraged exposed Docker APIs, Kubernetes clusters, Ray dashboards, and Redis servers, along with the recently disclosed
 
-🔗 [Read Full Article](https://thehackernews.com/2026/02/beyondtrust-fixes-critical-pre-auth-rce.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/02/teampcp-worm-exploits-cloud.html)
 
 ---
