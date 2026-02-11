@@ -6,26 +6,26 @@ vulnerabilities, and exploitation activity for continuous learning.
 ---
 ## 📅 2026-02-11
 
-### 📰 Exposed Training Open the Door for Crypto-Mining in Fortune 500 Cloud Environments
-**Category:** 📰 News
-**Time:** 14:12 UTC
+### 📰 Microsoft Patches 59 Vulnerabilities Including Six Actively Exploited Zero-Days
+**Category:** 🔴 Vulnerability
+**Time:** 14:39 UTC
 
 **Summary:**  
-Intentionally vulnerable training applications are widely used for security education, internal testing, and product demonstrations. Tools such as OWASP Juice Shop, DVWA, Hackazon, and bWAPP are designed to be insecure by default, making them useful for learning how common attack techniques work in controlled environments. The issue is not the applications themselves, but how they are often
+Microsoft on Tuesday released security updates to address a set of 59 flaws across its software, including six vulnerabilities that it said have been exploited in the wild. Of the 59 flaws, five are rated Critical, 52 are rated Important, and two are rated Moderate in severity. Twenty-five of the patched vulnerabilities have been classified as privilege escalation, followed by remote code
 
-🔗 [Read Full Article](https://thehackernews.com/2026/02/exposed-training-open-door-for-crypto.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/02/microsoft-patches-59-vulnerabilities.html)
 
 
 ---
 
-### 📰 North Korea-Linked UNC1069 Uses AI Lures to Attack Cryptocurrency Organizations
-**Category:** 📰 News
-**Time:** 14:12 UTC
+### 📰 SSHStalker Botnet Uses IRC C2 to Control Linux Systems via Legacy Kernel Exploits
+**Category:** 🔴 Vulnerability
+**Time:** 14:39 UTC
 
 **Summary:**  
-The North Korea-linked threat actor known as UNC1069 has been observed targeting the cryptocurrency sector to steal sensitive data from Windows and macOS systems with the ultimate goal of facilitating financial theft. "The intrusion relied on a social engineering scheme involving a compromised Telegram account, a fake Zoom meeting, a ClickFix infection vector, and reported usage of AI-generated
+Cybersecurity researchers have disclosed details of a new botnet operation called SSHStalker that relies on the Internet Relay Chat (IRC) communication protocol for command-and-control (C2) purposes. "The toolset blends stealth helpers with legacy-era Linux exploitation: Alongside log cleaners (utmp/wtmp/lastlog tampering) and rootkit-class artifacts, the actor keeps a large back-catalog of
 
-🔗 [Read Full Article](https://thehackernews.com/2026/02/north-korea-linked-unc1069-uses-ai.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/02/sshstalker-botnet-uses-irc-c2-to.html)
 
 
 ---
