@@ -5,7 +5,10 @@ import re
 import requests
 import json
 
-FEED_URL = "https://feeds.feedburner.com/TheHackersNews"
+FEED_URLS = [
+    "https://thehackernews.com/feeds/posts/default",
+    "https://feeds2.feedburner.com/TheHackersNews"
+]
 README_FILE = "README.md"
 ARCHIVE_DIR = "archive"
 
@@ -44,9 +47,44 @@ def cvss_severity(score):
         return "Medium"
     return "Low"
 
+def get_entry_image(entry):
+    """Extract image URL from feed entry"""
+    # Try media:content first
+    if hasattr(entry, 'media_content') and entry.media_content:
+        for media in entry.media_content:
+            if 'url' in media:
+                return media['url']
+    
+    # Try media:thumbnail
+    if hasattr(entry, 'media_thumbnail') and entry.media_thumbnail:
+        for thumbnail in entry.media_thumbnail:
+            if 'url' in thumbnail:
+                return thumbnail['url']
+    
+    # Try to extract from summary HTML
+    if hasattr(entry, 'summary') and entry.summary:
+        img_match = re.search(r'<img[^>]+src=["\']([^"\']+)["\']', entry.summary)
+        if img_match:
+            return img_match.group(1)
+    
+    # Try image field
+    if hasattr(entry, 'image') and entry.image:
+        return entry.image.get('href') or entry.image
+    
+    return None
+
 def fetch_news():
-    feed = feedparser.parse(FEED_URL)
-    if not feed.entries:
+    # Try each feed URL in order until one works
+    feed = None
+    for url in FEED_URLS:
+        print(f"Trying feed URL: {url}")
+        feed = feedparser.parse(url)
+        if feed.entries:
+            print(f"Successfully fetched feed from {url}")
+            break
+    
+    if not feed or not feed.entries:
+        print("No entries found from any feed source")
         return []
 
     news_items = []
@@ -75,13 +113,16 @@ def fetch_news():
             if not categories:
                 categories.append("📰 News")
             
+            image_url = get_entry_image(entry)
+            
             news_items.append({
                 "title": entry.title.strip(),
                 "summary": entry.summary.replace("\n", " ").strip(),
                 "link": entry.link,
                 "cves": cve_matches if cve_matches else [],
                 "categories": categories,
-                "published": entry_date
+                "published": entry_date,
+                "image": image_url
             })
     
     return news_items
@@ -153,7 +194,7 @@ vulnerabilities, and exploitation activity for continuous learning.
 ---
 """
 
-    daily_section = f"## 📅 {date_str}\n"
+    daily_section = f"## 📅 {date_str}\n\n"
     
     entries = ""
     for news in new_items:
@@ -172,7 +213,8 @@ vulnerabilities, and exploitation activity for continuous learning.
                 "kev": kev_status
             })
         
-        entry = f"""### 📰 {news['title']}
+        # Build content
+        content = f"""### 📰 {news['title']}
 **Category:** {', '.join(news['categories'])}
 **Time:** {time_str}
 
@@ -180,8 +222,20 @@ vulnerabilities, and exploitation activity for continuous learning.
 {news['summary']}
 
 🔗 [Read Full Article]({news['link']})
+"""
+        
+        # Create table entry with image on left (250px medium size)
+        if news["image"]:
+            entry = f"""<table><tr><td width="250"><img src="{news['image']}" width="250" alt="Article"></td><td>{content}
+
+---</td></tr></table>
+
+"""
+        else:
+            entry = f"""{content}
 
 ---
+
 """
         entries += entry
 
