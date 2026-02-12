@@ -6,26 +6,14 @@ vulnerabilities, and exploitation activity for continuous learning.
 ---
 ## 📅 2026-02-12
 
-### 📰 The CTEM Divide: Why 84% of Security Programs Are Falling Behind
-**Category:** 📰 News
-**Time:** 11:20 UTC
-
-**Summary:**  
-A new 2026 market intelligence study of 128 enterprise security decision-makers (available here) reveals a stark divide forming between organizations – one that has nothing to do with budget size or industry and everything to do with a single framework decision. Organizations implementing Continuous Threat Exposure Management (CTEM) demonstrate 50% better attack surface visibility, 23-point
-
-🔗 [Read Full Article](https://thehackernews.com/2026/02/the-ctem-divide-why-84-of-security.html)
-
-
----
-
-### 📰 83% of Ivanti EPMM Exploits Linked to Single IP on Bulletproof Hosting Infrastructure
+### 📰 Apple Fixes Exploited Zero-Day Affecting iOS, macOS, and Apple Devices
 **Category:** 🔴 Vulnerability
-**Time:** 11:20 UTC
+**Time:** 11:46 UTC
 
 **Summary:**  
-A significant chunk of the exploitation attempts targeting a newly disclosed security flaw in Ivanti Endpoint Manager Mobile (EPMM) can be traced back to a single IP address on bulletproof hosting infrastructure offered by PROSPERO. Threat intelligence firm GreyNoise said it recorded 417 exploitation sessions from 8 unique source IP addresses between February 1 and 9, 2026. An estimated 346
+Apple on Wednesday released iOS, iPadOS, macOS Tahoe, tvOS, watchOS, and visionOS updates to address a zero-day flaw that it said has been exploited in sophisticated cyber attacks. The vulnerability, tracked as CVE-2026-20700 (CVSS score: N/A), has been described as a memory corruption issue in dyld, Apple's Dynamic Link Editor. Successful exploitation of the vulnerability could allow an
 
-🔗 [Read Full Article](https://thehackernews.com/2026/02/83-of-ivanti-epmm-exploits-linked-to.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/02/apple-fixes-exploited-zero-day.html)
 
 
 ---
