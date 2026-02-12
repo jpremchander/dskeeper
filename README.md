@@ -6,38 +6,38 @@ vulnerabilities, and exploitation activity for continuous learning.
 ---
 ## 📅 2026-02-12
 
-### 📰 Google Reports State-Backed Hackers Using Gemini AI for Recon and Attack Support
-**Category:** 📰 News
-**Time:** 18:05 UTC
-
-**Summary:**  
-Google on Thursday said it observed the North Korea-linked threat actor known as UNC2970 using its generative artificial intelligence (AI) model Gemini to conduct reconnaissance on its targets, as various hacking groups continue to weaponize the tool for accelerating various phases of the cyber attack life cycle, enabling information operations, and even conducting model extraction attacks. "The
-
-🔗 [Read Full Article](https://thehackernews.com/2026/02/google-reports-state-backed-hackers.html)
-
-
----
-
-### 📰 Lazarus Campaign Plants Malicious Packages in npm and PyPI Ecosystems
-**Category:** 📰 News
-**Time:** 18:05 UTC
-
-**Summary:**  
-Cybersecurity researchers have discovered a fresh set of malicious packages across npm and the Python Package Index (PyPI) repository linked to a fake recruitment-themed campaign orchestrated by the North Korea-linked Lazarus Group. The coordinated campaign has been codenamed graphalgo in reference to the first package published in the npm registry. It's assessed to be active since May 2025. "
-
-🔗 [Read Full Article](https://thehackernews.com/2026/02/lazarus-campaign-plants-malicious.html)
-
-
----
-
-### 📰 Apple Fixes Exploited Zero-Day Affecting iOS, macOS, and Other Devices
+### 📰 ThreatsDay Bulletin: AI Prompt RCE, Claude 0-Click, RenEngine Loader, Auto 0-Days & 25+ Stories
 **Category:** 🔴 Vulnerability
-**Time:** 18:05 UTC
+**Time:** 18:35 UTC
 
 **Summary:**  
-Apple on Wednesday released iOS, iPadOS, macOS Tahoe, tvOS, watchOS, and visionOS updates to address a zero-day flaw that it said has been exploited in sophisticated cyber attacks. The vulnerability, tracked as CVE-2026-20700 (CVSS score: N/A), has been described as a memory corruption issue in dyld, Apple's Dynamic Link Editor. Successful exploitation of the vulnerability could allow an
+Threat activity this week shows one consistent signal — attackers are leaning harder on what already works. Instead of flashy new exploits, many operations are built around quiet misuse of trusted tools, familiar workflows, and overlooked exposures that sit in plain sight. Another shift is how access is gained versus how it’s used. Initial entry points are getting simpler, while post-compromise
 
-🔗 [Read Full Article](https://thehackernews.com/2026/02/apple-fixes-exploited-zero-day.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/02/threatsday-bulletin-ai-prompt-rce.html)
+
+
+---
+
+### 📰 The CTEM Divide: Why 84% of Security Programs Are Falling Behind
+**Category:** 📰 News
+**Time:** 18:35 UTC
+
+**Summary:**  
+A new 2026 market intelligence study of 128 enterprise security decision-makers (available here) reveals a stark divide forming between organizations – one that has nothing to do with budget size or industry and everything to do with a single framework decision. Organizations implementing Continuous Threat Exposure Management (CTEM) demonstrate 50% better attack surface visibility, 23-point
+
+🔗 [Read Full Article](https://thehackernews.com/2026/02/the-ctem-divide-why-84-of-security.html)
+
+
+---
+
+### 📰 83% of Ivanti EPMM Exploits Linked to Single IP on Bulletproof Hosting Infrastructure
+**Category:** 🔴 Vulnerability
+**Time:** 18:35 UTC
+
+**Summary:**  
+A significant chunk of the exploitation attempts targeting a newly disclosed security flaw in Ivanti Endpoint Manager Mobile (EPMM) can be traced back to a single IP address on bulletproof hosting infrastructure offered by PROSPERO. Threat intelligence firm GreyNoise said it recorded 417 exploitation sessions from 8 unique source IP addresses between February 1 and 9, 2026. An estimated 346
+
+🔗 [Read Full Article](https://thehackernews.com/2026/02/83-of-ivanti-epmm-exploits-linked-to.html)
 
 
 ---
