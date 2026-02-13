@@ -6,26 +6,14 @@ vulnerabilities, and exploitation activity for continuous learning.
 ---
 ## 📅 2026-02-13
 
-### 📰 Malicious Chrome Extensions Caught Stealing Business Data, Emails, and Browsing History
+### 📰 npm’s Update to Harden Their Supply Chain, and Points to Consider
 **Category:** 📰 News
-**Time:** 12:15 UTC
+**Time:** 12:48 UTC
 
 **Summary:**  
-Cybersecurity researchers have discovered a malicious Google Chrome extension that's designed to steal data associated with Meta Business Suite and Facebook Business Manager. The extension, named CL Suite by @CLMasters (ID: jkphinfhmfkckkcnifhjiplhfoiefffl), is marketed as a way to scrape Meta Business Suite data, remove verification pop-ups, and generate two-factor authentication (2FA) codes.
+In December 2025, in response to the Sha1-Hulud incident, npm completed a major authentication overhaul intended to reduce supply-chain attacks. While the overhaul is a solid step forward, the changes don’t make npm projects immune from supply-chain attacks. npm is still susceptible to malware attacks – here’s what you need to know for a safer Node community. Let’s start with the original
 
-🔗 [Read Full Article](https://thehackernews.com/2026/02/malicious-chrome-extensions-caught.html)
-
-
----
-
-### 📰 Researchers Observe In-the-Wild Exploitation of BeyondTrust CVSS 9.9 Vulnerability
-**Category:** 🔴 Vulnerability
-**Time:** 12:15 UTC
-
-**Summary:**  
-Threat actors have started to exploit a recently disclosed critical security flaw impacting BeyondTrust Remote Support (RS) and Privileged Remote Access (PRA) products, according to watchTowr. "Overnight we observed first in-the-wild exploitation of BeyondTrust across our global sensors," Ryan Dewhurst, head of threat intelligence at watchTowr, said in a post on X. "Attackers are abusing
-
-🔗 [Read Full Article](https://thehackernews.com/2026/02/researchers-observe-in-wild.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/02/npms-update-to-harden-their-supply.html)
 
 
 ---
