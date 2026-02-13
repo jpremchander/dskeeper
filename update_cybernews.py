@@ -7,7 +7,8 @@ import json
 
 FEED_URLS = [
     "https://thehackernews.com/feeds/posts/default",
-    "https://feeds2.feedburner.com/TheHackersNews"
+    "https://feeds2.feedburner.com/TheHackersNews",
+    "https://thecyberexpress.com/threat-intelligence-news/"
 ]
 README_FILE = "README.md"
 ARCHIVE_DIR = "archive"
