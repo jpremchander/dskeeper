@@ -240,7 +240,7 @@ vulnerabilities, and exploitation activity for continuous learning.
 """
         entries += entry
 
-    # Always keep only today's data - start fresh with today's section
+    # Always keep only today's data - start fresh with today's section data and timestamps
     content = header + daily_section + entries
     write_readme(content)
     
