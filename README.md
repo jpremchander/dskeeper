@@ -6,38 +6,38 @@ vulnerabilities, and exploitation activity for continuous learning.
 ---
 ## 📅 2026-02-13
 
-### 📰 UAT-9921 Deploys VoidLink Malware to Target Technology and Financial Sectors
+### 📰 Google Ties Suspected Russian Actor to CANFAIL Malware Attacks on Ukrainian Orgs
 **Category:** 📰 News
-**Time:** 20:31 UTC
+**Time:** 20:59 UTC
 
 **Summary:**  
-A previously unknown threat actor tracked as UAT-9921 has been observed leveraging a new modular framework called VoidLink in its campaigns targeting the technology and financial services sectors, according to findings from Cisco Talos. "This threat actor seems to have been active since 2019, although they have not necessarily used VoidLink over the duration of their activity," researchers Nick
+A previously undocumented threat actor has been attributed to attacks targeting Ukrainian organizations with malware known as CANFAIL. Google Threat Intelligence Group (GTIG) described the hack group as possibly affiliated with Russian intelligence services. The threat actor is assessed to have targeted defense, military, government, and energy organizations within the Ukrainian regional and
 
-🔗 [Read Full Article](https://thehackernews.com/2026/02/uat-9921-deploys-voidlink-malware-to.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/02/google-ties-suspected-russian-actor-to.html)
 
 
 ---
 
-### 📰 Malicious Chrome Extensions Caught Stealing Business Data, Emails, and Browsing History
+### 📰 Google Links China, Iran, Russia, North Korea to Coordinated Defense Sector Cyber Operations
 **Category:** 📰 News
-**Time:** 20:31 UTC
+**Time:** 20:59 UTC
 
 **Summary:**  
-Cybersecurity researchers have discovered a malicious Google Chrome extension that's designed to steal data associated with Meta Business Suite and Facebook Business Manager. The extension, named CL Suite by @CLMasters (ID: jkphinfhmfkckkcnifhjiplhfoiefffl), is marketed as a way to scrape Meta Business Suite data, remove verification pop-ups, and generate two-factor authentication (2FA) codes.
+Several state-sponsored actors, hacktivist entities, and criminal groups from China, Iran, North Korea, and Russia have trained their sights on the defense industrial base (DIB) sector, according to findings from Google Threat Intelligence Group (GTIG). The tech giant's threat intelligence division said the adversarial targeting of the sector is centered around four key themes: striking defense
 
-🔗 [Read Full Article](https://thehackernews.com/2026/02/malicious-chrome-extensions-caught.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/02/google-links-china-iran-russia-north.html)
 
 
 ---
 
-### 📰 Researchers Observe In-the-Wild Exploitation of BeyondTrust CVSS 9.9 Vulnerability
-**Category:** 🔴 Vulnerability
-**Time:** 20:31 UTC
+### 📰 npm’s Update to Harden Their Supply Chain, and Points to Consider
+**Category:** 📰 News
+**Time:** 20:59 UTC
 
 **Summary:**  
-Threat actors have started to exploit a recently disclosed critical security flaw impacting BeyondTrust Remote Support (RS) and Privileged Remote Access (PRA) products, according to watchTowr. "Overnight we observed first in-the-wild exploitation of BeyondTrust across our global sensors," Ryan Dewhurst, head of threat intelligence at watchTowr, said in a post on X. "Attackers are abusing
+In December 2025, in response to the Sha1-Hulud incident, npm completed a major authentication overhaul intended to reduce supply-chain attacks. While the overhaul is a solid step forward, the changes don’t make npm projects immune from supply-chain attacks. npm is still susceptible to malware attacks – here’s what you need to know for a safer Node community. Let’s start with the original
 
-🔗 [Read Full Article](https://thehackernews.com/2026/02/researchers-observe-in-wild.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/02/npms-update-to-harden-their-supply.html)
 
 
 ---
