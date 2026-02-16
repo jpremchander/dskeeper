@@ -6,26 +6,26 @@ vulnerabilities, and exploitation activity for continuous learning.
 ---
 ## 📅 2026-02-16
 
-### 📰 Weekly Recap: Outlook Add-Ins Hijack, 0-Day Patches, Wormable Botnet & AI Malware
-**Category:** 🔴 Vulnerability
-**Time:** 14:31 UTC
+### 📰 Safe and Inclusive E‑Society: How Lithuania Is Bracing for AI‑Driven Cyber Fraud
+**Category:** 📅 Webinar/Event
+**Time:** 15:02 UTC
 
 **Summary:**  
-This week’s recap shows how small gaps are turning into big entry points. Not always through new exploits, often through tools, add-ons, cloud setups, or workflows that people already trust and rarely question. Another signal: attackers are mixing old and new methods. Legacy botnet tactics, modern cloud abuse, AI assistance, and supply-chain exposure are being used side by side, whichever path
+Presentation of the KTU Consortium Mission ‘A Safe and Inclusive Digital Society’ at the Innovation Agency event ‘Innovation Breakfast: How Mission-Oriented Science and Innovation Programmes Will Address Societal Challenges’.  Technologies are evolving fast, reshaping economies, governance, and daily life. Yet, as innovation accelerates, so do digital risks. Technological change is no longer
 
-🔗 [Read Full Article](https://thehackernews.com/2026/02/weekly-recap-outlook-add-ins-hijack-0.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/02/safe-and-inclusive-esociety-how.html)
 
 
 ---
 
-### 📰 New ZeroDayRAT Mobile Spyware Enables Real-Time Surveillance and Data Theft
-**Category:** 📰 News
-**Time:** 14:31 UTC
+### 📰 New Chrome Zero-Day (CVE-2026-2441) Under Active Attack — Patch Released
+**Category:** 🔴 Vulnerability
+**Time:** 15:02 UTC
 
 **Summary:**  
-Cybersecurity researchers have disclosed details of a new mobile spyware platform dubbed ZeroDayRAT that's being advertised on Telegram as a way to grab sensitive data and facilitate real-time surveillance on Android and iOS devices. "The developer runs dedicated channels for sales, customer support, and regular updates, giving buyers a single point of access to a fully operational spyware
+Google on Friday released security updates for its Chrome browser to address a security flaw that it said has been exploited in the wild. The high-severity vulnerability, tracked as CVE-2026-2441 (CVSS score: 8.8), has been described as a use-after-free bug in CSS. Security researcher Shaheen Fazim has been credited with discovering and reporting the shortcoming on February 11, 2026. "Use after
 
-🔗 [Read Full Article](https://thehackernews.com/2026/02/new-zerodayrat-mobile-spyware-enables.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/02/new-chrome-zero-day-cve-2026-2441-under.html)
 
 
 ---
