@@ -6,14 +6,14 @@ vulnerabilities, and exploitation activity for continuous learning.
 ---
 ## 📅 2026-02-17
 
-### 📰 Apple Tests End-to-End Encrypted RCS Messaging in iOS 26.4 Developer Beta
+### 📰 Microsoft Finds “Summarize with AI” Prompts Manipulating Chatbot Recommendations
 **Category:** 📰 News
-**Time:** 11:46 UTC
+**Time:** 12:18 UTC
 
 **Summary:**  
-Apple on Monday released a new developer beta of iOS and iPadOS with support for end-to-end encryption (E2EE) in Rich Communications Services (RCS) messages. The feature is currently available for testing in iOS and iPadOS 26.4 Beta, and is expected to be shipped to customers in a future update for iOS, iPadOS, macOS, and watchOS. "End-to-end encryption is in beta and is not available for all
+New research from Microsoft has revealed that legitimate businesses are gaming artificial intelligence (AI) chatbots via the "Summarize with AI" button that's being increasingly placed on websites in ways that mirror classic search engine poisoning (AI). The new AI hijacking technique has been codenamed AI Recommendation Poisoning by the Microsoft Defender Security Research Team. The tech giant
 
-🔗 [Read Full Article](https://thehackernews.com/2026/02/apple-tests-end-to-end-encrypted-rcs.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/02/microsoft-finds-summarize-with-ai.html)
 
 
 ---
