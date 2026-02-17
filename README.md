@@ -6,50 +6,26 @@ vulnerabilities, and exploitation activity for continuous learning.
 ---
 ## 📅 2026-02-17
 
-### 📰 SmartLoader Attack Uses Trojanized Oura MCP Server to Deploy StealC Infostealer
+### 📰 Keenadu Firmware Backdoor Infects Android Tablets via Signed OTA Updates
 **Category:** 📰 News
-**Time:** 17:08 UTC
+**Time:** 17:37 UTC
 
 **Summary:**  
-Cybersecurity researchers have disclosed details of a new SmartLoader campaign that involves distributing a trojanized version of a Model Context Protocol (MCP) server associated with Oura Health to deliver an information stealer known as StealC. "The threat actors cloned a legitimate Oura MCP Server – a tool that connects AI assistants to Oura Ring health data – and built a deceptive
+A new Android backdoor that's embedded deep into the device firmware can silently harvest data and remotely control its behavior, according to new findings from Kaspersky. The Russian cybersecurity vendor said it discovered the backdoor, dubbed Keenadu, in the firmware of devices associated with various brands, including Alldocube, with the compromise occurring during the firmware build phase.
 
-🔗 [Read Full Article](https://thehackernews.com/2026/02/smartloader-attack-uses-trojanized-oura.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/02/keenadu-firmware-backdoor-infects.html)
 
 
 ---
 
-### 📰 Webinar: How Modern SOC Teams Use AI and Context to Investigate Cloud Breaches Faster
-**Category:** 📅 Webinar/Event, 💡 Expert Insight
-**Time:** 17:08 UTC
-
-**Summary:**  
-Cloud attacks move fast — faster than most incident response teams. In data centers, investigations had time. Teams could collect disk images, review logs, and build timelines over days. In the cloud, infrastructure is short-lived. A compromised instance can disappear in minutes. Identities rotate. Logs expire. Evidence can vanish before analysis even begins. Cloud forensics is fundamentally
-
-🔗 [Read Full Article](https://thehackernews.com/2026/02/cloud-forensics-webinar-learn-how-ai.html)
-
-
----
-
-### 📰 My Day Getting My Hands Dirty with an NDR System
+### 📰 Microsoft Finds “Summarize with AI” Prompts Manipulating Chatbot Recommendations
 **Category:** 📰 News
-**Time:** 17:08 UTC
+**Time:** 17:37 UTC
 
 **Summary:**  
-My objectiveThe role of NDR in SOC workflowsStarting up the NDR systemHow AI complements the human responseWhat else did I try out?What could I see with NDR that I wouldn’t otherwise?Am I ready to be a network security analyst now?       My objective As someone relatively inexperienced with network threat hunting, I wanted to get some hands-on experience using a network detection and response (
+New research from Microsoft has revealed that legitimate businesses are gaming artificial intelligence (AI) chatbots via the "Summarize with AI" button that's being increasingly placed on websites in ways that mirror classic search engine poisoning (SEO). The new AI hijacking technique has been codenamed AI Recommendation Poisoning by the Microsoft Defender Security Research Team. The tech giant
 
-🔗 [Read Full Article](https://thehackernews.com/2026/02/my-day-getting-my-hands-dirty-with-ndr.html)
-
-
----
-
-### 📰 Apple Tests End-to-End Encrypted RCS Messaging in iOS 26.4 Developer Beta
-**Category:** 📰 News
-**Time:** 17:08 UTC
-
-**Summary:**  
-Apple on Monday released a new developer beta of iOS and iPadOS with support for end-to-end encryption (E2EE) in Rich Communications Services (RCS) messages. The feature is currently available for testing in iOS and iPadOS 26.4 Beta, and is expected to be shipped to customers in a future update for iOS, iPadOS, macOS, and watchOS. "End-to-end encryption is in beta and is not available for all
-
-🔗 [Read Full Article](https://thehackernews.com/2026/02/apple-tests-end-to-end-encrypted-rcs.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/02/microsoft-finds-summarize-with-ai.html)
 
 
 ---
