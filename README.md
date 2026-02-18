@@ -6,38 +6,38 @@ vulnerabilities, and exploitation activity for continuous learning.
 ---
 ## 📅 2026-02-18
 
-### 📰 Dell RecoverPoint for VMs Zero-Day CVE-2026-22769 Exploited Since Mid-2024
+### 📰 Critical Flaws Found in Four VS Code Extensions with Over 125 Million Installs
 **Category:** 🔴 Vulnerability
-**Time:** 15:03 UTC
+**Time:** 15:34 UTC
 
 **Summary:**  
-A maximum severity security vulnerability in Dell RecoverPoint for Virtual Machines has been exploited as a zero-day by a suspected China-nexus threat cluster dubbed UNC6201 since mid-2024, according to a new report from Google Mandiant and Google Threat Intelligence Group (GTIG). The activity involves the exploitation of CVE-2026-22769 (CVSS score: 10.0), a case of hard-coded credentials
+Cybersecurity researchers have disclosed multiple security vulnerabilities in four popular Microsoft Visual Studio Code (VS Code) extensions that, if successfully exploited, could allow threat actors to steal local files and execute code remotely. The extensions, which have been collectively installed more than 125 million times, are Live Server, Code Runner, Markdown Preview Enhanced, and
 
-🔗 [Read Full Article](https://thehackernews.com/2026/02/dell-recoverpoint-for-vms-zero-day-cve.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/02/critical-flaws-found-in-four-vs-code.html)
 
 
 ---
 
-### 📰 3 Ways to Start Your Intelligent Workflow Program
+### 📰 Cybersecurity Tech Predictions for 2026: Operating in a World of Permanent Instability
 **Category:** 📰 News
-**Time:** 15:03 UTC
+**Time:** 15:34 UTC
 
 **Summary:**  
-Security, IT, and engineering teams today are under relentless pressure to accelerate outcomes, cut operational drag, and unlock the full potential of AI and automation. But simply investing in tools isn’t enough. 88% of AI proofs-of-concept never make it to production, even though 70% of workers cite freeing time for high-value work as the primary AI automation motivation. Real impact comes
+In 2025, navigating the digital seas still felt like a matter of direction. Organizations charted routes, watched the horizon, and adjusted course to reach safe harbors of resilience, trust, and compliance. In 2026, the seas are no longer calm between storms. Cybersecurity now unfolds in a state of&nbsp;continuous atmospheric instability: AI-driven threats that adapt in real time, expanding
 
-🔗 [Read Full Article](https://thehackernews.com/2026/02/3-ways-to-start-your-intelligent.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/02/cybersecurity-tech-predictions-for-2026.html)
 
 
 ---
 
-### 📰 Notepad++ Fixes Hijacked Update Mechanism Used to Deliver Targeted Malware
+### 📰 CISA Flags Four Security Flaws Under Active Exploitation in Latest KEV Update
 **Category:** 🔴 Vulnerability
-**Time:** 15:03 UTC
+**Time:** 15:34 UTC
 
 **Summary:**  
-Notepad++ has released a security fix to plug gaps that were exploited by an advanced threat actor from China to hijack the software update mechanism to selectively deliver malware to targets of interest. The version 8.9.2 update incorporates what maintainer Don Ho calls a "double lock" design that aims to make the update process "robust and effectively unexploitable." This includes verification
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added four security flaws to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation in the wild. The list of vulnerabilities is as follows -  CVE-2026-2441 (CVSS score: 8.8) - A use-after-free vulnerability in Google Chrome that could allow a remote attacker to potentially exploit heap
 
-🔗 [Read Full Article](https://thehackernews.com/2026/02/notepad-fixes-hijacked-update-mechanism.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/02/cisa-flags-four-security-flaws-under.html)
 
 
 ---
