@@ -6,26 +6,26 @@ vulnerabilities, and exploitation activity for continuous learning.
 ---
 ## 📅 2026-02-19
 
-### 📰 ThreatsDay Bulletin: OpenSSL RCE, Foxit 0-Days, Copilot Leak, AI Password Flaws & 20+ Stories
-**Category:** 📰 News
-**Time:** 16:03 UTC
+### 📰 From Exposure to Exploitation: How AI Collapses Your Response Window
+**Category:** 🔴 Vulnerability, 📅 Webinar/Event
+**Time:** 16:33 UTC
 
 **Summary:**  
-The cyber threat space doesn’t pause, and this week makes that clear. New risks, new tactics, and new security gaps are showing up across platforms, tools, and industries — often all at the same time. Some developments are headline-level. Others sit in the background but carry long-term impact. Together, they shape how defenders need to think about exposure, response, and preparedness right now
+We’ve all seen this before: a developer deploys a new cloud workload and grants overly broad permissions just to keep the sprint moving. An engineer generates a "temporary" API key for testing and forgets to revoke it. In the past, these were minor operational risks, debts you’d eventually pay down during a slower cycle. In 2026, “Eventually” is Now But today, within minutes, AI-powered
 
-🔗 [Read Full Article](https://thehackernews.com/2026/02/threatsday-bulletin-openssl-rce-foxit-0.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/02/from-exposure-to-exploitation-how-ai.html)
 
 
 ---
 
-### 📰 Fake IPTV Apps Spread Massiv Android Malware Targeting Mobile Banking Users
+### 📰 CRESCENTHARVEST Campaign Targets Iran Protest Supporters With RAT Malware
 **Category:** 📰 News
-**Time:** 16:03 UTC
+**Time:** 16:33 UTC
 
 **Summary:**  
-Cybersecurity researchers have disclosed details of a new Android trojan called Massiv that's designed to facilitate device takeover (DTO) attacks for financial theft. The malware, according to ThreatFabric, masquerades as seemingly harmless IPTV apps to deceive victims, indicating that the activity is primarily singling out users looking for the online TV applications. "This new threat, while
+Cybersecurity researchers have disclosed details of a new campaign dubbed CRESCENTHARVEST, likely targeting supporters of Iran's ongoing protests to conduct information theft and long-term espionage. The Acronis Threat Research Unit (TRU) said it observed the activity after January 9, with the attacks designed to deliver a malicious payload that serves as a remote access trojan (RAT) and
 
-🔗 [Read Full Article](https://thehackernews.com/2026/02/fake-iptv-apps-spread-massiv-android.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/02/crescentharvest-campaign-targets-iran.html)
 
 
 ---
