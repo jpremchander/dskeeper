@@ -6,14 +6,14 @@ vulnerabilities, and exploitation activity for continuous learning.
 ---
 ## 📅 2026-02-20
 
-### 📰 FBI Reports 1,900 ATM Jackpotting Incidents Since 2020, $20M Lost in 2025
+### 📰 Former Google Engineers Indicted Over Trade Secret Transfers to Iran
 **Category:** 📰 News
-**Time:** 10:15 UTC
+**Time:** 10:33 UTC
 
 **Summary:**  
-The U.S. Federal Bureau of Investigation (FBI) has warned of an increase in ATM jackpotting incidents across the country, leading to losses of more than $20 million in 2025. The agency said 1,900 ATM jackpotting incidents have been reported since 2020, out of which 700 took place last year. In December 2025, the U.S. Department of Justice (DoJ) said about $40.73 million has been collectively
+Two former Google engineers and one of their husbands have been indicted in the U.S. for allegedly committing trade secret theft from the search giant and other tech firms and transferring the information to unauthorized locations, including Iran. Samaneh Ghandali, 41, and her husband Mohammadjavad Khosravi (aka Mohammad Khosravi), 40, along with her sister Soroor Ghandali, 32, have been accused
 
-🔗 [Read Full Article](https://thehackernews.com/2026/02/fbi-reports-1900-atm-jackpotting.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/02/three-former-google-engineers-indicted.html)
 
 
 ---
