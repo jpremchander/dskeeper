@@ -6,14 +6,26 @@ vulnerabilities, and exploitation activity for continuous learning.
 ---
 ## 📅 2026-02-21
 
-### 📰 EC-Council Expands AI Certification Portfolio to Strengthen U.S. AI Workforce Readiness and Security
-**Category:** 📰 News
-**Time:** 11:38 UTC
+### 📰 Anthropic Launches Claude Code Security for AI-Powered Vulnerability Scanning
+**Category:** 🔴 Vulnerability
+**Time:** 11:50 UTC
 
 **Summary:**  
-With $5.5 trillion in global AI risk exposure and 700,000 U.S. workers needing reskilling, four new AI certifications and Certified CISO v4 help close the gap between AI adoption and workforce readiness. EC-Council, creator of the world-renowned Certified Ethical Hacker (CEH) credential and a global leader in applied cybersecurity education, today launched its Enterprise AI Credential Suite,
+Artificial intelligence (AI) company Anthropic has begun to roll out a new security feature for Claude Code that can scan a user's software codebase for vulnerabilities and suggest patches. The capability, called Claude Code Security, is currently available in a limited research preview to Enterprise and Team customers. "It scans codebases for security vulnerabilities and suggests targeted
 
-🔗 [Read Full Article](https://thehackernews.com/2026/02/ec-council-expands-ai-certification.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/02/anthropic-launches-claude-code-security.html)
+
+
+---
+
+### 📰 CISA Adds Two Actively Exploited Roundcube Flaws to KEV Catalog
+**Category:** 🔴 Vulnerability
+**Time:** 11:50 UTC
+
+**Summary:**  
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two security flaws impacting Roundcube webmail software to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The vulnerabilities in question are listed below -  CVE-2025-49113 (CVSS score: 9.9) - A deserialization of untrusted data vulnerability that allows remote code
+
+🔗 [Read Full Article](https://thehackernews.com/2026/02/cisa-adds-two-actively-exploited.html)
 
 
 ---
