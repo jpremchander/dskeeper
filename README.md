@@ -6,14 +6,14 @@ vulnerabilities, and exploitation activity for continuous learning.
 ---
 ## 📅 2026-02-23
 
-### 📰 MuddyWater Targets MENA Organizations with GhostFetch, CHAR, and HTTP_VIP
+### 📰 Malicious npm Packages Harvest Crypto Keys, CI Secrets, and API Tokens
 **Category:** 📰 News
-**Time:** 11:50 UTC
+**Time:** 12:18 UTC
 
 **Summary:**  
-The Iranian hacking group known as MuddyWater (aka Earth Vetala, Mango Sandstorm, and MUDDYCOAST) has targeted several organizations and individuals mainly located across the Middle East and North Africa (MENA) region as part of a new campaign codenamed Operation Olalampo. The activity, first observed on January 26, 2026, has resulted in the deployment of new malware families that share
+Cybersecurity researchers have disclosed what they say is an active "Shai-Hulud-like" supply chain worm campaign that has leveraged a cluster of at least 19 malicious npm packages to enable credential harvesting and cryptocurrency key theft. The campaign has been codenamed SANDWORM_MODE by supply chain security company Socket. As with prior Shai-Hulud attack waves, the malicious code embedded
 
-🔗 [Read Full Article](https://thehackernews.com/2026/02/muddywater-targets-mena-organizations.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/02/malicious-npm-packages-harvest-crypto.html)
 
 
 ---
