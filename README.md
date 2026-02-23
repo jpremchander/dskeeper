@@ -6,26 +6,50 @@ vulnerabilities, and exploitation activity for continuous learning.
 ---
 ## 📅 2026-02-23
 
-### 📰 ⚡ Weekly Recap: Double-Tap Skimmers, PromptSpy AI, 30Tbps DDoS, Docker Malware & More
-**Category:** 📰 News
-**Time:** 23:15 UTC
+### 📰 APT28 Targeted European Entities Using Webhook-Based Macro Malware
+**Category:** 🔴 Vulnerability
+**Time:** 23:43 UTC
 
 **Summary:**  
-Security news rarely moves in a straight line. This week, it feels more like a series of sharp turns, some happening quietly in the background, others playing out in public view. The details are different, but the pressure points are familiar. Across devices, cloud services, research labs, and even everyday apps, the line between normal behavior and hidden risk keeps getting thinner. Tools
+The Russia-linked state-sponsored threat actor tracked as APT28 has been attributed to a new campaign targeting specific entities in Western and Central Europe. The activity, per S2 Grupo's LAB52 threat intelligence team, was active between September 2025 and January 2026. It has been codenamed Operation MacroMaze. "The campaign relies on basic tooling and the exploitation of legitimate services
 
-🔗 [Read Full Article](https://thehackernews.com/2026/02/weekly-recap-double-tap-skimmers.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/02/apt28-targeted-european-entities-using.html)
 
 
 ---
 
-### 📰 Malicious npm Packages Harvest Crypto Keys, CI Secrets, and API Tokens
-**Category:** 📰 News
-**Time:** 23:15 UTC
+### 📰 Wormable XMRig Campaign Uses BYOVD Exploit and Time-Based Logic Bomb
+**Category:** 🔴 Vulnerability, 💡 Expert Insight
+**Time:** 23:43 UTC
 
 **Summary:**  
-Cybersecurity researchers have disclosed what they say is an active "Shai-Hulud-like" supply chain worm campaign that has leveraged a cluster of at least 19 malicious npm packages to enable credential harvesting and cryptocurrency key theft. The campaign has been codenamed SANDWORM_MODE by supply chain security company Socket. As with prior Shai-Hulud attack waves, the malicious code embedded
+Cybersecurity researchers have disclosed details of a new cryptojacking campaign that uses pirated software bundles as lures to deploy a bespoke XMRig miner program on compromised hosts. "Analysis of the recovered dropper, persistence triggers, and mining payload reveals a sophisticated, multi-stage infection prioritizing maximum cryptocurrency mining hashrate, often destabilizing the victim
 
-🔗 [Read Full Article](https://thehackernews.com/2026/02/malicious-npm-packages-harvest-crypto.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/02/wormable-xmrig-campaign-uses-byovd.html)
+
+
+---
+
+### 📰 How Exposed Endpoints Increase Risk Across LLM Infrastructure
+**Category:** 📰 News
+**Time:** 23:43 UTC
+
+**Summary:**  
+As more organizations run their own Large Language Models (LLMs), they are also deploying more internal services and Application Programming Interfaces (APIs) to support those models. Modern security risks are being introduced less from the models themselves and more from the infrastructure that serves, connects and automates the model. Each new LLM endpoint expands the attack surface, often in
+
+🔗 [Read Full Article](https://thehackernews.com/2026/02/how-exposed-endpoints-increase-risk.html)
+
+
+---
+
+### 📰 MuddyWater Targets MENA Organizations with GhostFetch, CHAR, and HTTP_VIP
+**Category:** 📰 News
+**Time:** 23:43 UTC
+
+**Summary:**  
+The Iranian hacking group known as MuddyWater (aka Earth Vetala, Mango Sandstorm, and MUDDYCOAST) has targeted several organizations and individuals mainly located across the Middle East and North Africa (MENA) region as part of a new campaign codenamed Operation Olalampo. The activity, first observed on January 26, 2026, has resulted in the deployment of new malware families that share
+
+🔗 [Read Full Article](https://thehackernews.com/2026/02/muddywater-targets-mena-organizations.html)
 
 
 ---
