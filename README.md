@@ -6,14 +6,14 @@ vulnerabilities, and exploitation activity for continuous learning.
 ---
 ## 📅 2026-02-24
 
-### 📰 Anthropic Says Chinese AI Firms Used 16 Million Claude Queries to Copy Model
+### 📰 UnsolicitedBooker Targets Central Asian Telecoms With LuciDoor and MarsSnake Backdoors
 **Category:** 📰 News
-**Time:** 10:48 UTC
+**Time:** 11:19 UTC
 
 **Summary:**  
-Anthropic on Monday said it identified "industrial-scale campaigns" mounted by three artificial intelligence (AI) companies, DeepSeek, Moonshot AI, and MiniMax, to illegally extract Claude's capabilities to improve their own models. The distillation attacks generated over 16 million exchanges with its large language model (LLM) through about 24,000 fraudulent accounts in violation of its terms
+The threat activity cluster known as UnsolicitedBooker has been observed targeting telecommunications companies in Kyrgyzstan and Tajikistan, marking a shift from prior attacks aimed at Saudi Arabian entities. The attacks involve the deployment of two distinct backdoors codenamed LuciDoor and MarsSnake, according to a report published by Positive Technologies last week. "The group used several
 
-🔗 [Read Full Article](https://thehackernews.com/2026/02/anthropic-says-chinese-ai-firms-used-16.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/02/unsolicitedbooker-targets-central-asian.html)
 
 
 ---
