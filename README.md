@@ -6,38 +6,38 @@ vulnerabilities, and exploitation activity for continuous learning.
 ---
 ## 📅 2026-02-24
 
-### 📰 Identity Prioritization isn't a Backlog Problem - It's a Risk Math Problem
-**Category:** 📰 News
-**Time:** 21:56 UTC
+### 📰 RoguePilot Flaw in GitHub Codespaces Enabled Copilot to Leak GITHUB_TOKEN
+**Category:** 🔴 Vulnerability
+**Time:** 22:14 UTC
 
 **Summary:**  
-Most identity programs still prioritize work the way they prioritize IT tickets: by volume, loudness, or “what failed a control check.” That approach breaks the moment your environment stops being mostly-human and mostly-onboarded. In modern enterprises, identity risk is created by a compound of factors: control posture, hygiene, business context, and intent. Any one of these can perhaps be
+A vulnerability in GitHub Codespaces could have been exploited by bad actors to seize control of repositories by injecting malicious Copilot instructions in a GitHub issue. The artificial intelligence (AI)-driven vulnerability has been codenamed RoguePilot by Orca Security. It has since been patched by Microsoft following responsible disclosure. "Attackers can craft hidden instructions inside a
 
-🔗 [Read Full Article](https://thehackernews.com/2026/02/identity-prioritization-isnt-backlog.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/02/roguepilot-flaw-in-github-codespaces.html)
 
 
 ---
 
-### 📰 Lazarus Group Uses Medusa Ransomware in Middle East and U.S. Healthcare Attacks
+### 📰 UAC-0050 Targets European Financial Institution With Spoofed Domain and RMS Malware
 **Category:** 📰 News
-**Time:** 21:56 UTC
+**Time:** 22:14 UTC
 
 **Summary:**  
-The North Korea-linked Lazarus Group (aka Diamond Sleet and Pompilus) has been observed using Medusa ransomware in an attack targeting an unnamed entity in the Middle East, according to a new report by the Symantec and Carbon Black Threat Hunter Team. Broadcom's threat intelligence division said it also identified the same threat actors mounting an unsuccessful attack against a healthcare
+A Russia-aligned threat actor has been observed targeting a European financial institution as part of a social engineering attack to likely facilitate intelligence gathering or financial theft, signaling a possible expansion of the threat actor's targeting beyond Ukraine and into entities supporting the war-torn nation. The activity, which targeted an unnamed entity involved in regional
 
-🔗 [Read Full Article](https://thehackernews.com/2026/02/lazarus-group-uses-medusa-ransomware-in.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/02/uac-0050-targets-european-financial.html)
 
 
 ---
 
-### 📰 UnsolicitedBooker Targets Central Asian Telecoms With LuciDoor and MarsSnake Backdoors
+### 📰 Anthropic Says Chinese AI Firms Used 16 Million Claude Queries to Copy Model
 **Category:** 📰 News
-**Time:** 21:56 UTC
+**Time:** 22:14 UTC
 
 **Summary:**  
-The threat activity cluster known as UnsolicitedBooker has been observed targeting telecommunications companies in Kyrgyzstan and Tajikistan, marking a shift from prior attacks aimed at Saudi Arabian entities. The attacks involve the deployment of two distinct backdoors codenamed LuciDoor and MarsSnake, according to a report published by Positive Technologies last week. "The group used several
+Anthropic on Monday said it identified "industrial-scale campaigns" mounted by three artificial intelligence (AI) companies, DeepSeek, Moonshot AI, and MiniMax, to illegally extract Claude's capabilities to improve their own models. The distillation attacks generated over 16 million exchanges with its large language model (LLM) through about 24,000 fraudulent accounts in violation of its terms
 
-🔗 [Read Full Article](https://thehackernews.com/2026/02/unsolicitedbooker-targets-central-asian.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/02/anthropic-says-chinese-ai-firms-used-16.html)
 
 
 ---
