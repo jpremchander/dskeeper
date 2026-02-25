@@ -6,38 +6,26 @@ vulnerabilities, and exploitation activity for continuous learning.
 ---
 ## 📅 2026-02-25
 
-### 📰 Malicious NuGet Packages Stole ASP.NET Data; npm Package Dropped Malware
-**Category:** 📰 News
-**Time:** 14:10 UTC
-
-**Summary:**  
-Cybersecurity researchers have discovered four malicious NuGet packages that are designed to target ASP.NET web application developers to steal sensitive data. The campaign, discovered by Socket, exfiltrates ASP.NET Identity data, including user accounts, role assignments, and permission mappings, as well as manipulates authorization rules to create persistent backdoors in victim applications.
-
-🔗 [Read Full Article](https://thehackernews.com/2026/02/malicious-nuget-packages-stole-aspnet.html)
-
-
----
-
-### 📰 Manual Processes Are Putting National Security at Risk
-**Category:** 📰 News
-**Time:** 14:10 UTC
-
-**Summary:**  
-Why automating sensitive data transfers is now a mission-critical priority More than half of national security organizations still rely on manual processes to transfer sensitive data, according to The CYBER360: Defending the Digital Battlespace report. This should alarm every defense and government leader because manual handling of sensitive data is not just inefficient, it is a systemic
-
-🔗 [Read Full Article](https://thehackernews.com/2026/02/manual-processes-are-putting-national.html)
-
-
----
-
-### 📰 CISA Confirms Active Exploitation of FileZen CVE-2026-25108 Vulnerability
+### 📰 Defense Contractor Employee Jailed for Selling 8 Zero-Days to Russian Broker
 **Category:** 🔴 Vulnerability
-**Time:** 14:10 UTC
+**Time:** 14:34 UTC
 
 **Summary:**  
-The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a recently disclosed vulnerability in FileZen to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The vulnerability, tracked as CVE-2026-25108 (CVSS v4 score: 8.7), is a case of operating system (OS) command injection that could allow an authenticated user to execute
+A 39-year-old Australian national who was previously employed at U.S. defense contractor L3Harris has been sentenced to a little over seven years in prison for selling eight zero-day exploits to Russian exploit broker Operation Zero in exchange for millions of dollars. Peter Williams pleaded guilty to two counts of theft of trade secrets in October 2025. In addition to the jail term, Williams
 
-🔗 [Read Full Article](https://thehackernews.com/2026/02/cisa-confirms-active-exploitation-of.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/02/defense-contractor-employee-jailed-for.html)
+
+
+---
+
+### 📰 SolarWinds Patches 4 Critical Serv-U 15.5 Flaws Allowing Root Code Execution
+**Category:** 🔴 Vulnerability
+**Time:** 14:34 UTC
+
+**Summary:**  
+SolarWinds has released updates to address four critical security flaws in its Serv-U file transfer software that, if successfully exploited, could result in remote code execution. The vulnerabilities, all rated 9.1 on the CVSS scoring system, are listed below -  CVE-2025-40538 - A broken access control vulnerability that allows an attacker to create a system admin user and execute arbitrary
+
+🔗 [Read Full Article](https://thehackernews.com/2026/02/solarwinds-patches-4-critical-serv-u.html)
 
 
 ---
