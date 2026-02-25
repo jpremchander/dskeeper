@@ -6,14 +6,14 @@ vulnerabilities, and exploitation activity for continuous learning.
 ---
 ## 📅 2026-02-25
 
-### 📰 CISA Confirms Active Exploitation of FileZen CVE-2026-25108 Vulnerability
+### 📰 SolarWinds Patches 4 Critical Serv-U 15.5 Flaws Allowing Root Code Execution
 **Category:** 🔴 Vulnerability
-**Time:** 06:08 UTC
+**Time:** 08:31 UTC
 
 **Summary:**  
-The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a recently disclosed vulnerability in FileZen to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The vulnerability, tracked as CVE-2026-25108 (CVSS v4 score: 8.7), is a case of operating system (OS) command injection that could allow an authenticated user to execute
+SolarWinds has released updates to address four critical security flaws in its Serv-U file transfer software that, if successfully exploited, could result in remote code execution. The vulnerabilities, all rated 9.1 on the CVSS scoring system, are listed below -  CVE-2025-40538 - A broken access control vulnerability that allows an attacker to create a system admin user and execute arbitrary
 
-🔗 [Read Full Article](https://thehackernews.com/2026/02/cisa-confirms-active-exploitation-of.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/02/solarwinds-patches-4-critical-serv-u.html)
 
 
 ---
