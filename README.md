@@ -6,38 +6,14 @@ vulnerabilities, and exploitation activity for continuous learning.
 ---
 ## 📅 2026-03-02
 
-### 📰 ⚡ Weekly Recap: SD-WAN 0-Day, Critical CVEs, Telegram Probe, Smart TV Proxy SDK and More
-**Category:** 🔴 Vulnerability, 📅 Webinar/Event
-**Time:** 15:47 UTC
-
-**Summary:**  
-This week is not about one big event. It shows where things are moving. Network systems, cloud setups, AI tools, and common apps are all being pushed in different ways. Small gaps in access control, exposed keys, and normal features are being used as entry points. The pattern becomes clear only when you see everything together. Faster scans, smarter misuse of trusted services, and steady
-
-🔗 [Read Full Article](https://thehackernews.com/2026/03/weekly-recap-sd-wan-0-day-critical-cves.html)
-
-
----
-
-### 📰 How to Protect Your SaaS from Bot Attacks with SafeLine WAF
+### 📰 North Korean Hackers Publish 26 npm Packages Hiding Pastebin C2 for Cross-Platform RAT
 **Category:** 📰 News
-**Time:** 15:47 UTC
+**Time:** 16:16 UTC
 
 **Summary:**  
-Most SaaS teams remember the day their user traffic started growing fast. Few notice the day bots started targeting them. On paper, everything looks great: more sign-ups, more sessions, more API calls. But in reality, something feels off:  Sign-ups increase, but users aren’t activating. Server costs rise faster than revenue. Logs are filled with repeated requests from strange user agents.  If
+Cybersecurity researchers have disclosed a new iteration of the ongoing Contagious Interview campaign, where the North Korean threat actors have published a set of 26 malicious packages to the npm registry. The packages masquerade as developer tools, but contain functionality to extract the actual command-and-control (C2) by using seemingly harmless Pastebin content as a dead drop resolver and
 
-🔗 [Read Full Article](https://thehackernews.com/2026/03/how-to-protect-your-saas-from-bot.html)
-
-
----
-
-### 📰 APT28 Tied to CVE-2026-21513 MSHTML 0-Day Exploited Before Feb 2026 Patch Tuesday
-**Category:** 🔴 Vulnerability
-**Time:** 15:47 UTC
-
-**Summary:**  
-A recently disclosed security flaw patched by Microsoft may have been exploited by the Russia-linked state-sponsored threat actor known as APT28, according to new findings from Akamai. The vulnerability in question is CVE-2026-21513 (CVSS score: 8.8), a high-severity security feature bypass affecting the MSHTML Framework. "Protection mechanism failure in MSHTML Framework allows an unauthorized
-
-🔗 [Read Full Article](https://thehackernews.com/2026/03/apt28-tied-to-cve-2026-21513-mshtml-0.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/03/north-korean-hackers-publish-26-npm.html)
 
 
 ---
