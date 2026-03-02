@@ -6,14 +6,14 @@ vulnerabilities, and exploitation activity for continuous learning.
 ---
 ## 📅 2026-03-02
 
-### 📰 APT28 Tied to CVE-2026-21513 MSHTML 0-Day Exploited Before Feb 2026 Patch Tuesday
-**Category:** 🔴 Vulnerability
-**Time:** 11:56 UTC
+### 📰 North Korean Hackers Publish 26 npm Packages Hiding Pastebin C2 for Cross-Platform RAT
+**Category:** 📰 News
+**Time:** 12:20 UTC
 
 **Summary:**  
-A recently disclosed security flaw patched by Microsoft may have been exploited by the Russia-linked state-sponsored threat actor known as APT28, according to new findings from Akamai. The vulnerability in question is CVE-2026-21513 (CVSS score: 8.8), a high-severity security feature bypass affecting the MSHTML Framework. "Protection mechanism failure in MSHTML Framework allows an unauthorized
+Cybersecurity researchers have disclosed a new iteration of the ongoing Contagious Interview campaign, where the North Korean threat actors have published a set of 26 malicious packages to the npm registry. The packages masquerade as developer tools, but contain functionality to extract the actual command-and-control (C2) by using seemingly harmless Pastebin content as a dead drop resolver and
 
-🔗 [Read Full Article](https://thehackernews.com/2026/03/apt28-tied-to-cve-2026-21513-mshtml-0.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/03/north-korean-hackers-publish-26-npm.html)
 
 
 ---
