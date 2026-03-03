@@ -6,14 +6,26 @@ vulnerabilities, and exploitation activity for continuous learning.
 ---
 ## 📅 2026-03-03
 
-### 📰 Microsoft Warns OAuth Redirect Abuse Delivers Malware to Government Targets
-**Category:** 📰 News
-**Time:** 11:31 UTC
+### 📰 Google Confirms CVE-2026-21385 in Qualcomm Android Component Exploited
+**Category:** 🔴 Vulnerability
+**Time:** 11:54 UTC
 
 **Summary:**  
-Microsoft on Monday warned of phishing campaigns that employ phishing emails and OAuth URL redirection mechanisms to bypass conventional phishing defenses implemented in email and browsers. The activity, the company said, targets government and public-sector organizations with the end goal of redirecting victims to attacker-controlled infrastructure without stealing their tokens. It described
+Google on Monday disclosed that a high-severity security flaw impacting an open-source Qualcomm component used in Android devices has been exploited in the wild. The vulnerability in question is CVE-2026-21385 (CVSS score: 7.8), a buffer over-read in the Graphics component. "Memory corruption when adding user-supplied data without checking available buffer space," Qualcomm said in an advisory,
 
-🔗 [Read Full Article](https://thehackernews.com/2026/03/microsoft-warns-oauth-redirect-abuse.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/03/google-confirms-cve-2026-21385-in.html)
+
+
+---
+
+### 📰 SloppyLemming Targets Pakistan and Bangladesh Governments Using Dual Malware Chains
+**Category:** 📰 News
+**Time:** 11:54 UTC
+
+**Summary:**  
+The threat activity cluster known as SloppyLemming has been attributed to a fresh set of attacks targeting government entities and critical infrastructure operators in Pakistan and Bangladesh. The activity, per Arctic Wolf, took place between January 2025 and January 2026. It involves the use of two distinct attack chains to deliver malware families tracked as BurrowShell and a Rust-based
+
+🔗 [Read Full Article](https://thehackernews.com/2026/03/sloppylemming-targets-pakistan-and.html)
 
 
 ---
