@@ -6,50 +6,50 @@ vulnerabilities, and exploitation activity for continuous learning.
 ---
 ## 📅 2026-03-03
 
-### 📰 Fake Tech Support Spam Deploys Customized Havoc C2 Across Organizations
+### 📰 Building a High-Impact Tier 1: The 3 Steps CISOs Must Follow
 **Category:** 📰 News
-**Time:** 23:41 UTC
+**Time:** 23:54 UTC
 
 **Summary:**  
-Threat hunters have called attention to a new campaign as part of which bad actors masqueraded as fake IT support to deliver the Havoc command-and-control (C2) framework as a precursor to data exfiltration or ransomware attack. The intrusions, identified by Huntress last month across five partner organizations, involved the threat actors using email spam as lures, followed by a phone call from
+Every CISO knows the uncomfortable truth about their Security Operations Center: the people most responsible for catching threats in real time are the people with the least experience. Tier 1 analysts sit at the front line of detection, and yet they are also the most vulnerable to the cognitive and organizational pressures that quietly erode SOC performance over time. The Paradox at the Gate:
 
-🔗 [Read Full Article](https://thehackernews.com/2026/03/fake-tech-support-spam-deploys.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/03/building-high-impact-tier-1-3-steps.html)
 
 
 ---
 
-### 📰 AI Agents: The Next Wave Identity Dark Matter - Powerful, Invisible, and Unmanaged
-**Category:** 📰 News
-**Time:** 23:41 UTC
+### 📰 Open-Source CyberStrikeAI Deployed in AI-Driven FortiGate Attacks Across 55 Countries
+**Category:** 💡 Expert Insight
+**Time:** 23:54 UTC
 
 **Summary:**  
-The Rise of MCPs in the Enterprise The Model Context Protocol (MCP) is quickly becoming a practical way to push LLMs from “chat” into real work. By providing structured access to applications, APIs, and data, MCP enables prompt-driven AI agents that can retrieve information, take action, and automate end-to-end business workflows across the enterprise. This is already showing up in production
+The threat actor behind the recently disclosed artificial intelligence (AI)-assisted campaign targeting Fortinet FortiGate appliances leveraged an open-source, AI-native security testing platform called CyberStrikeAI to execute the attacks. The new findings come from Team Cymru, which detected its use following an analysis of the IP address ("212.11.64[.]250") that was used by the suspected
 
-🔗 [Read Full Article](https://thehackernews.com/2026/03/ai-agents-next-wave-identity-dark.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/03/open-source-cyberstrikeai-deployed-in.html)
 
 
 ---
 
-### 📰 Starkiller Phishing Suite Uses AitM Reverse Proxy to Bypass Multi-Factor Authentication
-**Category:** 📰 News
-**Time:** 23:41 UTC
+### 📰 Google Confirms CVE-2026-21385 in Qualcomm Android Component Exploited
+**Category:** 🔴 Vulnerability
+**Time:** 23:54 UTC
 
 **Summary:**  
-Cybersecurity researchers have disclosed details of a new phishing suite called Starkiller that proxies legitimate login pages to bypass multi-factor authentication (MFA) protections. It's advertised as a cybercrime platform by a threat group calling itself Jinkusu, granting customers access to a dashboard that lets them select a brand to impersonate or enter a brand's real URL. It also lets
+Google on Monday disclosed that a high-severity security flaw impacting an open-source Qualcomm component used in Android devices has been exploited in the wild. The vulnerability in question is CVE-2026-21385 (CVSS score: 7.8), a buffer over-read in the Graphics component. "Memory corruption when adding user-supplied data without checking available buffer space," Qualcomm said in an advisory,
 
-🔗 [Read Full Article](https://thehackernews.com/2026/03/starkiller-phishing-suite-uses-aitm.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/03/google-confirms-cve-2026-21385-in.html)
 
 
 ---
 
-### 📰 Microsoft Warns OAuth Redirect Abuse Delivers Malware to Government Targets
+### 📰 SloppyLemming Targets Pakistan and Bangladesh Governments Using Dual Malware Chains
 **Category:** 📰 News
-**Time:** 23:41 UTC
+**Time:** 23:54 UTC
 
 **Summary:**  
-Microsoft on Monday warned of phishing campaigns that employ phishing emails and OAuth URL redirection mechanisms to bypass conventional phishing defenses implemented in email and browsers. The activity, the company said, targets government and public-sector organizations with the end goal of redirecting victims to attacker-controlled infrastructure without stealing their tokens. It described
+The threat activity cluster known as SloppyLemming has been attributed to a fresh set of attacks targeting government entities and critical infrastructure operators in Pakistan and Bangladesh. The activity, per Arctic Wolf, took place between January 2025 and January 2026. It involves the use of two distinct attack chains to deliver malware families tracked as BurrowShell and a Rust-based
 
-🔗 [Read Full Article](https://thehackernews.com/2026/03/microsoft-warns-oauth-redirect-abuse.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/03/sloppylemming-targets-pakistan-and.html)
 
 
 ---
