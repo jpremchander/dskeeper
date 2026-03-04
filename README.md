@@ -6,14 +6,14 @@ vulnerabilities, and exploitation activity for continuous learning.
 ---
 ## 📅 2026-03-04
 
-### 📰 APT41-Linked Silver Dragon Targets Governments Using Cobalt Strike and Google Drive C2
+### 📰 CISA Adds Actively Exploited VMware Aria Operations Flaw CVE-2026-22719 to KEV Catalog
 **Category:** 🔴 Vulnerability
-**Time:** 09:16 UTC
+**Time:** 09:47 UTC
 
 **Summary:**  
-Cybersecurity researchers have disclosed details of an advanced persistent threat (APT) group dubbed Silver Dragon that has been linked to cyber attacks targeting entities in Europe and Southeast Asia since at least mid-2024. "Silver Dragon gains its initial access by exploiting public-facing internet servers and by delivering phishing emails that contain malicious attachments," Check Point said
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a recently disclosed security flaw impacting Broadcom VMware Aria Operations to its Known Exploited Vulnerabilities (KEV) catalog, citing active exploitation in the wild. The high-severity vulnerability, CVE-2026-22719 (CVSS score: 8.1), has been described as a case of command injection that could allow an
 
-🔗 [Read Full Article](https://thehackernews.com/2026/03/apt41-linked-silver-dragon-targets.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/03/cisa-adds-actively-exploited-vmware.html)
 
 
 ---
