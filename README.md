@@ -6,38 +6,38 @@ vulnerabilities, and exploitation activity for continuous learning.
 ---
 ## 📅 2026-03-04
 
-### 📰 Coruna iOS Exploit Kit Uses 23 Exploits Across Five Chains Targeting iOS 13–17.2.1
-**Category:** 🔴 Vulnerability
-**Time:** 22:10 UTC
-
-**Summary:**  
-Google said it identified a "new and powerful" exploit kit dubbed Coruna (aka CryptoWaters) targeting Apple iPhone models running iOS versions between 13.0 and 17.2.1. The exploit kit featured five full iOS exploit chains and a total of 23 exploits, Google Threat Intelligence Group (GTIG) said. It's not effective against the latest version of iOS. The findings were first reported by WIRED. "The
-
-🔗 [Read Full Article](https://thehackernews.com/2026/03/coruna-ios-exploit-kit-uses-23-exploits.html)
-
-
----
-
-### 📰 Fake Laravel Packages on Packagist Deploy RAT on Windows, macOS, and Linux
+### 📰 149 Hacktivist DDoS Attacks Hit 110 Organizations in 16 Countries After Middle East Conflict
 **Category:** 📰 News
-**Time:** 22:10 UTC
+**Time:** 22:26 UTC
 
 **Summary:**  
-Cybersecurity researchers have flagged malicious Packagist PHP packages masquerading as Laravel utilities that act as a conduit for a cross-platform remote access trojan (RAT) that's functional on Windows, macOS, and Linux systems. The names of the packages are listed below -  nhattuanbl/lara-helper (37 Downloads) nhattuanbl/simple-queue (29 Downloads) nhattuanbl/lara-swagger (49 Downloads)
+Cybersecurity researchers have warned of a surge in retaliatory hacktivist activity following the U.S.-Israel coordinated military campaign against Iran, codenamed Epic Fury and Roaring Lion. "The hacktivist threat in the Middle East is highly lopsided, with two groups, Keymous+ and DieNet, driving nearly 70% of all attack activity between February 28 and March 2," Radware said in a Tuesday
 
-🔗 [Read Full Article](https://thehackernews.com/2026/03/fake-laravel-packages-on-packagist.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/03/149-hacktivist-ddos-attacks-hit-110.html)
 
 
 ---
 
-### 📰 APT41-Linked Silver Dragon Targets Governments Using Cobalt Strike and Google Drive C2
-**Category:** 🔴 Vulnerability
-**Time:** 22:10 UTC
+### 📰 New RFP Template for AI Usage Control and AI Governance
+**Category:** 📰 News
+**Time:** 22:26 UTC
 
 **Summary:**  
-Cybersecurity researchers have disclosed details of an advanced persistent threat (APT) group dubbed Silver Dragon that has been linked to cyber attacks targeting entities in Europe and Southeast Asia since at least mid-2024. "Silver Dragon gains its initial access by exploiting public-facing internet servers and by delivering phishing emails that contain malicious attachments," Check Point said
+As AI becomes the central engine for enterprise productivity, security leaders are finally getting the green light — and the budget — to secure it. But there’s a quiet crisis unfolding in the boardroom: many organizations know they need "AI Governance," but they have no idea what they are actually looking for. The CISO’s Dilemma: You Have the AI Budget, but Do You Have the Requirements? As AI
 
-🔗 [Read Full Article](https://thehackernews.com/2026/03/apt41-linked-silver-dragon-targets.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/03/new-rfp-template-for-ai-usage-control.html)
+
+
+---
+
+### 📰 CISA Adds Actively Exploited VMware Aria Operations Flaw CVE-2026-22719 to KEV Catalog
+**Category:** 🔴 Vulnerability
+**Time:** 22:26 UTC
+
+**Summary:**  
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a recently disclosed security flaw impacting Broadcom VMware Aria Operations to its Known Exploited Vulnerabilities (KEV) catalog, citing active exploitation in the wild. The high-severity vulnerability, CVE-2026-22719 (CVSS score: 8.1), has been described as a case of command injection that could allow an
+
+🔗 [Read Full Article](https://thehackernews.com/2026/03/cisa-adds-actively-exploited-vmware.html)
 
 
 ---
