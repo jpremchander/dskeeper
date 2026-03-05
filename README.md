@@ -6,50 +6,38 @@ vulnerabilities, and exploitation activity for continuous learning.
 ---
 ## 📅 2026-03-05
 
-### 📰 Dust Specter Targets Iraqi Officials with New SPLITDROP and GHOSTFORM Malware
+### 📰 ThreatsDay Bulletin: DDR5 Bot Scalping, Samsung TV Tracking, Reddit Privacy Fine & More
 **Category:** 📰 News
-**Time:** 15:34 UTC
+**Time:** 16:03 UTC
 
 **Summary:**  
-A suspected Iran-nexus threat actor has been attributed to a campaign targeting government officials in Iraq by impersonating the country's Ministry of Foreign Affairs to deliver a set of never-before-seen malware. Zscaler ThreatLabz, which observed the activity in January 2026, is tracking the cluster under the name Dust Specter. The attacks, which manifest in the form of two different
+Some weeks in cybersecurity feel routine. This one doesn&rsquo;t. Several new developments surfaced over the past few days, showing how quickly the threat landscape keeps shifting. Researchers uncovered fresh activity, security teams shared new findings, and a few unexpected moves from major tech companies also drew attention. Together, these updates offer a useful snapshot of what is happening
 
-🔗 [Read Full Article](https://thehackernews.com/2026/03/dust-specter-targets-iraqi-officials.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/03/threatsday-bulletin-redis-rce-ddr5-bot.html)
 
 
 ---
 
-### 📰 Where Multi-Factor Authentication Stops and Credential Abuse Starts
-**Category:** 📰 News
-**Time:** 15:34 UTC
+### 📰 Preparing for the Quantum Era: Post-Quantum Cryptography Webinar for Security Leaders
+**Category:** 📅 Webinar/Event
+**Time:** 16:03 UTC
 
 **Summary:**  
-Organizations typically roll out multi-factor authentication (MFA) and assume stolen passwords are no longer enough to access systems. In Windows environments, that assumption is often wrong. Attackers still compromise networks every day using valid credentials. The issue is not MFA itself, but coverage.&nbsp; Enforced through an identity provider (IdP) such as Microsoft Entra ID, Okta, or
+Most organizations assume encrypted data is safe. But many attackers are already preparing for a future where today’s encryption can be broken. Instead of trying to decrypt information now, they are collecting encrypted data and storing it so it can be decrypted later using quantum computers. This tactic—known as “harvest now, decrypt later”—means sensitive data transmitted today could become
 
-🔗 [Read Full Article](https://thehackernews.com/2026/03/where-multi-factor-authentication-stops.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/03/preparing-for-quantum-era-post-quantum.html)
 
 
 ---
 
-### 📰 Europol-Led Operation Takes Down Tycoon 2FA Phishing-as-a-Service Linked to 64,000 Attacks
+### 📰 APT28-Linked Campaign Deploys BadPaw Loader and MeowMeow Backdoor in Ukraine
 **Category:** 📰 News
-**Time:** 15:34 UTC
+**Time:** 16:03 UTC
 
 **Summary:**  
-Tycoon 2FA, one of the prominent phishing-as-a-service (PhaaS) toolkits that allowed cybercriminals to stage adversary-in-the-middle (AitM) credential harvesting attacks at scale, was dismantled by a coalition of law enforcement agencies and security companies. The subscription-based phishing kit, which first emerged in August 2023, was described by Europol as one of the largest phishing
+Cybersecurity researchers have disclosed details of a new Russian cyber campaign that has targeted Ukrainian entities with two previously undocumented malware families named BadPaw and MeowMeow. "The attack chain initiates with a phishing email containing a link to a ZIP archive. Once extracted, an initial HTA file displays a lure document written in Ukrainian concerning border crossing appeals
 
-🔗 [Read Full Article](https://thehackernews.com/2026/03/europol-led-operation-takes-down-tycoon.html)
-
-
----
-
-### 📰 FBI and Europol Seize LeakBase Forum Used to Trade Stolen Credentials
-**Category:** 📰 News
-**Time:** 15:34 UTC
-
-**Summary:**  
-A joint law enforcement operation has dismantled LeakBase, one of the world's largest online forums for cybercriminals to buy and sell stolen data and cybercrime tools. The LeakBase forum, per the U.S. Department of Justice (DoJ), had over 142,000 members and more than 215,000 messages between members as of December 2025. Those attempting to access the forum's website ("leakbase[.]la") are now
-
-🔗 [Read Full Article](https://thehackernews.com/2026/03/fbi-and-europol-seize-leakbase-forum.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/03/apt28-linked-campaign-deploys-badpaw.html)
 
 
 ---
