@@ -6,26 +6,14 @@ vulnerabilities, and exploitation activity for continuous learning.
 ---
 ## 📅 2026-03-05
 
-### 📰 Europol-Led Operation Takes Down Tycoon 2FA Phishing-as-a-Service Linked to 64,000 Attacks
+### 📰 APT28-Linked Campaign Deploys BadPaw Loader and MeowMeow Backdoor in Ukraine
 **Category:** 📰 News
-**Time:** 07:31 UTC
+**Time:** 11:15 UTC
 
 **Summary:**  
-Tycoon 2FA, one of the prominent phishing-as-a-service (PhaaS) toolkits that allowed cybercriminals to stage adversary-in-the-middle (AitM) credential harvesting attacks at scale, was dismantled by a coalition of law enforcement agencies and security companies. The subscription-based phishing kit, which first emerged in August 2023, was described by Europol as one of the largest phishing
+Cybersecurity researchers have disclosed details of a new Russian cyber campaign that has targeted Ukrainian entities with two previously undocumented malware families named BadPaw and MeowMeow. "The attack chain initiates with a phishing email containing a link to a ZIP archive. Once extracted, an initial HTA file displays a lure document written in Ukrainian concerning border crossing appeals
 
-🔗 [Read Full Article](https://thehackernews.com/2026/03/europol-led-operation-takes-down-tycoon.html)
-
-
----
-
-### 📰 FBI and Europol Seize LeakBase Forum Used to Trade Stolen Credentials
-**Category:** 📰 News
-**Time:** 07:31 UTC
-
-**Summary:**  
-A joint law enforcement operation has dismantled LeakBase, one of the world's largest online forums for cybercriminals to buy and sell stolen data and cybercrime tools. The LeakBase forum, per the U.S. Department of Justice (DoJ), had over 142,000 members and more than 215,000 messages between members as of December 2025. Those attempting to access the forum's website ("leakbase[.]la") are now
-
-🔗 [Read Full Article](https://thehackernews.com/2026/03/fbi-and-europol-seize-leakbase-forum.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/03/apt28-linked-campaign-deploys-badpaw.html)
 
 
 ---
