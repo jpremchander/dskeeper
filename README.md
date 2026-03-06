@@ -6,50 +6,38 @@ vulnerabilities, and exploitation activity for continuous learning.
 ---
 ## 📅 2026-03-06
 
-### 📰 Transparent Tribe Uses AI to Mass-Produce Malware Implants in Campaign Targeting India
-**Category:** 📰 News
-**Time:** 21:10 UTC
+### 📰 The MSP Guide to Using AI-Powered Risk Management to Scale Cybersecurity
+**Category:** 💡 Expert Insight
+**Time:** 21:25 UTC
 
 **Summary:**  
-The Pakistan-aligned threat actor known as Transparent Tribe has become the latest hacking group to embrace artificial intelligence (AI)-powered coding tools to strike targets with various implants. The activity is designed to produce a "high-volume, mediocre mass of implants" that are developed using lesser-known programming languages like Nim, Zig, and Crystal and rely on trusted services like
+Scaling cybersecurity services as an MSP or MSSP requires technical expertise and a business model that delivers measurable value at scale. Risk-based cybersecurity is the foundation of that model. When done right, it builds client trust, increases upsell opportunities, and drives recurring revenue. But to deliver this consistently and efficiently, you need the right technology and processes.
 
-🔗 [Read Full Article](https://thehackernews.com/2026/03/transparent-tribe-uses-ai-to-mass.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/03/the-msp-guide-to-using-ai-powered-risk.html)
 
 
 ---
 
-### 📰 Multi-Stage VOID#GEIST Malware Delivering XWorm, AsyncRAT, and Xeno RAT
+### 📰 Iran-Linked MuddyWater Hackers Target U.S. Networks With New Dindoor Backdoor
 **Category:** 📰 News
-**Time:** 21:10 UTC
+**Time:** 21:25 UTC
 
 **Summary:**  
-Cybersecurity researchers have disclosed details of a multi-stage malware campaign that uses batch scripts as a pathway to deliver various encrypted remote access trojan (RATs) payloads that correspond to XWorm, AsyncRAT, and Xeno RAT. The stealthy attack chain has been codenamed VOID#GEIST by Securonix Threat Research. At a high level, the obfuscated batch script is used to deploy a second
+New research from Broadcom's Symantec and Carbon Black Threat Hunter Team has discovered evidence of an Iranian hacking group embedding itself in several U.S. companies' networks, including banks, airports, non-profit, and the Israeli arm of a software company. The activity has been attributed to a state-sponsored hacking group called MuddyWater (aka Seedworm). It's affiliated with the Iranian
 
-🔗 [Read Full Article](https://thehackernews.com/2026/03/multi-stage-voidgeist-malware.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/03/iran-linked-muddywater-hackers-target.html)
 
 
 ---
 
-### 📰 Microsoft Reveals ClickFix Campaign Using Windows Terminal to Deploy Lumma Stealer
+### 📰 China-Linked Hackers Use TernDoor, PeerTime, BruteEntry in South American Telecom Attacks
 **Category:** 📰 News
-**Time:** 21:10 UTC
+**Time:** 21:25 UTC
 
 **Summary:**  
-Microsoft on Thursday disclosed details of a new widespread ClickFix social engineering campaign that has leveraged the Windows Terminal app as a way to activate a sophisticated attack chain and deploy the Lumma Stealer malware. The activity, observed in February 2026, makes use of the terminal emulator program instead of instructing users to launch the Windows Run dialog and paste a command
+A China-linked advanced persistent threat (APT) actor has been targeting critical telecommunications infrastructure in South America since 2024, targeting Windows and Linux systems and edge devices with three different implants. The activity is being tracked by Cisco Talos under the moniker UAT-9244, describing it as closely associated with another cluster known as FamousSparrow. It's worth
 
-🔗 [Read Full Article](https://thehackernews.com/2026/03/microsoft-reveals-clickfix-campaign.html)
-
-
----
-
-### 📰 Hikvision and Rockwell Automation CVSS 9.8 Flaws Added to CISA KEV Catalog
-**Category:** 🔴 Vulnerability
-**Time:** 21:10 UTC
-
-**Summary:**  
-The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added two security flaws impacting Hikvision and Rockwell Automation products to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The critical-severity vulnerabilities are listed below -  CVE-2017-7921 (CVSS score: 9.8) - An improper authentication vulnerability affecting
-
-🔗 [Read Full Article](https://thehackernews.com/2026/03/hikvision-and-rockwell-automation-cvss.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/03/china-linked-hackers-use-terndoor.html)
 
 
 ---
