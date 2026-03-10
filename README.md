@@ -6,50 +6,26 @@ vulnerabilities, and exploitation activity for continuous learning.
 ---
 ## 📅 2026-03-10
 
-### 📰 How to Stop AI Data Leaks: A Webinar Guide to Auditing Modern Agentic Workflows
-**Category:** 📅 Webinar/Event, 💡 Expert Insight
-**Time:** 12:48 UTC
-
-**Summary:**  
-Artificial Intelligence (AI) is no longer just a tool we talk to; it is a tool that does things for us. These are called AI Agents. They can send emails, move data, and even manage software on their own. But there is a problem. While these agents make work faster, they also open a new "back door" for hackers. The Problem: "The Invisible Employee" Think of an AI Agent like a new employee who has
-
-🔗 [Read Full Article](https://thehackernews.com/2026/03/how-to-stop-ai-data-leaks-webinar-guide.html)
-
-
----
-
-### 📰 The Zero-Day Scramble is Avoidable: A Guide to Attack Surface Reduction
-**Category:** 🔴 Vulnerability, 💡 Expert Insight
-**Time:** 12:48 UTC
-
-**Summary:**  
-You can't control when the next critical vulnerability drops. You can control how much of your environment is exposed when it does. The problem is that most teams have more internet-facing exposure than they realise. Intruder's Head of Security digs into why this happens and how teams can manage it deliberately. Time-to-exploit is shrinking The larger and less controlled your attack surface is,
-
-🔗 [Read Full Article](https://thehackernews.com/2026/03/the-zero-day-scramble-is-avoidable.html)
-
-
----
-
-### 📰 APT28 Uses BEARDSHELL and COVENANT Malware to Spy on Ukrainian Military
-**Category:** 📰 News
-**Time:** 12:48 UTC
-
-**Summary:**  
-The Russian state-sponsored hacking group tracked as APT28 has been observed using a pair of implants dubbed BEARDSHELL and COVENANT to facilitate long‑term surveillance of Ukrainian military personnel. The two malware families have been put to use since April 2024, ESET said in a new report shared with The Hacker News. APT28, also tracked as Blue Athena, BlueDelta, Fancy Bear, Fighting Ursa,
-
-🔗 [Read Full Article](https://thehackernews.com/2026/03/apt28-uses-beardshell-and-covenant.html)
-
-
----
-
-### 📰 CISA Flags SolarWinds, Ivanti, and Workspace One Vulnerabilities as Actively Exploited
+### 📰 New "LeakyLooker" Flaws in Google Looker Studio Could Enable Cross-Tenant SQL Queries
 **Category:** 🔴 Vulnerability
-**Time:** 12:48 UTC
+**Time:** 13:31 UTC
 
 **Summary:**  
-The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added three security flaws to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of active exploitation. The vulnerability list is as follows -  CVE-2021-22054 (CVSS score: 7.5) - A server-side request forgery (SSRF) vulnerability in Omnissa Workspace One UEM (formerly VMware Workspace One UEM) that
+Cybersecurity researchers have disclosed nine cross-tenant vulnerabilities in Google Looker Studio that could have permitted attackers to run arbitrary SQL queries on victims' databases and exfiltrate sensitive data within organizations' Google Cloud environments. The shortcomings have been collectively named LeakyLooker by Tenable. There is no evidence that the vulnerabilities were exploited in
 
-🔗 [Read Full Article](https://thehackernews.com/2026/03/cisa-flags-solarwinds-ivanti-and.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/03/new-leakylooker-flaws-in-google-looker.html)
+
+
+---
+
+### 📰 Threat Actors Mass-Scan Salesforce Experience Cloud via Modified AuraInspector Tool
+**Category:** 🔴 Vulnerability
+**Time:** 13:31 UTC
+
+**Summary:**  
+Salesforce has warned of an increase in threat actor activity that's aimed at exploiting misconfigurations in publicly accessible Experience Cloud sites by making use of a customized version of an open-source tool called AuraInspector. The activity, per the company, involves the exploitation of customers' overly permissive Experience Cloud guest user configurations to obtain access to sensitive
+
+🔗 [Read Full Article](https://thehackernews.com/2026/03/threat-actors-mass-scan-salesforce.html)
 
 
 ---
