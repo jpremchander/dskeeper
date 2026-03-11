@@ -6,50 +6,50 @@ vulnerabilities, and exploitation activity for continuous learning.
 ---
 ## 📅 2026-03-11
 
-### 📰 Researchers Trick Perplexity's Comet AI Browser Into Phishing Scam in Under Four Minutes
+### 📰 Critical n8n Flaws Allow Remote Code Execution and Exposure of Stored Credentials
+**Category:** 🔴 Vulnerability
+**Time:** 19:31 UTC
+
+**Summary:**  
+Cybersecurity researchers have disclosed details of two now-patched security flaws in the n8n workflow automation platform, including two critical bugs that could result in arbitrary command execution. The vulnerabilities are listed below -  CVE-2026-27577 (CVSS score: 9.4) - Expression sandbox escape leading to remote code execution (RCE) CVE-2026-27493 (CVSS score: 9.5) - Unauthenticated
+
+🔗 [Read Full Article](https://thehackernews.com/2026/03/critical-n8n-flaws-allow-remote-code.html)
+
+
+---
+
+### 📰 Meta Disables 150K Accounts Linked to Southeast Asia Scam Centers in Global Crackdown
 **Category:** 📰 News
-**Time:** 19:06 UTC
+**Time:** 19:31 UTC
 
 **Summary:**  
-Agentic web browsers that leverage artificial intelligence (AI) capabilities to autonomously execute actions across multiple websites on behalf of a user could be trained and tricked into falling prey to phishing and scam traps. The attack, at its core, takes advantage of AI browsers' tendency to reason their actions and use it against the model itself to lower their security guardrails, Guardio
+Meta on Wednesday said it disabled over 150,000 accounts associated with scam centers in Southeast Asia as part of a coordinated effort in partnership with authorities from Thailand, the U.S., the U.K., Canada, Korea, Japan, Singapore, the Philippines, Australia, New Zealand, and Indonesia. The effort also led to 21 arrests made by the Royal Thai Police, the company said. The action builds upon
 
-🔗 [Read Full Article](https://thehackernews.com/2026/03/researchers-trick-perplexitys-comet-ai.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/03/meta-disables-150k-accounts-linked-to.html)
 
 
 ---
 
-### 📰 Dozens of Vendors Patch Security Flaws Across Enterprise Software and Network Devices
+### 📰 Microsoft Patches 84 Flaws in March Patch Tuesday, Including Two Public Zero-Days
 **Category:** 🔴 Vulnerability
-**Time:** 19:06 UTC
+**Time:** 19:31 UTC
 
 **Summary:**  
-SAP has released security updates to address two critical security flaws that could be exploited to achieve arbitrary code execution on affected systems. The vulnerabilities in question listed below -  CVE-2019-17571 (CVSS score: 9.8) - A code injection vulnerability in SAP Quotation Management Insurance application (FS-QUO) CVE-2026-27685 (CVSS score: 9.1) - An insecure deserialization
+Microsoft on Tuesday released patches for a set of 84 new security vulnerabilities affecting various software components, including two that have been listed as publicly known. Of these, eight are rated Critical, and 76 are rated Important in severity. Forty-six of the patched vulnerabilities relate to privilege escalation, followed by 18 remote code execution, 10 information disclosure, four
 
-🔗 [Read Full Article](https://thehackernews.com/2026/03/dozens-of-vendors-patch-security-flaws.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/03/microsoft-patches-84-flaws-in-march.html)
 
 
 ---
 
-### 📰 What Boards Must Demand in the Age of AI-Automated Exploitation
+### 📰 UNC6426 Exploits nx npm Supply-Chain Attack to Gain AWS Admin Access in 72 Hours
 **Category:** 🔴 Vulnerability
-**Time:** 19:06 UTC
+**Time:** 19:31 UTC
 
 **Summary:**  
-“You knew, and you could have acted. Why didn’t you?”&nbsp; This is the question you do not want to be asked. And increasingly, it’s the question leaders are forced to answer after an incident. For years, many executive teams and boards have treated a large vulnerability backlog as an uncomfortable but tolerable fact of life: “we’ve accepted the risk.” If you’ve ever seen a report showing
+A threat actor known as UNC6426 leveraged keys stolen following the supply chain compromise of the nx npm package last year to completely breach a victim's cloud environment within a span of 72 hours. The attack started with the theft of a developer's GitHub token, which the threat actor then used to gain unauthorized access to the cloud and steal data. "The threat actor, UNC6426, then used this
 
-🔗 [Read Full Article](https://thehackernews.com/2026/03/what-boards-must-demand-in-age-of-ai.html)
-
-
----
-
-### 📰 Five Malicious Rust Crates and AI Bot Exploit CI/CD Pipelines to Steal Developer Secrets
-**Category:** 🔴 Vulnerability
-**Time:** 19:06 UTC
-
-**Summary:**  
-Cybersecurity researchers have discovered five malicious Rust crates that masquerade as time-related utilities to transmit .env file data to the threat actors. The Rust packages, published to crates.io, are listed below -  chrono_anchor dnp3times time_calibrator time_calibrators time-sync  The crates, per Socket, impersonate timeapi.io and were published between late February and early March
-
-🔗 [Read Full Article](https://thehackernews.com/2026/03/five-malicious-rust-crates-and-ai-bot.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/03/unc6426-exploits-nx-npm-supply-chain.html)
 
 
 ---
