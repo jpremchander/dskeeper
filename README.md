@@ -6,38 +6,38 @@ vulnerabilities, and exploitation activity for continuous learning.
 ---
 ## 📅 2026-03-12
 
-### 📰 How to Scale Phishing Detection in Your SOC: 3 Steps for CISOs
+### 📰 Attackers Don't Just Send Phishing Emails. They Weaponize Your SOC's Workload
 **Category:** 📰 News
-**Time:** 15:05 UTC
+**Time:** 15:36 UTC
 
 **Summary:**  
-Phishing has quietly turned into one of the hardest enterprise threats to expose early. Instead of crude lures and obvious payloads, modern campaigns rely on trusted infrastructure, legitimate-looking authentication flows, and encrypted traffic that conceals malicious behavior from traditional detection layers. For CISOs, the priority is now clear: scale phishing detection in a way that helps
+The most dangerous phishing campaigns aren’t just designed to fool employees. Many are designed to exhaust the analysts investigating them. When a phishing investigation takes 12 hours instead of five minutes, the outcome can shift from a contained incident to a breach. For years, the cybersecurity industry has focused on the front door of phishing defense: employee training, email gateways that
 
-🔗 [Read Full Article](https://thehackernews.com/2026/03/how-to-scale-phishing-detection-in-your.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/03/attackers-dont-just-send-phishing.html)
 
 
 ---
 
-### 📰 ThreatsDay Bulletin: OAuth Trap, EDR Killer, Signal Phishing, Zombie ZIP, AI Platform Hack & More
-**Category:** 📰 News
-**Time:** 15:05 UTC
+### 📰 Apple Issues Security Updates for Older iOS Devices Targeted by Coruna WebKit Exploit
+**Category:** 🔴 Vulnerability
+**Time:** 15:36 UTC
 
 **Summary:**  
-Another Thursday, another pile of weird security stuff that somehow happened in just seven days. Some of it is clever. Some of it is lazy. A few bits fall into that uncomfortable category of “yeah… this is probably going to show up in real incidents sooner than we’d like.” The pattern this week feels familiar in a slightly annoying way. Old tricks are getting polished. New research shows how
+Apple on Wednesday backported fixes for a security flaw in iOS, iPadOS, and macOS Sonoma to older versions after it was found to be used as part of the Coruna exploit kit. The vulnerability, tracked as CVE-2023-43010, relates to an unspecified vulnerability in WebKit that could result in memory corruption when processing maliciously crafted web content. The iPhone maker said the issue was
 
-🔗 [Read Full Article](https://thehackernews.com/2026/03/threatsday-bulletin-oauth-trap-edr.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/03/apple-issues-security-updates-for-older.html)
 
 
 ---
 
-### 📰 Six Android Malware Families Target Pix Payments, Banking Apps, and Crypto Wallets
-**Category:** 📰 News
-**Time:** 15:05 UTC
+### 📰 CISA Flags Actively Exploited n8n RCE Bug as 24,700 Instances Remain Exposed
+**Category:** 🔴 Vulnerability
+**Time:** 15:36 UTC
 
 **Summary:**  
-Cybersecurity researchers have discovered half-a-dozen new Android malware families that come with capabilities to steal data from compromised devices and conduct financial fraud. The Android malware range from traditional banking trojans like PixRevolution, TaxiSpy RAT, BeatBanker, Mirax, and Oblivion RAT to full-fledged remote administration tools such as SURXRAT. PixRevolution, according to
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a critical security flaw impacting n8n to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of active exploitation. The vulnerability, tracked as CVE-2025-68613 (CVSS score: 9.9), concerns a case of expression injection that leads to remote code execution. The security shortcoming was patched
 
-🔗 [Read Full Article](https://thehackernews.com/2026/03/six-android-malware-families-target-pix.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/03/cisa-flags-actively-exploited-n8n-rce.html)
 
 
 ---
