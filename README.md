@@ -6,14 +6,14 @@ vulnerabilities, and exploitation activity for continuous learning.
 ---
 ## 📅 2026-03-13
 
-### 📰 Veeam Patches 7 Critical Backup & Replication Flaws Allowing Remote Code Execution
+### 📰 Authorities Disrupt SocksEscort Proxy Botnet Exploiting 369,000 IPs Across 163 Countries
 **Category:** 🔴 Vulnerability
-**Time:** 08:20 UTC
+**Time:** 08:46 UTC
 
 **Summary:**  
-Veeam has released security updates to address multiple critical vulnerabilities in its Backup &amp; Replication software that, if successfully exploited, could result in remote code execution. The vulnerabilities are as follows -  CVE-2026-21666 (CVSS score: 9.9) - A vulnerability that allows an authenticated domain user to perform remote code execution on the Backup Server. CVE-2026-21667 (
+A court-authorized international law enforcement operation has dismantled a criminal proxy service named SocksEscort that enslaved thousands of residential routers worldwide into a botnet for committing large-scale fraud. "SocksEscort infected home and small business internet routers with malware," the U.S. Department of Justice (DoJ) said. "The malware allowed SocksEscort to direct internet
 
-🔗 [Read Full Article](https://thehackernews.com/2026/03/veeam-patches-7-critical-backup.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/03/authorities-disrupt-socksescort-proxy.html)
 
 
 ---
