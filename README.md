@@ -6,14 +6,14 @@ vulnerabilities, and exploitation activity for continuous learning.
 ---
 ## 📅 2026-03-14
 
-### 📰 OpenClaw AI Agent Flaws Could Enable Prompt Injection and Data Exfiltration
+### 📰 GlassWorm Supply-Chain Attack Abuses 72 Open VSX Extensions to Target Developers
 **Category:** 📰 News
-**Time:** 20:56 UTC
+**Time:** 21:12 UTC
 
 **Summary:**  
-China's National Computer Network Emergency Response Technical Team (CNCERT) has issued a warning about the security stemming from the use of OpenClaw (formerly Clawdbot and Moltbot), an open-source and self-hosted autonomous artificial intelligence (AI) agent. In a post shared on WeChat, CNCERT noted that the platform's "inherently weak default security configurations," coupled with its
+Cybersecurity researchers have flagged a new iteration of the GlassWorm campaign that they say represents a "significant escalation" in how it propagates through the Open VSX registry. "Instead of requiring every malicious listing to embed the loader directly, the threat actor is now abusing extensionPack and extensionDependencies to turn initially standalone-looking extensions into transitive
 
-🔗 [Read Full Article](https://thehackernews.com/2026/03/openclaw-ai-agent-flaws-could-enable.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/03/glassworm-supply-chain-attack-abuses-72.html)
 
 
 ---
