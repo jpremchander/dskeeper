@@ -6,26 +6,50 @@ vulnerabilities, and exploitation activity for continuous learning.
 ---
 ## 📅 2026-03-16
 
-### 📰 ⚡ Weekly Recap: Chrome 0-Days, Router Botnets, AWS Breach, Rogue AI Agents & More
+### 📰 GlassWorm Attack Uses Stolen GitHub Tokens to Force-Push Malware Into Python Repos
 **Category:** 📰 News
-**Time:** 21:16 UTC
+**Time:** 21:46 UTC
 
 **Summary:**  
-Some weeks in security feel normal. Then you read a few tabs and get that immediate “ah, great, we’re doing this now” feeling. This week has that energy. Fresh messes, old problems getting sharper, and research that stops feeling theoretical real fast. A few bits hit a little too close to real life, too. There’s a good mix here: weird abuse of trusted stuff, quiet infrastructure ugliness,
+The GlassWorm malware campaign is being used to fuel an ongoing attack that leverages the stolen GitHub tokens to inject malware into hundreds of Python repositories. "The attack targets Python projects — including Django apps, ML research code, Streamlit dashboards, and PyPI packages — by appending obfuscated code to files like setup.py, main.py, and app.py," StepSecurity said. "Anyone who runs
 
-🔗 [Read Full Article](https://thehackernews.com/2026/03/weekly-recap-chrome-0-days-router.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/03/glassworm-attack-uses-stolen-github.html)
 
 
 ---
 
-### 📰 DRILLAPP Backdoor Targets Ukraine, Abuses Microsoft Edge Debugging for Stealth Espionage
-**Category:** 📰 News
-**Time:** 21:16 UTC
+### 📰 Why Security Validation Is Becoming Agentic
+**Category:** 🔴 Vulnerability
+**Time:** 21:46 UTC
 
 **Summary:**  
-Ukrainian entities have emerged as the target of a new campaign likely orchestrated by threat actors linked to Russia, according to a report from S2 Grupo's LAB52 threat intelligence team. The campaign, observed in February 2026, has been assessed to share overlaps with a prior campaign mounted by Laundry Bear (aka UAC-0190 or Void Blizzard) aimed at Ukrainian defense forces with a malware
+If you run security at any reasonably complex organization, your validation stack probably looks something like this: a BAS tool in one corner. A pentest engagement, or maybe an automated pentesting product, in another. A vulnerability scanner feeding an attack surface management platform somewhere else. Each tool gives you a slice of the picture. None of them talks to each other in any
 
-🔗 [Read Full Article](https://thehackernews.com/2026/03/drillapp-backdoor-targets-ukraine.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/03/why-security-validation-is-becoming.html)
+
+
+---
+
+### 📰 ClickFix Campaigns Spread MacSync macOS Infostealer via Fake AI Tool Installers
+**Category:** 🔴 Vulnerability
+**Time:** 21:46 UTC
+
+**Summary:**  
+Three different ClickFix campaigns have been found to act as a delivery vector for the deployment of a macOS information stealer called MacSync. "Unlike traditional exploit-based attacks, this method relies entirely on user interaction – usually in the form of copying and executing commands – making it particularly effective against users who may not appreciate the implications of running
+
+🔗 [Read Full Article](https://thehackernews.com/2026/03/clickfix-campaigns-spread-macsync-macos.html)
+
+
+---
+
+### 📰 Android 17 Blocks Non-Accessibility Apps from Accessibility API to Prevent Malware Abuse
+**Category:** 📅 Webinar/Event
+**Time:** 21:46 UTC
+
+**Summary:**  
+Google is testing a new security feature as part of Android Advanced Protection Mode (AAPM) that prevents certain kinds of apps from using the accessibility services API. The change, incorporated in Android 17 Beta 2, was first reported by Android Authority last week. AAPM was introduced by Google in Android 16, released last year. When enabled, it causes the device to enter a heightened
+
+🔗 [Read Full Article](https://thehackernews.com/2026/03/android-17-blocks-non-accessibility.html)
 
 
 ---
