@@ -6,14 +6,14 @@ vulnerabilities, and exploitation activity for continuous learning.
 ---
 ## 📅 2026-03-16
 
-### 📰 DRILLAPP Backdoor Targets Ukraine, Abuses Microsoft Edge Debugging for Stealth Espionage
-**Category:** 📰 News
-**Time:** 10:09 UTC
+### 📰 Android 17 Blocks Non-Accessibility Apps from Accessibility API to Prevent Malware Abuse
+**Category:** 📅 Webinar/Event
+**Time:** 10:37 UTC
 
 **Summary:**  
-Ukrainian entities have emerged as the target of a new campaign likely orchestrated by threat actors linked to Russia, according to a report from S2 Grupo's LAB52 threat intelligence team. The campaign, observed in February 2026, has been assessed to share overlaps with a prior campaign mounted by Laundry Bear (aka UAC-0190 or Void Blizzard) aimed at Ukrainian defense forces with a malware
+Google is testing a new security feature as part of Android Advanced Protection Mode (AAPM) that prevents certain kinds of apps from using the accessibility services API. The change, incorporated in Android 17 Beta 2, was first reported by Android Authority last week. AAPM was introduced by Google in Android 16, released last year. When enabled, it causes the device to enter a heightened
 
-🔗 [Read Full Article](https://thehackernews.com/2026/03/drillapp-backdoor-targets-ukraine.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/03/android-17-blocks-non-accessibility.html)
 
 
 ---
