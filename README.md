@@ -4,29 +4,3 @@ This repository tracks real-world cybersecurity threats,
 vulnerabilities, and exploitation activity for continuous learning.
 
 ---
-## 📅 2026-03-16
-
-### 📰 ⚡ Weekly Recap: Chrome 0-Days, Router Botnets, AWS Breach, Rogue AI Agents & More
-**Category:** 📰 News
-**Time:** 23:56 UTC
-
-**Summary:**  
-Some weeks in security feel normal. Then you read a few tabs and get that immediate “ah, great, we’re doing this now” feeling. This week has that energy. Fresh messes, old problems getting sharper, and research that stops feeling theoretical real fast. A few bits hit a little too close to real life, too. There’s a good mix here: weird abuse of trusted stuff, quiet infrastructure ugliness,
-
-🔗 [Read Full Article](https://thehackernews.com/2026/03/weekly-recap-chrome-0-days-router.html)
-
-
----
-
-### 📰 DRILLAPP Backdoor Targets Ukraine, Abuses Microsoft Edge Debugging for Stealth Espionage
-**Category:** 📰 News
-**Time:** 23:56 UTC
-
-**Summary:**  
-Ukrainian entities have emerged as the target of a new campaign likely orchestrated by threat actors linked to Russia, according to a report from S2 Grupo's LAB52 threat intelligence team. The campaign, observed in February 2026, has been assessed to share overlaps with a prior campaign mounted by Laundry Bear (aka UAC-0190 or Void Blizzard) aimed at Ukrainian defense forces with a malware
-
-🔗 [Read Full Article](https://thehackernews.com/2026/03/drillapp-backdoor-targets-ukraine.html)
-
-
----
-
