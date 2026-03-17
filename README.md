@@ -6,14 +6,26 @@ vulnerabilities, and exploitation activity for continuous learning.
 ---
 ## 📅 2026-03-17
 
-### 📰 Konni Deploys EndRAT Through Phishing, Uses KakaoTalk to Propagate Malware
+### 📰 AI is Everywhere, But CISOs are Still Securing It with Yesterday's Skills and Tools, Study Finds
 **Category:** 📰 News
-**Time:** 13:35 UTC
+**Time:** 14:12 UTC
 
 **Summary:**  
-North Korean threat actors have been observed sending phishing to compromise targets and obtain access to a victim's KakaoTalk desktop application to distribute malicious payloads to certain contacts. The activity has been attributed by South Korean threat intelligence firm Genians to a hacking group referred to as Konni. "Initial access was achieved through a spear-phishing email disguised as a
+A majority of security leaders are struggling to defend AI systems with tools and skills that are not fit for the challenge, according to the AI and Adversarial Testing Benchmark Report 2026 from Pentera. The report, based on a survey of 300 US CISOs and senior security leaders, examines how organizations are securing AI infrastructure and highlights critical gaps tied to skills shortages and
 
-🔗 [Read Full Article](https://thehackernews.com/2026/03/konni-deploys-endrat-through-spear.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/03/ai-is-everywhere-but-cisos-are-still.html)
+
+
+---
+
+### 📰 CISA Flags Actively Exploited Wing FTP Vulnerability Leaking Server Paths
+**Category:** 🔴 Vulnerability
+**Time:** 14:12 UTC
+
+**Summary:**  
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a medium-severity security flaw impacting Wing FTP to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The vulnerability, CVE-2025-47813 (CVSS score: 4.3), is an information disclosure vulnerability that leaks the installation path of the application under certain conditions
+
+🔗 [Read Full Article](https://thehackernews.com/2026/03/cisa-flags-actively-exploited-wing-ftp.html)
 
 
 ---
