@@ -6,14 +6,14 @@ vulnerabilities, and exploitation activity for continuous learning.
 ---
 ## 📅 2026-03-21
 
-### 📰 CISA Flags Apple, Craft CMS, Laravel Bugs in KEV, Orders Patching by April 3, 2026
-**Category:** 🔴 Vulnerability
-**Time:** 10:11 UTC
+### 📰 Trivy Supply Chain Attack Triggers Self-Spreading CanisterWorm Across 47 npm Packages
+**Category:** 📰 News
+**Time:** 10:26 UTC
 
 **Summary:**  
-The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added five security flaws impacting Apple, Craft CMS, and Laravel Livewire to its Known Exploited Vulnerabilities (KEV) catalog, urging federal agencies to patch them by April 3, 2026. The vulnerabilities that have come under exploitation are listed below -  CVE-2025-31277 (CVSS score: 8.8) - A vulnerability in Apple
+The threat actors behind the supply chain attack targeting the popular Trivy scanner are suspected to be conducting follow-on attacks that have led to the compromise of a large number of npm packages with a previously undocumented self-propagating worm dubbed CanisterWorm. The name is a reference to the fact that the malware uses an ICP canister, which refers to tamperproof smart contracts on
 
-🔗 [Read Full Article](https://thehackernews.com/2026/03/cisa-flags-apple-craft-cms-laravel-bugs.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/03/trivy-supply-chain-attack-triggers-self.html)
 
 
 ---
