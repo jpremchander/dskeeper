@@ -6,26 +6,38 @@ vulnerabilities, and exploitation activity for continuous learning.
 ---
 ## 📅 2026-03-23
 
-### 📰 ⚡ Weekly Recap: CI/CD Backdoor, FBI Buys Location Data, WhatsApp Ditches Numbers & More
-**Category:** 🔴 Vulnerability
-**Time:** 17:06 UTC
+### 📰 We Found Eight Attack Vectors Inside AWS Bedrock. Here's What Attackers Can Do with Them
+**Category:** 📰 News
+**Time:** 17:34 UTC
 
 **Summary:**  
-Another week, another reminder that the internet is still a mess. Systems people thought were secure are being broken in simple ways, showing many still ignore basic advisories. This edition covers a mix of issues: supply chain attacks hitting CI/CD setups, long-abused IoT devices being shut down, and exploits moving quickly from disclosure to real attacks. There are also new malware tricks
+AWS Bedrock is Amazon's platform for building AI-powered applications. It gives developers access to foundation models and the tools to connect those models directly to enterprise data and systems. That connectivity is what makes it powerful – but it’s also what makes Bedrock a target. When an AI agent can query your Salesforce instance, trigger a Lambda function, or pull from a SharePoint
 
-🔗 [Read Full Article](https://thehackernews.com/2026/03/weekly-recap-cicd-backdoor-fbi-buys.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/03/we-found-eight-attack-vectors-inside.html)
 
 
 ---
 
-### 📰 Trivy Hack Spreads Infostealer via Docker, Triggers Worm and Kubernetes Wiper
+### 📰 Microsoft Warns IRS Phishing Hits 29,000 Users, Deploys RMM Malware
 **Category:** 📰 News
-**Time:** 17:06 UTC
+**Time:** 17:34 UTC
 
 **Summary:**  
-Cybersecurity researchers have uncovered malicious artifacts distributed via Docker Hub following the Trivy supply chain attack, highlighting the widening blast radius across developer environments. The last known clean release of Trivy on Docker Hub is 0.69.3. The malicious versions 0.69.4, 0.69.5, and 0.69.6 have since been removed from the container image library. "New image tags 0.69.5 and
+Microsoft has warned of fresh campaigns that are capitalizing on the upcoming tax season in the U.S. to harvest credentials and deliver malware. The email campaigns take advantage of the urgency and time-sensitive nature of emails to send phishing messages masquerading as refund notices, payroll forms, filing reminders, and requests from tax professionals to deceive recipients into opening
 
-🔗 [Read Full Article](https://thehackernews.com/2026/03/trivy-hack-spreads-infostealer-via.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/03/microsoft-warns-irs-phishing-hits-29000.html)
+
+
+---
+
+### 📰 Hackers Exploit CVE-2025-32975 (CVSS 10.0) to Hijack Unpatched Quest KACE SMA Systems
+**Category:** 🔴 Vulnerability
+**Time:** 17:34 UTC
+
+**Summary:**  
+Threat actors are suspected to be exploiting a maximum-severity security flaw impacting Quest KACE Systems Management Appliance (SMA), according to Arctic Wolf. The cybersecurity company said it observed malicious activity starting the week of March 9, 2026, in customer environments that's consistent with the exploitation of CVE-2025-32975 on unpatched SMA systems exposed to the internet. It's
+
+🔗 [Read Full Article](https://thehackernews.com/2026/03/hackers-exploit-cve-2025-32975-cvss-100.html)
 
 
 ---
