@@ -6,14 +6,14 @@ vulnerabilities, and exploitation activity for continuous learning.
 ---
 ## 📅 2026-03-23
 
-### 📰 Trivy Hack Spreads Infostealer via Docker, Triggers Worm and Kubernetes Wiper
-**Category:** 📰 News
-**Time:** 10:08 UTC
+### 📰 Hackers Exploit CVE-2025-32975 (CVSS 10.0) to Hijack Unpatched Quest KACE SMA Systems
+**Category:** 🔴 Vulnerability
+**Time:** 10:34 UTC
 
 **Summary:**  
-Cybersecurity researchers have uncovered malicious artifacts distributed via Docker Hub following the Trivy supply chain attack, highlighting the widening blast radius across developer environments. The last known clean release of Trivy on Docker Hub is 0.69.3. The malicious versions 0.69.4, 0.69.5, and 0.69.6 have since been removed from the container image library. "New image tags 0.69.5 and
+Threat actors are suspected to be exploiting a maximum-severity security flaw impacting Quest KACE Systems Management Appliance (SMA), according to Arctic Wolf. The cybersecurity company said it observed malicious activity starting the week of March 9, 2026, in customer environments that's consistent with the exploitation of CVE-2025-32975 on unpatched SMA systems exposed to the internet. It's
 
-🔗 [Read Full Article](https://thehackernews.com/2026/03/trivy-hack-spreads-infostealer-via.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/03/hackers-exploit-cve-2025-32975-cvss-100.html)
 
 
 ---
