@@ -6,26 +6,26 @@ vulnerabilities, and exploitation activity for continuous learning.
 ---
 ## 📅 2026-03-28
 
-### 📰 CISA Adds CVE-2025-53521 to KEV After Active F5 BIG-IP APM Exploitation
-**Category:** 🔴 Vulnerability
-**Time:** 22:08 UTC
+### 📰 Iran-Linked Hackers Breach FBI Director’s Personal Email, Hit Stryker With Wiper Attack
+**Category:** 📰 News
+**Time:** 22:25 UTC
 
 **Summary:**  
-The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a critical security flaw impacting F5 BIG-IP Access Policy Manager (APM) to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The vulnerability in question is CVE-2025-53521 (CVSS v4 score: 9.3), which could allow a threat actor to achieve remote code execution. "When a
+Threat actors with ties to Iran successfully broke into the personal email account of Kash Patel, the director of the U.S. Federal Bureau of Investigation (FBI), and leaked a cache of photos and other documents to the internet. Handala Hack Team, which carried out the breach, said on its website that Patel "will now find his name among the list of successfully hacked victims." In a statement
 
-🔗 [Read Full Article](https://thehackernews.com/2026/03/cisa-adds-cve-2025-53521-to-kev-after.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/03/iran-linked-hackers-breach-fbi.html)
 
 
 ---
 
-### 📰 TA446 Deploys DarkSword iOS Exploit Kit in Targeted Spear-Phishing Campaign
+### 📰 Citrix NetScaler Under Active Recon for CVE-2026-3055 (CVSS 9.3) Memory Overread Bug
 **Category:** 🔴 Vulnerability
-**Time:** 22:08 UTC
+**Time:** 22:25 UTC
 
 **Summary:**  
-Proofpoint has disclosed details of a targeted email campaign in which threat actors with ties to Russia are leveraging the recently disclosed DarkSword exploit kit to target iOS devices. The activity has been attributed with high confidence to the Russian state-sponsored threat group known as TA446, which is also tracked by the broader cybersecurity community under the monikers Callisto,
+A recently disclosed critical security flaw impacting Citrix NetScaler ADC and NetScaler Gateway is witnessing active reconnaissance activity, according to Defused Cyber and watchTowr. The vulnerability, CVE-2026-3055 (CVSS score: 9.3), refers to a case of insufficient input validation leading to memory overread, which an attacker could exploit to leak potentially sensitive information. Per
 
-🔗 [Read Full Article](https://thehackernews.com/2026/03/ta446-deploys-leaked-darksword-ios.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/03/citrix-netscaler-under-active-recon-for.html)
 
 
 ---
