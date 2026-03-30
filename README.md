@@ -6,26 +6,38 @@ vulnerabilities, and exploitation activity for continuous learning.
 ---
 ## 📅 2026-03-30
 
-### 📰 The State of Secrets Sprawl 2026: 9 Takeaways for CISOs
+### 📰 ⚡ Weekly Recap: Telecom Sleeper Cells, LLM Jailbreaks, Apple Forces U.K. Age Checks and More
 **Category:** 📰 News
-**Time:** 13:54 UTC
+**Time:** 14:36 UTC
 
 **Summary:**  
-Secrets sprawl isn't slowing down: in 2025, it accelerated faster than most security teams anticipated. GitGuardian's State of Secrets Sprawl 2026 report analyzed billions of commits across public GitHub and uncovered 29 million new hardcoded secrets in 2025 alone, a 34% increase year over year and the largest single-year jump ever recorded. This year's findings reveal three core trends: AI has
+Some weeks are loud. This one was quieter but not in a good way. Long-running operations are finally hitting courtrooms, old attack methods are showing up in new places, and research that stopped being theoretical right around the time defenders stopped paying attention. There's a bit of everything this week. Persistence plays, legal wins, influence ops, and at least one thing that looks boring
 
-🔗 [Read Full Article](https://thehackernews.com/2026/03/the-state-of-secrets-sprawl-2026-9.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/03/weekly-recap-telecom-sleeper-cells-llm.html)
 
 
 ---
 
-### 📰 Three China-Linked Clusters Target Southeast Asian Government in 2025 Cyber Campaign
+### 📰 3 SOC Process Fixes That Unlock Tier 1 Productivity
 **Category:** 📰 News
-**Time:** 13:54 UTC
+**Time:** 14:36 UTC
 
 **Summary:**  
-Three threat activity clusters aligned with China have targeted a government organization in Southeast Asia as part of what has been described as a "complex and well-resourced operation." The campaigns have led to the deployment of various malware families, including HIUPAN (aka USBFect, MISTCLOAK, or U2DiskWatch), PUBLOAD, EggStremeFuel (aka RawCookie), EggStremeLoader (aka Gorem RAT), MASOL
+What is really slowing Tier 1 down: the threat itself or the process around it? In many SOCs, the biggest delays do not come from the threat alone. They come from fragmented workflows, manual triage steps, and limited visibility early in the investigation. Fixing those process gaps can help Tier 1 move faster, reduce unnecessary escalations, and improve how the entire SOC responds under pressure
 
-🔗 [Read Full Article](https://thehackernews.com/2026/03/three-china-linked-clusters-target.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/03/3-soc-process-fixes-that-unlock-tier-1.html)
+
+
+---
+
+### 📰 Russian CTRL Toolkit Delivered via Malicious LNK Files Hijacks RDP via FRP Tunnels
+**Category:** 📰 News
+**Time:** 14:36 UTC
+
+**Summary:**  
+Cybersecurity researchers have discovered a remote access toolkit of Russian-origin that's distributed via malicious Windows shortcut (LNK) files that are disguised as private key folders. The CTRL toolkit, according to Censys, is custom-built using .NET and includes various executables" to facilitate credential phishing, keylogging, Remote Desktop Protocol (RDP) hijacking, and reverse tunneling
+
+🔗 [Read Full Article](https://thehackernews.com/2026/03/russian-ctrl-toolkit-delivered-via.html)
 
 
 ---
