@@ -6,38 +6,14 @@ vulnerabilities, and exploitation activity for continuous learning.
 ---
 ## 📅 2026-03-31
 
-### 📰 Vertex AI Vulnerability Exposes Google Cloud Data and Private Artifacts
-**Category:** 🔴 Vulnerability
-**Time:** 14:17 UTC
-
-**Summary:**  
-Cybersecurity researchers have disclosed a security "blind spot" in Google Cloud's Vertex AI platform that could allow artificial intelligence (AI) agents to be weaponized by an attacker to gain unauthorized access to sensitive data and compromise an organization's cloud environment. According to Palo Alto Networks Unit 42, the issue relates to how the Vertex AI permission model can be misused
-
-🔗 [Read Full Article](https://thehackernews.com/2026/03/vertex-ai-vulnerability-exposes-google.html)
-
-
----
-
-### 📰 The AI Arms Race – Why Unified Exposure Management Is Becoming a Boardroom Priority
-**Category:** 🔴 Vulnerability
-**Time:** 14:17 UTC
-
-**Summary:**  
-The cybersecurity landscape is accelerating at an unprecedented rate. What is emerging is not simply a rise in the number of vulnerabilities or tools, but a dramatic increase in speed. Speed of attack, speed of exploitation, and speed of change across modern environments. This is the defining challenge of the new era of digital warfare: the weaponization of Artificial Intelligence. Threat actors
-
-🔗 [Read Full Article](https://thehackernews.com/2026/03/the-ai-arms-race-why-unified-exposure.html)
-
-
----
-
-### 📰 Silver Fox Expands Asia Cyber Campaign with AtlasCross RAT and Fake Domains
+### 📰 Axios Supply Chain Attack Pushes Cross-Platform RAT via Compromised npm Account
 **Category:** 📰 News
-**Time:** 14:17 UTC
+**Time:** 14:51 UTC
 
 **Summary:**  
-Chinese-speaking users are the target of an active campaign that uses typosquatted domains impersonating trusted software brands to deliver a previously undocumented remote access trojan named AtlasCross RAT. "The operation covers VPN clients, encrypted messengers, video conferencing tools, cryptocurrency trackers, and e-commerce applications, with eleven confirmed delivery domains impersonating
+The popular HTTP client known as Axios has suffered a supply chain attack after two newly published versions of the npm package introduced a malicious dependency that delivers a trojan capable of targeting Windows, macOS, and Linux systems. Versions 1.14.1 and 0.30.4 of Axios have been found to inject "plain-crypto-js" version 4.2.1 as a fake dependency. According to StepSecurity, the two
 
-🔗 [Read Full Article](https://thehackernews.com/2026/03/silver-fox-expands-asia-cyber-campaign.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/03/axios-supply-chain-attack-pushes-cross.html)
 
 
 ---
