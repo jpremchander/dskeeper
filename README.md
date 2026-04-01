@@ -6,14 +6,26 @@ vulnerabilities, and exploitation activity for continuous learning.
 ---
 ## 📅 2026-04-01
 
-### 📰 Google Attributes Axios npm Supply Chain Attack to North Korean Group UNC1069
+### 📰 3 Reasons Attackers Are Using Your Trusted Tools Against You (And Why You Don’t See It Coming)
 **Category:** 📰 News
-**Time:** 12:25 UTC
+**Time:** 12:50 UTC
 
 **Summary:**  
-Google has formally attributed the supply chain compromise of the popular Axios npm package to a financially motivated North Korean threat activity cluster tracked as UNC1069. "We have attributed the attack to a suspected North Korean threat actor we track as UNC1069," John Hultquist, chief analyst at Google Threat Intelligence Group (GTIG), told The Hacker News in a statement. "North Korean
+For years, cybersecurity has followed a familiar model: block malware, stop the attack. Now, attackers are moving on to what’s next. Threat actors now use malware less frequently in favor of what’s already inside your environment, including abusing trusted tools, native binaries, and legitimate admin utilities to move laterally, escalate privileges, and persist without raising alarms. Most
 
-🔗 [Read Full Article](https://thehackernews.com/2026/04/google-attributes-axios-npm-supply.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/04/3-reasons-attackers-are-using-your.html)
+
+
+---
+
+### 📰 Claude Code Source Leaked via npm Packaging Error, Anthropic Confirms
+**Category:** 📰 News
+**Time:** 12:50 UTC
+
+**Summary:**  
+Anthropic on Tuesday confirmed that internal code for its popular artificial intelligence (AI) coding assistant, Claude Code, had been inadvertently released due to a human error. "No sensitive customer data or credentials were involved or exposed," an Anthropic spokesperson said in a statement shared with CNBC News. "This was a release packaging issue caused by human error, not a security
+
+🔗 [Read Full Article](https://thehackernews.com/2026/04/claude-code-tleaked-via-npm-packaging.html)
 
 
 ---
