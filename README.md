@@ -6,26 +6,38 @@ vulnerabilities, and exploitation activity for continuous learning.
 ---
 ## 📅 2026-04-02
 
-### 📰 ThreatsDay Bulletin: Pre-Auth Chains, Android Rootkits, CloudTrail Evasion & 10 More Stories
+### 📰 Researchers Uncover Mining Operation Using ISO Lures to Spread RATs and Crypto Miners
 **Category:** 📰 News
-**Time:** 14:13 UTC
+**Time:** 14:40 UTC
 
 **Summary:**  
-The&nbsp;latest ThreatsDay Bulletin is basically a cheat sheet for everything breaking on the internet right now. No&nbsp;corporate fluff or boring lectures here, just a quick and honest look at the messy reality of keeping systems safe this&nbsp;week. Things&nbsp;are moving fast. The&nbsp;list includes researchers chaining small bugs together to create massive backdoors, old software flaws
+A&nbsp;financially motivated operation&nbsp;codenamed REF1695&nbsp;has been&nbsp;observed leveraging fake installers to deploy remote access trojans (RATs) and cryptocurrency miners since November&nbsp;2023. "Beyond cryptomining, the threat actor monetizes infections through CPA (Cost Per Action) fraud, directing victims to content locker pages under the guise of software registration," Elastic
 
-🔗 [Read Full Article](https://thehackernews.com/2026/04/threatsday-bulletin-pre-auth-chains.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/04/researchers-uncover-mining-operation.html)
 
 
 ---
 
-### 📰 WhatsApp Alerts 200 Users After Fake iOS App Installed Spyware; Italian Firm Faces Action
-**Category:** 📰 News
-**Time:** 14:13 UTC
+### 📰 The State of Trusted Open Source Report
+**Category:** 💡 Expert Insight
+**Time:** 14:40 UTC
 
 **Summary:**  
-Meta-owned messaging platform WhatsApp said it alerted about 200 users who were tricked into installing a bogus version of its iOS app that was infected with&nbsp;spyware. According to reports from Italian&nbsp;newspaper La Repubblica and news&nbsp;agency ANSA, the vast majority of the targets are located in Italy. It's assessed that the threat actors behind the activity used social engineering
+In December&nbsp;2025, we shared the first-ever The State of Trusted Open&nbsp;Source report, featuring insights from our product data and customer base on open source consumption across our catalog of container image projects, versions, images, language libraries, and builds. These&nbsp;insights shed light on what teams pull, deploy, and maintain day to day, alongside the vulnerabilities and
 
-🔗 [Read Full Article](https://thehackernews.com/2026/04/whatsapp-alerts-200-users-after-fake.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/04/the-state-of-trusted-open-source-report.html)
+
+
+---
+
+### 📰 Apple Expands iOS 18.7.7 Update to More Devices to Block DarkSword Exploit
+**Category:** 🔴 Vulnerability
+**Time:** 14:40 UTC
+
+**Summary:**  
+Apple&nbsp;on&nbsp;Wednesday expanded the availability of iOS 18.7.7&nbsp;and iPadOS 18.7.7&nbsp;to a broader range of devices to protect users from the risk posed by a recently disclosed exploit kit known&nbsp;as DarkSword. "We enabled the availability of iOS 18.7.7&nbsp;for more devices on April 1, 2026, so users with Automatic Updates turned on can automatically receive important security
+
+🔗 [Read Full Article](https://thehackernews.com/2026/04/apple-expands-ios-1877-update-to-more.html)
 
 
 ---
