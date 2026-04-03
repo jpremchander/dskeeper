@@ -6,50 +6,26 @@ vulnerabilities, and exploitation activity for continuous learning.
 ---
 ## 📅 2026-04-03
 
-### 📰 China-Linked TA416 Targets European Governments with PlugX and OAuth-Based Phishing
+### 📰 UNC1069 Social Engineering of Axios Maintainer Led to npm Supply Chain Attack
 **Category:** 📰 News
-**Time:** 20:28 UTC
+**Time:** 20:49 UTC
 
 **Summary:**  
-A China-aligned threat actor has set its sights on European government and diplomatic organizations since mid-2025,&nbsp;following a two-year&nbsp;period of minimal targeting in the&nbsp;region. The campaign has been attributed&nbsp;to TA416, a cluster of activity that overlaps with DarkPeony, RedDelta, Red Lich, SmugX, UNC6384, and Vertigo&nbsp;Panda. "This TA416 activity included multiple
+The&nbsp;maintainer of the Axios npm package has confirmed that the supply chain compromise was the result of a highly-targeted social engineering campaign orchestrated by North Korean threat actors tracked&nbsp;as UNC1069. Maintainer Jason Saayman said the attackers tailored their social engineering efforts "specifically to me" by first approaching him under the guise of the founder of a
 
-🔗 [Read Full Article](https://thehackernews.com/2026/04/china-linked-ta416-targets-european.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/04/unc1069-social-engineering-of-axios.html)
 
 
 ---
 
-### 📰 Microsoft Details Cookie-Controlled PHP Web Shells Persisting via Cron on Linux Servers
-**Category:** 📰 News
-**Time:** 20:28 UTC
+### 📰 Why Third-Party Risk Is the Biggest Gap in Your Clients' Security Posture
+**Category:** 💡 Expert Insight
+**Time:** 20:49 UTC
 
 **Summary:**  
-Threat&nbsp;actors are increasingly using HTTP cookies as a control channel for PHP-based web shells on Linux servers and to achieve remote code execution, according to findings from the Microsoft Defender Security Research&nbsp;Team. "Instead of exposing command execution through URL parameters or request bodies, these web shells rely on threat actor-supplied cookie values to gate execution,
+The next major&nbsp;breach hitting your clients probably won't come&nbsp;from inside their&nbsp;walls. It'll come through a vendor they trust, a SaaS tool their finance team signed up for, or a subcontractor nobody in IT knows about. That's the new attack surface, and most organizations are underprepared for&nbsp;it. Cynomi's new&nbsp;guide, Securing the Modern Perimeter: The Rise of Third-Party
 
-🔗 [Read Full Article](https://thehackernews.com/2026/04/microsoft-details-cookie-controlled-php.html)
-
-
----
-
-### 📰 New SparkCat Variant in iOS, Android Apps Steals Crypto Wallet Recovery Phrase Images
-**Category:** 📰 News
-**Time:** 20:28 UTC
-
-**Summary:**  
-Cybersecurity researchers&nbsp;have discovered a new version of&nbsp;the SparkCat malware on the Apple App Store and Google Play Store, more than a year after the&nbsp;trojan was discovered targeting both the mobile operating&nbsp;systems. The&nbsp;malware&nbsp;has&nbsp;been found to conceal itself within seemingly benign apps, such as enterprise messengers and food delivery services, while
-
-🔗 [Read Full Article](https://thehackernews.com/2026/04/new-sparkcat-variant-in-ios-android.html)
-
-
----
-
-### 📰 Drift Loses $285 Million in Durable Nonce Social Engineering Attack Linked to DPRK
-**Category:** 📰 News
-**Time:** 20:28 UTC
-
-**Summary:**  
-Solana-based decentralized exchange Drift has confirmed that attackers drained about $285 million from the platform during a security incident that took place on April 1,&nbsp;2026. "Earlier today, a malicious actor gained unauthorized access to Drift Protocol through a novel attack involving durable nonces, resulting in a rapid takeover of Drift’s Security Council administrative powers," the&
-
-🔗 [Read Full Article](https://thehackernews.com/2026/04/drift-loses-285-million-in-durable.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/04/why-third-party-risk-is-biggest-gap-in.html)
 
 
 ---
