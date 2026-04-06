@@ -6,14 +6,14 @@ vulnerabilities, and exploitation activity for continuous learning.
 ---
 ## 📅 2026-04-06
 
-### 📰 BKA Identifies REvil Leaders Behind 130 German Ransomware Attacks
+### 📰 Qilin and Warlock Ransomware Use Vulnerable Drivers to Disable 300+ EDR Tools
 **Category:** 📰 News
-**Time:** 07:36 UTC
+**Time:** 10:38 UTC
 
 **Summary:**  
-Germany's Federal Criminal Police Office (aka BKA or the Bundeskriminalamt) has unmasked the real identity of the main threat actors associated with the now-defunct REvil (aka Sodinokibi) ransomware-as-a-service (RaaS) operation. The threat actor, who went by the alias UNKN, functioned as a representative of the group, advertising the ransomware in June 2019 on the XSS cybercrime forum. He&nbsp;
+Threat actors associated&nbsp;with Qilin&nbsp;and Warlock ransomware operations&nbsp;have been&nbsp;observed using the bring your own vulnerable driver&nbsp;(BYOVD) technique to silence security tools running on compromised hosts, according to findings from Cisco Talos and Trend&nbsp;Micro. Qilin attacks analyzed by Talos&nbsp;have been&nbsp;found to deploy a malicious DLL named "msimg32.dll,"
 
-🔗 [Read Full Article](https://thehackernews.com/2026/04/bka-identifies-revil-leaders-behind-130.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/04/qilin-and-warlock-ransomware-use.html)
 
 
 ---
