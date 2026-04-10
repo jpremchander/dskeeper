@@ -6,14 +6,14 @@ vulnerabilities, and exploitation activity for continuous learning.
 ---
 ## 📅 2026-04-10
 
-### 📰 Backdoored Smart Slider 3 Pro Update Distributed via Compromised Nextend Servers
-**Category:** 🔴 Vulnerability
-**Time:** 10:12 UTC
+### 📰 Google Rolls Out DBSC in Chrome 146 to Block Session Theft on Windows
+**Category:** 📰 News
+**Time:** 10:37 UTC
 
 **Summary:**  
-Unknown threat actors have hijacked the update system for the Smart Slider 3 Pro plugin for WordPress and Joomla to push a poisoned version containing a backdoor. The incident impacts Smart Slider 3 Pro version 3.5.1.35 for WordPress, per WordPress security company Patchstack. Smart Slider 3 is a popular WordPress slider plugin with more than 800,000 active installations across its free and Pro
+Google has&nbsp;made Device Bound Session Credentials&nbsp;(DBSC) generally available to all Windows users of its Chrome web browser, months after&nbsp;it began&nbsp;testing the security feature in open&nbsp;beta. The public availability is currently limited to Windows users on Chrome 146, with macOS expansion planned in an upcoming Chrome&nbsp;release. "This project represents a significant
 
-🔗 [Read Full Article](https://thehackernews.com/2026/04/backdoored-smart-slider-3-pro-update.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/04/google-rolls-out-dbsc-in-chrome-146-to.html)
 
 
 ---
