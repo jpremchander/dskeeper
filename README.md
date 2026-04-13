@@ -6,14 +6,14 @@ vulnerabilities, and exploitation activity for continuous learning.
 ---
 ## 📅 2026-04-13
 
-### 📰 OpenAI Revokes macOS App Certificate After Malicious Axios Supply Chain Incident
+### 📰 North Korea's APT37 Uses Facebook Social Engineering to Deliver RokRAT Malware
 **Category:** 📰 News
-**Time:** 08:16 UTC
+**Time:** 10:38 UTC
 
 **Summary:**  
-OpenAI&nbsp;revealed a GitHub Actions workflow used to sign its macOS apps, which downloaded the malicious Axios library on March 31, but noted that no user data or&nbsp;internal system&nbsp;was compromised. "Out of an abundance of caution, we are taking steps to protect the process that certifies our macOS applications are legitimate OpenAI apps,"&nbsp;OpenAI said in a post last week. "We found
+The North Korean hacking group tracked&nbsp;as APT37 (aka ScarCruft) has been attributed to a fresh multi-stage, social engineering campaign in which threat actors approached targets on Facebook and added them as friends on the social media platform, turning the trust-building exercise into a delivery channel for a remote access trojan&nbsp;called RokRAT. "The threat actor used two Facebook
 
-🔗 [Read Full Article](https://thehackernews.com/2026/04/openai-revokes-macos-app-certificate.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/04/north-koreas-apt37-uses-facebook-social.html)
 
 
 ---
