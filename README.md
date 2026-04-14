@@ -6,50 +6,50 @@ vulnerabilities, and exploitation activity for continuous learning.
 ---
 ## 📅 2026-04-14
 
-### 📰 Google Adds Rust-Based DNS Parser into Pixel 10 Modem to Enhance Security
+### 📰 New PHP Composer Flaws Enable Arbitrary Command Execution — Patches Released
+**Category:** 🔴 Vulnerability
+**Time:** 21:33 UTC
+
+**Summary:**  
+Two high-severity security vulnerabilities&nbsp;have been disclosed in Composer, a package&nbsp;manager for&nbsp;PHP, that, if successfully exploited, could result in arbitrary command execution. The vulnerabilities&nbsp;have been&nbsp;described as command injection flaws affecting the Perforce VCS (version control software) driver. Details of the two flaws are below&nbsp;-  CVE-2026-40176 (CVSS
+
+🔗 [Read Full Article](https://thehackernews.com/2026/04/new-php-composer-flaws-enable-arbitrary.html)
+
+
+---
+
+### 📰 Mirax Android RAT Turns Devices into SOCKS5 Proxies, Reaching 220,000 via Meta Ads
 **Category:** 📰 News
-**Time:** 21:05 UTC
+**Time:** 21:33 UTC
 
 **Summary:**  
-Google has announced the integration of a Rust-based Domain Name System (DNS) parser into the modem firmware as part of its ongoing efforts to beef up the security of Pixel devices and push memory-safe code at a more foundational&nbsp;level. "The new Rust-based DNS parser significantly reduces our security risk by mitigating an entire class of vulnerabilities in a risky area, while also laying
+A nascent Android remote access trojan&nbsp;called Mirax has been observed actively targeting Spanish-speaking countries, with campaigns reaching more than 220,000 accounts on Facebook, Instagram, Messenger, and Threads through advertisements on&nbsp;Meta. "Mirax integrates advanced Remote Access Trojan (RAT) capabilities, allowing threat actors to fully interact with compromised devices in real
 
-🔗 [Read Full Article](https://thehackernews.com/2026/04/google-adds-rust-based-dns-parser-into.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/04/mirax-android-rat-turns-devices-into.html)
 
 
 ---
 
-### 📰 AI-Driven Pushpaganda Scam Exploits Google Discover to Spread Scareware and Ad Fraud
-**Category:** 🔴 Vulnerability
-**Time:** 21:05 UTC
+### 📰 Analysis of 216M Security Findings Shows a 4x Increase In Critical Risk (2026 Report)
+**Category:** 💡 Expert Insight
+**Time:** 21:33 UTC
 
 **Summary:**  
-Cybersecurity researchers have unmasked a novel ad fraud scheme that has been found to leverage search engine poisoning (SEO) techniques and artificial intelligence (AI)-generated content to push deceptive news stories into&nbsp;Google's Discover&nbsp;feed and trick users into enabling persistent browser notifications that lead to scareware and financial&nbsp;scams. The campaign, which has been
+OX Security recently analyzed 216 million security findings across 250 organizations over a 90-day period. The&nbsp;primary takeaway: while raw alert volume grew by 52% year-over-year, prioritized critical risk grew by nearly&nbsp;400%. The surge in AI-assisted development is creating a "velocity&nbsp;gap" where the density of high-impact vulnerabilities&nbsp;is scaling faster&nbsp;than
 
-🔗 [Read Full Article](https://thehackernews.com/2026/04/ai-driven-pushpaganda-scam-exploits.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/04/analysis-of-216m-security-findings.html)
 
 
 ---
 
-### 📰 ShowDoc RCE Flaw CVE-2025-0520 Actively Exploited on Unpatched Servers
-**Category:** 🔴 Vulnerability
-**Time:** 21:05 UTC
+### 📰 108 Malicious Chrome Extensions Steal Google and Telegram Data, Affecting 20,000 Users
+**Category:** 📰 News
+**Time:** 21:33 UTC
 
 **Summary:**  
-A critical security vulnerability&nbsp;impacting ShowDoc, a document management and collaboration service popular in China, has come under active exploitation in the&nbsp;wild. The vulnerability in question&nbsp;is CVE-2025-0520 (aka CNVD-2020-26585), which carries a CVSS score of 9.4&nbsp;out of&nbsp;10.0. It relates to a case of unrestricted file upload that stems from improper validation of
+Cybersecurity researchers have discovered a new campaign in which a cluster of 108 Google Chrome extensions has been found to communicate with the same command-and-control (C2) infrastructure with the goal of collecting user data and enabling browser-level abuse by injecting ads and arbitrary JavaScript code into every web page&nbsp;visited. According to Socket, the extensions (complete list
 
-🔗 [Read Full Article](https://thehackernews.com/2026/04/showdoc-rce-flaw-cve-2025-0520-actively.html)
-
-
----
-
-### 📰 CISA Adds 6 Known Exploited Flaws in Fortinet, Microsoft, and Adobe Software
-**Category:** 🔴 Vulnerability
-**Time:** 21:05 UTC
-
-**Summary:**  
-The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on&nbsp;Monday added half a dozen security flaws to its Known Exploited Vulnerabilities&nbsp;(KEV) catalog, citing evidence of active exploitation. The list of vulnerabilities is as follows&nbsp;-  CVE-2026-21643 (CVSS score: 9.1) -&nbsp; An SQL injection vulnerability in&nbsp; Fortinet FortiClient EMS that could allow an
-
-🔗 [Read Full Article](https://thehackernews.com/2026/04/cisa-adds-6-known-exploited-flaws-in.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/04/108-malicious-chrome-extensions-steal.html)
 
 
 ---
