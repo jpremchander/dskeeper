@@ -6,14 +6,14 @@ vulnerabilities, and exploitation activity for continuous learning.
 ---
 ## 📅 2026-04-15
 
-### 📰 OpenAI Launches GPT-5.4-Cyber with Expanded Access for Security Teams
-**Category:** 📰 News
-**Time:** 06:10 UTC
+### 📰 Microsoft Issues Patches for SharePoint Zero-Day and 168 Other New Vulnerabilities
+**Category:** 🔴 Vulnerability
+**Time:** 09:02 UTC
 
 **Summary:**  
-OpenAI on Tuesday&nbsp;unveiled GPT-5.4-Cyber, a variant of its latest flagship&nbsp;model, GPT‑5.4, that's specifically optimized for defensive cybersecurity use cases, days after rival Anthropic unveiled its own frontier&nbsp;model, Mythos. "The progressive use of AI accelerates defenders – those responsible for keeping systems, data, and users safe – enabling them to find and fix problems
+Microsoft on Tuesday released updates to address a&nbsp;record 169 security&nbsp;flaws across its product portfolio, including one vulnerability that&nbsp;has been actively&nbsp;exploited in the&nbsp;wild. Of these 169 vulnerabilities, 157 are rated Important, eight are rated&nbsp;Critical, three are rated Moderate,&nbsp;and one is rated Low in&nbsp;severity. Ninety-three of the flaws are
 
-🔗 [Read Full Article](https://thehackernews.com/2026/04/openai-launches-gpt-54-cyber-with.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/04/microsoft-issues-patches-for-sharepoint.html)
 
 
 ---
