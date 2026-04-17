@@ -6,14 +6,14 @@ vulnerabilities, and exploitation activity for continuous learning.
 ---
 ## 📅 2026-04-17
 
-### 📰 Apache ActiveMQ CVE-2026-34197 Added to CISA KEV Amid Active Exploitation
-**Category:** 🔴 Vulnerability
-**Time:** 03:42 UTC
+### 📰 Operation PowerOFF Seizes 53 DDoS Domains, Exposes 3 Million Criminal Accounts
+**Category:** 📰 News
+**Time:** 07:06 UTC
 
 **Summary:**  
-A recently disclosed high-severity security flaw in Apache ActiveMQ&nbsp;Classic has come under active exploitation in the wild, per the U.S. Cybersecurity and Infrastructure Security Agency&nbsp;(CISA). To that end, the agency&nbsp;has added the vulnerability, tracked&nbsp;as CVE-2026-34197 (CVSS score: 8.8), to its Known Exploited Vulnerabilities&nbsp;(KEV) catalog, requiring Federal Civilian
+An international law enforcement operation has taken down 53 domains and arrested four people in connection with commercial distributed denial-of-service (DDoS) operations that were used by more than 75,000 cybercriminals. The ongoing effort, dubbed Operation PowerOFF, disrupted access to the DDoS-for-hire services, took down the technical infrastructure supporting them, and obtained access to
 
-🔗 [Read Full Article](https://thehackernews.com/2026/04/apache-activemq-cve-2026-34197-added-to.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/04/operation-poweroff-seizes-53-ddos.html)
 
 
 ---
