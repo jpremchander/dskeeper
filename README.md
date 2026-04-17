@@ -6,26 +6,14 @@ vulnerabilities, and exploitation activity for continuous learning.
 ---
 ## 📅 2026-04-17
 
-### 📰 NIST Limits CVE Enrichment After 263% Surge in Vulnerability Submissions
-**Category:** 🔴 Vulnerability
-**Time:** 07:54 UTC
+### 📰 Operation PowerOFF Seizes 53 DDoS Domains, Exposes 3 Million Criminal Accounts
+**Category:** 📰 News
+**Time:** 08:39 UTC
 
 **Summary:**  
-The National Institute of Standards and Technology (NIST) has announced changes to the way it handles cybersecurity vulnerabilities and exposures (CVEs) listed in its National Vulnerability Database (NVD), stating it will only enrich those that fulfil certain conditions owing to an explosion in CVE submissions. "CVEs that do not meet those criteria will still be listed in the NVD but will not
+An international law enforcement operation has taken down 53 domains and arrested four people in connection with commercial distributed denial-of-service (DDoS) operations that were used by more than 75,000 cybercriminals. The ongoing effort, dubbed Operation PowerOFF, disrupted access to the DDoS-for-hire services, took down the technical infrastructure supporting them, and obtained access to
 
-🔗 [Read Full Article](https://thehackernews.com/2026/04/nist-limits-cve-enrichment-after-263.html)
-
-
----
-
-### 📰 Apache ActiveMQ CVE-2026-34197 Added to CISA KEV Amid Active Exploitation
-**Category:** 🔴 Vulnerability
-**Time:** 07:54 UTC
-
-**Summary:**  
-A recently disclosed high-severity security flaw in Apache ActiveMQ&nbsp;Classic has come under active exploitation in the wild, per the U.S. Cybersecurity and Infrastructure Security Agency&nbsp;(CISA). To that end, the agency&nbsp;has added the vulnerability, tracked&nbsp;as CVE-2026-34197 (CVSS score: 8.8), to its Known Exploited Vulnerabilities&nbsp;(KEV) catalog, requiring Federal Civilian
-
-🔗 [Read Full Article](https://thehackernews.com/2026/04/apache-activemq-cve-2026-34197-added-to.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/04/operation-poweroff-seizes-53-ddos.html)
 
 
 ---
