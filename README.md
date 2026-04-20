@@ -6,14 +6,14 @@ vulnerabilities, and exploitation activity for continuous learning.
 ---
 ## 📅 2026-04-20
 
-### 📰 Researchers Detect ZionSiphon Malware Targeting Israeli Water, Desalination OT Systems
+### 📰 Vercel Breach Tied to Context AI Hack Exposes Limited Customer Credentials
 **Category:** 📰 News
-**Time:** 09:15 UTC
+**Time:** 10:01 UTC
 
 **Summary:**  
-Cybersecurity researchers have flagged a new malware called ZionSiphon that appears to be specifically designed to target Israeli water treatment and desalination systems. The malware has been codenamed ZionSiphon by Darktrace, highlighting its ability to set up persistence, tamper with local configuration files, and scan for operational technology (OT)-relevant services on the local subnet.
+Web infrastructure provider Vercel has disclosed a security breach that allows bad actors to gain unauthorized access to "certain" internal Vercel systems. The incident stemmed from the compromise of Context.ai, a third-party artificial intelligence (AI) tool, that was used by an employee at the company. "The attacker used that access to take over the employee's Vercel Google Workspace account,
 
-🔗 [Read Full Article](https://thehackernews.com/2026/04/researchers-detect-zionsiphon-malware.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/04/vercel-breach-tied-to-context-ai-hack.html)
 
 
 ---
