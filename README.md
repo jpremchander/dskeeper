@@ -6,38 +6,26 @@ vulnerabilities, and exploitation activity for continuous learning.
 ---
 ## 📅 2026-04-20
 
-### 📰 Why Most AI Deployments Stall After the Demo
+### 📰 ⚡ Weekly Recap: Vercel Hack, Push Fraud, QEMU Abused, New Android RATs Emerge & More
 **Category:** 📰 News
-**Time:** 15:37 UTC
+**Time:** 16:10 UTC
 
 **Summary:**  
-The fastest way to fall in love with an AI tool is to watch the demo. Everything moves quickly. Prompts land cleanly. The system produces impressive outputs in seconds. It feels like the beginning of a new era for your team. But most AI initiatives don't fail because of bad technology. They stall because what worked in the demo doesn't survive contact with real operations. The gap between a
+Monday’s recap shows the same pattern in different places. A third-party tool becomes a way in, then leads to internal access. A trusted download path is briefly swapped to deliver malware. Browser extensions act normally while pulling data and running code. Even update channels are used to push payloads. It’s not breaking systems—it’s bending trust. There’s also a shift in how attacks run.
 
-🔗 [Read Full Article](https://thehackernews.com/2026/04/why-most-ai-deployments-stall-after-demo.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/04/weekly-recap-vercel-hack-push-fraud.html)
 
 
 ---
 
-### 📰 Anthropic MCP Design Vulnerability Enables RCE, Threatening AI Supply Chain
-**Category:** 🔴 Vulnerability
-**Time:** 15:37 UTC
-
-**Summary:**  
-Cybersecurity researchers have discovered a critical "by design" weakness in the Model Context Protocol's (MCP) architecture that could pave the way for remote code execution and have a cascading effect on the artificial intelligence (AI) supply chain. "This flaw enables Arbitrary Command Execution (RCE) on any system running a vulnerable MCP implementation, granting attackers direct access to
-
-🔗 [Read Full Article](https://thehackernews.com/2026/04/anthropic-mcp-design-vulnerability.html)
-
-
----
-
-### 📰 Vercel Breach Tied to Context AI Hack Exposes Limited Customer Credentials
+### 📰 Researchers Detect ZionSiphon Malware Targeting Israeli Water, Desalination OT Systems
 **Category:** 📰 News
-**Time:** 15:37 UTC
+**Time:** 16:10 UTC
 
 **Summary:**  
-Web infrastructure provider Vercel has disclosed a security breach that allows bad actors to gain unauthorized access to "certain" internal Vercel systems. The incident stemmed from the compromise of Context.ai, a third-party artificial intelligence (AI) tool, that was used by an employee at the company. "The attacker used that access to take over the employee's Vercel Google Workspace account,
+Cybersecurity researchers have flagged a new malware called ZionSiphon that appears to be specifically designed to target Israeli water treatment and desalination systems. The malware has been codenamed ZionSiphon by Darktrace, highlighting its ability to set up persistence, tamper with local configuration files, and scan for operational technology (OT)-relevant services on the local subnet.
 
-🔗 [Read Full Article](https://thehackernews.com/2026/04/vercel-breach-tied-to-context-ai-hack.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/04/researchers-detect-zionsiphon-malware.html)
 
 
 ---
