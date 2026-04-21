@@ -6,50 +6,14 @@ vulnerabilities, and exploitation activity for continuous learning.
 ---
 ## 📅 2026-04-21
 
-### 📰 5 Places where Mature SOCs Keep MTTR Fast and Others Waste Time
-**Category:** 📰 News
-**Time:** 14:18 UTC
-
-**Summary:**  
-Security teams often present MTTR as an internal KPI. Leadership sees it differently: every hour a threat dwells inside the environment is an hour of potential data exfiltration, service disruption, regulatory exposure, and brand damage.&nbsp; The root cause of slow MTTR is almost never "not enough analysts." It is almost always the same structural problem: threat intelligence that exists
-
-🔗 [Read Full Article](https://thehackernews.com/2026/04/5-places-where-mature-socs-keep-mttr.html)
-
-
----
-
-### 📰 NGate Campaign Targets Brazil, Trojanizes HandyPay to Steal NFC Data and PINs
+### 📰 CISA Adds 8 Exploited Flaws to KEV, Sets April-May 2026 Federal Deadlines
 **Category:** 🔴 Vulnerability
-**Time:** 14:18 UTC
+**Time:** 14:58 UTC
 
 **Summary:**  
-Cybersecurity researchers have discovered a new iteration of an Android malware family called&nbsp;NGate&nbsp;that has been found to abuse a legitimate application called&nbsp;HandyPay instead of NFCGate. "The threat actors took the app, which is used to relay NFC data, and patched it with malicious code that appears to have been AI-generated," ESET security researcher Lukáš Štefanko said in a
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added eight new vulnerabilities to its Known Exploited Vulnerabilities (KEV) catalog, including three flaws impacting Cisco Catalyst SD-WAN Manager, citing evidence of active exploitation. The list of vulnerabilities is as follows -  CVE-2023-27351 (CVSS score: 8.2) - An improper authentication vulnerability in PaperCut
 
-🔗 [Read Full Article](https://thehackernews.com/2026/04/ngate-campaign-targets-brazil.html)
-
-
----
-
-### 📰 No Exploit Needed: How Attackers Walk Through the Front Door via Identity-Based Attacks
-**Category:** 🔴 Vulnerability
-**Time:** 14:18 UTC
-
-**Summary:**  
-The cybersecurity industry has spent the last several years chasing sophisticated threats like zero-days, supply chain compromises, and AI-generated exploits. However, the most reliable entry point for attackers still hasn't changed: stolen credentials. Identity-based attacks remain a dominant initial access vector in breaches today. Attackers obtain valid credentials through credential stuffing
-
-🔗 [Read Full Article](https://thehackernews.com/2026/04/no-exploit-needed-how-attackers-walk.html)
-
-
----
-
-### 📰 Google Patches Antigravity IDE Flaw Enabling Prompt Injection Code Execution
-**Category:** 🔴 Vulnerability
-**Time:** 14:18 UTC
-
-**Summary:**  
-Cybersecurity researchers have discovered a vulnerability in Google's agentic integrated development environment (IDE), Antigravity, that could be exploited to achieve code execution. The flaw, since patched, combines Antigravity's permitted file-creation capabilities with an insufficient input sanitization in Antigravity's native file-searching tool, find_by_name, to bypass the program's Strict
-
-🔗 [Read Full Article](https://thehackernews.com/2026/04/google-patches-antigravity-ide-flaw.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/04/cisa-adds-8-exploited-flaws-to-kev-sets.html)
 
 
 ---
