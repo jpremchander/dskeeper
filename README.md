@@ -6,38 +6,50 @@ vulnerabilities, and exploitation activity for continuous learning.
 ---
 ## 📅 2026-04-23
 
-### 📰 [Webinar] Mythos Reality Check: Beating Automated Exploitation at AI Speed
-**Category:** 🔴 Vulnerability, 📅 Webinar/Event
-**Time:** 17:01 UTC
+### 📰 Bitwarden CLI Compromised in Ongoing Checkmarx Supply Chain Campaign
+**Category:** 📰 News
+**Time:** 17:47 UTC
 
 **Summary:**  
-Imagine a world where hackers don't sleep, don't take breaks, and find weak spots in your systems instantly. Well, that world is already here. Thanks to AI, attackers are now launching automated, large-scale exploits faster than ever before. The time you have to fix a vulnerability before it gets attacked is shrinking to zero. We call this the Collapsing Exploit Window, and it means your
+Bitwarden CLI has been compromised as part of the newly discovered and ongoing Checkmarx supply chain campaign, according to new findings from JFrog and Socket. "The affected package version appears to be @bitwarden/cli@2026.4.0, and the malicious code was published in 'bw1.js,' a file included in the package contents," the application security company said. "The attack appears to have leveraged
 
-🔗 [Read Full Article](https://thehackernews.com/2026/04/webinar-mythos-reality-check-beating.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/04/bitwarden-cli-compromised-in-ongoing.html)
 
 
 ---
 
-### 📰 Project Glasswing Proved AI Can Find the Bugs. Who's Going to Fix Them?
+### 📰 ThreatsDay Bulletin: $290M DeFi Hack, macOS LotL Abuse, ProxySmart SIM Farms +25 New Stories
 **Category:** 🔴 Vulnerability
-**Time:** 17:01 UTC
+**Time:** 17:47 UTC
 
 **Summary:**  
-Last week, Anthropic announced Project Glasswing, an AI model so effective at discovering software vulnerabilities that they took the extraordinary step of postponing its public release. Instead, the company has given access to Apple, Microsoft, Google, Amazon, and a coalition of others to find and patch bugs before adversaries can. Mythos Preview, the model that led to Project Glasswing, found
+You scroll past one incident and see another that feels familiar, like it should have been fixed years ago, but it still works with small changes. Same bugs. Same mistakes. The supply chain is messy. Packages you did not check are stealing data, adding backdoors, and spreading. Attacking the systems behind apps is easier than breaking the apps themselves. The exploits are simple but still work
 
-🔗 [Read Full Article](https://thehackernews.com/2026/04/project-glasswing-proved-ai-can-find.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/04/threatsday-bulletin-290m-defi-hack.html)
 
 
 ---
 
-### 📰 Apple Fixes iOS Flaw That Let FBI Recover Deleted Signal Messages
-**Category:** 🔴 Vulnerability
-**Time:** 17:01 UTC
+### 📰 China-Linked GopherWhisper Infects 12 Mongolian Government Systems with Go Backdoors
+**Category:** 📰 News
+**Time:** 17:47 UTC
 
 **Summary:**  
-Apple has rolled out a software fix for iOS and iPadOS to address a Notification Services flaw that stored notifications marked for deletion on the device. The vulnerability, tracked as CVE-2026-28950 (CVSS score: N/A), has been described as a logging issue that has been addressed with improved data redaction. "Notifications marked for deletion could be unexpectedly retained on the device,"
+Mongolian governmental institutions have emerged as the target of a previously undocumented China-aligned advanced persistent threat (APT) group tracked as GopherWhisper. "The group wields a wide array of tools mostly written in Go, using injectors and loaders to deploy and execute various backdoors in its arsenal," Slovakian cybersecurity company ESET said in a report shared with The Hacker
 
-🔗 [Read Full Article](https://thehackernews.com/2026/04/apple-patches-ios-flaw-that-stored.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/04/china-linked-gopherwhisper-infects-12.html)
+
+
+---
+
+### 📰 Vercel Finds More Compromised Accounts in Context.ai-Linked Breach
+**Category:** 📰 News
+**Time:** 17:47 UTC
+
+**Summary:**  
+Vercel on Wednesday revealed that it has identified an additional set of customer accounts that were compromised as part of a security incident that enabled unauthorized access to its internal systems. The company said it made the discovery after expanding its investigation to include an extra set of compromise indicators, alongside a review of requests to the Vercel network and environment
+
+🔗 [Read Full Article](https://thehackernews.com/2026/04/vercel-finds-more-compromised-accounts.html)
 
 
 ---
