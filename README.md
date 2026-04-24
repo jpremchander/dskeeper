@@ -6,38 +6,14 @@ vulnerabilities, and exploitation activity for continuous learning.
 ---
 ## 📅 2026-04-24
 
-### 📰 Bridging the AI Agent Authority Gap: Continuous Observability as the Decision Engine
-**Category:** 📰 News
-**Time:** 13:11 UTC
-
-**Summary:**  
-The AI Agent Authority Gap - From Ungoverned to Delegation As discussed in our previous article, AI agents are exposing a structural gap in enterprise security, but the problem is often framed too narrowly. The issue is not simply that agents are new actors. It is that agents are delegated actors. They do not emerge with independent authority. They are triggered, invoked, provisioned, or
-
-🔗 [Read Full Article](https://thehackernews.com/2026/04/bridging-ai-agent-authority-gap.html)
-
-
----
-
-### 📰 26 FakeWallet Apps Found on Apple App Store Targeting Crypto Seed Phrases
-**Category:** 📰 News
-**Time:** 13:11 UTC
-
-**Summary:**  
-Cybersecurity researchers have discovered a set of malicious apps on the Apple App Store that impersonate popular cryptocurrency wallets in an attempt to steal recovery phrases and private keys since at least fall 2025. "Once launched, these apps redirect users to browser pages designed to look similar to the App Store and distribute trojanized versions of legitimate wallets," Kaspersky
-
-🔗 [Read Full Article](https://thehackernews.com/2026/04/26-fakewallet-apps-found-on-apple-app.html)
-
-
----
-
-### 📰 LMDeploy CVE-2026-33626 Flaw Exploited Within 13 Hours of Disclosure
+### 📰 Tropic Trooper Uses Trojanized SumatraPDF and GitHub to Deploy AdaptixC2
 **Category:** 🔴 Vulnerability
-**Time:** 13:11 UTC
+**Time:** 13:55 UTC
 
 **Summary:**  
-A high-severity security flaw in LMDeploy, an open-source toolkit for compressing, deploying, and serving LLMs, has come under active exploitation in the wild less than 13 hours after its public disclosure. The vulnerability, tracked as CVE-2026-33626 (CVSS score: 7.5), relates to a Server-Side Request Forgery (SSRF) vulnerability that could be exploited to access sensitive data. "A server-side
+Chinese-speaking individuals are the target of a new campaign that uses a trojanized version of SumatraPDF reader to deploy the AdaptixC2 Beacon post-exploitation agent and ultimately facilitate the abuse of Microsoft Visual Studio Code (VS Code) tunnels for remote access. Zscaler ThreatLabz, which discovered the campaign last month, has attributed it with high confidence to Tropic Trooper (aka
 
-🔗 [Read Full Article](https://thehackernews.com/2026/04/lmdeploy-cve-2026-33626-flaw-exploited.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/04/tropic-trooper-uses-trojanized.html)
 
 
 ---
