@@ -6,14 +6,14 @@ vulnerabilities, and exploitation activity for continuous learning.
 ---
 ## 📅 2026-04-25
 
-### 📰 CISA Adds 4 Exploited Flaws to KEV, Sets May 2026 Federal Deadline
-**Category:** 🔴 Vulnerability
-**Time:** 15:49 UTC
+### 📰 Researchers Uncover Pre-Stuxnet ‘fast16’ Malware Targeting Engineering Software
+**Category:** 📰 News
+**Time:** 16:16 UTC
 
 **Summary:**  
-The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added four vulnerabilities impacting SimpleHelp, Samsung MagicINFO 9 Server, and D-Link DIR-823X series routers to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The list of vulnerabilities is below -  CVE-2024-57726 (CVSS score: 9.9) - A missing authorization vulnerability in
+Cybersecurity researchers have discovered a new Lua-based malware created years before the notorious Stuxnet worm that aimed to sabotage Iran's nuclear program by destroying uranium enrichment centrifuges. According to a new report published by SentinelOne, the previously undocumented cyber sabotage framework dates back to 2005, primarily targeting high-precision calculation software to tamper
 
-🔗 [Read Full Article](https://thehackernews.com/2026/04/cisa-adds-4-exploited-flaws-to-kev-sets.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/04/researchers-uncover-pre-stuxnet-fast16.html)
 
 
 ---
