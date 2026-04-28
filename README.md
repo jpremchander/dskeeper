@@ -6,38 +6,50 @@ vulnerabilities, and exploitation activity for continuous learning.
 ---
 ## 📅 2026-04-28
 
-### 📰 VECT 2.0 Ransomware Irreversibly Destroys Files Over 131KB on Windows, Linux, ESXi
-**Category:** 📰 News
-**Time:** 15:53 UTC
+### 📰 Critical Unpatched Flaw Leaves Hugging Face LeRobot Open to Unauthenticated RCE
+**Category:** 🔴 Vulnerability
+**Time:** 16:39 UTC
 
 **Summary:**  
-Threat hunters are warning that the cybercriminal operation known as VECT 2.0 acts more like a wiper than a ransomware due to a critical flaw in its encryption implementation across Windows, Linux, and ESXi variants that renders recovery impossible even for the threat actors. The fact that VECT's locker permanently destroys large files rather than encrypting them means even victims who opt to
+Cybersecurity researchers have disclosed details of a critical security flaw impacting LeRobot, Hugging Face's open-source robotics platform with nearly 24,000 GitHub stars, that could be exploited to achieve remote code execution. The vulnerability in question is CVE-2026-25874 (CVSS score: 9.3), which has been described as a case of untrusted data deserialization stemming from the use of the
 
-🔗 [Read Full Article](https://thehackernews.com/2026/04/vect-20-ransomware-irreversibly.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/04/critical-cve-2026-25874-leaves-hugging.html)
 
 
 ---
 
-### 📰 Why Secure Data Movement Is the Zero Trust Bottleneck Nobody Talks About
-**Category:** 📰 News
-**Time:** 15:53 UTC
+### 📰 After Mythos: New Playbooks For a Zero-Window Era
+**Category:** 🔴 Vulnerability
+**Time:** 16:39 UTC
 
 **Summary:**  
-Every security program is betting on the same assumption: once a system is connected, the problem is solved. Open a ticket, stand up a gateway, push the data through. Done. That assumption is wrong. It is also a major reason Zero Trust programs stall. New research my team just published puts numbers on it. The Cyber360: Defending the Digital Battlespace report, based on a survey of 500 security
+When patching isn’t fast enough, NDR helps contain the next era of threats. If you’ve been tracking advancements in AI, you know the exploit window, the short buffer that organizations relied on to patch and protect after a vulnerability disclosure, is closing fast. Anthropic’s new model, Claude Mythos, and its Project Glasswing, showed that finding exploitable vulnerabilities and subtle cracks
 
-🔗 [Read Full Article](https://thehackernews.com/2026/04/why-secure-data-movement-is-zero-trust.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/04/after-mythos-new-playbooks-for-zero.html)
 
 
 ---
 
-### 📰 Chinese Silk Typhoon Hacker Extradited to U.S. Over COVID Research Cyberattacks
-**Category:** 📰 News
-**Time:** 15:53 UTC
+### 📰 Microsoft Patches Entra ID Role Flaw That Enabled Service Principal Takeover
+**Category:** 🔴 Vulnerability
+**Time:** 16:39 UTC
 
 **Summary:**  
-A Chinese national accused of being a member of the Silk Typhoon hacking group has been extradited to the U.S. from Italy.&nbsp; Xu Zewei, 34, was arrested in July 2025 by Italian authorities for his alleged links to the Chinese state-sponsored threat group and for orchestrating cyber attacks against American organizations and government agencies between February 2020 and June 2021, including
+An administrative role meant for artificial intelligence (AI) agents within Microsoft Entra ID could enable privilege escalation and identity takeover attacks, according to new findings from Silverfort. Agent ID Administrator is a privileged built-in role introduced by Microsoft as part of its agent identity platform to handle all aspects of an AI agent's identity lifecycle operations in a
 
-🔗 [Read Full Article](https://thehackernews.com/2026/04/chinese-silk-typhoon-hacker-extradited.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/04/microsoft-patches-entra-id-role-flaw.html)
+
+
+---
+
+### 📰 Microsoft Confirms Active Exploitation of Windows Shell CVE-2026-32202
+**Category:** 🔴 Vulnerability
+**Time:** 16:39 UTC
+
+**Summary:**  
+Microsoft on Monday revised its advisory for a now-patched, high-severity security flaw impacting Windows Shell to acknowledge that it has been actively exploited in the wild. The vulnerability in question is CVE-2026-32202 (CVSS score: 4.3), a spoofing vulnerability that could allow an attacker to access sensitive information. It was addressed as part of its Patch Tuesday update for this
+
+🔗 [Read Full Article](https://thehackernews.com/2026/04/microsoft-confirms-active-exploitation.html)
 
 
 ---
