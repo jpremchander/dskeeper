@@ -6,14 +6,26 @@ vulnerabilities, and exploitation activity for continuous learning.
 ---
 ## 📅 2026-04-29
 
-### 📰 LiteLLM CVE-2026-42208 SQL Injection Exploited within 36 Hours of Disclosure
+### 📰 Critical cPanel Authentication Vulnerability Identified — Update Your Server Immediately
 **Category:** 🔴 Vulnerability
-**Time:** 10:18 UTC
+**Time:** 11:08 UTC
 
 **Summary:**  
-In yet another instance of threat actors quickly jumping on the exploitation bandwagon, a newly disclosed critical security flaw in BerriAI's LiteLLM Python package has come under active exploitation in the wild within 36 hours of the bug becoming public knowledge. The vulnerability, tracked as CVE-2026-42208 (CVSS score: 9.3), is an SQL injection that could be exploited to modify the underlying
+cPanel has released security updates to address a security issue impacting various authentication paths that could allow an attacker to obtain access to the control panel software. The problem affects all currently supported versions, according to an alert released by cPanel on Tuesday. The issue has been addressed in the following versions -  11.110.0.97 11.118.0.63 11.126.0.54 11.132.0.29
 
-🔗 [Read Full Article](https://thehackernews.com/2026/04/litellm-cve-2026-42208-sql-injection.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/04/critical-cpanel-authentication.html)
+
+
+---
+
+### 📰 CISA Adds Actively Exploited ConnectWise and Windows Flaws to KEV
+**Category:** 🔴 Vulnerability
+**Time:** 11:08 UTC
+
+**Summary:**  
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added two security flaws impacting ConnectWise ScreenConnect and Microsoft Windows to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of active exploitation. The vulnerabilities are listed below -  CVE-2024-1708 (CVSS score: 8.4) - A path traversal vulnerability in&nbsp; ConnectWise ScreenConnect
+
+🔗 [Read Full Article](https://thehackernews.com/2026/04/cisa-adds-actively-exploited.html)
 
 
 ---
