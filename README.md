@@ -6,38 +6,38 @@ vulnerabilities, and exploitation activity for continuous learning.
 ---
 ## 📅 2026-04-30
 
-### 📰 PyTorch Lightning and Intercom-client Hit in Supply Chain Attacks to Steal Credentials
+### 📰 New Python Backdoor Uses Tunneling Service to Steal Browser and Cloud Credentials
 **Category:** 📰 News
-**Time:** 20:09 UTC
+**Time:** 20:39 UTC
 
 **Summary:**  
-In yet another software supply chain attack, threat actors have managed to compromise the popular Python package Lightning to push two malicious versions to conduct credential theft. According to Aikido Security, OX Security, Socket, and StepSecurity, the two malicious versions are versions 2.6.2 and 2.6.3, both of which were published on April 30, 2026. The campaign is assessed to be an
+Cybersecurity researchers have disclosed details of a stealthy Python-based backdoor framework called DEEP#DOOR that comes with capabilities to establish persistent access and harvest a wide range of sensitive information from compromised hosts. "The intrusion chain begins with execution of a batch script ('install_obf.bat') that disables Windows security controls, dynamically extracts an
 
-🔗 [Read Full Article](https://thehackernews.com/2026/04/pytorch-lightning-compromised-in-pypi.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/04/new-python-backdoor-uses-tunneling.html)
 
 
 ---
 
-### 📰 ThreatsDay Bulletin: SMS Blaster Busts, OpenEMR Flaws, 600K Roblox Hacks and 25 More Stories
+### 📰 EtherRAT Distribution Spoofing Administrative Tools via GitHub Facades
 **Category:** 📰 News
-**Time:** 20:09 UTC
+**Time:** 20:39 UTC
 
 **Summary:**  
-The internet is noisy this week. We are seeing some wild new tactics, like people using fake cell towers to send scam texts, while some developers are accidentally downloading tools that peek into their private files during a simple install. It is definitely a busy time to be online. Security is always a moving target. Millions of servers are currently sitting online without any passwords, and
+Intro A sophisticated, high-resilience malicious campaign was identified by Atos Threat Research Center (TRC) in March 2026. This operation specifically targets the high-privilege professional accounts of enterprise administrators, DevOps engineers, and security analysts by impersonating administrative utilities they rely on for daily operations. By integrating&nbsp;Search Engine Order (SEO)
 
-🔗 [Read Full Article](https://thehackernews.com/2026/04/threatsday-bulletin-sms-blaster-busts.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/04/etherrat-distribution-spoofing.html)
 
 
 ---
 
-### 📰 New Linux 'Copy Fail' Vulnerability Enables Root Access on Major Distributions
+### 📰 Google Fixes CVSS 10 Gemini CLI CI RCE and Cursor Flaws Enable Code Execution
 **Category:** 🔴 Vulnerability
-**Time:** 20:09 UTC
+**Time:** 20:39 UTC
 
 **Summary:**  
-Cybersecurity researchers have disclosed details of a Linux local privilege escalation (LPE) flaw that could allow an unprivileged local user to obtain root. The high-severity vulnerability tracked as CVE-2026-31431 (CVSS score: 7.8) has been codenamed Copy Fail by Xint.io and Theori. "An unprivileged local user can write four controlled bytes into the page cache of any readable file on a Linux
+Google has addressed a maximum severity security flaw in Gemini CLI -- the "@google/gemini-cli" npm package and the "google-github-actions/run-gemini-cli" GitHub Actions workflow -- that could have allowed attackers to execute arbitrary commands on host systems. "The vulnerability allowed an unprivileged external attacker to force their own malicious content to load as Gemini configuration,"
 
-🔗 [Read Full Article](https://thehackernews.com/2026/04/new-linux-copy-fail-vulnerability.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/04/google-fixes-cvss-10-gemini-cli-ci-rce.html)
 
 
 ---
