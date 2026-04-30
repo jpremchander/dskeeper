@@ -6,14 +6,14 @@ vulnerabilities, and exploitation activity for continuous learning.
 ---
 ## 📅 2026-04-30
 
-### 📰 Google Fixes CVSS 10 Gemini CLI CI RCE and Cursor Flaws Enable Code Execution
+### 📰 New Linux 'Copy Fail' Vulnerability Enables Root Access on Major Distributions
 **Category:** 🔴 Vulnerability
-**Time:** 07:20 UTC
+**Time:** 10:16 UTC
 
 **Summary:**  
-Google has addressed a maximum severity security flaw in Gemini CLI -- the "@google/gemini-cli" npm package and the "google-github-actions/run-gemini-cli" GitHub Actions workflow -- that could have allowed attackers to execute arbitrary commands on host systems. "The vulnerability allowed an unprivileged external attacker to force their own malicious content to load as Gemini configuration,"
+Cybersecurity researchers have disclosed details of a Linux local privilege escalation (LPE) flaw that could allow an unprivileged local user to obtain root. The high-severity vulnerability tracked as CVE-2026-31431 (CVSS score: 7.8) has been codenamed Copy Fail by Xint.io and Theori. "An unprivileged local user can write four controlled bytes into the page cache of any readable file on a Linux
 
-🔗 [Read Full Article](https://thehackernews.com/2026/04/google-fixes-cvss-10-gemini-cli-ci-rce.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/04/new-linux-copy-fail-vulnerability.html)
 
 
 ---
