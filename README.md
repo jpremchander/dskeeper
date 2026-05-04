@@ -6,14 +6,14 @@ vulnerabilities, and exploitation activity for continuous learning.
 ---
 ## 📅 2026-05-04
 
-### 📰 Global Crackdown Arrests 276, Shuts 9 Crypto Scam Centers, Seizes $701M
-**Category:** 📰 News
-**Time:** 06:29 UTC
+### 📰 Critical cPanel Vulnerability Weaponized to Target Government and MSP Networks
+**Category:** 🔴 Vulnerability
+**Time:** 11:16 UTC
 
 **Summary:**  
-A coordinated international operation involving U.S. and Chinese authorities has arrested at least 276 suspects and shut down nine scam centers used for cryptocurrency investment fraud schemes targeting Americans, resulting in millions of dollars in losses. The crackdown was led by the Dubai Police, under the United Arab Emirates (UAE) Ministry of Interior, in partnership with the U.S. Federal
+A previously unknown threat actor has been observed targeting government and military entities in Southeast Asia, alongside a smaller cluster of managed service providers (MSPs) and hosting providers in the Philippines, Laos, Canada, South Africa, and the U.S., by exploiting the recently disclosed vulnerability in cPanel. The activity, detected by Ctrl-Alt-Intel on May 2, 2026, involves the
 
-🔗 [Read Full Article](https://thehackernews.com/2026/05/global-crackdown-arrests-276-shuts-9.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/05/critical-cpanel-vulnerability.html)
 
 
 ---
