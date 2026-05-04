@@ -4,17 +4,3 @@ This repository tracks real-world cybersecurity threats,
 vulnerabilities, and exploitation activity for continuous learning.
 
 ---
-## 📅 2026-05-03
-
-### 📰 CISA Adds Actively Exploited Linux Root Access Bug CVE-2026-31431 to KEV
-**Category:** 🔴 Vulnerability
-**Time:** 07:17 UTC
-
-**Summary:**  
-The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a recently disclosed security flaw impacting various Linux distributions to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation in the wild. The vulnerability, tracked as CVE-2026-31431 (CVSS score: 7.8), is a case of local privilege escalation (LPE) flaw that could allow an
-
-🔗 [Read Full Article](https://thehackernews.com/2026/05/cisa-adds-actively-exploited-linux-root.html)
-
-
----
-
