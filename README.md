@@ -6,26 +6,26 @@ vulnerabilities, and exploitation activity for continuous learning.
 ---
 ## 📅 2026-05-05
 
-### 📰 Weaver E-cology RCE Flaw CVE-2026-22679 Actively Exploited via Debug API
-**Category:** 🔴 Vulnerability
-**Time:** 10:53 UTC
+### 📰 We Scanned 1 Million Exposed AI Services. Here's How Bad the Security Actually Is
+**Category:** 📰 News
+**Time:** 11:31 UTC
 
 **Summary:**  
-A critical security vulnerability in Weaver (Fanwei) E-cology, an enterprise office automation (OA) and collaboration platform, has come under active exploitation in the wild. The vulnerability (CVE-2026-22679, CVSS score: 9.8) relates to a case of unauthenticated remote code execution affecting Weaver E-cology 10.0 versions prior to 20260312. The issue resides in the "/papi/esearch/data/devops/
+While the software industry has made genuine strides over the past few decades to deliver products securely, the furious pace of AI adoption is putting that progress at risk. Businesses are moving fast to self-host LLM infrastructure, drawn by the promise of AI as a force multiplier and the pressure to deliver more value faster. But speed is coming at the expense of security. In the wake of the
 
-🔗 [Read Full Article](https://thehackernews.com/2026/05/weaver-e-cology-rce-flaw-cve-2026-22679.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/05/we-scanned-1-million-exposed-ai.html)
 
 
 ---
 
-### 📰 Microsoft Details Phishing Campaign Targeting 35,000 Users Across 26 Countries
+### 📰 ScarCruft Hacks Gaming Platform to Deploy BirdCall Malware on Android and Windows
 **Category:** 📰 News
-**Time:** 10:53 UTC
+**Time:** 11:31 UTC
 
 **Summary:**  
-Microsoft has disclosed details of a large-scale credential theft campaign that has leveraged a combination of code of conduct-themed lures and legitimate email services to direct users to attacker-controlled domains and steal authentication tokens. The multi-stage campaign, observed between April 14 and 16, 2026, targeted more than 35,000 users across over 13,000 organizations in 26 countries,
+The North Korea-aligned state-sponsored hacking group known as ScarCruft has compromised a video game platform in a supply chain espionage attack, trojanizing its components with a backdoor called BirdCallto likely target ethnic Koreans residing in China. While prior versions of the backdoor have primarily targeted Windows users only, the supply chain attack is assessed to have enabled the
 
-🔗 [Read Full Article](https://thehackernews.com/2026/05/microsoft-details-phishing-campaign.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/05/scarcruft-hacks-gaming-platform-to.html)
 
 
 ---
