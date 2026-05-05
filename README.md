@@ -6,50 +6,26 @@ vulnerabilities, and exploitation activity for continuous learning.
 ---
 ## 📅 2026-05-05
 
-### 📰 The Back Door Attackers Know About — and Most Security Teams Still Haven’t Closed
+### 📰 We Scanned 1 Million Exposed AI Services. Here's How Bad the Security Actually Is
 **Category:** 📰 News
-**Time:** 13:16 UTC
+**Time:** 14:16 UTC
 
 **Summary:**  
-Every AI tool, workflow automation, and productivity app your employees connected to Google or Microsoft this year left something behind: a persistent OAuth token with no expiration date, no automatic cleanup, and in most organizations, no one watching it. Your perimeter controls don't see it. Your MFA doesn't stop it. And when an attacker gets hold of one, they don't need a password. OAuth
+While the software industry has made genuine strides over the past few decades to deliver products securely, the furious pace of AI adoption is putting that progress at risk. Businesses are moving fast to self-host LLM infrastructure, drawn by the promise of AI as a force multiplier and the pressure to deliver more value faster. But speed is coming at the expense of security. In the wake of the
 
-🔗 [Read Full Article](https://thehackernews.com/2026/05/the-back-door-attackers-know-about-and.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/05/we-scanned-1-million-exposed-ai.html)
 
 
 ---
 
-### 📰 MetInfo CMS CVE-2026-29014 Exploited for Remote Code Execution Attacks
-**Category:** 🔴 Vulnerability
-**Time:** 13:16 UTC
-
-**Summary:**  
-Threat actors are actively exploiting a critical security flaw impacting an open-source content management system (CMS) known as MetInfo, according to new findings from VulnCheck. The vulnerability in question is CVE-2026-29014 (CVSS score: 9.8), a code injection flaw that could result in arbitrary code execution. "MetInfo CMS versions 7.9, 8.0, and 8.1 contain an unauthenticated PHP code
-
-🔗 [Read Full Article](https://thehackernews.com/2026/05/metinfo-cms-cve-2026-29014-exploited.html)
-
-
----
-
-### 📰 Weaver E-cology RCE Flaw CVE-2026-22679 Actively Exploited via Debug API
-**Category:** 🔴 Vulnerability
-**Time:** 13:16 UTC
-
-**Summary:**  
-A critical security vulnerability in Weaver (Fanwei) E-cology, an enterprise office automation (OA) and collaboration platform, has come under active exploitation in the wild. The vulnerability (CVE-2026-22679, CVSS score: 9.8) relates to a case of unauthenticated remote code execution affecting Weaver E-cology 10.0 versions prior to 20260312. The issue resides in the "/papi/esearch/data/devops/
-
-🔗 [Read Full Article](https://thehackernews.com/2026/05/weaver-e-cology-rce-flaw-cve-2026-22679.html)
-
-
----
-
-### 📰 Microsoft Details Phishing Campaign Targeting 35,000 Users Across 26 Countries
+### 📰 ScarCruft Hacks Gaming Platform to Deploy BirdCall Malware on Android and Windows
 **Category:** 📰 News
-**Time:** 13:16 UTC
+**Time:** 14:16 UTC
 
 **Summary:**  
-Microsoft has disclosed details of a large-scale credential theft campaign that has leveraged a combination of code of conduct-themed lures and legitimate email services to direct users to attacker-controlled domains and steal authentication tokens. The multi-stage campaign, observed between April 14 and 16, 2026, targeted more than 35,000 users across over 13,000 organizations in 26 countries,
+The North Korea-aligned state-sponsored hacking group known as ScarCruft has compromised a video game platform in a supply chain espionage attack, trojanizing its components with a backdoor called BirdCallto likely target ethnic Koreans residing in China. While prior versions of the backdoor have primarily targeted Windows users only, the supply chain attack is assessed to have enabled the
 
-🔗 [Read Full Article](https://thehackernews.com/2026/05/microsoft-details-phishing-campaign.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/05/scarcruft-hacks-gaming-platform-to.html)
 
 
 ---
