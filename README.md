@@ -6,26 +6,14 @@ vulnerabilities, and exploitation activity for continuous learning.
 ---
 ## 📅 2026-05-06
 
-### 📰 Google's Android Apps Get Public Verification to Stop Supply Chain Attacks
-**Category:** 📰 News
-**Time:** 11:40 UTC
-
-**Summary:**  
-Google has announced expanded Binary Transparency for Android as a way to safeguard the ecosystem from supply chain attacks. "This new public ledger ensures the Google apps on your device are exactly what we intended to build and distribute," Google's product and security teams said. The initiative builds upon the foundation of Pixel Binary Transparency, which Google introduced in October 2021
-
-🔗 [Read Full Article](https://thehackernews.com/2026/05/android-apps-get-public-verification.html)
-
-
----
-
-### 📰 Windows Phone Link Exploited by CloudZ RAT to Steal Credentials and OTPs
+### 📰 Palo Alto PAN-OS Flaw Under Active Exploitation Enables Remote Code Execution
 **Category:** 🔴 Vulnerability
-**Time:** 11:40 UTC
+**Time:** 12:18 UTC
 
 **Summary:**  
-Cybersecurity researchers have disclosed details of an intrusion that involved the use of a CloudZ remote access tool (RAT) and a previous undocumented plugin dubbed Pheno with the aim of facilitating credential theft. "According to the functionalities of the CloudZ RAT and Pheno plugin, this was with the intention of stealing victims' credentials and potentially one-time passwords (OTPs),"
+Palo Alto Networks has released an advisory warning that a critical buffer overflow vulnerability in its PAN-OS software has been exploited in the wild. The vulnerability, tracked as CVE-2026-0300, has been described as a case of unauthenticated remote code execution. It carries a CVSS score of 9.3 if the User-ID Authentication Portal is configured to enable access from the internet or any
 
-🔗 [Read Full Article](https://thehackernews.com/2026/05/windows-phone-link-exploited-by-cloudz.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/05/palo-alto-pan-os-flaw-under-active.html)
 
 
 ---
