@@ -6,14 +6,14 @@ vulnerabilities, and exploitation activity for continuous learning.
 ---
 ## 📅 2026-05-07
 
-### 📰 vm2 Node.js Library Vulnerabilities Enable Sandbox Escape and Arbitrary Code Execution
-**Category:** 🔴 Vulnerability, 📅 Webinar/Event
-**Time:** 11:15 UTC
+### 📰 PyPI Packages Deliver ZiChatBot Malware via Zulip APIs on Windows and Linux
+**Category:** 📰 News
+**Time:** 11:59 UTC
 
 **Summary:**  
-A dozen critical security vulnerabilities have been disclosed in the vm2 Node.js library that could be exploited by bad actors to break out of the sandbox and execute arbitrary code on susceptible systems. vm2 is an open-source library used to run untrusted JavaScript code inside a secure sandbox by intercepting and proxying JavaScript objects to prevent sandboxed code from accessing the host
+Cybersecurity researchers have discovered three packages on the Python Package Index (PyPI) repository that are designed to stealthily deliver a previously unknown malware family called&nbsp;ZiChatBot on Windows and Linux systems. "While these wheel packages do implement the features described on their PyPI web pages, their true purpose is to covertly deliver malicious files," Kaspersky&nbsp;
 
-🔗 [Read Full Article](https://thehackernews.com/2026/05/vm2-nodejs-library-vulnerabilities.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/05/pypi-packages-deliver-zichatbot-malware.html)
 
 
 ---
