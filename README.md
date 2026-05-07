@@ -6,50 +6,50 @@ vulnerabilities, and exploitation activity for continuous learning.
 ---
 ## 📅 2026-05-07
 
-### 📰 One Click, Total Shutdown: The "Patient Zero" Webinar on Killing Stealth Breaches
-**Category:** 📅 Webinar/Event
-**Time:** 22:37 UTC
-
-**Summary:**  
-The hardest part of cybersecurity isn't the technology, it’s the people. Every major breach you’ve read about lately usually starts the same way: one employee, one clever email, and one "Patient Zero" infection. In 2026, hackers are using AI to make these "first clicks" nearly impossible to spot. If a single laptop gets compromised on your watch, do you have a plan to stop it from taking down
-
-🔗 [Read Full Article](https://thehackernews.com/2026/05/one-click-total-shutdown-patient-zero.html)
-
-
----
-
-### 📰 ThreatsDay Bulletin: Edge Plaintext Passwords, ICS 0-Days, Patch-or-Die Alerts and 25+ New Stories
+### 📰 Ivanti EPMM CVE-2026-6973 RCE Under Active Exploitation Grants Admin-Level Access
 **Category:** 🔴 Vulnerability
-**Time:** 22:37 UTC
+**Time:** 23:07 UTC
 
 **Summary:**  
-Bad week. Turns out the easiest way to get hacked in 2026 is still the same old garbage: shady packages, fake apps, forgotten DNS junk, scam ads, and stolen logins getting dumped into Discord channels like it’s normal. Some of these attack chains don’t even feel sophisticated anymore. More like some tired guy with a Telegram account and too much free time. The worst part is how often this stuff
+Ivanti is warning that a new security flaw impacting Endpoint Manager Mobile (EPMM) has been explored in limited attacks in the wild. The high-severity vulnerability, CVE-2026-6973 (CVSS score: 7.2), is a case of improper input validation affecting EPMM before versions 12.6.1.1, 12.7.0.1, and 12.8.0.1. It allows "a remotely authenticated user with administrative access to achieve remote code
 
-🔗 [Read Full Article](https://thehackernews.com/2026/05/threatsday-bulletin-edge-plaintext.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/05/ivanti-epmm-cve-2026-6973-rce-under.html)
 
 
 ---
 
-### 📰 Day Zero Readiness: The Operational Gaps That Break Incident Response
+### 📰 PCPJack Credential Stealer Exploits 5 CVEs to Spread Worm-Like Across Cloud Systems
+**Category:** 🔴 Vulnerability
+**Time:** 23:07 UTC
+
+**Summary:**  
+Cybersecurity researchers have disclosed details of a new credential theft framework dubbed PCPJack that targets exposed cloud infrastructure and ousts any artifacts linked to TeamPCP from the environments. "The toolset harvests credentials from cloud, container, developer, productivity, and financial services, then exfiltrates the data through attacker-controlled infrastructure while attempting
+
+🔗 [Read Full Article](https://thehackernews.com/2026/05/pcpjack-credential-stealer-exploits-5.html)
+
+
+---
+
+### 📰 PAN-OS RCE Exploit Under Active Use Enabling Root Access and Espionage
+**Category:** 🔴 Vulnerability
+**Time:** 23:07 UTC
+
+**Summary:**  
+Palo Alto Networks has disclosed that threat actors may have attempted to unsuccessfully exploit a recently disclosed critical security flaw as early as April 9, 2026. The vulnerability in question is CVE-2026-0300 (CVSS score: 9.3/8.7), a buffer overflow vulnerability in the User-ID Authentication Portal service of Palo Alto Networks PAN-OS software that could allow an unauthenticated attacker
+
+🔗 [Read Full Article](https://thehackernews.com/2026/05/pan-os-rce-exploit-under-active-use.html)
+
+
+---
+
+### 📰 PyPI Packages Deliver ZiChatBot Malware via Zulip APIs on Windows and Linux
 **Category:** 📰 News
-**Time:** 22:37 UTC
+**Time:** 23:07 UTC
 
 **Summary:**  
-Having an incident response retainer, or even a pre-approved external incident response firm, is not the same as being ready for an incident. A retainer means someone will answer the phone. Operational readiness determines whether that team can do meaningful work the moment they do.&nbsp; That distinction matters far more than many organizations realize. In the first hours of a security incident
+Cybersecurity researchers have discovered three packages on the Python Package Index (PyPI) repository that are designed to stealthily deliver a previously unknown malware family called&nbsp;ZiChatBot on Windows and Linux systems. "While these wheel packages do implement the features described on their PyPI web pages, their true purpose is to covertly deliver malicious files," Kaspersky&nbsp;
 
-🔗 [Read Full Article](https://thehackernews.com/2026/05/day-zero-readiness-operational-gaps.html)
-
-
----
-
-### 📰 vm2 Node.js Library Vulnerabilities Enable Sandbox Escape and Arbitrary Code Execution
-**Category:** 🔴 Vulnerability, 📅 Webinar/Event
-**Time:** 22:37 UTC
-
-**Summary:**  
-A dozen critical security vulnerabilities have been disclosed in the vm2 Node.js library that could be exploited by bad actors to break out of the sandbox and execute arbitrary code on susceptible systems. vm2 is an open-source library used to run untrusted JavaScript code inside a secure sandbox by intercepting and proxying JavaScript objects to prevent sandboxed code from accessing the host
-
-🔗 [Read Full Article](https://thehackernews.com/2026/05/vm2-nodejs-library-vulnerabilities.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/05/pypi-packages-deliver-zichatbot-malware.html)
 
 
 ---
