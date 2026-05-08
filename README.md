@@ -6,38 +6,50 @@ vulnerabilities, and exploitation activity for continuous learning.
 ---
 ## 📅 2026-05-08
 
-### 📰 Fake Call History Apps Stole Payments From Users After 7.3 Million Play Store Downloads
+### 📰 TCLBANKER Banking Trojan Targets Financial Platforms via WhatsApp and Outlook Worms
 **Category:** 📰 News
-**Time:** 23:23 UTC
+**Time:** 23:49 UTC
 
 **Summary:**  
-Cybersecurity researchers have discovered fraudulent apps on the official Google Play Store for Android that falsely claimed to offer access to call histories for any phone number, only to trick users into joining a subscription that provided fake data and incurred financial loss. The 28 apps have collectively racked up more than 7.3 million downloads, with one of them alone accounting for over
+Threat hunters have flagged a previously undocumented Brazilian banking trojan dubbed TCLBANKER that's capable of targeting 59 banking, fintech, and cryptocurrency platforms. The activity is being tracked by Elastic Security Labs under the moniker REF3076. The malware family is assessed to be a major update of the Maverick, which is known to leverage a worm called SORVEPOTEL to spread via
 
-🔗 [Read Full Article](https://thehackernews.com/2026/05/fake-call-history-apps-stole-payments.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/05/tclbanker-banking-trojan-targets.html)
 
 
 ---
 
-### 📰 One Click, Total Shutdown: The "Patient Zero" Webinar on Killing Stealth Breaches
-**Category:** 📅 Webinar/Event
-**Time:** 23:23 UTC
+### 📰 Quasar Linux RAT Steals Developer Credentials for Software Supply Chain Compromise
+**Category:** 📰 News
+**Time:** 23:49 UTC
 
 **Summary:**  
-The hardest part of cybersecurity isn't the technology, it’s the people. Every major breach you’ve read about lately usually starts the same way: one employee, one clever email, and one "Patient Zero" infection. In 2026, hackers are using AI to make these "first clicks" nearly impossible to spot. If a single laptop gets compromised on your watch, do you have a plan to stop it from taking down
+A previously undocumented Linux implant codenamed Quasar Linux RAT (QLNX) is targeting developers' systems to establish a silent foothold as well as facilitate a broad range of post-compromise functionality, such as credential harvesting, keylogging, file manipulation, clipboard monitoring, and network tunneling. "QLNX targets developers and DevOps credentials across the software supply chain,"
 
-🔗 [Read Full Article](https://thehackernews.com/2026/05/one-click-total-shutdown-patient-zero.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/05/quasar-linux-rat-steals-developer.html)
 
 
 ---
 
-### 📰 Linux Kernel Dirty Frag LPE Exploit Enables Root Access Across Major Distributions
+### 📰 One Missed Threat Per Week: What 25M Alerts Reveal About Low-Severity Risk
+**Category:** 📰 News
+**Time:** 23:49 UTC
+
+**Summary:**  
+The dark secret of enterprise security operations is that defenders have quietly institutionalized the practice of not looking. This is not just anecdotal, but rather backed by a recent report investigating more than 25 million security alerts, including informational and low-severity, across live enterprise environments.&nbsp; The dataset behind these findings includes 10 million monitored
+
+🔗 [Read Full Article](https://thehackernews.com/2026/05/one-missed-threat-per-week-what-25m.html)
+
+
+---
+
+### 📰 New Linux PamDOORa Backdoor Uses PAM Modules to Steal SSH Credentials
 **Category:** 🔴 Vulnerability
-**Time:** 23:23 UTC
+**Time:** 23:49 UTC
 
 **Summary:**  
-Details have emerged about a new, unpatched local privilege escalation (LPE) vulnerability impacting the Linux kernel. Dubbed Dirty Frag, it has been described as a successor to Copy Fail (CVE-2026-31431, CVSS score: 7.8), a recently disclosed LPE flaw impacting the Linux kernel that has since come under active exploitation in the wild. The vulnerability was reported to Linux kernel maintainers
+Cybersecurity researchers have disclosed details of a new Linux backdoor named PamDOORa that's being advertised on the Rehub Russian cybercrime forum for $1,600 by a threat actor called "darkworm." The backdoor is designed as a Pluggable Authentication Module (PAM)-based post-exploitation toolkit that enables persistent SSH access by means of a magic password and specific TCP port combination.
 
-🔗 [Read Full Article](https://thehackernews.com/2026/05/linux-kernel-dirty-frag-lpe-exploit.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/05/new-linux-pamdoora-backdoor-uses-pam.html)
 
 
 ---
