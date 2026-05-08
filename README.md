@@ -6,38 +6,26 @@ vulnerabilities, and exploitation activity for continuous learning.
 ---
 ## 📅 2026-05-08
 
-### 📰 Quasar Linux RAT Steals Developer Credentials for Software Supply Chain Compromise
-**Category:** 📰 News
-**Time:** 14:44 UTC
+### 📰 One Click, Total Shutdown: The "Patient Zero" Webinar on Killing Stealth Breaches
+**Category:** 📅 Webinar/Event
+**Time:** 15:17 UTC
 
 **Summary:**  
-A previously undocumented Linux implant codenamed Quasar Linux RAT (QLNX) is targeting developers' systems to establish a silent foothold as well as facilitate a broad range of post-compromise functionality, such as credential harvesting, keylogging, file manipulation, clipboard monitoring, and network tunneling. "QLNX targets developers and DevOps credentials across the software supply chain,"
+The hardest part of cybersecurity isn't the technology, it’s the people. Every major breach you’ve read about lately usually starts the same way: one employee, one clever email, and one "Patient Zero" infection. In 2026, hackers are using AI to make these "first clicks" nearly impossible to spot. If a single laptop gets compromised on your watch, do you have a plan to stop it from taking down
 
-🔗 [Read Full Article](https://thehackernews.com/2026/05/quasar-linux-rat-steals-developer.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/05/one-click-total-shutdown-patient-zero.html)
 
 
 ---
 
-### 📰 One Missed Threat Per Week: What 25M Alerts Reveal About Low-Severity Risk
-**Category:** 📰 News
-**Time:** 14:44 UTC
-
-**Summary:**  
-The dark secret of enterprise security operations is that defenders have quietly institutionalized the practice of not looking. This is not just anecdotal, but rather backed by a recent report investigating more than 25 million security alerts, including informational and low-severity, across live enterprise environments.&nbsp; The dataset behind these findings includes 10 million monitored
-
-🔗 [Read Full Article](https://thehackernews.com/2026/05/one-missed-threat-per-week-what-25m.html)
-
-
----
-
-### 📰 New Linux PamDOORa Backdoor Uses PAM Modules to Steal SSH Credentials
+### 📰 Linux Kernel Dirty Frag LPE Exploit Enables Root Access Across Major Distributions
 **Category:** 🔴 Vulnerability
-**Time:** 14:44 UTC
+**Time:** 15:17 UTC
 
 **Summary:**  
-Cybersecurity researchers have disclosed details of a new Linux backdoor named PamDOORa that's being advertised on the Rehub Russian cybercrime forum for $1,600 by a threat actor called "darkworm." The backdoor is designed as a Pluggable Authentication Module (PAM)-based post-exploitation toolkit that enables persistent SSH access by means of a magic password and specific TCP port combination.
+Details have emerged about a new, unpatched local privilege escalation (LPE) vulnerability impacting the Linux kernel. Dubbed Dirty Frag, it has been described as a successor to Copy Fail (CVE-2026-31431, CVSS score: 7.8), a recently disclosed LPE flaw impacting the Linux kernel that has since come under active exploitation in the wild. The vulnerability was reported to Linux kernel maintainers
 
-🔗 [Read Full Article](https://thehackernews.com/2026/05/new-linux-pamdoora-backdoor-uses-pam.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/05/linux-kernel-dirty-frag-lpe-exploit.html)
 
 
 ---
