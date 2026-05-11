@@ -6,14 +6,26 @@ vulnerabilities, and exploitation activity for continuous learning.
 ---
 ## 📅 2026-05-11
 
-### 📰 Your Purple Team Isn't Purple — It's Just Red and Blue in the Same Room
-**Category:** 🔴 Vulnerability
-**Time:** 15:24 UTC
+### 📰 ⚡ Weekly Recap: Linux Rootkit, macOS Crypto Stealer, WebSocket Skimmers and More
+**Category:** 📰 News
+**Time:** 16:21 UTC
 
 **Summary:**  
-Defending a network at 2 am looks a lot like this: an analyst copy-pasting a hash from a PDF into a SIEM query. A red team script is being rewritten by hand so the blue team can use it. A patch waiting on a change-approval window that's longer than the exploitation window itself. Nobody in that chain is incompetent. Every human is doing their job correctly. The problem is the system, its
+Rough Monday. Somebody poisoned a trusted download again, somebody else turned cloud servers into public housing, and a few crews are still getting into boxes with bugs that should’ve died years ago — the same old holes, same lazy access paths, same “how the hell is this still open” feeling. One report this week basically reads like a guy tripped over root access by accident and decided to stay
 
-🔗 [Read Full Article](https://thehackernews.com/2026/05/your-purple-team-isnt-purple-its-just.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/05/weekly-recap-linux-rootkit-macos-crypto.html)
+
+
+---
+
+### 📰 Fake OpenAI Privacy Filter Repo Hits #1 on Hugging Face, Draws 244K Downloads
+**Category:** 📰 News
+**Time:** 16:21 UTC
+
+**Summary:**  
+A malicious Hugging Face repository managed to take a spot in the platform's trending list by impersonating OpenAI's Privacy Filter open-weight model to deliver a Rust-based information stealer to Windows users. The project, named Open-OSS/privacy-filter, masqueraded as its legitimate counterpart released by OpenAI late last month (openai/privacy-filter), including copying the entire description
+
+🔗 [Read Full Article](https://thehackernews.com/2026/05/fake-openai-privacy-filter-repo-hits-1.html)
 
 
 ---
