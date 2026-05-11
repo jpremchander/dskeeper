@@ -6,14 +6,14 @@ vulnerabilities, and exploitation activity for continuous learning.
 ---
 ## 📅 2026-05-11
 
-### 📰 Fake OpenAI Privacy Filter Repo Hits #1 on Hugging Face, Draws 244K Downloads
-**Category:** 📰 News
-**Time:** 08:13 UTC
+### 📰 Your Purple Team Isn't Purple — It's Just Red and Blue in the Same Room
+**Category:** 🔴 Vulnerability
+**Time:** 13:06 UTC
 
 **Summary:**  
-A malicious Hugging Face repository managed to take a spot in the platform's trending list by impersonating OpenAI's Privacy Filter open-weight model to deliver a Rust-based information stealer to Windows users. The project, named Open-OSS/privacy-filter, masqueraded as its legitimate counterpart, released by OpenAI late last month (openai/privacy-filter), including copying the entire
+Defending a network at 2 am looks a lot like this: an analyst copy-pasting a hash from a PDF into a SIEM query. A red team script is being rewritten by hand so the blue team can use it. A patch waiting on a change-approval window that's longer than the exploitation window itself. Nobody in that chain is incompetent. Every human is doing their job correctly. The problem is the system, its
 
-🔗 [Read Full Article](https://thehackernews.com/2026/05/fake-openai-privacy-filter-repo-hits-1.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/05/your-purple-team-isnt-purple-its-just.html)
 
 
 ---
