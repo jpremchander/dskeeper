@@ -6,26 +6,38 @@ vulnerabilities, and exploitation activity for continuous learning.
 ---
 ## 📅 2026-05-12
 
-### 📰 Mini Shai-Hulud Worm Compromises TanStack, Mistral AI, Guardrails AI & More Packages
+### 📰 Why Agentic AI Is Security's Next Blind Spot
 **Category:** 📰 News
-**Time:** 11:04 UTC
+**Time:** 11:55 UTC
 
 **Summary:**  
-TeamPCP, the threat actor behind the recent&nbsp;supply chain attack spree, has been linked to the compromise of the npm and PyPI packages from TanStack, UiPath, Mistral AI, OpenSearch, and Guardrails AI as part of a fresh Mini Shai-Hulud campaign. The affected npm packages have been modified to include an obfuscated JavaScript file ("router_init.js") that's designed to profile the execution
+Agentic AI is already running in production environments across many organizations today. It is executing tasks, consuming data, and taking actions — most likely without meaningful involvement from the security team. The industry conversation has largely framed this as a question of policy: allow it, restrict it, or monitor it? However, that framing misses the point.&nbsp; The more urgent
 
-🔗 [Read Full Article](https://thehackernews.com/2026/05/mini-shai-hulud-worm-compromises.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/05/why-agentic-ai-is-securitys-next-blind.html)
 
 
 ---
 
-### 📰 iOS 26.5 Brings Default End-to-End Encrypted RCS Messaging Between iPhone and Android
+### 📰 Instructure Reaches Ransom Agreement with ShinyHunters to Stop 3.65TB Canvas Leak
 **Category:** 📰 News
-**Time:** 11:04 UTC
+**Time:** 11:55 UTC
 
 **Summary:**  
-Apple on Monday officially released iOS 26.5 with support for end-to-end encryption (E2EE) to Rich Communication Services (RCS) in beta as part of a "cross-industry effort" to replace traditional SMS with a more secure alternative. To that end, E2EE RCS messaging is rolling out to iPhone users running iOS 26.5 with supported carriers and Android users on the latest version of Google Messages.
+American educational technology company Instructure, the parent company of Canvas, said it reached an "agreement" with a decentralized cybercrime extortion group after it breached its network and threatened to leak stolen information from thousands of schools and universities. In an update shared on Monday, the Utah-based firm said it "reached an agreement with the unauthorized actor involved in
 
-🔗 [Read Full Article](https://thehackernews.com/2026/05/ios-265-brings-default-end-to-end.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/05/instructure-reaches-ransom-agreement.html)
+
+
+---
+
+### 📰 OpenAI Launches Daybreak for AI-Powered Vulnerability Detection and Patch Validation
+**Category:** 🔴 Vulnerability
+**Time:** 11:55 UTC
+
+**Summary:**  
+OpenAI has launched Daybreak, a new cybersecurity initiative that brings together frontier artificial intelligence (AI) model capabilities and Codex Security to help organizations identify and patch vulnerabilities before attackers find a way in using the same issues. "Daybreak combines the intelligence of OpenAI models, the extensibility of Codex as an agentic harness, and our partners across
+
+🔗 [Read Full Article](https://thehackernews.com/2026/05/openai-launches-daybreak-for-ai-powered.html)
 
 
 ---
