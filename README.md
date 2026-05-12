@@ -6,14 +6,26 @@ vulnerabilities, and exploitation activity for continuous learning.
 ---
 ## 📅 2026-05-12
 
-### 📰 iOS 26.5 Brings Default End-to-End Encrypted RCS Messaging Between iPhone and Android
+### 📰 Instructure Reaches Ransom Agreement with ShinyHunters to Stop 3.65TB Canvas Leak
 **Category:** 📰 News
-**Time:** 07:05 UTC
+**Time:** 08:09 UTC
 
 **Summary:**  
-Apple on Monday officially released iOS 26.5 with support for end-to-end encryption (E2EE) to Rich Communication Services (RCS) in beta as part of a "cross-industry effort" to replace traditional SMS with a more secure alternative. To that end, E2EE RCS messaging is rolling out to iPhone users running iOS 26.5 with supported carriers and Android users on the latest version of Google Messages.
+American educational technology company Instructure, the parent company of Canvas, said it reached an "agreement" with a decentralized cybercrime extortion group after it breached its network and threatened to leak stolen information from thousands of schools and universities. In an update shared on Monday, the Utah-based firm said it "reached an agreement with the unauthorized actor involved in
 
-🔗 [Read Full Article](https://thehackernews.com/2026/05/ios-265-brings-default-end-to-end.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/05/instructure-reaches-ransom-agreement.html)
+
+
+---
+
+### 📰 OpenAI Launches Daybreak for AI-Powered Vulnerability Detection and Patch Validation
+**Category:** 🔴 Vulnerability
+**Time:** 08:09 UTC
+
+**Summary:**  
+OpenAI has launched Daybreak, a new cybersecurity initiative that brings together frontier artificial intelligence (AI) model capabilities and Codex Security to help organizations identify and patch vulnerabilities before attackers find a way in using the same issues. "Daybreak combines the intelligence of OpenAI models, the extensibility of Codex as an agentic harness, and our partners across
+
+🔗 [Read Full Article](https://thehackernews.com/2026/05/openai-launches-daybreak-for-ai-powered.html)
 
 
 ---
