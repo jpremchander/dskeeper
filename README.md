@@ -6,50 +6,62 @@ vulnerabilities, and exploitation activity for continuous learning.
 ---
 ## 📅 2026-05-14
 
-### 📰 Cisco Catalyst SD-WAN Controller Auth Bypass Actively Exploited to Gain Admin Access
-**Category:** 🔴 Vulnerability
-**Time:** 23:07 UTC
-
-**Summary:**  
-Cisco has released updates to address a maximum-severity authentication bypass flaw in Catalyst SD-WAN Controller that it said has been exploited in limited attacks. The vulnerability, tracked as CVE-2026-20182, carries a CVSS score of 10.0. "A vulnerability in the peering authentication in Cisco Catalyst SD-WAN Controller, formerly SD-WAN vSmart, and Cisco Catalyst SD-WAN Manager, formerly
-
-🔗 [Read Full Article](https://thehackernews.com/2026/05/cisco-catalyst-sd-wan-controller-auth.html)
-
-
----
-
-### 📰 Stealer Backdoor Found in 3 Node-IPC Versions Targeting Developer Secrets
-**Category:** 💡 Expert Insight
-**Time:** 23:07 UTC
-
-**Summary:**  
-Cybersecurity researchers are sounding the alarm about what has been described as "malicious activity" in newly published versions of node-ipc. According to Socket and StepSecurity, three different versions of the npm package have been confirmed as malicious -  node-ipc@9.1.6 node-ipc@9.2.3 node-ipc@12.0.1  "Early analysis indicates that node-ipc@9.1.6, node-ipc@9.2.3, and node-ipc@12.0.1
-
-🔗 [Read Full Article](https://thehackernews.com/2026/05/stealer-backdoor-found-in-3-node-ipc.html)
-
-
----
-
-### 📰 ThreatsDay Bulletin: PAN-OS RCE, Mythos cURL Bug, AI Tokenizer Attacks, and 10+ Stories
+### 📰 Ghostwriter Targets Ukrainian Government With Geofenced PDF Phishing, Cobalt Strike
 **Category:** 📰 News
-**Time:** 23:07 UTC
+**Time:** 23:34 UTC
 
 **Summary:**  
-Everything is still on fire. This week feels dumb in the worst way — bad links, weak checks, fake help desks, shady forum posts, and people turning supply chain attacks into some cursed little game for clout and cash. Half of it feels new. Half of it feels like crap we should have fixed years ago. The mess keeps getting louder: users get tricked, boxes get popped, tools meant for normal work
+The Belarus-aligned threat group known as Ghostwriter has been attributed to a fresh set of attacks targeting governmental organizations in Ukraine. Active since at least 2016, Ghostwriter has been linked to both cyber espionage and influence operations targeting neighboring countries, particularly Ukraine. It's also tracked under the monikers FrostyNeighbor, PUSHCHA, Storm-0257, TA445, UAC‑0057
 
-🔗 [Read Full Article](https://thehackernews.com/2026/05/threatsday-bulletin-pan-os-rce-mythos.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/05/ghostwriter-targets-ukrainian.html)
 
 
 ---
 
-### 📰 18-Year-Old NGINX Rewrite Module Flaw Enables Unauthenticated RCE
+### 📰 PraisonAI CVE-2026-44338 Auth Bypass Targeted Within Hours of Disclosure
 **Category:** 🔴 Vulnerability
-**Time:** 23:07 UTC
+**Time:** 23:34 UTC
 
 **Summary:**  
-Cybersecurity researchers have disclosed multiple security vulnerabilities impacting NGINX Plus and NGINX Open, including a critical flaw that remained undetected for 18 years. The vulnerability, discovered by depthfirst, is a heap buffer overflow issue impacting ngx_http_rewrite_module (CVE-2026-42945, CVSS v4 score: 9.2) that could allow an attacker to achieve remote code execution or cause a
+Threat actors have been observed attempting to exploit a recently disclosed security vulnerability in PraisonAI, an open-source multi-agent orchestration framework, within four hours of public disclosure. The vulnerability in question is CVE-2026-44338 (CVSS score: 7.3), a case of missing authentication that exposes sensitive endpoints to anyone, potentially allowing an attacker to invoke the
 
-🔗 [Read Full Article](https://thehackernews.com/2026/05/18-year-old-nginx-rewrite-module-flaw.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/05/praisonai-cve-2026-44338-auth-bypass.html)
+
+
+---
+
+### 📰 How AI Hallucinations Are Creating Real Security Risks
+**Category:** 🔴 Vulnerability
+**Time:** 23:34 UTC
+
+**Summary:**  
+AI hallucinations are introducing serious security risks into critical infrastructure decision-making by exploiting human trust through highly confident yet incorrect outputs. When an AI model lacks certainty, it doesn’t have a mechanism to recognize that. Instead, it generates the most probable response based on patterns in its training data, even if that response is inaccurate. These outputs
+
+🔗 [Read Full Article](https://thehackernews.com/2026/05/how-ai-hallucinations-are-creating-real.html)
+
+
+---
+
+### 📰 Windows Zero-Days Expose BitLocker Bypasses And CTFMON Privilege Escalation
+**Category:** 🔴 Vulnerability
+**Time:** 23:34 UTC
+
+**Summary:**  
+An anonymous cybersecurity researcher who disclosed three Microsoft Defender vulnerabilities has returned with two more zero-days involving a BitLocker bypass and a privilege escalation impacting Windows Collaborative Translation Framework (CTFMON). The security defects have been codenamed YellowKey and GreenPlasma, respectively, by the researcher, who goes by the online aliases Chaotic Eclipse
+
+🔗 [Read Full Article](https://thehackernews.com/2026/05/windows-zero-days-expose-bitlocker.html)
+
+
+---
+
+### 📰 New Fragnesia Linux Kernel LPE Grants Root Access via Page Cache Corruption
+**Category:** 🔴 Vulnerability
+**Time:** 23:34 UTC
+
+**Summary:**  
+Details have emerged about a new variant of the recent Dirty Frag Linux local privilege escalation (LPE) vulnerability that allows local attackers to gain root access, making it the third such bug to be identified in the kernel within a span of two weeks. Codenamed Fragnesia, the security vulnerability is tracked as CVE-2026-46300 (CVSS score: 7.8) and is rooted in the Linux kernel's XFRM
+
+🔗 [Read Full Article](https://thehackernews.com/2026/05/new-fragnesia-linux-kernel-lpe-grants.html)
 
 
 ---
