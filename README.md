@@ -6,38 +6,38 @@ vulnerabilities, and exploitation activity for continuous learning.
 ---
 ## 📅 2026-05-15
 
-### 📰 Turla Turns Kazuar Backdoor Into Modular P2P Botnet for Persistent Access
-**Category:** 📰 News
-**Time:** 22:34 UTC
+### 📰 What 45 Days of Watching Your Own Tools Will Tell You About Your Real Attack Surface
+**Category:** 💡 Expert Insight
+**Time:** 23:06 UTC
 
 **Summary:**  
-The Russian state-sponsored hacking group known as        Turla      has transformed its custom backdoor Kazuar into a modular peer-to-peer (P2P) botnet that's engineered for stealth and persistent access to compromised hosts.      Turla, per the U.S. Cybersecurity and Infrastructure Security Agency (CISA), is assessed to be affiliated with Center 16 of Russia's Federal Security Service (FSB)
+In Your Biggest Security Risk Isn't Malware — It's What You Already Trust, we made a simple argument: the most dangerous activity inside most organizations no longer looks like an attack. It looks like administration. PowerShell, WMIC, netsh, Certutil, MSBuild — the same trusted utilities your IT team uses every day are also the preferred toolkit of modern threat actors. Bitdefender's analysis
 
-🔗 [Read Full Article](https://thehackernews.com/2026/05/turla-turns-kazuar-backdoor-into.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/05/what-45-days-of-watching-your-own-tools.html)
 
 
 ---
 
-### 📰 Four OpenClaw Flaws Enable Data Theft, Privilege Escalation, and Persistence
+### 📰 TanStack Supply Chain Attack Hits Two OpenAI Employee Devices, Forces macOS Updates
 **Category:** 📰 News
-**Time:** 22:34 UTC
+**Time:** 23:06 UTC
 
 **Summary:**  
-Cybersecurity researchers have disclosed a set of four security flaws in OpenClaw that could be chained to achieve data theft, privilege escalation, and persistence.     The vulnerabilities, collectively dubbed        Claw Chain      by Cyera, can permit an attacker to establish a foothold, expose sensitive data, and plant backdoors. A brief description of the flaws is below -
+OpenAI has disclosed that two of its employee devices in its corporate environment were impacted via the Mini Shai-Hulud supply chain attack on TanStack, but noted that no user data, production systems, or intellectual property were compromised or modified in an unauthorized manner. "Upon identification of the malicious activity, we worked quickly to investigate, contain, and take steps to
 
-🔗 [Read Full Article](https://thehackernews.com/2026/05/four-openclaw-flaws-enable-data-theft.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/05/tanstack-supply-chain-attack-hits-two.html)
 
 
 ---
 
-### 📰 On-Prem Microsoft Exchange Server CVE-2026-42897 Exploited via Crafted Email
+### 📰 CISA Adds Cisco SD-WAN CVE-2026-20182 to KEV After Admin Access Exploits
 **Category:** 🔴 Vulnerability
-**Time:** 22:34 UTC
+**Time:** 23:06 UTC
 
 **Summary:**  
-Microsoft has disclosed a new security vulnerability impacting on-premise versions of Exchange Server that it said has come under active exploitation in the wild. The vulnerability, tracked as CVE-2026-42897 (CVSS score: 8.1), has been described as a spoofing bug stemming from a cross-site scripting flaw. An anonymous researcher has been credited with discovering and reporting the issue. "
+The U.S.Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added a newly disclosed vulnerability impacting Cisco Catalyst SD-WAN Controller to its Known Exploited Vulnerabilities (KEV) catalog, requiring Federal Civilian Executive Branch (FCEB) agencies to remediate the issue by May 17, 2026. The vulnerability is a critical authentication bypass tracked as CVE-2026-20182. It's
 
-🔗 [Read Full Article](https://thehackernews.com/2026/05/on-prem-microsoft-exchange-server-cve.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/05/cisa-adds-cisco-sd-wan-cve-2026-20182.html)
 
 
 ---
