@@ -6,14 +6,14 @@ vulnerabilities, and exploitation activity for continuous learning.
 ---
 ## 📅 2026-05-15
 
-### 📰 CISA Adds Cisco SD-WAN CVE-2026-20182 to KEV After Admin Access Exploits
+### 📰 On-Prem Microsoft Exchange Server CVE-2026-42897 Exploited via Crafted Email
 **Category:** 🔴 Vulnerability
-**Time:** 10:36 UTC
+**Time:** 11:30 UTC
 
 **Summary:**  
-The U.S.Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added a newly disclosed vulnerability impacting Cisco Catalyst SD-WAN Controller to its Known Exploited Vulnerabilities (KEV) catalog, requiring Federal Civilian Executive Branch (FCEB) agencies to remediate the issue by May 17, 2026. The vulnerability is a critical authentication bypass tracked as CVE-2026-20182. It's
+Microsoft has disclosed a new security vulnerability impacting on-premise versions of Exchange Server that it said has come under active exploitation in the wild. The vulnerability, tracked as CVE-2026-42897 (CVSS score: 8.1), has been described as a spoofing bug stemming from a cross-site scripting flaw. An anonymous researcher has been credited with discovering and reporting the issue. "
 
-🔗 [Read Full Article](https://thehackernews.com/2026/05/cisa-adds-cisco-sd-wan-cve-2026-20182.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/05/on-prem-microsoft-exchange-server-cve.html)
 
 
 ---
