@@ -4,3 +4,17 @@ This repository tracks real-world cybersecurity threats,
 vulnerabilities, and exploitation activity for continuous learning.
 
 ---
+## 📅 2026-05-16
+
+### 📰 Funnel Builder Flaw Under Active Exploitation Enables WooCommerce Checkout Skimming
+**Category:** 🔴 Vulnerability
+**Time:** 16:34 UTC
+
+**Summary:**  
+A critical security vulnerability impacting the   Funnel Builder   plugin for WordPress has come under active exploitation in the wild to   inject malicious JavaScript code   into WooCommerce checkout pages with the goal of stealing payment data.      Details of the activity were   published   by Sansec this week. The vulnerability currently does not have an official CVE identifier. It
+
+🔗 [Read Full Article](https://thehackernews.com/2026/05/funnel-builder-flaw-under-active.html)
+
+
+---
+
