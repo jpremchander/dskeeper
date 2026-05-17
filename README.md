@@ -6,14 +6,14 @@ vulnerabilities, and exploitation activity for continuous learning.
 ---
 ## 📅 2026-05-17
 
-### 📰 NGINX CVE-2026-42945 Exploited in the Wild, Causing Worker Crashes and Possible RCE
-**Category:** 🔴 Vulnerability
-**Time:** 21:05 UTC
+### 📰 Grafana GitHub Token Breach Led to Codebase Download and Extortion Attempt
+**Category:** 📰 News
+**Time:** 21:34 UTC
 
 **Summary:**  
-A newly disclosed security flaw impacting NGINX Plus and NGINX Open has come under active exploitation in the wild, days after its public disclosure, according to VulnCheck. The vulnerability, tracked as CVE-2026-42945 (CVSS score: 9.2), is a heap buffer overflow in ngx_http_rewrite_module affecting NGINX versions 0.6.27 through 1.30.0. According to AI-native security company depthfirst, the
+Grafana has disclosed that an "unauthorized party" obtained a token that granted them the ability to access the company's GitHub environment and download its codebase.     "Our investigation has determined that no customer data or personal information was accessed during this incident, and we have found no evidence of impact to customer systems or operations," Grafana   said   in a series of
 
-🔗 [Read Full Article](https://thehackernews.com/2026/05/nginx-cve-2026-42945-exploited-in-wild.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/05/grafana-github-token-breach-led-to.html)
 
 
 ---
