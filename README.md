@@ -6,50 +6,26 @@ vulnerabilities, and exploitation activity for continuous learning.
 ---
 ## 📅 2026-05-18
 
-### 📰 Developer Workstations Are Now Part of the Software Supply Chain
+### 📰 How to Reduce Phishing Exposure Before It Turns into Business Disruption
 **Category:** 📰 News
-**Time:** 12:44 UTC
+**Time:** 14:03 UTC
 
 **Summary:**  
-Supply chain attackers are not only trying to slip malicious code into trusted software. They are trying to steal the access that makes trusted software possible. Recently, three separate campaigns hit npm, PyPI, and Docker Hub in a 48-hour window, and all three targeted secrets from developer environments and CI/CD pipelines, including API keys, cloud credentials, SSH keys, and tokens. This is
+What happens when a phishing email looks clean enough to pass through security, but dangerous enough to expose the business after one click? That is the gap many SOCs still struggle with: the attacks that leave teams unsure what was exposed, who else was targeted, and how far the risk has spread. Early phishing detection closes that gap. It helps teams move from uncertainty to evidence faster,
 
-🔗 [Read Full Article](https://thehackernews.com/2026/05/developer-workstations-are-now-part-of.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/05/how-to-reduce-phishing-exposure-before.html)
 
 
 ---
 
-### 📰 Ivanti, Fortinet, SAP, VMware, n8n Patch RCE, SQL Injection, Privilege Escalation Flaws
-**Category:** 🔴 Vulnerability
-**Time:** 12:44 UTC
+### 📰 Four Malicious npm Packages Deliver Infostealers and Phantom Bot DDoS Malware
+**Category:** 📰 News
+**Time:** 14:03 UTC
 
 **Summary:**  
-Ivanti, Fortinet, n8n, SAP, and VMware have released security fixes for various vulnerabilities that could be exploited by bad actors to bypass authentication and execute arbitrary code. Topping the list is a critical flaw impacting Ivanti Xtraction (CVE-2026-8043, CVSS score: 9.6) that could be exploited to achieve information disclosure or client-side attacks. "External control of a file name
+Cybersecurity researchers have discovered four new npm packages containing information-stealing malware, one of which is a clone of the Shai-Hulud worm open-sourced by TeamPCP. The list of identified packages is below -  chalk-tempalte (825 Downloads) @deadcode09284814/axios-util (284 Downloads) axois-utils (963 Downloads) color-style-utils (934 Downloads)  "One of the packages (chalk-tempalte)
 
-🔗 [Read Full Article](https://thehackernews.com/2026/05/ivanti-fortinet-sap-vmware-n8n-patch.html)
-
-
----
-
-### 📰 MiniPlasma Windows 0-Day Enables SYSTEM Privilege Escalation on Fully Patched Systems
-**Category:** 🔴 Vulnerability
-**Time:** 12:44 UTC
-
-**Summary:**  
-Chaotic Eclipse, the security researcher behind the recently disclosed Windows flaws, YellowKey and GreenPlasma, has released a proof-of-concept (PoC) for a Windows privilege escalation zero-day flaw that grants attackers SYSTEM privileges on fully patched Windows systems. Codenamed MiniPlasma, the vulnerability impacts "cldflt.sys," which refers to the Windows Cloud Files Mini Filter Driver,
-
-🔗 [Read Full Article](https://thehackernews.com/2026/05/miniplasma-windows-0-day-enables-system.html)
-
-
----
-
-### 📰 Pre-Stuxnet Fast16 Malware Tampered with Nuclear Weapons Simulations
-**Category:** 💡 Expert Insight
-**Time:** 12:44 UTC
-
-**Summary:**  
-A new analysis of the Lua-based fast16 malware has confirmed that it was a cyber sabotage tool designed to tamper with nuclear weapons testing simulations. According to Broadcom-owned Symantec and Carbon Black teams, the pre-Stuxnet tool was engineered to corrupt uranium-compression simulations that are central to nuclear weapon design. "Fast16's hook engine is selectively interested in
-
-🔗 [Read Full Article](https://thehackernews.com/2026/05/pre-stuxnet-fast16-malware-tampered.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/05/four-malicious-npm-packages-deliver.html)
 
 
 ---
