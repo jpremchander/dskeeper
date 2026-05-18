@@ -6,26 +6,14 @@ vulnerabilities, and exploitation activity for continuous learning.
 ---
 ## 📅 2026-05-18
 
-### 📰 Pre-Stuxnet Fast16 Malware Tampered with Nuclear Weapons Simulations
-**Category:** 💡 Expert Insight
-**Time:** 09:48 UTC
+### 📰 Four Malicious npm Packages Deliver Infostealers and Phantom Bot DDoS Malware
+**Category:** 📰 News
+**Time:** 11:24 UTC
 
 **Summary:**  
-A new analysis of the Lua-based fast16 malware has confirmed that it was a cyber sabotage tool designed to tamper with nuclear weapons testing simulations. According to Broadcom-owned Symantec and Carbon Black teams, the pre-Stuxnet tool was engineered to corrupt uranium-compression simulations that are central to nuclear weapon design. "Fast16's hook engine is selectively interested in
+Cybersecurity researchers have discovered four new npm packages containing information-stealing malware, one of which is a clone of the Shai-Hulud worm open-sourced by TeamPCP. The list of identified packages is below -  chalk-tempalte (825 Downloads) @deadcode09284814/axios-util (284 Downloads) axois-utils (963 Downloads) color-style-utils (934 Downloads)  "One of the packages (chalk-tempalte)
 
-🔗 [Read Full Article](https://thehackernews.com/2026/05/pre-stuxnet-fast16-malware-tampered.html)
-
-
----
-
-### 📰 MiniPlasma Windows 0-Day Enables SYSTEM Privilege Escalation on Fully Patched Systems
-**Category:** 🔴 Vulnerability
-**Time:** 09:48 UTC
-
-**Summary:**  
-Chaotic Eclipse, the security researcher behind the recently disclosed Windows flaws, YellowKey and GreenPlasma, has released a proof-of-concept (PoC) for a Windows privilege escalation zero-day flaw that grants attackers SYSTEM privileges on fully patched Windows systems. Codenamed MiniPlasma, the vulnerability impacts "cldflt.sys," which refers to the Windows Cloud Files Mini Filter Driver,
-
-🔗 [Read Full Article](https://thehackernews.com/2026/05/miniplasma-windows-0-day-enables-system.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/05/four-malicious-npm-packages-deliver.html)
 
 
 ---
