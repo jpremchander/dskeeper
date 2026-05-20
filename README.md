@@ -6,26 +6,26 @@ vulnerabilities, and exploitation activity for continuous learning.
 ---
 ## 📅 2026-05-20
 
-### 📰 Microsoft Releases Mitigation for YellowKey BitLocker Bypass CVE-2026-45585 Exploit
-**Category:** 🔴 Vulnerability
-**Time:** 10:34 UTC
+### 📰 Typosquatting Is No Longer a User Problem. It's a Supply Chain Problem
+**Category:** 💡 Expert Insight
+**Time:** 11:42 UTC
 
 **Summary:**  
-Microsoft on Tuesday released a mitigation for a BitLocker bypass vulnerability named YellowKey following its public disclosure last week.  The zero-day flaw, now tracked as CVE-2026-45585, carries a CVSS score of 6.8. It has been described as a BitLocker security feature bypass.  "Microsoft is aware of a security feature bypass vulnerability in Windows publicly referred to as 'YellowKey,'" the
+AI-generated lookalike domains are now embedded inside the third-party scripts running on your web properties. Here's why your current stack can't see them, and what detection actually requires. Download the CISO Expert Guide to Typosquatting in the AI Era →   TL;DR&nbsp;     Typosquatting is no longer a user problem. Attackers now embed lookalike domains inside legitimate third-party scripts.
 
-🔗 [Read Full Article](https://thehackernews.com/2026/05/microsoft-releases-mitigation-for.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/05/typosquatting-is-no-longer-user-problem.html)
 
 
 ---
 
-### 📰 GitHub Breached — Employee Device Hack Led to Exfiltration of 3,800+ Internal Repos
+### 📰 Grafana GitHub Breach Exposes Source Code via TanStack npm Attack
 **Category:** 📰 News
-**Time:** 10:34 UTC
+**Time:** 11:42 UTC
 
 **Summary:**  
-GitHub on Tuesday said it's investigating unauthorized access to its internal repositories after the notorious threat actor known as TeamPCP listed the platform's source code and internal organizations for sale on a cybercrime forum.  "While we currently have no evidence of impact to customer information stored outside of GitHub's internal repositories (such as our customers' enterprises,
+Grafana Labs, on May 19, 2026, said an investigation into its recent breach found no evidence of customer production systems or operations being compromised.  It said the scope of the incident is limited to the Grafana Labs GitHub environment, which includes public and private source code along with internal GitHub repositories.  "After the initial assessment, we found that in addition to source
 
-🔗 [Read Full Article](https://thehackernews.com/2026/05/github-investigating-teampcp-claimed.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/05/grafana-github-breach-exposes-source.html)
 
 
 ---
