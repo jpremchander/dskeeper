@@ -6,50 +6,26 @@ vulnerabilities, and exploitation activity for continuous learning.
 ---
 ## 📅 2026-05-20
 
-### 📰 Webworm Deploys EchoCreep and GraphWorm Backdoors Using Discord and MS Graph API
+### 📰 GitHub Breached — Employee Device Hack Led to Exfiltration of 3,800+ Internal Repos
 **Category:** 📰 News
-**Time:** 13:40 UTC
+**Time:** 14:42 UTC
 
 **Summary:**  
-Cybersecurity researchers have flagged fresh activity from a China-aligned threat actor known as Webworm in 2025, deploying custom backdoors that employ Discord and Microsoft Graph API for command-and-control (C2 or C&amp;C) communications.  Webworm, first publicly documented by Broadcom-owned Symantec in September 2022, is assessed to be active since at least 2022, targeting government agencies
+GitHub on Tuesday said it's investigating unauthorized access to its internal repositories after the notorious threat actor known as TeamPCP listed the platform's source code and internal organizations for sale on a cybercrime forum.  "While we currently have no evidence of impact to customer information stored outside of GitHub's internal repositories (such as our customers' enterprises,
 
-🔗 [Read Full Article](https://thehackernews.com/2026/05/webworm-deploys-echocreep-and-graphworm.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/05/github-investigating-teampcp-claimed.html)
 
 
 ---
 
-### 📰 Agent AI is Coming. Are You Ready?
-**Category:** 📰 News
-**Time:** 13:40 UTC
+### 📰 Microsoft Releases Mitigation for YellowKey BitLocker Bypass CVE-2026-45585 Exploit
+**Category:** 🔴 Vulnerability
+**Time:** 14:42 UTC
 
 **Summary:**  
-New Industry Data Just Released Suggests Not.  On May 19th, 2026, Orchid Security released the results of our Identity Gap: Snapshot 2026. Among the findings, "identity dark matter" (the unseen, unmanaged elements of identity) now overshadows the visible elements 57% vs. 43%. And it couldn't have occurred at a worse time, with enterprises embracing Agent AI with both arms (and unfortunately, as
+Microsoft on Tuesday released a mitigation for a BitLocker bypass vulnerability named YellowKey following its public disclosure last week.  The zero-day flaw, now tracked as CVE-2026-45585, carries a CVSS score of 6.8. It has been described as a BitLocker security feature bypass.  "Microsoft is aware of a security feature bypass vulnerability in Windows publicly referred to as 'YellowKey,'" the
 
-🔗 [Read Full Article](https://thehackernews.com/2026/05/agent-ai-is-coming-are-you-ready.html)
-
-
----
-
-### 📰 Typosquatting Is No Longer a User Problem. It's a Supply Chain Problem
-**Category:** 💡 Expert Insight
-**Time:** 13:40 UTC
-
-**Summary:**  
-AI-generated lookalike domains are now embedded inside the third-party scripts running on your web properties. Here's why your current stack can't see them, and what detection actually requires. Download the CISO Expert Guide to Typosquatting in the AI Era →   TL;DR&nbsp;     Typosquatting is no longer a user problem. Attackers now embed lookalike domains inside legitimate third-party scripts.
-
-🔗 [Read Full Article](https://thehackernews.com/2026/05/typosquatting-is-no-longer-user-problem.html)
-
-
----
-
-### 📰 Grafana GitHub Breach Exposes Source Code via TanStack npm Attack
-**Category:** 📰 News
-**Time:** 13:40 UTC
-
-**Summary:**  
-Grafana Labs, on May 19, 2026, said an investigation into its recent breach found no evidence of customer production systems or operations being compromised.  It said the scope of the incident is limited to the Grafana Labs GitHub environment, which includes public and private source code along with internal GitHub repositories.  "After the initial assessment, we found that in addition to source
-
-🔗 [Read Full Article](https://thehackernews.com/2026/05/grafana-github-breach-exposes-source.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/05/microsoft-releases-mitigation-for.html)
 
 
 ---
