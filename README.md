@@ -6,14 +6,38 @@ vulnerabilities, and exploitation activity for continuous learning.
 ---
 ## 📅 2026-05-21
 
-### 📰 9-Year-Old Linux Kernel Flaw Enables Root Command Execution on Major Distros
-**Category:** 🔴 Vulnerability
-**Time:** 09:47 UTC
+### 📰 When Identity is the Attack Path
+**Category:** 📰 News
+**Time:** 11:08 UTC
 
 **Summary:**  
-Cybersecurity researchers have disclosed details of a vulnerability in the Linux kernel that remained undetected for nine years.  The vulnerability, tracked as CVE-2026-46333 (CVSS score: 5.5), is a case of improper privilege management that could permit an unprivileged local user to disclose sensitive files and execute arbitrary commands as root on default installations of several major
+Consider a cached access key on a single Windows machine. It got there the way most cached credentials do - a user logged in, and the key stored itself automatically. Standard AWS behavior. No one misconfigured anything or violated a policy. Yet that single key, which was easily accessible to a minor-league attacker, could have opened a path to some 98% of entities in the company's cloud
 
-🔗 [Read Full Article](https://thehackernews.com/2026/05/9-year-old-linux-kernel-flaw-enables.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/05/when-identity-is-attack-path.html)
+
+
+---
+
+### 📰 GitHub Internal Repositories Breached via Malicious Nx Console VS Code Extension
+**Category:** 📰 News
+**Time:** 11:08 UTC
+
+**Summary:**  
+GitHub on Wednesday officially confirmed that the breach of its internal repositories was the result of a compromise of an employee device involving a poisoned version of the Nx Console Microsoft Visual Studio Code (VS Code) extension.&nbsp;  The development comes as the Nx team revealed that the extension, nrwl.angular-console, was breached after one of its developers' systems was hacked in the
+
+🔗 [Read Full Article](https://thehackernews.com/2026/05/github-internal-repositories-breached.html)
+
+
+---
+
+### 📰 Highly Critical Drupal Core Flaw Exposes PostgreSQL Sites to RCE Attacks
+**Category:** 🔴 Vulnerability
+**Time:** 11:08 UTC
+
+**Summary:**  
+Drupal has released security updates for a "highly critical" security vulnerability in Drupal Core that could be exploited by attackers to achieve remote code execution, privilege escalation, or information disclosure. The vulnerability, now tracked as CVE-2026-9082, carries a CVSS score of 6.5 out of 10.0, per CVE.org. Drupal said the vulnerability resides in a database abstraction API that is
+
+🔗 [Read Full Article](https://thehackernews.com/2026/05/highly-critical-drupal-core-flaw.html)
 
 
 ---
