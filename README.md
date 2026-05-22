@@ -6,14 +6,14 @@ vulnerabilities, and exploitation activity for continuous learning.
 ---
 ## 📅 2026-05-22
 
-### 📰 Cisco Patches CVSS 10.0 Secure Workload REST API Flaw Enabling Data Access
+### 📰 CISA Adds Exploited Langflow and Trend Micro Apex One Vulnerabilities to KEV
 **Category:** 🔴 Vulnerability
-**Time:** 05:55 UTC
+**Time:** 07:24 UTC
 
 **Summary:**  
-Cisco has rolled out updates for a maximum-severity security flaw impacting Secure Workload that could allow an unauthenticated, remote attacker to access sensitive data.  Tracked as CVE-2026-20223 (CVSS score: 10.0), the vulnerability arises from insufficient validation and authentication when accessing REST API endpoints.  "An attacker could exploit this vulnerability if they are able to send
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added two security flaws impacting Langflow and Trend Micro Apex One to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.  The vulnerabilities in question are listed below -     CVE-2025-34291 (CVSS score: 9.4) - An origin validation error vulnerability in Langflow that could
 
-🔗 [Read Full Article](https://thehackernews.com/2026/05/cisco-patches-cvss-100-secure-workload.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/05/cisa-adds-exploited-langflow-and-trend.html)
 
 
 ---
