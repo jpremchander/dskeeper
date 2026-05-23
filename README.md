@@ -6,26 +6,14 @@ vulnerabilities, and exploitation activity for continuous learning.
 ---
 ## 📅 2026-05-23
 
-### 📰 LiteSpeed cPanel Plugin CVE-2026-48172 Exploited to Run Scripts as Root
-**Category:** 🔴 Vulnerability
-**Time:** 10:58 UTC
+### 📰 Laravel-Lang PHP Packages Compromised to Deliver Cross-Platform Credential Stealer
+**Category:** 📰 News
+**Time:** 11:32 UTC
 
 **Summary:**  
-A maximum-severity security vulnerability impacting LiteSpeed User-End cPanel Plugin has come under active exploitation in the wild.  The flaw, tracked as CVE-2026-48172 (CVSS score: 10.0), relates to an instance of incorrect privilege assignment that an attacker could abuse to run arbitrary scripts with elevated permissions.  "Any cPanel user (including an attacker or a compromised account) may
+Cybersecurity researchers have flagged a fresh software supply chain attack campaign that has targeted multiple PHP packages belonging to  Laravel-Lang to deliver a comprehensive credential-stealing framework.  The affected packages include -     laravel-lang/lang   laravel-lang/http-statuses   laravel-lang/attributes   laravel-lang/actions  "The timing and pattern of the newly published tags
 
-🔗 [Read Full Article](https://thehackernews.com/2026/05/litespeed-cpanel-plugin-cve-2026-48172.html)
-
-
----
-
-### 📰 Drupal Core SQL Injection Bug Actively Exploited, Added to CISA KEV
-**Category:** 🔴 Vulnerability
-**Time:** 10:58 UTC
-
-**Summary:**  
-The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a recently patched critical security flaw impacting Drupal Core to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of active exploitation.  The vulnerability in question is CVE-2026-9082 (CVSS score: 6.5), an SQL injection vulnerability affecting all supported versions of Drupal Core.  "Drupal Core
-
-🔗 [Read Full Article](https://thehackernews.com/2026/05/drupal-core-sql-injection-bug-actively.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/05/laravel-lang-php-packages-compromised.html)
 
 
 ---
