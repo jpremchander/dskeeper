@@ -6,14 +6,14 @@ vulnerabilities, and exploitation activity for continuous learning.
 ---
 ## 📅 2026-05-25
 
-### 📰 TrapDoor Supply Chain Attack Spreads Credential-Stealing Malware via npm, PyPI, and CratesIO
+### 📰 Lazarus Deploys RemotePE Memory-Only RAT Against Financial and Crypto Firms
 **Category:** 📰 News
-**Time:** 07:10 UTC
+**Time:** 11:38 UTC
 
 **Summary:**  
-A new coordinated cross-ecosystem software supply chain attack campaign has targeted npm, PyPI, and Crates.io to distribute credential-stealing malware.  The campaign, codenamed TrapDoor, spans more than 34 malicious packages across over 384 versions. The earliest activity was recorded on May 22, 2026, at 8:20 p.m. UTC, with new packages published to the ecosystems in waves from a cluster of
+Cybersecurity researchers have shed light on a cross-platform malware called RemotePE that has been put to use by the North Korea-linked Lazarus Group in attacks targeting financial and cryptocurrency organizations.  RemotePE, per NCC Group subsidiary Fox-IT, is part of a multi-stage attack chain that involves two loaders tracked as DPAPILoader and RemotePELoader.  "DPAPILoader decrypts and
 
-🔗 [Read Full Article](https://thehackernews.com/2026/05/trapdoor-supply-chain-attack-spreads.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/05/lazarus-deploys-remotepe-memory-only.html)
 
 
 ---
