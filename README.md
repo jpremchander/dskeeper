@@ -6,14 +6,14 @@ vulnerabilities, and exploitation activity for continuous learning.
 ---
 ## 📅 2026-05-26
 
-### 📰 KnowledgeDeliver LMS Flaw Exploited to Deploy Godzilla and Cobalt Strike
-**Category:** 🔴 Vulnerability
-**Time:** 06:47 UTC
+### 📰 Iranian Hackers Deploy MiniFast and MiniJunk V2 via Phishing and SEO Poisoning
+**Category:** 📰 News
+**Time:** 09:48 UTC
 
 **Summary:**  
-A now-patched high-severity security flaw affecting Digital Knowledge KnowledgeDeliver, a Learning Management System (LMS) popular in Japan, was exploited as a zero-day to deliver the Godzilla web shell and ultimately facilitate the deployment of Cobalt Strike Beacon.  The vulnerability, tracked as CVE-2026-5426 (CVSS score: 7.5), stems from the use of hard-coded ASP.NET machine keys, leading to
+The Iranian state-sponsored threat actor known as Nimbus Manticore (aka Screening Serpens and UNC1549) has been attributed to a fresh campaign using lures impersonating organizations in the aviation and software sectors across the U.S., Europe, and the Middle East following the joint U.S.-Israeli military campaign against the country in late February 2026.  The activity, besides embracing
 
-🔗 [Read Full Article](https://thehackernews.com/2026/05/knowledgedeliver-lms-flaw-exploited-to.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/05/iranian-hackers-deploy-minifast-and.html)
 
 
 ---
