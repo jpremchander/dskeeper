@@ -6,50 +6,38 @@ vulnerabilities, and exploitation activity for continuous learning.
 ---
 ## 📅 2026-05-27
 
-### 📰 Grandoreiro Malware and BTMOB RAT Campaigns Target Windows and Android Users
+### 📰 5 Steps to Managing Shadow AI Tools Without Slowing Down Employees
 **Category:** 📰 News
-**Time:** 18:52 UTC
+**Time:** 19:43 UTC
 
 **Summary:**  
-Latin America and Europe become the target of two banking trojan campaigns that are designed to infect Windows and Android devices with Grandoreiro and BTMOB malware, respectively.  That's according to new findings from WatchGuard and ESET, which have observed the two malware families being used to single out companies in Spain, Portugal, and Mexico, as well as mobile users in Brazil.  The
+When an employee installs an AI writing assistant, connects a coding copilot to their IDE, or starts summarizing meetings with a new browser tool, they are doing exactly what a productive employee should do: finding faster ways to work.  Across most organizations today, employees are running three to five AI tools on any given day. Most were never reviewed by IT. A significant portion connects
 
-🔗 [Read Full Article](https://thehackernews.com/2026/05/grandoreiro-malware-and-btmob-rat.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/05/5-steps-to-managing-shadow-ai-tools.html)
 
 
 ---
 
-### 📰 Malicious npm Package Stole Files From Claude AI User Directory via GitHub
+### 📰 3 SOC Steps that Shut Down Incident Risks Early
 **Category:** 📰 News
-**Time:** 18:52 UTC
+**Time:** 19:43 UTC
 
 **Summary:**  
-Cybersecurity researchers have discovered a new malicious package on the npm registry that comes with information stealing capabilities.  According to OX Security, the package, named "mouse5212-super-formatter," is designed to upload files from "/mnt/user-data," a dedicated directory used by Anthropic's Claude artificial intelligence (AI) tool to handle uploads and outputs in the background. The
+Most organizations still picture cyber defense as a fortress problem: build stronger walls, add more guards, buy another detection engine. But modern incidents rarely crash through the front gate. They drift in disguised as routine activity, hide inside legitimate processes, and quietly accumulate risk long before anyone labels them an "incident."  That changes the role of the SOC entirely.  The
 
-🔗 [Read Full Article](https://thehackernews.com/2026/05/malicious-npm-package-stole-files-from.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/05/3-soc-steps-that-shut-down-incident.html)
 
 
 ---
 
-### 📰 GlassWorm Malware Takedown Disrupts Developer Supply Chain Attack Infrastructure
-**Category:** 📰 News
-**Time:** 18:52 UTC
+### 📰 AI Chatbot Recommendations Redirect Users to Cryptojacking Malware Sites
+**Category:** 💡 Expert Insight
+**Time:** 19:43 UTC
 
 **Summary:**  
-CrowdStrike, in partnership with Google and the Shadowserver Foundation, has announced the simultaneous disruption of all command-and-control (C2) channels associated with GlassWorm, a persistent software chain campaign targeting software developers through malicious packages and extensions.  "Since at least early 2025, GlassWorm operators have systematically targeted software developers, a
+Microsoft has warned of an active cryptojacking campaign that makes use of artificial intelligence (AI) chatbot interactions as a mechanism for surfacing malicious download sites.  "This emerging delivery technique extends social engineering beyond conventional search results and increases the visibility of malicious software recommendations," Microsoft Defender Experts and the Microsoft
 
-🔗 [Read Full Article](https://thehackernews.com/2026/05/glassworm-malware-takedown-disrupts.html)
-
-
----
-
-### 📰 Gitea Vulnerability Exposes Private Container Images without Authentication
-**Category:** 🔴 Vulnerability
-**Time:** 18:52 UTC
-
-**Summary:**  
-Cybersecurity researchers have disclosed a security flaw in Gitea, an open-source, self-hosted platform for version control, that allows unauthenticated remote attackers to pull private container images from Gitea deployments without requiring an account, password, or other credentials.  The vulnerability, tracked as CVE-2026-27771 (CVSS score: N/A), affects all versions of Gitea prior to 1.26.2
-
-🔗 [Read Full Article](https://thehackernews.com/2026/05/gitea-vulnerability-exposes-private.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/05/ai-chatbot-recommendations-redirect.html)
 
 
 ---
