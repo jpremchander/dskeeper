@@ -6,38 +6,26 @@ vulnerabilities, and exploitation activity for continuous learning.
 ---
 ## 📅 2026-05-29
 
-### 📰 Attackers Use LLM Agent for Post-Exploitation After Marimo CVE-2026-39987 Exploit
-**Category:** 🔴 Vulnerability
-**Time:** 16:31 UTC
+### 📰 New Russian-Linked GREYVIBE Targets Ukraine with AI-Powered Cyberattacks
+**Category:** 📰 News
+**Time:** 17:52 UTC
 
 **Summary:**  
-An unknown threat actor has been observed using a large language model (LLM) agent to conduct post-compromise actions after obtaining initial access following the exploitation of a publicly-accessible Marimo network using a recently disclosed vulnerability.  "The attacker compromised an internet-reachable Marimo notebook via CVE-2026-39987, extracted two cloud credentials from the compromised
+A previously undocumented threat actor dubbed GREYVIBE has been attributed to ongoing and persistent attacks targeting Ukraine and Ukraine-related entities since at least August 2025.  GREYVIBE, per WithSecure, is assessed to be a Russian-speaking group operating broadly in the Russian time zone, with the activities aligning with Kremlin state interests, specifically when it comes to
 
-🔗 [Read Full Article](https://thehackernews.com/2026/05/attackers-use-llm-agent-for-post.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/05/new-russian-linked-greyvibe-targets.html)
 
 
 ---
 
-### 📰 What 2,000 Exposed Vibe-Coded Apps Reveal About the Limits of Most Security Stacks
+### 📰 Malicious Sicoob NuGet Steals Banking Credentials as npm Packages Target Cloud Secrets
 **Category:** 📰 News
-**Time:** 16:31 UTC
+**Time:** 17:52 UTC
 
 **Summary:**  
-Shadow AI used to mean employees pasting things they shouldn't into ChatGPT. It now means something bigger: employees building full applications with AI, wiring them into production systems, and publishing them on the open internet. Without Security or IT in the loop.  The artifact moved from a prompt to a product. The risk surface moved with it.  In The Shadow Builders report (get it here), a
+Cybersecurity researchers have discovered a malicious NuGet package that masquerades as a C# software development kit for Sicoob, one of Brazil's largest cooperative financial systems, to siphon client IDs and PFX certificates.  According to Socket, versions 2.0.0 through 2.0.4 of "Sicoob.Sdk" contain functionality to exfiltrate sensitive information, including PFX certificates that are used to
 
-🔗 [Read Full Article](https://thehackernews.com/2026/05/what-2000-exposed-vibe-coded-apps.html)
-
-
----
-
-### 📰 Kimsuky Deploys HTTPSpy, Expands Arsenal with HelloDoor and VS Code Tunnels
-**Category:** 📰 News
-**Time:** 16:31 UTC
-
-**Summary:**  
-The North Korean state-sponsored threat actor known as Kimsuky (aka Velvet Chollima) has been attributed to a fresh set of cyber attacks targeting South Korean military and corporate entities through March and April 2026.  "Kimsuky employed a range of tailored social engineering tactics, such as spoofing security software installation pages and crafting a fake Webex meeting page that leveraged
-
-🔗 [Read Full Article](https://thehackernews.com/2026/05/kimsuky-deploys-httpspy-expands-arsenal.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/05/malicious-sicoob-nuget-steals-banking.html)
 
 
 ---
