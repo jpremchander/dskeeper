@@ -6,14 +6,26 @@ vulnerabilities, and exploitation activity for continuous learning.
 ---
 ## 📅 2026-06-01
 
-### 📰 Critical WP Maps Pro Flaw Actively Exploited to Create Admin Accounts
-**Category:** 🔴 Vulnerability
-**Time:** 10:55 UTC
+### 📰 The Security Growth Platform: Why MSPs Are Moving Beyond vCISO Tools
+**Category:** 📰 News
+**Time:** 12:54 UTC
 
 **Summary:**  
-Threat actors are attempting to actively exploit a critical security flaw impacting WP Maps Pro, a WordPress plugin that has had over 15,000 sales on the Envato Market, to create malicious administrator accounts on susceptible sites.  WP Maps Pro allows site owners to embed customizable Google Maps and OpenStreetMap with markers, listings, and advanced location features on WordPress sites. It is
+Three years ago, the practical question for an MSP building a cybersecurity practice was which "vCISO platform" to buy. The term was good shorthand for the work at the time: assessments, advisory, reporting, maybe a compliance module bolted on the side. The work has since outgrown the descriptor.  A Security Growth Platform is the more precise name for what MSPs and MSSPs need from the software
 
-🔗 [Read Full Article](https://thehackernews.com/2026/06/critical-wp-maps-pro-flaw-actively.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/06/the-security-growth-platform-why-msps.html)
+
+
+---
+
+### 📰 OpenAI Codex Authentication Tokens Stolen in codexui-android npm Supply Chain Attack
+**Category:** 📰 News
+**Time:** 12:54 UTC
+
+**Summary:**  
+Cybersecurity researchers have disclosed details of a new malicious supply chain campaign that's targeting developers using OpenAI Codex through a legitimate-looking remote web UI.  The tool, named codexui-android, is advertised on GitHub and npm as a remote web UI for OpenAI Codex, attracting over 29,000 weekly downloads. The package is still available for download from the repository.  What
+
+🔗 [Read Full Article](https://thehackernews.com/2026/06/openai-codex-authentication-tokens.html)
 
 
 ---
