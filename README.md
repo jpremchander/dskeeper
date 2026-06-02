@@ -6,14 +6,14 @@ vulnerabilities, and exploitation activity for continuous learning.
 ---
 ## 📅 2026-06-02
 
-### 📰 Dashlane Discloses Brute-Force Attack, Encrypted Vaults of Fewer Than 20 Users Downloaded
+### 📰 Pakistan-Linked SideCopy Targets Afghanistan Finance Ministry with Xeno RAT
 **Category:** 📰 News
-**Time:** 05:39 UTC
+**Time:** 10:36 UTC
 
 **Summary:**  
-Password manager Dashlane has disclosed that "fewer than" 20 users on the personal subscription plan had their encrypted vaults downloaded following a brute-force attack launched by an unknown party.  On May 31, 2026, the company said an "external" threat actor launched a brute-force attack against certain Dashlane user accounts with the aim of breaking two-factor authentication (2FA)
+Cybersecurity researchers have disclosed details of a spear-phishing campaign likely undertaken by the Pakistan-aligned SideCopy group targeting Afghanistan's Ministry of Finance with an open-source remote access trojan called Xeno RAT.  "The campaign opens with a spear phishing delivery - a ZIP archive containing a malicious LNK file bearing a carefully crafted Pashto-language filename,"
 
-🔗 [Read Full Article](https://thehackernews.com/2026/06/dashlane-discloses-brute-force-attack.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/06/pakistan-linked-sidecopy-targets.html)
 
 
 ---
