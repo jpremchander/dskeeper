@@ -6,14 +6,26 @@ vulnerabilities, and exploitation activity for continuous learning.
 ---
 ## 📅 2026-06-03
 
-### 📰 New HTTP/2 Bomb Vulnerability Allows Remote DoS on NGINX, Apache, IIS, Envoy & Cloudflare
+### 📰 Unpatched Windows Search URI Vulnerability Lets Attackers Steal NTLMv2 Hashes
 **Category:** 🔴 Vulnerability
-**Time:** 09:50 UTC
+**Time:** 11:41 UTC
 
 **Summary:**  
-Cybersecurity researchers have discovered a remote denial-of-service exploit that affects major web servers, including NGINX, Apache HTTPD, Microsoft IIS, Envoy, and Cloudflare Pingora.  The vulnerability has been codenamed HTTP/2 Bomb by Calif.  "The vulnerable behavior exists in each server's default HTTP/2 configuration," the company said, adding it was discovered by OpenAI Codex by chaining
+Cybersecurity researchers have disclosed details of an unpatched issue that could be exploited to disclose a user's NTLMv2 hash to the attacker.  Like in the case of CVE-2026-33829, which impacted the Windows Snipping Tool's ms-screensketch: URI handler, the newly flagged issue resides in the search: URI handler, per Huntress.  CVE-2026-33829 refers to a spoofing vulnerability that could expose
 
-🔗 [Read Full Article](https://thehackernews.com/2026/06/new-http2-bomb-vulnerability-allows.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/06/unpatched-windows-search-uri.html)
+
+
+---
+
+### 📰 Weedhack Attacks Minecraft Users, CountLoader Hits 86K, Miners Spread via Pirated Content
+**Category:** 📰 News
+**Time:** 11:41 UTC
+
+**Summary:**  
+Cybersecurity researchers have flagged a new campaign targeting Minecraft players via YouTube to spread malware capable of gaining control of victims' systems.  The Minecraft-focused malware-as-a-service (MaaS) campaign has been codenamed Weedhack by McAfee Labs, stating the activity has been active since January 2026 and impersonates Minecraft clients and mods to infect users. In all, 3820
+
+🔗 [Read Full Article](https://thehackernews.com/2026/06/weedhack-attacks-minecraft-users.html)
 
 
 ---
