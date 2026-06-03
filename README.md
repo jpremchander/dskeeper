@@ -6,38 +6,38 @@ vulnerabilities, and exploitation activity for continuous learning.
 ---
 ## 📅 2026-06-03
 
-### 📰 One-Click GitHub Dev Attack Lets Attackers Steal Full GitHub OAuth Tokens
+### 📰 Shrinking the IAM Attack Surface through Identity Visibility and Intelligence Platforms (IVIP)
 **Category:** 📰 News
-**Time:** 18:13 UTC
+**Time:** 19:36 UTC
 
 **Summary:**  
-Cybersecurity researchers have disclosed a one-click attack via Microsoft Visual Studio Code (VS Code) that makes it possible to steal a user's GitHub token.  "Just by clicking a link, it's possible for an attacker to steal a GitHub token that can read and write to your repos, including private ones," security researcher Ammar Askar said.  GitHub supports a feature called GitHub.dev that runs as
+The Fragmented State of Modern Enterprise Identity  Enterprise IAM is approaching a breaking point. As organizations scale, identity becomes increasingly fragmented across thousands of applications, decentralized teams, machine identities, and autonomous systems.  The result is Identity Dark Matter: identity activity that sits outside the visibility of centralized IAM and beyond the reach of
 
-🔗 [Read Full Article](https://thehackernews.com/2026/06/one-click-github-dev-attack-lets.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/06/shrinking-iam-attack-surface-through.html)
 
 
 ---
 
-### 📰 Unpatched Windows Search URI Vulnerability Lets Attackers Steal NTLMv2 Hashes
+### 📰 Beyond the Zero-Day: See Your Network Like an Attacker | Webinar with HD Moore
+**Category:** 🔴 Vulnerability, 📅 Webinar/Event
+**Time:** 19:36 UTC
+
+**Summary:**  
+Assume the breach. Zero-days keep shipping, AI is writing exploits faster than anyone patches, and "patch everything in time" stopped working years ago. Stop betting the org on winning that race. You don't control which bug lands. You control what it can reach once it does.  That is a question about the shape of your network, and most teams have the shape wrong. HD Moore, creator of Metasploit
+
+🔗 [Read Full Article](https://thehackernews.com/2026/06/beyond-zero-day-see-your-network-like.html)
+
+
+---
+
+### 📰 New HTTP/2 Bomb Vulnerability Allows Remote DoS on NGINX, Apache, IIS, Envoy & Cloudflare
 **Category:** 🔴 Vulnerability
-**Time:** 18:13 UTC
+**Time:** 19:36 UTC
 
 **Summary:**  
-Cybersecurity researchers have disclosed details of an unpatched issue that could be exploited to disclose a user's NTLMv2 hash to the attacker.  Like in the case of CVE-2026-33829, which impacted the Windows Snipping Tool's ms-screensketch: URI handler, the newly flagged issue resides in the search: URI handler, per Huntress.  CVE-2026-33829 refers to a spoofing vulnerability that could expose
+Cybersecurity researchers have discovered a remote denial-of-service exploit that affects major web servers, including NGINX, Apache HTTPD, Microsoft IIS, Envoy, and Cloudflare Pingora.  The vulnerability has been codenamed HTTP/2 Bomb by Calif.  "The vulnerable behavior exists in each server's default HTTP/2 configuration," the company said, adding it was discovered by OpenAI Codex by chaining
 
-🔗 [Read Full Article](https://thehackernews.com/2026/06/unpatched-windows-search-uri.html)
-
-
----
-
-### 📰 Weedhack Attacks Minecraft Users, CountLoader Hits 86K, Miners Spread via Pirated Content
-**Category:** 📰 News
-**Time:** 18:13 UTC
-
-**Summary:**  
-Cybersecurity researchers have flagged a new campaign targeting Minecraft players via YouTube to spread malware capable of gaining control of victims' systems.  The Minecraft-focused malware-as-a-service (MaaS) campaign has been codenamed Weedhack by McAfee Labs, stating the activity has been active since January 2026 and impersonates Minecraft clients and mods to infect users. In all, 3820
-
-🔗 [Read Full Article](https://thehackernews.com/2026/06/weedhack-attacks-minecraft-users.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/06/new-http2-bomb-vulnerability-allows.html)
 
 
 ---
