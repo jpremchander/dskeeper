@@ -6,50 +6,62 @@ vulnerabilities, and exploitation activity for continuous learning.
 ---
 ## 📅 2026-06-04
 
-### 📰 Cisco Patches CVE-2026-20230 in Unified CM as Exploit Code Goes Public
-**Category:** 🔴 Vulnerability
-**Time:** 22:34 UTC
+### 📰 China-Linked TA4922 Expands Phishing Attacks to U.K., Germany, Italy, and South Africa
+**Category:** 📰 News
+**Time:** 23:09 UTC
 
 **Summary:**  
-Cisco has patched a bug in Unified Communications Manager that lets an unauthenticated attacker on the network write files to the box and, from there, climb to root.  It is tracked as CVE-2026-20230, and proof-of-concept exploit code is already public. Cisco's PSIRT says it has not seen the flaw used in attacks yet. The PoC shortens that runway.  The flaw is a server-side request forgery.
+A new China-linked cybercrime group known as TA4922 has expanded its targeting focus to target European organizations in the U.K., Germany, Italy, and South Africa.  These efforts have been complemented by a "rapid operational tempo" and a continually evolving malware arsenal comprising known families like ValleyRAT (aka Winos 4.0) and Atlas RAT (aka AtlasCross RAT), as well as previously
 
-🔗 [Read Full Article](https://thehackernews.com/2026/06/cisco-patches-cve-2026-20230-in-unified.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/06/china-linked-ta4922-expands-phishing.html)
 
 
 ---
 
-### 📰 Claude Code GitHub Action Flaw Let One Malicious Issue Hijack Repositories
+### 📰 FlutterShell Backdoor Spreads to macOS via Malicious Google and YouTube Ads
 **Category:** 📰 News
-**Time:** 22:34 UTC
+**Time:** 23:09 UTC
 
 **Summary:**  
-A security researcher found a flaw in Anthropic's Claude Code GitHub Action that let an attacker take over vulnerable public repositories running it, with nothing more than a single opened GitHub issue. Because Anthropic's own action repo used the same workflow, a working attack could have pushed malicious code into the action itself and onto the projects downstream that pull it.  RyotaK of GMO
+Cybersecurity researchers have shed light on a macOS malvertising campaign codenamed Operation FlutterBridge that spreads a new backdoor called FlutterShell.  According to Palo Alto Networks Unit 42, the campaign is said to be the next stage of a previously reported activity cluster dubbed JSCoreRunner (aka FileRipple) in late August 2025. The cybercrime group behind the two attack chains is
 
-🔗 [Read Full Article](https://thehackernews.com/2026/06/claude-code-github-action-flaw-let-one.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/06/fluttershell-backdoor-spreads-to-macos.html)
 
 
 ---
 
-### 📰 Agentic AI Is Transforming Defense, But Only Secure IT Infrastructure Will Maximize It
+### 📰 Fake Sites Mimicking Open-Source Tools Rank High on Google to Deliver Malware via TDS
 **Category:** 📰 News
-**Time:** 22:34 UTC
+**Time:** 23:09 UTC
 
 **Summary:**  
-Over the past several weeks, the cybersecurity community has been reminded how quickly frontier and agentic AI in defense networks can challenge our assumptions. When Anthropic's Claude Mythos model was made available to a limited set of organizations as a technical preview, it was reported that an unauthorized group claimed that it had gained access within hours. The incident, if true, was
+Cybersecurity researchers have flagged a large-scale operation that impersonates open-source and freeware projects to funnel unsuspecting users through a Traffic Distribution System (TDS) and deliver malware families like Remus Stealer, AnimateClipper, and the SessionGate framework.  "The sites are well-designed and often look like legitimate project portals at a glance, sometimes referencing
 
-🔗 [Read Full Article](https://thehackernews.com/2026/06/agentic-ai-is-transforming-defense-but.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/06/fake-sites-mimicking-open-source-tools.html)
 
 
 ---
 
-### 📰 ThreatsDay Bulletin: AI Agents Gone Wrong, Sketchy C2 Tools, ClickFix Tricks, JS Backdoors & 20+ New Stories
+### 📰 Hackers Spied on a Stock Exchange Executive's Outlook Mailbox for Five Months
 **Category:** 📰 News
-**Time:** 22:34 UTC
+**Time:** 23:09 UTC
 
 **Summary:**  
-It got stupid again.  The internet still feels held together with tape. Bad plugins, old bugs, fake tools, trusted apps doing shady things. Same mess, new wrapper. And now the weird stuff is normal. Forums go down and come back worse. Cheap hackers get better toys. AI starts breaking real systems. Great.  Read the whole thing before it ruins your week anyway.                   Unauthenticated
+Unknown attackers spent at least five months inside the Outlook mailbox of a senior executive at a major global stock exchange, copying the inbox out in small, repeated batches and routing it through Dropbox and OneDrive so the traffic blended into normal cloud activity.  Symantec and Carbon Black's Threat Hunter Team reported the campaign this week. This points to espionage, not a money grab:
 
-🔗 [Read Full Article](https://thehackernews.com/2026/06/threatsday-bulletin-ai-agents-gone.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/06/hackers-spied-on-stock-exchange.html)
+
+
+---
+
+### 📰 DoJ Disrupts Southeast Asia Crypto Fraud Networks, Freezes $3.8 Million in Assets
+**Category:** 📰 News
+**Time:** 23:09 UTC
+
+**Summary:**  
+The U.S. Department of Justice (DoJ) on Wednesday announced the results of a sweeping action undertaken by government authorities and private sector companies to combat cyber-enabled and cryptocurrency fraud targeting Americans.  The "Disruption Week" operation began May 18, 2026, leading to the takedown of millions of social media, email, and internet access accounts used by transnational
+
+🔗 [Read Full Article](https://thehackernews.com/2026/06/doj-disrupts-southeast-asia-crypto.html)
 
 
 ---
