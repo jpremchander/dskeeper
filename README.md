@@ -6,14 +6,14 @@ vulnerabilities, and exploitation activity for continuous learning.
 ---
 ## 📅 2026-06-04
 
-### 📰 DoJ Disrupts Southeast Asia Crypto Fraud Networks, Freezes $3.8 Million in Assets
-**Category:** 📰 News
-**Time:** 07:52 UTC
+### 📰 CISA Adds Exploited Magento RCE Flaw CVE-2026-45247 to KEV Catalog
+**Category:** 🔴 Vulnerability
+**Time:** 09:24 UTC
 
 **Summary:**  
-The U.S. Department of Justice (DoJ) on Wednesday announced the results of a sweeping action undertaken by government authorities and private sector companies to combat cyber-enabled and cryptocurrency fraud targeting Americans.  The "Disruption Week" operation began May 18, 2026, leading to the takedown of millions of social media, email, and internet access accounts used by transnational
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a critical flaw impacting Mirasvit Cache Warmer, a popular Magento full-page cache extension, to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation in the wild.  The vulnerability, tracked as CVE-2026-45247 (CVSS score: 9.8), is a case of deserialization of untrusted
 
-🔗 [Read Full Article](https://thehackernews.com/2026/06/doj-disrupts-southeast-asia-crypto.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/06/cisa-adds-exploited-magento-rce-flaw.html)
 
 
 ---
