@@ -6,38 +6,38 @@ vulnerabilities, and exploitation activity for continuous learning.
 ---
 ## 📅 2026-06-05
 
-### 📰 Only 10% of SOCs Say They’re Getting Excellent Value From AI. Here’s What the Second Wave Has to Deliver
+### 📰 Android Spyware Asin Targets Arabic Users via Fake News, PDF and War Map Apps
 **Category:** 📰 News
-**Time:** 18:11 UTC
+**Time:** 18:57 UTC
 
 **Summary:**  
-Eighteen months ago, the AI SOC was a marketing line. Today it's a budget item. The category has crossed over from interesting to inevitable, with billions of dollars now flowing into AI-powered security operations platforms, agentic SOC tools, and AI co-pilots built into every layer of the security stack. The data shows SOCs are buying, deploying, and standing up AI capabilities at the fastest
+Arabic-speaking users have emerged as the target of a new Android spyware codenamed Asin, according to findings from ESET.  The Slovakian cybersecurity company said it first detected the malware spread via multiple campaigns in early 2025, with each attack wave making use of distinct websites mimicking utilities, war-related updates, and a government news source:     govlens[.]net, which
 
-🔗 [Read Full Article](https://thehackernews.com/2026/06/only-10-of-socs-say-theyre-getting.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/06/android-spyware-asin-targets-arabic.html)
 
 
 ---
 
-### 📰 Hackers Exploit Critical Everest Forms Pro WordPress Plugin Flaw to Take Over Sites
-**Category:** 🔴 Vulnerability
-**Time:** 18:11 UTC
+### 📰 New Threat Cluster OP-512 Targets Microsoft IIS Servers with Custom Web Shell Framework
+**Category:** 📰 News
+**Time:** 18:57 UTC
 
 **Summary:**  
-Threat actors are actively exploiting a critical security flaw in Everest Forms Pro, a WordPress plugin with about 4,000 active installations, to execute arbitrary code, leading to a complete site compromise.  The vulnerability in question is CVE-2026-3300 (CVSS score: 9.8), a remote code execution bug impacting all versions of the plugin up to, and including, 1.9.12. A patch for the flaw was
+Cybersecurity researchers have discovered a previously unreported threat cluster dubbed OP-512 (where "OP" stands for "opponent") that has been observed&nbsp;targeting Microsoft Internet Information Services (IIS) servers to deploy a bespoke web shell framework.  ReliaQuest has assessed with moderate to high confidence that the espionage-focused activity is linked to China.  "OP-512 was highly
 
-🔗 [Read Full Article](https://thehackernews.com/2026/06/hackers-exploit-critical-everest-forms.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/06/new-threat-cluster-op-512-targets.html)
 
 
 ---
 
-### 📰 PCPJack Hijacks 230 AWS, Google Cloud, and Azure Servers for Covert SMTP Relay Network
+### 📰 FIFA World Cup 2026 Scams Are Already Live: Fake Sites, Banking Malware, and Stolen Logins
 **Category:** 📰 News
-**Time:** 18:11 UTC
+**Time:** 18:57 UTC
 
 **Summary:**  
-The threat actor known as PCPJack has hijacked cloud servers associated with Amazon Web Services (AWS), Google Cloud, and Microsoft Azure to create a covert SMTP email relay network.  "Compromised business servers across the U.S., Europe, and Asia were quietly converted into SMTP proxies, verified for mail relay capability, and synced to a downstream consumer every five minutes," Hunt.io said in
+Security researchers and the FBI are warning that a wave of FIFA-themed fraud is already hitting World Cup 2026 fans, days before the June 11 kickoff.  Recent reports describe thousands of lookalike FIFA domains, banking malware hidden inside pirate streaming apps, and at least one operation that copies FIFA's login page well enough to take over real accounts.  It is an obvious target. More than
 
-🔗 [Read Full Article](https://thehackernews.com/2026/06/pcpjack-hijacks-230-aws-google-cloud.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/06/fifa-world-cup-2026-scams-are-already.html)
 
 
 ---
