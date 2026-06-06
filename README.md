@@ -6,14 +6,26 @@ vulnerabilities, and exploitation activity for continuous learning.
 ---
 ## 📅 2026-06-06
 
-### 📰 Cisco Catalyst SD-WAN Manager CVE-2026-20245 Flaw Actively Exploited – No Patch Available
+### 📰 AI Agent Uncovers 21 Zero-Days in FFmpeg; Chrome Patches Record 429 Bugs
 **Category:** 🔴 Vulnerability
-**Time:** 06:38 UTC
+**Time:** 08:40 UTC
 
 **Summary:**  
-Cisco has warned that a high-severity security flaw impacting Catalyst SD-WAN Manager has come under active exploitation.  The vulnerability, tracked as CVE-2026-20245, carries a CVSS score of 7.8 out of a maximum of 10.0. It affects the following deployment types -     On-Prem Deployment   Cisco SD-WAN Cloud-Pro   Cisco SD-WAN Cloud (Cisco Managed)   Cisco SD-WAN for Government (FedRAMP)  "A
+Two things landed within days of each other this week. A security startup reported 21 previously unknown vulnerabilities in FFmpeg, the media library inside almost everything that touches video, all of them found by an autonomous AI agent.  The same week, Google shipped Chrome 149 with patches for 429 security bugs, the most ever in a single release.  Only the FFmpeg bugs were found by AI.
 
-🔗 [Read Full Article](https://thehackernews.com/2026/06/cisco-catalyst-sd-wan-manager-cve-2026.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/06/ai-agent-uncovers-21-zero-days-in.html)
+
+
+---
+
+### 📰 Miasma Worm Hits 73 Microsoft GitHub Repositories in Major Supply Chain Attack
+**Category:** 📰 News
+**Time:** 08:40 UTC
+
+**Summary:**  
+Microsoft's GitHub repositories have become the latest to fall victim to the ongoing Miasma self-replicating supply chain attack campaign.  The incident impacted 73 Microsoft repositories across four of its GitHub organizations, including Azure, Azure-Samples, Microsoft, and MicrosoftDocs, per OpenSourceMalware. The development has GitHub to disable access to those repositories.  "Access to this
+
+🔗 [Read Full Article](https://thehackernews.com/2026/06/miasma-worm-hits-73-microsoft-github.html)
 
 
 ---
