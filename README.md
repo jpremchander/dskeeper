@@ -6,38 +6,38 @@ vulnerabilities, and exploitation activity for continuous learning.
 ---
 ## 📅 2026-06-06
 
-### 📰 New ChatGPT Lockdown Mode Limits Tools That Could Enable Data Exfiltration
+### 📰 Free Apps Are Quietly Turning Smart TVs Into Web-Scraping Proxies for AI
 **Category:** 📰 News
-**Time:** 23:08 UTC
+**Time:** 23:37 UTC
 
 **Summary:**  
-OpenAI has begun rolling out a new Lockdown Mode to ChatGPT for eligible personal accounts to reduce the risk of data exfiltration arising from prompt injection attacks.  The feature is primarily designed for people and organizations that handle sensitive data and require stricter protection guarantees. Lockdown Mode is available to logged-in users across Free, Go, Plus, and Pro, and
+A researcher has reverse-engineered the iOS SDK that Bright Data embeds in consumer apps and documented how it turns devices, including always-on smart TVs, into exit nodes that relay web-scraping traffic for a data business Bright Data markets heavily to the AI industry.  The company, the successor to Luminati, operates what it calls the largest residential proxy network in the world,
 
-🔗 [Read Full Article](https://thehackernews.com/2026/06/new-chatgpt-lockdown-mode-limits-tools.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/06/free-apps-are-quietly-turning-smart-tvs.html)
 
 
 ---
 
-### 📰 AI Agent Uncovers 21 Zero-Days in FFmpeg; Chrome Patches Record 429 Bugs
+### 📰 CISA Adds Actively Exploited SolarWinds Serv-U DoS Flaw to KEV Catalog
 **Category:** 🔴 Vulnerability
-**Time:** 23:08 UTC
+**Time:** 23:37 UTC
 
 **Summary:**  
-Two things landed within days of each other this week. A security startup reported 21 previously unknown vulnerabilities in FFmpeg, the media library inside almost everything that touches video, all of them found by an autonomous AI agent.  The same week, Google shipped Chrome 149 with patches for 429 security bugs, the most ever in a single release.  Only the FFmpeg bugs were found by AI.
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a high-severity security flaw impacting SolarWinds Serv-U  multi-protocol file server software to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.  The vulnerability, tracked as CVE-2026-28318 (CVSS score: 7.5), is a denial-of-service (DoS) bug that causes the service to crash
 
-🔗 [Read Full Article](https://thehackernews.com/2026/06/ai-agent-uncovers-21-zero-days-in.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/06/cisa-adds-actively-exploited-solarwinds.html)
 
 
 ---
 
-### 📰 Miasma Worm Hits 73 Microsoft GitHub Repositories in Major Supply Chain Attack
-**Category:** 📰 News
-**Time:** 23:08 UTC
+### 📰 Cisco Catalyst SD-WAN Manager CVE-2026-20245 Flaw Actively Exploited – No Patch Available
+**Category:** 🔴 Vulnerability
+**Time:** 23:37 UTC
 
 **Summary:**  
-Microsoft's GitHub repositories have become the latest to fall victim to the ongoing Miasma self-replicating supply chain attack campaign.  The incident impacted 73 Microsoft repositories across four of its GitHub organizations, including Azure, Azure-Samples, Microsoft, and MicrosoftDocs, per OpenSourceMalware. The development has GitHub to disable access to those repositories.  "Access to this
+Cisco has warned that a high-severity security flaw impacting Catalyst SD-WAN Manager has come under active exploitation.  The vulnerability, tracked as CVE-2026-20245, carries a CVSS score of 7.8 out of a maximum of 10.0. It affects the following deployment types -     On-Prem Deployment   Cisco SD-WAN Cloud-Pro   Cisco SD-WAN Cloud (Cisco Managed)   Cisco SD-WAN for Government (FedRAMP)  "A
 
-🔗 [Read Full Article](https://thehackernews.com/2026/06/miasma-worm-hits-73-microsoft-github.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/06/cisco-catalyst-sd-wan-manager-cve-2026.html)
 
 
 ---
