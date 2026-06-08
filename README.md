@@ -6,14 +6,14 @@ vulnerabilities, and exploitation activity for continuous learning.
 ---
 ## 📅 2026-06-08
 
-### 📰 VS Code Adds 2-Hour Extension Auto-Update Delay to Limit Supply Chain Attacks
+### 📰 UNC3753 Used Vishing and Physical Intrusions in U.S. Data Theft Extortion Campaign
 **Category:** 📰 News
-**Time:** 07:16 UTC
+**Time:** 09:07 UTC
 
 **Summary:**  
-Microsoft has announced that Visual Studio Code (VS Code) will apply a two-hour delay before extensions for the integrated development environment (IDE) are updated automatically to a newer version in an attempt to tackle software supply chain threats.  "When automatic updates are enabled, new versions are auto-updated two hours after they are published, adding an extra layer of protection
+Cybersecurity researchers have disclosed details of a financially motivated data theft extortion campaign that has targeted dozens of organizations across professional, legal, and financial services in the U.S. between January and May 2026.  The activity has been attributed by Google Mandiant and Google Threat Intelligence Group (GTIG) to a threat actor dubbed UNC3753, which is also known as
 
-🔗 [Read Full Article](https://thehackernews.com/2026/06/vs-code-adds-2-hour-extension-auto.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/06/unc3753-used-vishing-and-physical.html)
 
 
 ---
