@@ -6,50 +6,50 @@ vulnerabilities, and exploitation activity for continuous learning.
 ---
 ## 📅 2026-06-08
 
-### 📰 AI Phishing Is Crushing SOCs with Alert Volume: How to Reduce Tier 1 Overload
+### 📰 Meta Blocks NSO Group's New WhatsApp Phishing Attack, Files Contempt Order
 **Category:** 📰 News
-**Time:** 16:50 UTC
+**Time:** 18:01 UTC
 
 **Summary:**  
-Phishing has always been a numbers game. AI has turned it into a volume machine.  Attackers can now create convincing emails, fake login pages, and tailored lures in minutes. Every polished message adds another case for Tier 1 to review, another link to inspect, and another alert that cannot be dismissed at a glance.  As the queue grows, a credential theft attempt or malware delivery can easily
+Meta on Monday said it detected and blocked spear-phishing attempts linked to Israeli spyware vendor NSO Group.  In addition, the tech giant said it's filing a federal court contempt order against the company for violating a permanent injunction that barred it from targeting WhatsApp and its users.  "They tried to trick people into clicking on malicious links to drive them to external websites
 
-🔗 [Read Full Article](https://thehackernews.com/2026/06/ai-phishing-is-crushing-socs-with-alert.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/06/meta-blocks-nso-groups-new-whatsapp.html)
 
 
 ---
 
-### 📰 The Hardest Fork
-**Category:** 📰 News
-**Time:** 16:50 UTC
+### 📰 Critical Check Point VPN Flaw Exploited to Bypass Passwords in IKEv1 Setups
+**Category:** 🔴 Vulnerability
+**Time:** 18:01 UTC
 
 **Summary:**  
-Mythos is real. I know a big chunk of the industry thinks it's a marketing stunt, and I get why. I get it. But I've seen the findings, and they're bad. These aren't "whoops, this line right here is wrong, and that's RCE." They're novel combinations of a few dozen issues out of thousands of things every SAST scanner already finds, chained together into something much worse. It's real creativity,
+Check Point has warned of active exploitation of a critical vulnerability impacting Remote Access VPN and Mobile Access deployments that are configured to use the deprecated IKEv1 key exchange protocol.  The vulnerability, tracked as CVE-2026-50751 (CVSS score: 9.3), is a case of a logic flow weakness in certificate validation that allows an unauthenticated remote attacker to bypass user
 
-🔗 [Read Full Article](https://thehackernews.com/2026/06/the-hardest-fork.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/06/critical-check-point-vpn-flaw-exploited.html)
 
 
 ---
 
-### 📰 VerdantBamboo Deploys BSD Variant of BRICKSTORM on Linux Appliances
-**Category:** 📰 News
-**Time:** 16:50 UTC
+### 📰 ⚡ Weekly Recap: Instagram Account Hacks, Android Zero-Day, GitHub Worm and More
+**Category:** 🔴 Vulnerability
+**Time:** 18:01 UTC
 
 **Summary:**  
-A China-nexus cyber espionage group has been observed deploying a BSD variant of a known backdoor called BRICKSTORM, as well as two other malware families codenamed PLENET (aka GRIMBOLT) and AGENTPSD to target Linux systems.  The activity has been attributed by Volexity to a threat cluster it tracks as VerdantBamboo, which it said overlaps with hacking groups known as Clay Typhoon (Microsoft),
+Monday again. The weekend was meant to be quiet. It wasn't. Last week had poisoned packages, a broken AI helper, and a worm tearing through repos. The ugly part: basic tricks still worked.  A chatbot got fooled. A bot token got leaked inside the malware. The same old mistakes showed up again. And while everyone chased the loud stuff, quieter attackers sat in inboxes for months, reading mail and
 
-🔗 [Read Full Article](https://thehackernews.com/2026/06/verdantbamboo-deploys-bsd-variant-of.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/06/weekly-recap-instagram-account-hacks.html)
 
 
 ---
 
-### 📰 VS Code Adds 2-Hour Extension Auto-Update Delay to Limit Supply Chain Attacks
+### 📰 UNC3753 Used Vishing and Physical Intrusions in U.S. Data Theft Extortion Campaign
 **Category:** 📰 News
-**Time:** 16:50 UTC
+**Time:** 18:01 UTC
 
 **Summary:**  
-Microsoft has announced that Visual Studio Code (VS Code) will apply a two-hour delay before extensions for the integrated development environment (IDE) are updated automatically to a newer version in an attempt to tackle software supply chain threats.  "When automatic updates are enabled, new versions are auto-updated two hours after they are published, adding an extra layer of protection
+Cybersecurity researchers have disclosed details of a financially motivated data theft extortion campaign that has targeted dozens of organizations across professional, legal, and financial services in the U.S. between January and May 2026.  The activity has been attributed by Google Mandiant and Google Threat Intelligence Group (GTIG) to a threat actor dubbed UNC3753, which is also known as
 
-🔗 [Read Full Article](https://thehackernews.com/2026/06/vs-code-adds-2-hour-extension-auto.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/06/unc3753-used-vishing-and-physical.html)
 
 
 ---
