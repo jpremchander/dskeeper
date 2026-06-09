@@ -6,26 +6,26 @@ vulnerabilities, and exploitation activity for continuous learning.
 ---
 ## 📅 2026-06-09
 
-### 📰 New FROST Attack Lets Websites Track What Sites and Apps You Open via SSD Timing
+### 📰 The Hidden Security Risk in Modern Networks: The Work Between Tools
 **Category:** 📰 News
-**Time:** 11:07 UTC
+**Time:** 12:16 UTC
 
 **Summary:**  
-A malicious website can work out which sites you visit and which apps you open, using nothing but JavaScript and the timing of your SSD. The attack, called FROST, needs no native code, no extension, and no permission prompt.  You open the page, leave the tab sitting there, and it watches the drive for contention in the background.  Researchers at Graz University of Technology built it and
+Organizations have more visibility than ever. Growing tech stacks provide greater coverage, and network security teams are increasingly adopting AI and automation to help with routine tasks and reduce manual effort.  But the same challenges persist. Outages still last hours, causing significant financial losses, operational disruption, and reputational impact. Threat response and mean time to
 
-🔗 [Read Full Article](https://thehackernews.com/2026/06/new-frost-attack-lets-websites-track.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/06/the-hidden-security-risk-in-modern.html)
 
 
 ---
 
-### 📰 Hades PyPI Attack: 19 Packages Poisoned to Auto-Run Bun Credential Stealer
-**Category:** 📰 News
-**Time:** 11:07 UTC
+### 📰 LiteLLM Flaw CVE-2026-42271 Exploited in the Wild, Chains to Unauthenticated RCE
+**Category:** 🔴 Vulnerability
+**Time:** 12:16 UTC
 
 **Summary:**  
-The Miasma supply chain campaign has sparked a fresh attack wave called Hades, this time involving 37 malicious wheel artifacts across 19 packages in the Python Package Index (PyPI) registry, as the Mini Shai-Hulud-style attacks continue to be refined and splintered to target specific ecosystems.  "The compromised releases shipped a *-setup.pth file that attempts to execute automatically
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a high-severity flaw impacting BerriAI LiteLLM to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.  The vulnerability, tracked as CVE-2026-42271 (CVSS score: 8.7), is a command injection vulnerability that could allow any authenticated user to run arbitrary commands on the
 
-🔗 [Read Full Article](https://thehackernews.com/2026/06/hades-pypi-attack-19-packages-poisoned.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/06/litellm-flaw-cve-2026-42271-exploited.html)
 
 
 ---
