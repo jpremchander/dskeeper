@@ -6,38 +6,38 @@ vulnerabilities, and exploitation activity for continuous learning.
 ---
 ## 📅 2026-06-10
 
-### 📰 Anthropic Releases Claude Fable 5, Its Most Powerful AI Yet, With Cyber Safeguards
-**Category:** 📰 News
-**Time:** 12:24 UTC
+### 📰 Your Automated Pentest Looks Clean. See What It Missed in This Expert Webinar
+**Category:** 📅 Webinar/Event, 💡 Expert Insight
+**Time:** 13:43 UTC
 
 **Summary:**  
-On June 9, Anthropic released Claude Fable 5, the most capable model it has ever made, generally available. It also did something unusual: it shipped one model as two products, split not by capability but by a layer of safety classifiers.  Fable 5 goes to the public. Its twin, Claude Mythos 5, the same underlying model with the cyber safeguards lifted, stays locked to a vetted group of cyber
+Your pentest report looks clean. That might be the problem.  Run automated pentesting long enough, and the new findings start to dry up. By the third or fourth run, fewer issues appear. The report looks stable. Leadership reads "stable" as "secure." It usually isn't. The work slows down. The risk does not.  That gap is what a The Hacker News webinar with Picus Security sets out to close.  Autumn
 
-🔗 [Read Full Article](https://thehackernews.com/2026/06/anthropic-releases-claude-fable-5-its.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/06/your-automated-pentest-looks-clean-see.html)
 
 
 ---
 
-### 📰 Microsoft Defender RoguePlanet Zero-Day Grants SYSTEM Access on Updated Windows
+### 📰 Microsoft Patches Record 206 Flaws, Including Three Zero-Days and Critical RCE Bugs
 **Category:** 🔴 Vulnerability
-**Time:** 12:24 UTC
+**Time:** 13:43 UTC
 
 **Summary:**  
-The anonymous security researcher going by the name Chaotic Eclipse (aka Nightmare-Eclipse) has released a proof-of-concept (PoC) exploit for yet another Microsoft Defender zero-day named RoguePlanet.  "The exploit is a race condition, so it's a hit or miss," the researcher, who published the exploit under a new GitHub account, "MSNightmare" said. "I have managed to get a 100% success rate on
+Microsoft on Tuesday released fixes for a record 206 security vulnerabilities impacting its software portfolio, including three flaws that have been publicly disclosed at the time of release.  Of the 206 flaws, 39 are rated Critical, and 167 are rated Important in severity. This includes 63 privilege escalation, 56 remote code execution, 30 information disclosure, 27 spoofing, 20 security
 
-🔗 [Read Full Article](https://thehackernews.com/2026/06/microsoft-defender-rogueplanet-zero-day.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/06/microsoft-patches-record-206-flaws.html)
 
 
 ---
 
-### 📰 Six Proto6 Vulnerabilities in protobuf.js Expose Node.js Apps to RCE and DoS
+### 📰 ServiceNow Flaw Exploited to Gain Unauthorized Access to Customer Instances
 **Category:** 🔴 Vulnerability
-**Time:** 12:24 UTC
+**Time:** 13:43 UTC
 
 **Summary:**  
-Cybersecurity researchers have flagged half a dozen vulnerabilities in protobuf.js, a JavaScript and TypeScript implementation of Protocol Buffers (Protobuf), that, if successfully exploited, could result in remote code execution (RCE) and denial-of-service (DoS) attacks.  "In affected environments, a single malicious protobuf schema, descriptor, or crafted payload could be enough to trigger
+ServiceNow has warned about a security incident in which unknown threat actors exploited a flaw to obtain deeper unauthorized access to susceptible instances.  "On June 5, 2026, ServiceNow applied a security update to hosted customer instances," the company revealed in an advisory that requires customer access. "The update concerned a security issue that could allow an unauthenticated user, in
 
-🔗 [Read Full Article](https://thehackernews.com/2026/06/six-proto6-vulnerabilities-in.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/06/servicenow-flaw-exploited-to-gain.html)
 
 
 ---
