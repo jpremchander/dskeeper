@@ -6,74 +6,50 @@ vulnerabilities, and exploitation activity for continuous learning.
 ---
 ## 📅 2026-06-10
 
-### 📰 Ivanti, Fortinet, and SAP Release Patches for Multiple Critical Vulnerabilities
-**Category:** 🔴 Vulnerability
-**Time:** 18:37 UTC
+### 📰 China-Linked JDY Botnet Expands to 1,500+ Devices for Cyber Reconnaissance
+**Category:** 📰 News
+**Time:** 19:38 UTC
 
 **Summary:**  
-Fortinet, Ivanti, and SAP have released security updates to address multiple critical security vulnerabilities that could result in arbitrary code execution and information disclosure.  The security flaw patched by Fortinet relates to a command injection vulnerability in FortiSandbox, FortiSandbox Cloud, and FortiSandbox PaaS WEB UI. It's tracked as CVE-2026-25089 (CVSS score: 9.1).  "An
+Cybersecurity researchers have warned of a "resurgence and expansion" of JDY, a covert network associated with China-nexus state-sponsored threat actors.  "The JDY botnet comprises over 1,500 SOHO [small office and home office] and IoT devices and operates as a centrally controlled, high-performance scanner used to discover, fingerprint, and continuously map exposed services at scale," Lumen's
 
-🔗 [Read Full Article](https://thehackernews.com/2026/06/ivanti-fortinet-and-sap-release-patches.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/06/china-linked-jdy-botnet-expands-to-1500.html)
 
 
 ---
 
-### 📰 Unpatched Langflow Flaw CVE-2026-5027 Exploited for Unauthenticated RCE
-**Category:** 🔴 Vulnerability
-**Time:** 18:37 UTC
+### 📰 Anthropic Releases Claude Fable 5, Its Most Powerful AI Yet, With Cyber Safeguards
+**Category:** 📰 News
+**Time:** 19:38 UTC
 
 **Summary:**  
-A high-severity unpatched security flaw in Langflow, an open-source low-code platform to build artificial intelligence (AI) applications, has come under active exploitation in the wild, according to findings from VulnCheck.  The vulnerability in question is CVE-2026-5027 (CVSS score: 8.8), a case of path traversal that could allow an attacker to write files to arbitrary locations.  "The 'POST /
+On June 9, Anthropic released Claude Fable 5, the most capable model it has ever made, generally available. It also did something unusual: it shipped one model as two products, split not by capability but by a layer of safety classifiers.  Fable 5 goes to the public. Its twin, Claude Mythos 5, the same underlying model with the cyber safeguards lifted, stays locked to a vetted group of cyber
 
-🔗 [Read Full Article](https://thehackernews.com/2026/06/unpatched-langflow-flaw-cve-2026-5027.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/06/anthropic-releases-claude-fable-5-its.html)
 
 
 ---
 
-### 📰 CISA Adds Cisco, Chrome, and Arista Flaws to KEV Catalog Amid Active Exploitation
+### 📰 Microsoft Defender RoguePlanet Zero-Day Grants SYSTEM Access on Updated Windows
 **Category:** 🔴 Vulnerability
-**Time:** 18:37 UTC
+**Time:** 19:38 UTC
 
 **Summary:**  
-The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added three new vulnerabilities to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation.  The list of vulnerabilities is as follows -     CVE-2026-20245 (CVSS score: 7.8) - An improper encoding or escaping of output vulnerability in Cisco Catalyst SD-WAN Manager that could allow an
+The anonymous security researcher going by the name Chaotic Eclipse (aka Nightmare-Eclipse) has released a proof-of-concept (PoC) exploit for yet another Microsoft Defender zero-day named RoguePlanet.  "The exploit is a race condition, so it's a hit or miss," the researcher, who published the exploit under a new GitHub account "MSNightmare" said. "I have managed to get a 100% success rate on
 
-🔗 [Read Full Article](https://thehackernews.com/2026/06/cisa-adds-cisco-chrome-and-arista-flaws.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/06/microsoft-defender-rogueplanet-zero-day.html)
 
 
 ---
 
-### 📰 Your Automated Pentest Looks Clean. See What It Missed in This Expert Webinar
-**Category:** 📅 Webinar/Event, 💡 Expert Insight
-**Time:** 18:37 UTC
-
-**Summary:**  
-Your pentest report looks clean. That might be the problem.  Run automated pentesting long enough, and the new findings start to dry up. By the third or fourth run, fewer issues appear. The report looks stable. Leadership reads "stable" as "secure." It usually isn't. The work slows down. The risk does not.  That gap is what a The Hacker News webinar with Picus Security sets out to close.  Autumn
-
-🔗 [Read Full Article](https://thehackernews.com/2026/06/your-automated-pentest-looks-clean-see.html)
-
-
----
-
-### 📰 Microsoft Patches Record 206 Flaws, Including Three Zero-Days and Critical RCE Bugs
+### 📰 Six Proto6 Vulnerabilities in protobuf.js Expose Node.js Apps to RCE and DoS
 **Category:** 🔴 Vulnerability
-**Time:** 18:37 UTC
+**Time:** 19:38 UTC
 
 **Summary:**  
-Microsoft on Tuesday released fixes for a record 206 security vulnerabilities impacting its software portfolio, including three flaws that have been publicly disclosed at the time of release.  Of the 206 flaws, 39 are rated Critical, and 167 are rated Important in severity. This includes 63 privilege escalation, 56 remote code execution, 30 information disclosure, 27 spoofing, 20 security
+Cybersecurity researchers have flagged half a dozen vulnerabilities in protobuf.js, a JavaScript and TypeScript implementation of Protocol Buffers (Protobuf), that, if successfully exploited, could result in remote code execution (RCE) and denial-of-service (DoS) attacks.  "In affected environments, a single malicious protobuf schema, descriptor, or crafted payload could be enough to trigger
 
-🔗 [Read Full Article](https://thehackernews.com/2026/06/microsoft-patches-record-206-flaws.html)
-
-
----
-
-### 📰 ServiceNow Flaw Exploited to Gain Unauthorized Access to Customer Instances
-**Category:** 🔴 Vulnerability
-**Time:** 18:37 UTC
-
-**Summary:**  
-ServiceNow has warned about a security incident in which unknown threat actors exploited a flaw to obtain deeper unauthorized access to susceptible instances.  "On June 5, 2026, ServiceNow applied a security update to hosted customer instances," the company revealed in an advisory that requires customer access. "The update concerned a security issue that could allow an unauthenticated user, in
-
-🔗 [Read Full Article](https://thehackernews.com/2026/06/servicenow-flaw-exploited-to-gain.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/06/six-proto6-vulnerabilities-in.html)
 
 
 ---
