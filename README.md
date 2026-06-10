@@ -6,14 +6,38 @@ vulnerabilities, and exploitation activity for continuous learning.
 ---
 ## 📅 2026-06-10
 
-### 📰 ServiceNow Flaw Exploited to Gain Unauthorized Access to Customer Instances
-**Category:** 🔴 Vulnerability
-**Time:** 08:14 UTC
+### 📰 Anthropic Releases Claude Fable 5, Its Most Powerful AI Yet, With Cyber Safeguards
+**Category:** 📰 News
+**Time:** 09:33 UTC
 
 **Summary:**  
-ServiceNow has warned about a security incident in which unknown threat actors exploited a flaw to obtain deeper unauthorized access to susceptible instances.  "On June 5, 2026, ServiceNow applied a security update to hosted customer instances," the company revealed in an advisory that requires customer access. "The update concerned a security issue that could allow an unauthenticated user, in
+On June 9, Anthropic released Claude Fable 5, the most capable model it has ever made, generally available. It also did something unusual: it shipped one model as two products, split not by capability but by a layer of safety classifiers.  Fable 5 goes to the public. Its twin, Claude Mythos 5, the same underlying model with the cyber safeguards lifted, stays locked to a vetted group of cyber
 
-🔗 [Read Full Article](https://thehackernews.com/2026/06/servicenow-flaw-exploited-to-gain.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/06/anthropic-releases-claude-fable-5-its.html)
+
+
+---
+
+### 📰 Microsoft Defender RoguePlanet Zero-Day Grants SYSTEM Access on Updated Windows
+**Category:** 🔴 Vulnerability
+**Time:** 09:33 UTC
+
+**Summary:**  
+The anonymous security researcher going by the name Chaotic Eclipse (aka Nightmare-Eclipse) has released a proof-of-concept (PoC) exploit for yet another Microsoft Defender zero-day named RoguePlanet.  "The exploit is a race condition, so it's a hit or miss," the researcher, who published the exploit under a new GitHub account, "MSNightmare" said. "I have managed to get a 100% success rate on
+
+🔗 [Read Full Article](https://thehackernews.com/2026/06/microsoft-defender-rogueplanet-zero-day.html)
+
+
+---
+
+### 📰 Six Proto6 Vulnerabilities in protobuf.js Expose Node.js Apps to RCE and DoS
+**Category:** 🔴 Vulnerability
+**Time:** 09:33 UTC
+
+**Summary:**  
+Cybersecurity researchers have flagged half a dozen vulnerabilities in protobuf.js, a JavaScript and TypeScript implementation of Protocol Buffers (Protobuf), that, if successfully exploited, could result in remote code execution (RCE) and denial-of-service (DoS) attacks.  "In affected environments, a single malicious protobuf schema, descriptor, or crafted payload could be enough to trigger
+
+🔗 [Read Full Article](https://thehackernews.com/2026/06/six-proto6-vulnerabilities-in.html)
 
 
 ---
