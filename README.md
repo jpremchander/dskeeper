@@ -6,26 +6,14 @@ vulnerabilities, and exploitation activity for continuous learning.
 ---
 ## 📅 2026-06-11
 
-### 📰 AI Broke Vulnerability Management. That's Why CISOs Are Moving Budget to BAS.
-**Category:** 🔴 Vulnerability
-**Time:** 11:48 UTC
-
-**Summary:**  
-For thirty years, vulnerability management ran on a buffer: the months between when a vulnerability was found and when someone could figure out how to weaponize it. The solution was straightforward enough; triage by severity, schedule the fix, validate, and move on. The buffer was what made that work.  Today, that buffer is gone.  AI didn't make your team slower. It changed the other side of the
-
-🔗 [Read Full Article](https://thehackernews.com/2026/06/ai-broke-vulnerability-management-thats.html)
-
-
----
-
-### 📰 OceanLotus Hits Vietnam Investors With SPECTRALVIPER in FireAnt Attack
+### 📰 GitHub to Disable npm Install Scripts by Default to Stop Supply Chain Attacks
 **Category:** 📰 News
-**Time:** 11:48 UTC
+**Time:** 13:26 UTC
 
 **Summary:**  
-The Vietnam-aligned threat actor known as OceanLotus has been attributed to two distinct campaigns that targeted domestic entities and stock investors with a backdoor known as SPECTRALVIPER.  The campaigns involve a prolonged cyber espionage operation aimed at a Vietnamese infrastructure and transport construction corporation between mid-2024 and February 2026, as well as a supply chain attack
+GitHub has announced what it said are "breaking changes" coming to npm version 12, one of which turns off install scripts by default to combat software supply chain threats.  The changes aim to combat attack techniques that abuse the "npm install" command to trigger the execution of malicious code using npm lifecycle hooks. "Npm install" is used to download and install all the necessary
 
-🔗 [Read Full Article](https://thehackernews.com/2026/06/oceanlotus-hits-vietnam-investors-with.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/06/github-to-disable-npm-install-scripts.html)
 
 
 ---
