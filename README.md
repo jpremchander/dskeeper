@@ -6,62 +6,38 @@ vulnerabilities, and exploitation activity for continuous learning.
 ---
 ## 📅 2026-06-11
 
-### 📰 The Gentlemen Ransomware Claims 478 Victims, Can Spread Like a Worm
-**Category:** 💡 Expert Insight
-**Time:** 17:45 UTC
-
-**Summary:**  
-A new analysis of The Gentlemen operation has revealed that the financially motivated threat group initially operated as an affiliate responsible for conducting double extortion attacks, while leveraging resources from various ransomware-as-a-service (RaaS) schemes like LockBit (aka Tenacious Mantis), Qilin (aka Pestilent Mantis), and Medusa (aka Venomous Mantis).  According to a detailed report
-
-🔗 [Read Full Article](https://thehackernews.com/2026/06/the-gentlemen-ransomware-claims-478.html)
-
-
----
-
-### 📰 Cybersecurity Stars Awards 2026: Winners Announced Across 95 Categories
+### 📰 New Attacks Trick OpenClaw AI Agent Into Running Code and Leaking Secrets
 **Category:** 📰 News
-**Time:** 17:45 UTC
+**Time:** 18:46 UTC
 
 **Summary:**  
-Most good security work is invisible by design. Today is the exception.  The 2026 Cybersecurity Stars Awards winners are announced across 95 subcategories in four main award categories.  The reason is simple. Cybersecurity is full of work that deserves recognition and rarely gets it. Products that quietly close real gaps. Teams that stop incidents nobody reads about. Companies that raise the
+Two security teams have shown, in separate research published this week, that OpenClaw, the popular self-hosted AI agent, can be driven to run attacker-controlled code or hand over sensitive data through ordinary-looking inputs.  Imperva buried instructions inside shared contacts, vCards, and location pins that the agent executed without the victim ever seeing them. Varonis built a test agent on
 
-🔗 [Read Full Article](https://thehackernews.com/2026/06/cybersecurity-stars-awards-2026-winners.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/06/new-attacks-trick-openclaw-ai-agent.html)
 
 
 ---
 
-### 📰 ThreatsDay Bulletin: Worm Code Leaked, AI Agent Phished, Claude Code Patch + 28 New Stories
+### 📰 New GreatXML Exploit Bypasses Windows BitLocker via Recovery Partition XML Files
 **Category:** 🔴 Vulnerability
-**Time:** 17:45 UTC
+**Time:** 18:46 UTC
 
 **Summary:**  
-It's been one of those weeks. You expect the usual noise: recycled malware, sloppy attacks, another easy target getting hit. Instead, there's a supply chain attack kit in a public repo, a $5,000-a-month RAT that clones browsers, and research showing AI agents can be tricked into leaking real credentials.  The bigger problem is how polished this all looks now. Mule networks run like SaaS.
+Security researcher Chaotic Eclipse (aka Nightmare-Eclipse and MSNightmare) has released a new Windows BitLocker bypass dubbed GreatXML, a day after they published an exploit for Microsoft Defender.  "This was an accidental discovery, it took a total of 4 hours to find this," the researcher said in a post on Blogger. "If you ever attempted to use Windows Defender Offline Scan, you're
 
-🔗 [Read Full Article](https://thehackernews.com/2026/06/threatsday-bulletin-worm-code-leaked-ai.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/06/new-greatxml-exploit-bypasses-windows.html)
 
 
 ---
 
-### 📰 AI Broke Vulnerability Management. That's Why CISOs Are Moving Budget to BAS.
-**Category:** 🔴 Vulnerability
-**Time:** 17:45 UTC
-
-**Summary:**  
-For thirty years, vulnerability management ran on a buffer: the months between when a vulnerability was found and when someone could figure out how to weaponize it. The solution was straightforward enough; triage by severity, schedule the fix, validate, and move on. The buffer was what made that work.  Today, that buffer is gone.  AI didn't make your team slower. It changed the other side of the
-
-🔗 [Read Full Article](https://thehackernews.com/2026/06/ai-broke-vulnerability-management-thats.html)
-
-
----
-
-### 📰 OceanLotus Hits Vietnam Investors With SPECTRALVIPER in FireAnt Attack
+### 📰 GitHub to Disable npm Install Scripts by Default to Stop Supply Chain Attacks
 **Category:** 📰 News
-**Time:** 17:45 UTC
+**Time:** 18:46 UTC
 
 **Summary:**  
-The Vietnam-aligned threat actor known as OceanLotus has been attributed to two distinct campaigns that targeted domestic entities and stock investors with a backdoor known as SPECTRALVIPER.  The campaigns involve a prolonged cyber espionage operation aimed at a Vietnamese infrastructure and transport construction corporation between mid-2024 and February 2026, as well as a supply chain attack
+GitHub has announced what it said are "breaking changes" coming to npm version 12, one of which turns off install scripts by default to combat software supply chain threats.  The changes aim to combat attack techniques that abuse the "npm install" command to trigger the execution of malicious code using npm lifecycle hooks. "Npm install" is used to download and install all the necessary
 
-🔗 [Read Full Article](https://thehackernews.com/2026/06/oceanlotus-hits-vietnam-investors-with.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/06/github-to-disable-npm-install-scripts.html)
 
 
 ---
