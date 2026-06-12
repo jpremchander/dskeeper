@@ -6,38 +6,62 @@ vulnerabilities, and exploitation activity for continuous learning.
 ---
 ## 📅 2026-06-12
 
-### 📰 Agentjacking Attack Tricks AI Coding Agents Into Running Malicious Code
+### 📰 400+ Arch Linux AUR Packages Hijacked to Install Rust Credential Stealer
 **Category:** 📰 News
-**Time:** 19:15 UTC
+**Time:** 20:16 UTC
 
 **Summary:**  
-Cybersecurity researchers have described what they say is a new class of attack that can trick artificial intelligence (AI) coding agents into running arbitrary code on developer machines.  Called Agentjacking by Tenet Security, the attack can be triggered by means of a fake error report crafted using Sentry, an open-source error-tracking and performance-monitoring platform.  "The attack
+Attackers took over more than 400 packages in the Arch User Repository (AUR) this week and rewrote their build scripts to install a credential stealer on any machine that built them.  The malware is a Rust binary built to harvest developer secrets. When it lands with root, it can also load an eBPF rootkit to hide itself. The AUR is Arch Linux's community package collection, and it is separate
 
-🔗 [Read Full Article](https://thehackernews.com/2026/06/agentjacking-attack-tricks-ai-coding.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/06/400-arch-linux-aur-packages-hijacked-to.html)
 
 
 ---
 
-### 📰 LangGraph Flaw Chain Exposes Self-Hosted AI Agents to Remote Code Execution
-**Category:** 🔴 Vulnerability
-**Time:** 19:15 UTC
+### 📰 Google Sues Chinese Smishing Network Accused of Using Gemini AI in Phishing
+**Category:** 📰 News
+**Time:** 20:16 UTC
 
 **Summary:**  
-Cybersecurity researchers have disclosed details of three now-patched security flaws impacting LangGraph, including a critical vulnerability chain that could result in remote code execution.  LangGraph is an open-source framework created by LangChain to build complex, stateful, and multi-agent artificial intelligence (AI) agentic applications.  "An SQL injection in LangGraph's function could
+Google on Friday said it's pursuing legal action against a Chinese cybercrime network, accusing it of using its Gemini artificial intelligence (AI) agent to send phishing text messages targeting Americans.  The network is said to be behind the development and management of a phishing-as-a-service (PhaaS) software kit called Outsider, per the tech giant.  "The operation weaponized Gemini to help
 
-🔗 [Read Full Article](https://thehackernews.com/2026/06/langgraph-flaw-chain-exposes-self.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/06/google-sues-chinese-smishing-network.html)
 
 
 ---
 
-### 📰 INTERPOL Operation Takes Down Sniper Dz Phishing Platform, Arrests Administrator
+### 📰 China-Linked Hackers Backdoored Linux Login Software to Hide for Nearly a Decade
 **Category:** 📰 News
-**Time:** 19:15 UTC
+**Time:** 20:16 UTC
 
 **Summary:**  
-An INTERPOL-led operation last month resulted in the disruption of Sniper Dz, a decade-long phishing-as-a-service (PhaaS) platform, Group-IB said Thursday.  The effort, codenamed Operation Ramz, took place between October 2025 and February 2026, and saw authorities from 13 countries in the Middle East and North Africa (MENA) region making 201 arrests.  Included among them was Guedz, the primary
+Instead of hiding on the laptops and servers defenders watch most closely, a China-nexus group spent close to a decade hidden inside the Linux login system itself.  Sygnia, which tracks the group as Velvet Ant, says it backdoored the PAM and OpenSSH components that decide who is allowed to sign in, planting its access where ordinary cleanup could not reach it. The network it targeted had no
 
-🔗 [Read Full Article](https://thehackernews.com/2026/06/interpol-takes-down-sniper-dz-phishing.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/06/china-linked-hackers-backdoored-linux.html)
+
+
+---
+
+### 📰 Rethinking MDR as Attackers and Defenders Embrace AI
+**Category:** 📰 News
+**Time:** 20:16 UTC
+
+**Summary:**  
+For most of the past decade, managed detection and response was the answer to a real problem. Security teams couldn't staff around the clock, couldn't hire enough analysts, and needed someone else to handle the alert queue. MDR stepped in. It worked well enough. Until now.  The threat landscape has changed faster than the MDR model can adapt. Attackers are using AI to move faster, generate more
+
+🔗 [Read Full Article](https://thehackernews.com/2026/06/rethinking-mdr-as-attackers-and.html)
+
+
+---
+
+### 📰 Europol Disrupts AudiA6 Crypto Laundering Service Used by Ransomware Gangs
+**Category:** 📰 News
+**Time:** 20:16 UTC
+
+**Summary:**  
+Authorities in Europe have disrupted AudiA6, a cryptocurrency laundering service used by ransomware gangs and cybercriminal networks.  Europol, in a statement issued Thursday, said the dismantling of AudiA6 cut off a "key financial pipeline used to wash hundreds of millions in illicit profits." The service is estimated to have been used to launder more than €336 million (~$389 million) since the
+
+🔗 [Read Full Article](https://thehackernews.com/2026/06/europol-disrupts-audia6-crypto.html)
 
 
 ---
