@@ -6,14 +6,26 @@ vulnerabilities, and exploitation activity for continuous learning.
 ---
 ## 📅 2026-06-12
 
-### 📰 Europol Disrupts AudiA6 Crypto Laundering Service Used by Ransomware Gangs
-**Category:** 📰 News
-**Time:** 08:32 UTC
+### 📰 LangGraph Flaw Chain Exposes Self-Hosted AI Agents to Remote Code Execution
+**Category:** 🔴 Vulnerability
+**Time:** 10:10 UTC
 
 **Summary:**  
-Authorities in Europe have disrupted AudiA6, a cryptocurrency laundering service used by ransomware gangs and cybercriminal networks.  Europol, in a statement issued Thursday, said the dismantling of AudiA6 cut off a "key financial pipeline used to wash hundreds of millions in illicit profits." The service is estimated to have been used to launder more than €336 million (~$389 million) since the
+Cybersecurity researchers have disclosed details of three now-patched security flaws impacting LangGraph, including a critical vulnerability chain that could result in remote code execution.  LangGraph is an open-source framework created by LangChain to build complex, stateful, and multi-agent artificial intelligence (AI) agentic applications.  "An SQL injection in LangGraph's function could
 
-🔗 [Read Full Article](https://thehackernews.com/2026/06/europol-disrupts-audia6-crypto.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/06/langgraph-flaw-chain-exposes-self.html)
+
+
+---
+
+### 📰 INTERPOL Operation Takes Down Sniper Dz Phishing Platform, Arrests Administrator
+**Category:** 📰 News
+**Time:** 10:10 UTC
+
+**Summary:**  
+An INTERPOL-led operation last month resulted in the disruption of Sniper Dz, a decade-long phishing-as-a-service (PhaaS) platform, Group-IB said Thursday.  The effort, codenamed Operation Ramz, took place between October 2025 and February 2026, and saw authorities from 13 countries in the Middle East and North Africa (MENA) region making 201 arrests.  Included among them was Guedz, the primary
+
+🔗 [Read Full Article](https://thehackernews.com/2026/06/interpol-takes-down-sniper-dz-phishing.html)
 
 
 ---
