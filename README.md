@@ -6,14 +6,14 @@ vulnerabilities, and exploitation activity for continuous learning.
 ---
 ## 📅 2026-06-13
 
-### 📰 U.S. Orders Anthropic to Suspend Fable 5 and Mythos 5 Access for Foreign Nationals
-**Category:** 📰 News
-**Time:** 22:39 UTC
+### 📰 Critical Splunk Enterprise Flaw Lets Attackers Run Code Without Authentication
+**Category:** 🔴 Vulnerability
+**Time:** 23:09 UTC
 
 **Summary:**  
-Anthropic said on Friday it will "abruptly disable" its most advanced artificial intelligence (AI) models, Claude Fable 5 and Mythos 5, for all users after the U.S. government ordered it to suspend access to the models for foreign nationals, whether inside or outside the U.S., citing national security concerns.  The AI company said it received an order at 5:21 p.m. ET, instructing it to suspend
+Splunk has released security updates to address a critical security flaw in Splunk Enterprise that could be exploited to conduct unauthenticated file operations and even remote code execution.  The vulnerability, tracked as CVE-2026-20253, is rated 9.8 on the CVSS scoring system.  "In Splunk Enterprise versions below 10.2.4 and 10.0.7, an unauthenticated user could create or truncate arbitrary
 
-🔗 [Read Full Article](https://thehackernews.com/2026/06/us-orders-anthropic-to-suspend-fable-5.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/06/critical-splunk-enterprise-flaw-lets.html)
 
 
 ---
