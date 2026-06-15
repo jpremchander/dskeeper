@@ -6,62 +6,50 @@ vulnerabilities, and exploitation activity for continuous learning.
 ---
 ## 📅 2026-06-15
 
-### 📰 North Korean Hackers Are Turning Developer Tools Into Malware Delivery Channels
-**Category:** 📰 News
-**Time:** 19:58 UTC
+### 📰 LiteLLM Vulnerability Chain Lets Low-Privilege Users Take Over AI Gateway Servers
+**Category:** 🔴 Vulnerability
+**Time:** 21:07 UTC
 
 **Summary:**  
-Cybersecurity researchers have flagged two malicious cyber campaigns that exhibit similarities with a persistent North Korean threat cluster known as Contagious Interview (aka Famous Chollima, HexagonalRodent, and Void Dokkaebi).  According to a report published by Proofpoint, the threat actor has been found orchestrating phishing campaigns using developer role recruitment or code review themes
+A default low-privilege account on a LiteLLM proxy can climb to full admin and run code on the server by chaining three vulnerabilities, researchers at Obsidian Security disclosed  LiteLLM is a widely deployed open-source AI gateway that brokers calls to more than 100 model providers behind one OpenAI-compatible interface.  A server takeover exposes every provider key it holds, the secrets that
 
-🔗 [Read Full Article](https://thehackernews.com/2026/06/north-korean-hackers-are-turning.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/06/litellm-vulnerability-chain-lets-low.html)
 
 
 ---
 
-### 📰 One-Click Microsoft 365 Copilot Flaw Could Have Let Attackers Steal Emails, Files, and MFA Codes
-**Category:** 📰 News
-**Time:** 19:58 UTC
+### 📰 ⚡ Weekly Recap: Chrome 0-Day, UniFi Exploits, macOS Stealers, VPN Flaw and More
+**Category:** 🔴 Vulnerability
+**Time:** 21:07 UTC
 
 **Summary:**  
-A single click on a trusted Microsoft link could have let an attacker pull emails, calendar details, and indexed files out of Microsoft 365 Copilot Enterprise Search.  Researchers at Varonis Threat Labs chained three bugs into a one-click exfiltration path they call SearchLeak. Because the link pointed to a real microsoft.com domain, traditional anti-phishing and URL filtering tools were
+Stuff broke again. Not in a movie way. An old tool was left exposed. An abandoned package was abused. A deprecated feature was still running in prod.  This week is the same lesson in a new form: phishing kits are easier to rent, AI names are useful bait, old login paths still fail, and forgotten software keeps becoming someone else's entry point.  Scroll through the full Monday Cybersecurity
 
-🔗 [Read Full Article](https://thehackernews.com/2026/06/one-click-microsoft-365-copilot-flaw.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/06/weekly-recap-chrome-0-day-unifi.html)
 
 
 ---
 
-### 📰 The Onboarding Password Mistake That Creates Unnecessary Risk
+### 📰 Sniper Dz Scams Target MENA Users via Fake Facebook Offers and Browser Alerts
 **Category:** 📰 News
-**Time:** 19:58 UTC
+**Time:** 21:07 UTC
 
 **Summary:**  
-Employee onboarding is a busy time for IT teams. New starters need devices, accounts, access permissions, and passwords, all delivered within a tight timeframe.  That usually means sharing a temporary "first-day" password so employees can access systems for the first time. The issue is that these passwords don't always stay temporary. They may be sent over email or SMS, reused across accounts,
+Cybersecurity researchers have disclosed details of fraudulent activity targeting users across the Middle East and North Africa by employing various fraudulent Facebook accounts impersonating politicians, public figures, and trusted organizations.  "These accounts promoted fake offers, including free mobile internet packages, financial compensation, and government subsidy programs," Group-IB
 
-🔗 [Read Full Article](https://thehackernews.com/2026/06/the-onboarding-password-mistake-that.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/06/sniper-dz-scams-target-mena-users-via.html)
 
 
 ---
 
-### 📰 152 Chrome Wallpaper Extensions with 105K Installs Linked to Adware and Fake Traffic
-**Category:** 📰 News
-**Time:** 19:58 UTC
+### 📰 Palo Alto Warns of Active Exploitation of PAN-OS GlobalProtect VPN Flaw
+**Category:** 🔴 Vulnerability
+**Time:** 21:07 UTC
 
 **Summary:**  
-Cybersecurity researchers have discovered a network of 152 Google Chrome extensions that act as new tab live wallpaper add-ons to distribute a potentially unwanted program (PUP) family.  The cluster spans 38 separate Chrome Web Store publisher accounts and three brand backends: tabplugins[.]com, yowgames[.]com, and chromewallpaper[.]com. They have been collectively installed 105,000 times. The
+Palo Alto Networks has revealed that it has observed "active exploitation" of a recently disclosed PAN-OS vulnerability by an unknown threat actor to obtain unauthorized access to GlobalProtect portals.  The vulnerability in question is CVE-2026-0257 (CVSS score: 7.8), an authentication bypass flaw affecting the portal and gateway components of PAN-OS software that could be exploited by bad
 
-🔗 [Read Full Article](https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html)
-
-
----
-
-### 📰 Popular WordPress Plugin Scripts Tampered to Plant Hidden Backdoors on Sites
-**Category:** 📰 News
-**Time:** 19:58 UTC
-
-**Summary:**  
-An attacker tampered with trusted JavaScript files used by WordPress sites running PushEngage, OptinMonster, and TrustPulse, turning those files into a way to break into the sites.  When a site administrator was logged in as the file loaded, the code created an admin account under the attacker's control and installed a hidden plugin that opened a way back in. Ordinary visitors did not trigger it
-
-🔗 [Read Full Article](https://thehackernews.com/2026/06/popular-wordpress-plugin-scripts.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/06/palo-alto-warns-of-active-exploitation.html)
 
 
 ---
