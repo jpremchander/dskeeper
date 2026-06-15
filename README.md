@@ -6,26 +6,38 @@ vulnerabilities, and exploitation activity for continuous learning.
 ---
 ## 📅 2026-06-15
 
-### 📰 Sniper Dz Scams Target MENA Users via Fake Facebook Offers and Browser Alerts
+### 📰 The Onboarding Password Mistake That Creates Unnecessary Risk
 **Category:** 📰 News
-**Time:** 08:28 UTC
+**Time:** 12:51 UTC
 
 **Summary:**  
-Cybersecurity researchers have disclosed details of fraudulent activity targeting users across the Middle East and North Africa by employing various fraudulent Facebook accounts impersonating politicians, public figures, and trusted organizations.  "These accounts promoted fake offers, including free mobile internet packages, financial compensation, and government subsidy programs," Group-IB
+Employee onboarding is a busy time for IT teams. New starters need devices, accounts, access permissions, and passwords, all delivered within a tight timeframe.  That usually means sharing a temporary "first-day" password so employees can access systems for the first time. The issue is that these passwords don't always stay temporary. They may be sent over email or SMS, reused across accounts,
 
-🔗 [Read Full Article](https://thehackernews.com/2026/06/sniper-dz-scams-target-mena-users-via.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/06/the-onboarding-password-mistake-that.html)
 
 
 ---
 
-### 📰 Palo Alto Warns of Active Exploitation of PAN-OS GlobalProtect VPN Flaw
-**Category:** 🔴 Vulnerability
-**Time:** 08:28 UTC
+### 📰 152 Chrome Wallpaper Extensions with 105K Installs Linked to Adware and Fake Traffic
+**Category:** 📰 News
+**Time:** 12:51 UTC
 
 **Summary:**  
-Palo Alto Networks has revealed that it has observed "active exploitation" of a recently disclosed PAN-OS vulnerability by an unknown threat actor to obtain unauthorized access to GlobalProtect portals.  The vulnerability in question is CVE-2026-0257 (CVSS score: 7.8), an authentication bypass flaw affecting the portal and gateway components of PAN-OS software that could be exploited by bad
+Cybersecurity researchers have discovered a network of 152 Google Chrome extensions that act as new tab live wallpaper add-ons to distribute a potentially unwanted program (PUP) family.  The cluster spans 38 separate Chrome Web Store publisher accounts and three brand backends: tabplugins[.]com, yowgames[.]com, and chromewallpaper[.]com. They have been collectively installed 105,000 times. The
 
-🔗 [Read Full Article](https://thehackernews.com/2026/06/palo-alto-warns-of-active-exploitation.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html)
+
+
+---
+
+### 📰 Popular WordPress Plugin Scripts Tampered to Plant Hidden Backdoors on Sites
+**Category:** 📰 News
+**Time:** 12:51 UTC
+
+**Summary:**  
+An attacker tampered with trusted JavaScript files used by WordPress sites running PushEngage, OptinMonster, and TrustPulse, turning those files into a way to break into the sites.  When a site administrator was logged in as the file loaded, the code created an admin account under the attacker's control and installed a hidden plugin that opened a way back in. Ordinary visitors did not trigger it
+
+🔗 [Read Full Article](https://thehackernews.com/2026/06/popular-wordpress-plugin-scripts.html)
 
 
 ---
