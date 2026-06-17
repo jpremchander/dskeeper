@@ -6,14 +6,14 @@ vulnerabilities, and exploitation activity for continuous learning.
 ---
 ## 📅 2026-06-17
 
-### 📰 CISA Warns of Actively Exploited Joomla JCE Flaw Allowing PHP Code Execution
-**Category:** 🔴 Vulnerability
-**Time:** 07:00 UTC
+### 📰 144 Mastra npm Packages Compromised via Hijacked Contributor Account
+**Category:** 📰 News
+**Time:** 08:49 UTC
 
 **Summary:**  
-The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a maximum-severity security flaw impacting Widget Factory Joomla Content Editor (JCE) to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.  The vulnerability, tracked as CVE-2026-48907 (CVSS score: 10.0), is a case of improper access control that could facilitate arbitrary
+As many as 144 npm packages associated with the Mastra namespace ("@mastra/*"), a popular open-source JavaScript and TypeScript framework for building artificial intelligence (AI) applications, have been compromised as part of a software supply chain attack codenamed easy-day-js, per findings from JFrog, SafeDep, Socket, and StepSecurity.  "A single npm account (ehindero) mass-published more
 
-🔗 [Read Full Article](https://thehackernews.com/2026/06/cisa-warns-of-actively-exploited-joomla.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/06/144-mastra-npm-packages-compromised-via.html)
 
 
 ---
