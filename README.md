@@ -6,26 +6,38 @@ vulnerabilities, and exploitation activity for continuous learning.
 ---
 ## 📅 2026-06-18
 
-### 📰 DragonForce Hackers Abuse Microsoft Teams Relays to Hide Backdoor.Turn C2 Traffic
-**Category:** 📰 News
-**Time:** 14:32 UTC
+### 📰 Microsoft Details Windows Clipper Malware Campaign Using USB LNK Worm and Tor-Based C2
+**Category:** 💡 Expert Insight
+**Time:** 15:57 UTC
 
 **Summary:**  
-Threat actors associated with the DragonForce ransomware have been observed using a custom Go-based remote access trojan (RAT) called Backdoor.Turn to conceal command-and-control (C2) traffic inside Microsoft Teams relay infrastructure.  According to findings from Broadcom-owned Symantec and Carbon Black, the backdoor was deployed against a major U.S. services firm. The name of the company was
+Microsoft has disclosed details of a Windows-based cryptocurrency clipper campaign that has targeted users since February 2026.  "The clipper in this campaign relies on Windows Script Host and ActiveX-driven logic to launch a bundled Tor proxy and poll a hidden-service C2 [command-and-control] server," the Microsoft Defender Security Research Team said in an analysis published Tuesday. "It
 
-🔗 [Read Full Article](https://thehackernews.com/2026/06/dragonforce-hackers-abuse-microsoft.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/06/microsoft-details-windows-clipper.html)
 
 
 ---
 
-### 📰 The Scripts on Your Checkout Page Are Now a PCI DSS Problem
+### 📰 INC Ransomware Emerges as Major RaaS Threat in 2026 with 830+ Victims Since 2023
 **Category:** 📰 News
-**Time:** 14:32 UTC
+**Time:** 15:57 UTC
 
 **Summary:**  
-An independent PCI assessor tested Reflectiz against the new PCI DSS rules. Here is the verdict: See the full QSA assessment here →  When a customer types their card number into your checkout, their browser is running far more than your code. Analytics tags, a tag manager, a support widget, a payment iframe: a modern checkout loads dozens of third-party scripts, and any one of them can be turned
+Cybersecurity researchers have charted the evolution of INC from an nascent ransomware-as-a-service (RaaS) operation to one of the most prolific cybercrime groups in 2026, claiming no less than 830 victims since August 2023.  "The disruption of LockBit and the shutdown of BlackCat created opportunities for INC to expand as affiliates migrated to alternative ransomware operations," Acronis
 
-🔗 [Read Full Article](https://thehackernews.com/2026/06/the-scripts-on-your-checkout-page-are.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/06/inc-ransomware-claims-830-victims-since.html)
+
+
+---
+
+### 📰 Orphaned AI Agents: How to Find Hidden Access Risks Inside Your Network
+**Category:** 📰 News
+**Time:** 15:57 UTC
+
+**Summary:**  
+If an autonomous AI agent interacts with your company's core intellectual property today, can your security team instantly name the person who authorized it?  For most enterprises, the answer is a simple no.  The rush to adopt internal AI tools has left a massive trail of administrative debt: orphaned agents (AI tools left running after their creator leaves the company) and standing privileges (
+
+🔗 [Read Full Article](https://thehackernews.com/2026/06/orphaned-ai-agents-how-to-find-hidden.html)
 
 
 ---
