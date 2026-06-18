@@ -6,14 +6,26 @@ vulnerabilities, and exploitation activity for continuous learning.
 ---
 ## 📅 2026-06-18
 
-### 📰 Orphaned AI Agents: How to Find Hidden Access Risks Inside Your Network
+### 📰 DragonForce Hackers Abuse Microsoft Teams Relays to Hide Backdoor.Turn C2 Traffic
 **Category:** 📰 News
-**Time:** 13:28 UTC
+**Time:** 14:32 UTC
 
 **Summary:**  
-If an autonomous AI agent interacts with your company's core intellectual property today, can your security team instantly name the person who authorized it?  For most enterprises, the answer is a simple no.  The rush to adopt internal AI tools has left a massive trail of administrative debt: orphaned agents (AI tools left running after their creator leaves the company) and standing privileges (
+Threat actors associated with the DragonForce ransomware have been observed using a custom Go-based remote access trojan (RAT) called Backdoor.Turn to conceal command-and-control (C2) traffic inside Microsoft Teams relay infrastructure.  According to findings from Broadcom-owned Symantec and Carbon Black, the backdoor was deployed against a major U.S. services firm. The name of the company was
 
-🔗 [Read Full Article](https://thehackernews.com/2026/06/orphaned-ai-agents-how-to-find-hidden.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/06/dragonforce-hackers-abuse-microsoft.html)
+
+
+---
+
+### 📰 The Scripts on Your Checkout Page Are Now a PCI DSS Problem
+**Category:** 📰 News
+**Time:** 14:32 UTC
+
+**Summary:**  
+An independent PCI assessor tested Reflectiz against the new PCI DSS rules. Here is the verdict: See the full QSA assessment here →  When a customer types their card number into your checkout, their browser is running far more than your code. Analytics tags, a tag manager, a support widget, a payment iframe: a modern checkout loads dozens of third-party scripts, and any one of them can be turned
+
+🔗 [Read Full Article](https://thehackernews.com/2026/06/the-scripts-on-your-checkout-page-are.html)
 
 
 ---
