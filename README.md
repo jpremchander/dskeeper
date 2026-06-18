@@ -6,14 +6,14 @@ vulnerabilities, and exploitation activity for continuous learning.
 ---
 ## 📅 2026-06-18
 
-### 📰 The Scripts on Your Checkout Page Are Now a PCI DSS Problem
+### 📰 Orphaned AI Agents: How to Find Hidden Access Risks Inside Your Network
 **Category:** 📰 News
-**Time:** 12:10 UTC
+**Time:** 13:28 UTC
 
 **Summary:**  
-An independent PCI assessor tested Reflectiz against the new PCI DSS rules. Here is the verdict: See the full QSA assessment here →  When a customer types their card number into your checkout, their browser is running far more than your code. Analytics tags, a tag manager, a support widget, a payment iframe: a modern checkout loads dozens of third-party scripts, and any one of them can be turned
+If an autonomous AI agent interacts with your company's core intellectual property today, can your security team instantly name the person who authorized it?  For most enterprises, the answer is a simple no.  The rush to adopt internal AI tools has left a massive trail of administrative debt: orphaned agents (AI tools left running after their creator leaves the company) and standing privileges (
 
-🔗 [Read Full Article](https://thehackernews.com/2026/06/the-scripts-on-your-checkout-page-are.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/06/orphaned-ai-agents-how-to-find-hidden.html)
 
 
 ---
