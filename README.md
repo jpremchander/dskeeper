@@ -6,14 +6,14 @@ vulnerabilities, and exploitation activity for continuous learning.
 ---
 ## 📅 2026-06-19
 
-### 📰 Apple Patches Beats Studio Buds Flaw Letting Nearby Attackers Spy via Microphone
-**Category:** 🔴 Vulnerability
-**Time:** 08:13 UTC
+### 📰 Salesforce Disables Klue App Integration After OAuth Token Abuse Exposes Customer Data
+**Category:** 📰 News
+**Time:** 09:52 UTC
 
 **Summary:**  
-Apple has updated its Beats Studio Buds wireless earbuds to patch a high-severity vulnerability that could be exploited by nearby hackers to eavesdrop on users.  The vulnerability, tracked as CVE-2025-20701 (CVSS score: 8.8), refers to a case of incorrect authorization impacting the Airoha Bluetooth audio SDK that makes it possible to pair a Bluetooth audio device without user consent.
+Salesforce has revealed that it disabled the Klue Battlecards app integration within its platform in response to a security incident impacting the competitive intelligence company on June 11, 2026.  To that end, organizations will be unable to connect to Salesforce via the app until further notice, the American cloud-based software company noted in an alert published this week.  "Salesforce took
 
-🔗 [Read Full Article](https://thehackernews.com/2026/06/apple-patches-beats-studio-buds-flaw.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/06/salesforce-disables-klue-app.html)
 
 
 ---
