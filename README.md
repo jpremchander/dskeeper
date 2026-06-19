@@ -6,38 +6,50 @@ vulnerabilities, and exploitation activity for continuous learning.
 ---
 ## 📅 2026-06-19
 
-### 📰 Operation Endgame Disrupts SocGholish Servers, Cleans 14,971 WordPress Sites
-**Category:** 📅 Webinar/Event
-**Time:** 16:23 UTC
-
-**Summary:**  
-Dutch law enforcement authorities, along with counterparts from  Canada  , Germany, and the U.S., have disrupted malicious infrastructure associated with  SocGholish  and cleaned up nearly 15,000 infected WordPress websites.  "With these actions we deprive cybercriminals of access to infected computer systems," Maikel Rollman of the Netherlands National High Tech Crime Unit said.  "This prevents
-
-🔗 [Read Full Article](https://thehackernews.com/2026/06/operation-endgame-disrupts-socgholish.html)
-
-
----
-
-### 📰 Forget Data Leakage: Shadow AI's Real Threat Is Access Control
-**Category:** 📅 Webinar/Event
-**Time:** 16:23 UTC
-
-**Summary:**  
-The first wave of enterprise AI concern was straightforward. It was simply employees pasting sensitive data into public AI tools. Security teams responded with usage policies, domain blocks, and data loss prevention rules. That response made sense at the time.  It doesn't fit the problem anymore.  Shadow AI has shifted from a data leakage concern to an access control problem. The threat isn't
-
-🔗 [Read Full Article](https://thehackernews.com/2026/06/forget-data-leakage-shadow-ais-real.html)
-
-
----
-
-### 📰 Apple Patches Beats Studio Buds Flaw Letting Nearby Attackers Spy via Microphone
+### 📰 AutoJack Attack Lets One Web Page Hijack AI Agent for Host Code Execution
 **Category:** 🔴 Vulnerability
-**Time:** 16:23 UTC
+**Time:** 17:17 UTC
 
 **Summary:**  
-Apple has updated its Beats Studio Buds wireless earbuds to patch a high-severity vulnerability that could be exploited by nearby hackers to eavesdrop on users.  The vulnerability, tracked as CVE-2025-20701 (CVSS score: 8.8), refers to a case of incorrect authorization impacting the Airoha Bluetooth audio SDK that makes it possible to pair a Bluetooth audio device without user consent.
+Microsoft researchers have detailed an exploit chain, named&nbsp;AutoJack, that turns an AI browsing agent into a delivery vehicle for remote code execution.  Steer the agent to load an attacker's web page, and that page's JavaScript can reach a privileged local service on the same machine and spawn a process on the host.  No credentials, no sign-in screen, and no further user interaction once
 
-🔗 [Read Full Article](https://thehackernews.com/2026/06/apple-patches-beats-studio-buds-flaw.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/06/autojack-attack-lets-one-web-page.html)
+
+
+---
+
+### 📰 CISA Warns Fortinet Customers as FortiBleed Hits 86,644 FortiGate Devices
+**Category:** 📰 News
+**Time:** 17:17 UTC
+
+**Summary:**  
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday urged Fortinet customers with FortiGate appliances to take steps to secure against ongoing malicious activity aimed at thousands of internet-accessible devices.  The sweeping campaign, believed to be the work of Russian-speaking threat actors, has been codenamed FortiBleed. The number of compromised devices stands at
+
+🔗 [Read Full Article](https://thehackernews.com/2026/06/cisa-warns-fortinet-customers-as.html)
+
+
+---
+
+### 📰 From Assistive to Agentic: The AI Shift That's Redefining Threat Management
+**Category:** 📰 News
+**Time:** 17:17 UTC
+
+**Summary:**  
+Introduction  The average enterprise security team has 40 or more security tools, giving a lot of visibility into internal telemetry and asset data. But often, these tools are working in siloes, generating (overlapping) alerts and data. And yet, breach dwell times remain stubbornly long (~43 days), response windows keep closing before teams can act, and analysts burn out triaging noise instead
+
+🔗 [Read Full Article](https://thehackernews.com/2026/06/from-assistive-to-agentic-ai-shift.html)
+
+
+---
+
+### 📰 Salesforce Disables Klue App Integration After OAuth Token Abuse Exposes Customer Data
+**Category:** 📰 News
+**Time:** 17:17 UTC
+
+**Summary:**  
+Salesforce has revealed that it disabled the Klue Battlecards app integration within its platform in response to a security incident impacting the competitive intelligence company on June 11, 2026.  To that end, organizations will be unable to connect to Salesforce via the app until further notice, the American cloud-based software company noted in an alert published this week.  "Salesforce took
+
+🔗 [Read Full Article](https://thehackernews.com/2026/06/salesforce-disables-klue-app.html)
 
 
 ---
