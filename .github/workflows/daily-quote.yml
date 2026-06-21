@@ -2,9 +2,8 @@ name: Cyber News Update
 
 on:
   schedule:
-    # Runs every 15 minutes to fetch latest cybersecurity news
-    - cron: '*/15 * * * *'
-  workflow_dispatch: # Allows manual triggering
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
 
 jobs:
   update-readme:
@@ -24,23 +23,19 @@ jobs:
           python-version: '3.x'
 
       - name: Install dependencies
-        run: |
-          pip install -r requirements.txt
+        run: pip install -r requirements.txt
 
       - name: Fetch cybersecurity news and update README
-        run: |
-          python update_cybernews.py
+        run: python update_cybernews.py
 
       - name: Commit and Push
         run: |
           git config --global user.name "Cyber News Bot"
           git config --global user.email "${{ github.actor }}@users.noreply.github.com"
-          
-          # Add both README and archive directory
+
           git add README.md
           git add archive/ || true
-          
-          # Check if there are changes before committing to avoid empty commit errors
+
           if git diff-index --quiet HEAD; then
             echo "No changes to commit"
           else
