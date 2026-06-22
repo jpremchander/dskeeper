@@ -6,62 +6,62 @@ vulnerabilities, and exploitation activity for continuous learning.
 ---
 ## 📅 2026-06-22
 
-### 📰 New OXLOADER Loader Uses Malicious Google Ads to Deliver CastleStealer
-**Category:** 📰 News
-**Time:** 14:05 UTC
+### 📰 ShapedPlugin WordPress Pro Plugins Backdoored in Supply Chain Attack
+**Category:** 💡 Expert Insight
+**Time:** 19:15 UTC
 
 **Summary:**  
-Cybersecurity researchers have disclosed details of a new campaign that delivers CastleStealer by means of a previously unreported malware loader dubbed OXLOADER.  According to Elastic Security Labs, the campaign leverages malicious Google Ads as a starting point to distribute the malware. Evidence indicates that the threat actor is likely Russian-speaking and financially motivated, owing to the
+Multiple WordPress plugins from ShapedPlugin were compromised in a supply chain attack after unknown threat actors managed to tamper with the official release channels and push backdoor code.  "Attackers compromised the vendor's build and distribution pipeline, injecting backdoor code into Pro plugin releases distributed through official licensed update channels," Wordfence said in an analysis
 
-🔗 [Read Full Article](https://thehackernews.com/2026/06/new-oxloader-loader-uses-malicious.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/06/shapedplugin-wordpress-pro-plugins.html)
 
 
 ---
 
-### 📰 Google Sets Sept. 30 Deadline for Android Developer Verification in Four Countries
+### 📰 Researchers Detail DifyTap Flaws in Dify That Could Expose AI Chats Across Tenants
 **Category:** 📰 News
-**Time:** 14:05 UTC
+**Time:** 19:15 UTC
 
 **Summary:**  
-Google has set September 30, 2026, as the day it begins enforcing&nbsp;Android developer verification&nbsp;in the first four countries, and the major device-maker app stores are in from the start.  On that date, certified Android phones in Brazil, Indonesia, Singapore, and Thailand will block normal installs of apps whose developers have not registered an identity with Google, whether the app
+Cybersecurity researchers have disclosed details of four vulnerabilities in Dify, an open-source agentic workflow platform with more than 146,000 GitHub stars, that could allow attackers to stealthily read artificial intelligence (AI) conversions from other customers' applications without requiring authentication.  The vulnerabilities have been collectively codenamed DifyTap by Zafran Security.
 
-🔗 [Read Full Article](https://thehackernews.com/2026/06/google-sets-sept-30-deadline-for.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/06/researchers-detail-difytap-flaws-in.html)
 
 
 ---
 
-### 📰 Stop Your Legacy Infrastructure from Hijacking Your AI Agents
-**Category:** 📅 Webinar/Event
-**Time:** 14:05 UTC
+### 📰 29-Year-Old Squid Proxy Bug 'Squidbleed' Can Leak Cleartext HTTP Requests
+**Category:** 📰 News
+**Time:** 19:15 UTC
 
 **Summary:**  
-Earlier this month, I spoke at the Gartner Security &amp; Risk Management Summit about a blind spot most security programs are still not accounting for - how attackers are circumventing AI security programs by using legacy infrastructure to hijack AI agents.  AI adoption is moving faster than security programs can account for. Roughly 71% of organizations are piloting AI agents across their
+A heap over-read in the Squid web proxy can leak another user's cleartext HTTP request, including any credentials or session tokens it carries, to anyone already allowed to send traffic through the same proxy.  The bug traces to a 1997 FTP-parsing change and is still live in Squid's default configuration. Researchers at Calif.io&nbsp;disclosed it in June&nbsp;and named it Squidbleed (
 
-🔗 [Read Full Article](https://thehackernews.com/2026/06/stop-your-legacy-infrastructure-from.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/06/29-year-old-squid-proxy-bug-squidbleed.html)
 
 
 ---
 
-### 📰 ⚡ Weekly Recap: Browser Bugs, EDR Killers, TV Botnet, OpenBSD Flaw, Android Trojan, and More
+### 📰 AryStinger Malware Infects 4,300 Legacy Routers to Build Reconnaissance Proxy Network
 **Category:** 📰 News
-**Time:** 14:05 UTC
+**Time:** 19:15 UTC
 
 **Summary:**  
-It’s Monday again.  This week’s threat list looks painfully familiar: abused integrations, fake tools, poisoned websites, ransomware crews trying to shut down security tools, and mobile malware asking for way too much control.  The annoying part is how little of this feels new. Weak credentials, sketchy downloads, browser extensions with too much access, and WordPress sites are used to push more
+A new malware family is turning forgotten home routers into a distributed reconnaissance and proxy network, not the DDoS botnet these devices usually end up in. QiAnXin's&nbsp;XLab&nbsp;calls it AryStinger and counts at least 4,300 infected routers, a total it says is still rising.  The distinction matters. AryStinger exists for the stage of an attack that comes before the break-in. Infected
 
-🔗 [Read Full Article](https://thehackernews.com/2026/06/weekly-recap-browser-bugs-edr-killers.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/06/arystinger-malware-infects-4300-legacy.html)
 
 
 ---
 
-### 📰 Canada’s Spy Agency Used First-of-Its-Kind Warrant to Clean Botnet-Infected Devices
+### 📰 INTERPOL Warns Phishing, Ransomware, and AI Scams Are Rising Across Asia-Pacific
 **Category:** 📰 News
-**Time:** 14:05 UTC
+**Time:** 19:15 UTC
 
 **Summary:**  
-Canada's spy service got a judge's permission to reach into infected servers, home routers, and IoT gear sitting on Canadian soil and neutralize two foreign-run botnets.  The Federal Court&nbsp;released a public version of the ruling on June 15. It is the first time the Canadian Security Intelligence Service has used its threat reduction warrant powers this way.  The warrant let CSIS alter,
+A new report from INTERPOL has revealed a "dramatic increase" in cybercrime in Asia and the South Pacific, fueled by rapid digitalization, internet penetration, new technologies, organized criminal networks, and a disparity in cybersecurity maturity.  According to INTERPOL's 2025/2026 Asia and South Pacific Cyberthreat Assessment Report, phishing has emerged as the most widespread and
 
-🔗 [Read Full Article](https://thehackernews.com/2026/06/canadas-spy-agency-used-first-of-its.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/06/interpol-warns-phishing-ransomware-and.html)
 
 
 ---
