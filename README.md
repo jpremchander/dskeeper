@@ -6,38 +6,38 @@ vulnerabilities, and exploitation activity for continuous learning.
 ---
 ## 📅 2026-06-24
 
-### 📰 Dawn of the Apex Agentic Adversary
+### 📰 CISA Warns Critical Lantronix EDS5000 Flaw Is Being Actively Exploited
 **Category:** 🔴 Vulnerability
-**Time:** 12:57 UTC
+**Time:** 18:43 UTC
 
 **Summary:**  
-We are standing at the end of an era we never thought to mourn: the era of human-speed threats.  For years, cybersecurity moved to a rhythm organizations could follow. A researcher found a bug, a CVE was cataloged, a vendor navigated a patch cycle, and weeks or even months later, a fix was deployed. In this era, dwell time was measured in days, sometimes weeks. We are now approaching an
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday warned of active exploitation of a critical security flaw impacting Lantronix EDS5000 Series devices, urging Federal Civilian Executive Branch (FCEB) agencies to apply the fixes by June 26, 2026.  The vulnerability in question is CVE-2025-67038 (CVSS score: 9.8), a code injection flaw that could result in the execution
 
-🔗 [Read Full Article](https://thehackernews.com/2026/06/dawn-of-apex-agentic-adversary.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/06/cisa-warns-critical-lantronix-eds5000.html)
 
 
 ---
 
-### 📰 DoJ Seizes Huione Cloud Account Tied to Cyber Scam Money Laundering
+### 📰 Amadey and StealC Malware Network Disrupted, 27M Stolen Credentials Recovered
 **Category:** 📰 News
-**Time:** 12:57 UTC
+**Time:** 18:43 UTC
 
 **Summary:**  
-The U.S. Department of Justice (DoJ) on Tuesday announced the seizure of a cloud computing account put to use by subsidiaries of Cambodia-based corporate conglomerate HuiOne Group, as the Treasury unveiled fresh sanctions against nine individuals and 26 entities linked to Prince Group.  "These subsidiaries are alleged to have assisted individuals and organizations in transferring proceeds of
+A coordinated law enforcement operation, in partnership with private sector companies, including Bitdefender, Bitsight, ESET, and Microsoft, has resulted in the takedown of criminal infrastructure powering Amadey and StealC.  "The main common goal was to disrupt the 'assembly lines' cybercriminals use to launch ransomware, financial fraud, and attacks on critical infrastructure," Europol said in
 
-🔗 [Read Full Article](https://thehackernews.com/2026/06/doj-seizes-huione-cloud-account-tied-to.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/06/amadey-and-stealc-malware-network.html)
 
 
 ---
 
-### 📰 Cisco Unified CM Flaw Exploited After PoC Reveals File-Write Path to Root
+### 📰 Cordyceps CI/CD Flaws Expose 300+ GitHub Repositories to Supply-Chain Attacks
 **Category:** 🔴 Vulnerability
-**Time:** 12:57 UTC
+**Time:** 18:43 UTC
 
 **Summary:**  
-Threat actors have begun to exploit a recently disclosed critical security flaw impacting Cisco Unified Communications Manager (Unified CM) and Unified Communications Manager Session Management Edition (Unified CM SME).  The vulnerability, tracked as CVE-2026-20230 (CVSS score: 8.6), is a case of improper input validation for specific HTTP requests that could allow an unauthenticated, remote
+Cybersecurity researchers have flagged a new class of CI/CD workflow weakness that allows attackers to hijack workflows and compromise open-source supply chains.  The "critical exploitable pattern" has been codenamed Cordyceps by Novee Security. The issue can allow full attacker control of repositories at dozens of the largest organizations worldwide, including Microsoft, Google, Apache, and
 
-🔗 [Read Full Article](https://thehackernews.com/2026/06/cisco-unified-cm-flaw-exploited-after.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/06/cordyceps-cicd-flaws-expose-300-github.html)
 
 
 ---
