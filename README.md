@@ -6,50 +6,26 @@ vulnerabilities, and exploitation activity for continuous learning.
 ---
 ## 📅 2026-06-25
 
-### 📰 ThreatsDay Bulletin: Smart TV Proxyware, 24-Year curl Bug, AI Crime Forums + 13 More Stories
-**Category:** 📰 News
-**Time:** 12:58 UTC
+### 📰 Chrome Ad Blocker with 10M+ Installs Found with Dormant Script Injection Capability
+**Category:** 📅 Webinar/Event, 💡 Expert Insight
+**Time:** 18:53 UTC
 
 **Summary:**  
-It’s dumb out there again.  This week has the usual smell of prod on fire and nobody wanting to admit who left the door open — old creds still working, trusted apps doing sketchy crap, browser tricks jumping the fence, and “normal” workflows turning into phishing pipes because apparently email was not enough hell already.  The worst part is how cheap some of it feels. Not elite. Not cinematic.
+An analysis of a popular Google Chrome ad block extension for YouTube has uncovered the ability to execute arbitrary JavaScript code.  According to Island, the extension, named Adblock for YouTube (ID: cmedhionkhpnakcndndgjdbohmhepckk), has more than 10 million installs and carries a Featured badge on the Chrome Web Store.  The extension description states that it allows users to prevent web
 
-🔗 [Read Full Article](https://thehackernews.com/2026/06/threatsday-bulletin-smart-tv-proxyware.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/06/chrome-ad-blocker-with-10m-installs.html)
 
 
 ---
 
-### 📰 Surviving the Mythos Era: Richard Bejtlich on the Case for NDR
-**Category:** 📰 News
-**Time:** 12:58 UTC
+### 📰 Cisco Catalyst SD-WAN Zero-Day CVE-2026-20245 Exploited to Gain Root Access
+**Category:** 🔴 Vulnerability
+**Time:** 18:53 UTC
 
 **Summary:**  
-Despite the abundance of telemetry at analysts’ disposal, many security operations teams struggle to answer a few basic questions during incident investigation: What happened? What evidence do we have? How do we know we’re seeing it all, in context?  Answering these questions requires teams to go beyond alerts, the most common basis for initial triage. But investigations (and their outcomes)
+An unknown threat actor exploited a recently disclosed high-severity security flaw impacting Cisco Catalyst SD-WAN as a zero-day at least two months before it was publicly disclosed, according to new findings from Google-owned Mandiant.  The vulnerability, tracked as CVE-2026-20245 (CVSS score: 7.8), allows an authenticated, local attacker to execute arbitrary commands with elevated privileges
 
-🔗 [Read Full Article](https://thehackernews.com/2026/06/surviving-mythos-era-richard-bejtlich.html)
-
-
----
-
-### 📰 New Gaslight macOS Malware Uses Prompt Injection to Disrupt AI-Assisted Analysis
-**Category:** 💡 Expert Insight
-**Time:** 12:58 UTC
-
-**Summary:**  
-A previously undocumented Rust-based macOS implant and information stealer has been found to embed a prompt injection payload designed to trick a malware analyst's artificial intelligence (AI) tools and trick it into aborting or refusing an analysis of the artifact.  The malware has been codenamed Gaslight owing to this deceptive behavior. It's been assessed with high confidence that the tool is
-
-🔗 [Read Full Article](https://thehackernews.com/2026/06/new-gaslight-macos-malware-uses-prompt.html)
-
-
----
-
-### 📰 New Mistic Backdoor Linked to KongTuke in ClickFix and ModeloRAT Campaigns
-**Category:** 📰 News
-**Time:** 12:58 UTC
-
-**Summary:**  
-A new, stealthy backdoor named Mistic has been deployed as part of suspected financially motivated attacks aimed at multiple organizations spanning insurance, education, IT, and professional services sectors since April 2026.  According to Symantec and Carbon Black's Threat Hunter Team, the backdoor, also tracked as MLTBackdoor, is said to be linked to an initial access broker (IAB) named
-
-🔗 [Read Full Article](https://thehackernews.com/2026/06/new-mistic-backdoor-linked-to-kongtuke.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/06/cisco-catalyst-sd-wan-zero-day-cve-2026.html)
 
 
 ---
