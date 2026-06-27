@@ -6,14 +6,14 @@ vulnerabilities, and exploitation activity for continuous learning.
 ---
 ## 📅 2026-06-27
 
-### 📰 OpenAI Previews GPT-5.6 Sol With Restricted Access and Stronger Cyber Safeguards
+### 📰 Ukraine Says Russian Intelligence Used Fake Support Texts to Steal Messaging Credentials
 **Category:** 📰 News
-**Time:** 12:38 UTC
+**Time:** 18:33 UTC
 
 **Summary:**  
-OpenAI on Friday released three versions of GPT-5.6, called Sol, Terra, and Luna, as a limited preview to a small number of companies as part of an ongoing engagement with the U.S. government.  While Sol is the latest flagship model and the most powerful, Terra strikes a balance between efficiency and power, and Luna is fine-tuned for speed and affordability.  "GPT‑5.6 Sol launches with our most
+The Security Service of Ukraine (SSU) said it, together with the U.S. Federal Bureau of Investigation (FBI), uncovered a long-running campaign orchestrated by Russian intelligence services to break into the messaging accounts of government officials, military personnel, politicians, and activists in Ukraine, Europe, and the U.S.  The systematic cyber attacks aimed at stealing sensitive
 
-🔗 [Read Full Article](https://thehackernews.com/2026/06/openai-limits-gpt-56-rollout-as-sol.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/06/ukraine-says-russian-intelligence-used.html)
 
 
 ---
