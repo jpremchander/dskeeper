@@ -6,50 +6,62 @@ vulnerabilities, and exploitation activity for continuous learning.
 ---
 ## 📅 2026-06-29
 
-### 📰 236,000 DCloud Uni-App Sites Used in Crypto Scams, Phishing, and Wallet Drainers
+### 📰 WhatsApp is Finally Getting Usernames to Help Keep Phone Numbers Private
 **Category:** 📰 News
-**Time:** 13:41 UTC
+**Time:** 18:50 UTC
 
 **Summary:**  
-New findings unearthed by Infoblox show that more than 236,000 websites are using investment scam templates built using a legitimate Chinese open-source, cross-platform application development framework called DCloud Uni-App.  The templates power bogus cryptocurrency exchanges, multi-language pig-butchering operations, WhatsApp phishing networks, fake gambling platforms, brand-impersonation
+WhatsApp on Monday officially announced the start of global reservations of usernames with an aim to protect the privacy of more than three billion users on the messaging platform.  The optional feature is designed to help users connect with someone on the service through usernames, as opposed to directly sharing their phone numbers. Username reservations will start rolling out starting today,
 
-🔗 [Read Full Article](https://thehackernews.com/2026/06/236000-dcloud-uni-app-sites-used-in.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/06/whatsapp-is-finally-getting-usernames.html)
 
 
 ---
 
-### 📰 Why Post-Quantum Cryptography Starts With Credentials
+### 📰 Mustang Panda Uses Zoho WorkDrive as Command Channel in Indian Government Attacks
 **Category:** 📰 News
-**Time:** 13:41 UTC
+**Time:** 18:50 UTC
 
 **Summary:**  
-Today’s encrypted data, such as credentials, may no longer remain confidential in the future because the public-key cryptography protecting it will soon be broken by quantum computers. Although no machine today can break elliptic curve cryptography or RSA, quantum hardware is advancing rapidly and will inevitably change how organizations protect their data. Ciphertext and credentials captured by
+The China-aligned espionage group&nbsp;Mustang Panda&nbsp;is running two campaigns against the Indian government and hydropower targets, deploying new malware and turning a legitimate cloud service into its command channel.  Acronis Threat Research Unit&nbsp;found active compromises inside Indian government networks, including machines used by senior administrative staff, and worked with&nbsp;
 
-🔗 [Read Full Article](https://thehackernews.com/2026/06/why-post-quantum-cryptography-starts.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/06/mustang-panda-uses-zoho-workdrive-as.html)
 
 
 ---
 
-### 📰 Gamaredon Expands Ukraine Attacks with New Malware and Cloud Service Abuse
-**Category:** 📰 News
-**Time:** 13:41 UTC
+### 📰 ⚡ Weekly Recap: Linux Kernel Flaws, AI Malware Tricks, Turla Backdoor, Infostealers and More
+**Category:** 🔴 Vulnerability
+**Time:** 18:50 UTC
 
 **Summary:**  
-A Russian advanced persistent threat (APT) group has continued to evolve and expand its malware arsenal as part of its ongoing cyber onslaught against Ukraine throughout 2025.  Slovakian cybersecurity company ESET said it observed 35 distinct spear-phishing campaigns mounted by Gamaredon against new targets, with most of them taking place in the second half of the year. Primary targets of these
+This week was a reminder that attackers do not always need big tricks. One small mistake, one old access path, one missed patch, and suddenly the door is open.  The noise is not all noise, either. Forums are talking, researchers are finding easy cracks, and defenders have more cleanup waiting.  Here’s the full Monday recap.  ⚡ Threat of the Week  New DirtyClone Linux Kernel Flaw Lets Local
 
-🔗 [Read Full Article](https://thehackernews.com/2026/06/gamaredon-expands-ukraine-attacks-with.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/06/weekly-recap-linux-kernel-flaws-ai.html)
 
 
 ---
 
-### 📰 Microsoft Removes 119 Edge Extensions That Hid Malware in Images and Fonts
-**Category:** 📰 News
-**Time:** 13:41 UTC
+### 📰 Public PoC Released for Critical libssh2 CVE-2026-55200 Client-Side SSH Flaw
+**Category:** 🔴 Vulnerability
+**Time:** 18:50 UTC
 
 **Summary:**  
-Microsoft has shut down a long-running malicious extension operation on the Edge Add-ons store that hid its payloads inside ordinary image and font files, then woke up days after install to steal credentials and run ad fraud.  The company calls it&nbsp;StegoAd, a mash-up of steganography and adware, and ties 119 extensions to a single threat actor it says has been active since at least 2021.
+A public proof-of-concept is now out for CVE-2026-55200, a critical flaw in libssh2 that lets a malicious or compromised SSH server trigger memory corruption on a connecting client, with possible code execution. No credentials, no user interaction. The bug affects every release up to and including 1.11.1 and carries a CVSS 4.0 score of 9.2.  libssh2 is a client-side SSH library, not a server.
 
-🔗 [Read Full Article](https://thehackernews.com/2026/06/microsoft-removes-119-edge-extensions.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/06/public-poc-released-for-critical.html)
+
+
+---
+
+### 📰 Hijacked npm and Go Packages Use VS Code Tasks to Deploy Python Infostealer
+**Category:** 📰 News
+**Time:** 18:50 UTC
+
+**Summary:**  
+Cybersecurity researchers have uncovered two hijacked npm packages and a cluster of Go packages that are designed to deploy a Python-based information stealer on compromised Windows, Linux, and macOS hosts.  "This attack avoids the most common npm execution paths through lifecycle scripts, perhaps in an attempt to remain 'compatible' with npm v12's security hardenings," JFrog said in a
+
+🔗 [Read Full Article](https://thehackernews.com/2026/06/hijacked-npm-and-go-packages-use-vs.html)
 
 
 ---
