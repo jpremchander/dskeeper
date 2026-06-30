@@ -6,50 +6,74 @@ vulnerabilities, and exploitation activity for continuous learning.
 ---
 ## 📅 2026-06-30
 
-### 📰 Attackers Exploit SimpleHelp CVE-2026-48558 to Deploy TaskWeaver and Djinn Stealer
+### 📰 Langflow RCE Exploited to Deploy Monero Miner on Exposed AI App Endpoints
 **Category:** 🔴 Vulnerability
-**Time:** 12:52 UTC
+**Time:** 18:47 UTC
 
 **Summary:**  
-An unknown threat actor has been observed exploiting a recently disclosed maximum-severity security flaw in SimpleHelp to deliver two previously unreported malware families, TaskWeaver and Djinn Stealer.  The intrusion involves the exploitation of CVE-2026-48558 (CVSS score: 10.0), a critical authentication bypass vulnerability impacting the OpenID Connect (OIDC) flow that an unauthenticated
+Threat actors are continuing to exploit a critical Langflow vulnerability as part of fresh attacks designed to deliver a Monero cryptocurrency miner.  The activity has been found to weaponize CVE-2026-33017 (CVSS score: 9.3), an unauthenticated remote code execution (RCE) vulnerability in Langflow, indicating threat actors are scanning and targeting exposed artificial intelligence (AI)
 
-🔗 [Read Full Article](https://thehackernews.com/2026/06/attackers-exploit-simplehelp-cve-2026.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/06/langflow-rce-exploited-to-deploy-monero.html)
 
 
 ---
 
-### 📰 AirDrop and Quick Share Flaws Let Nearby Attackers Trigger Crashes and Bypass Checks
+### 📰 Silent Swap Crypto Clipper Uses Fake Google Notes Extension to Replace Wallet Addresses
 **Category:** 📰 News
-**Time:** 12:52 UTC
+**Time:** 18:47 UTC
 
 **Summary:**  
-Two researchers have found six security flaws in AirDrop and Quick Share, the wireless features that beam files between nearby devices with no cables or shared network.  An attacker within wireless range, with just a laptop and no prior connection, can crash the sharing service on a Mac or iPhone set to receive from anyone, with no tap or prompt.  The same research found Quick Share flaws that
+Cybersecurity researchers have flagged an active browser extension campaign that is designed to steal cryptocurrency by stealthily replacing wallet addresses when unsuspecting users initiate a transaction.  The cryptocurrency clipper activity has been codenamed Silent Swap by McAfee Labs.  "The campaign is delivered through unsigned installers – observed in both .NET and Golang variants – that
 
-🔗 [Read Full Article](https://thehackernews.com/2026/06/airdrop-and-quick-share-flaws-let.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/06/silent-swap-crypto-clipper-uses-fake.html)
 
 
 ---
 
-### 📰 New BioShocking Attack Tricks AI Browsers Into Leaking User Credentials
+### 📰 GuardFall Exposes Open-Source AI Coding Agents to Decades-Old Shell Injection Risks
 **Category:** 📰 News
-**Time:** 12:52 UTC
+**Time:** 18:47 UTC
 
 **Summary:**  
-Convince an AI browser that it is playing a game, and it can hand over your login details. That is the finding behind&nbsp;BioShocking, a technique from security firm LayerX that tricked six AI browsers and assistants into copying a user's credentials and sending them to an attacker.  The targets included OpenAI's ChatGPT Atlas, Perplexity's Comet, and Anthropic's Claude browser extension.  An
+The safety check that is supposed to stop an AI coding agent from running a dangerous command can be walked straight past using a shell trick that has been public for decades.  New research from&nbsp;Adversa AI, which is named the bypass GuardFall, found it works against ten of the eleven popular open-source coding and computer-use agents the firm tested. Only one, "Continue," was built to
 
-🔗 [Read Full Article](https://thehackernews.com/2026/06/new-bioshocking-attack-tricks-ai.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/06/guardfall-exposes-open-source-ai-coding.html)
 
 
 ---
 
-### 📰 Progress Kemp LoadMaster Flaw Could Let Attackers Run Root Commands Pre-Auth
+### 📰 282 iOS AI Apps Leak API Keys and Open AI Proxy Access in Network Traffic Study
+**Category:** 📰 News
+**Time:** 18:47 UTC
+
+**Summary:**  
+Researchers tested 444 AI chatbot apps for iPhone and found that 282 of them, nearly two-thirds, exposed paid AI access through their network traffic.  In many cases, the path in was visible just by watching what the app sent: a plaintext API key, a reusable token, or a backend server that accepted requests with no key at all.  Whoever grabs it can send model requests on the developer's account,
+
+🔗 [Read Full Article](https://thehackernews.com/2026/06/282-ios-apps-found-leaking-llm-api-keys.html)
+
+
+---
+
+### 📰 What the Numbers Say About FIFA 2026 Cyber Risk
+**Category:** 📰 News
+**Time:** 18:47 UTC
+
+**Summary:**  
+The FIFA World Cup 2026 opened on June 11. By that date, according to Check Point Research, the fraud infrastructure targeting it had already been built, staged, and partially deployed. Threat actor activity was pre-planned, months out, across three sectors and at least ten languages.  Check Point Exposure Management published the FIFA World Cup 2026 Cyber Threat Report this month, covering
+
+🔗 [Read Full Article](https://thehackernews.com/2026/06/what-numbers-say-about-fifa-2026-cyber.html)
+
+
+---
+
+### 📰 Oracle E-Business Suite Flaw CVE-2026-46817 Actively Exploited in the Wild
 **Category:** 🔴 Vulnerability
-**Time:** 12:52 UTC
+**Time:** 18:47 UTC
 
 **Summary:**  
-A critical vulnerability in Progress Kemp LoadMaster can let an unauthenticated attacker execute arbitrary commands as root on the appliance by sending a crafted request to its API.  The flaw, tracked as&nbsp;CVE-2026-8037, carries a CVSS score of&nbsp;9.8 according to ZDI. A patch is available. If you run LoadMaster with the API enabled, update now.  Progress&nbsp;published its advisory on June
+A critical security flaw impacting Oracle E-Business Suite has come under active exploitation in the wild, according to Defused Cyber.  The vulnerability, tracked as CVE-2026-46817 (CVSS score: 9.8), refers to an improper privilege management and authentication flaw in Oracle Payments that could be abused to take over susceptible instances.  "Easily exploitable vulnerability allows
 
-🔗 [Read Full Article](https://thehackernews.com/2026/06/progress-kemp-loadmaster-flaw-could-let.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/06/oracle-e-business-suite-flaw-cve-2026.html)
 
 
 ---
