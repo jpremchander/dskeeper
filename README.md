@@ -6,38 +6,86 @@ vulnerabilities, and exploitation activity for continuous learning.
 ---
 ## 📅 2026-07-01
 
-### 📰 2026 Cybersecurity Assessment: The Gap Between Awareness and Resilience
+### 📰 SEO-Poisoned Software Sites Abuse ScreenConnect to Deploy AsyncRAT
 **Category:** 📰 News
-**Time:** 13:07 UTC
+**Time:** 18:48 UTC
 
 **Summary:**  
-Organizations have never had greater awareness of cyber risk. Yet turning that awareness into operational resilience has never been more challenging. The 2026 Bitdefender Cybersecurity Assessment confirms this is the case, as this year's findings reveal a series of surprising contradictions.  Here are a few examples, based on the independent survey of 1,200 IT and cybersecurity professionals
+Unknown threat actors are leveraging the ScreenConnect remote access tool as a way to deploy and execute AsyncRAT.  Kaspersky said the activity is part of a "massive, multi-domain, multi-language" campaign that distributes malicious installer archives hosted on spoofed websites.  These installers masquerade as popular software like OBS Studio, DNS Jumper, DS4Windows, and Bandicam, among others.
 
-🔗 [Read Full Article](https://thehackernews.com/2026/07/2026-cybersecurity-assessment-gap.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/07/seo-poisoned-software-sites-abuse.html)
 
 
 ---
 
-### 📰 Microsoft Accelerates Post-Quantum Cryptography Shift to 2029
+### 📰 VEIL#DROP Malware Chain Uses Blogger Platform to Deliver PureLogs Stealer
 **Category:** 📰 News
-**Time:** 13:07 UTC
+**Time:** 18:48 UTC
 
 **Summary:**  
-Microsoft on Tuesday said it's accelerating its quantum safe security roadmap, stating technology advances in quantum computing are making it essential to replace existing encryption standards sooner than previously expected.  "Advances in quantum research and development have shifted the risk horizon," Mark Russinovich, chief technology officer of Microsoft Azure, said. "We believe
+Cybersecurity researchers have flagged a new multi-stage malware delivery attack chain that uses social engineering and Blogger pages to deliver an information stealer called PureLogs.  The activity has been codenamed VEIL#DROP by Securonix. It's suspected that the initial payloads are distributed either via spear-phishing or a drive-by compromise, which occurs when an unsuspecting user lands on
 
-🔗 [Read Full Article](https://thehackernews.com/2026/07/microsoft-accelerates-post-quantum.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/07/veildrop-malware-chain-uses-blogger.html)
 
 
 ---
 
-### 📰 Phantom Squatting Uses AI-Hallucinated Domains for Phishing and Malware
+### 📰 Ousaban Banking Trojan Targets Iberian Bank Users with Fake PDF Lures
 **Category:** 📰 News
-**Time:** 13:07 UTC
+**Time:** 18:48 UTC
 
 **Summary:**  
-Large language models keep inventing web addresses that do not exist. Attackers have started buying those made-up domains before anyone else can, then hosting phishing pages on them to catch traffic that AI tools point their way.  Palo Alto Networks'&nbsp;Unit 42&nbsp;calls the trick phantom squatting, and its new research shows it is already happening in the wild.  The reason it matters is
+A Brazilian banking trojan called Ousaban is going after Windows users who bank in Spain and Portugal.&nbsp;Fortinet's FortiGuard Labs&nbsp;identified the campaign in May 2026.  It opens with a phishing PDF disguised as a corrupted file, checks that the visitor is really in Spain or Portugal, and hides its real payload inside an image.  The goal is the usual one: steal banking logins and take
 
-🔗 [Read Full Article](https://thehackernews.com/2026/07/phantom-squatting-uses-ai-hallucinated.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/07/ousaban-banking-trojan-targets-iberian.html)
+
+
+---
+
+### 📰 Adobe Patches 7 CVSS 10.0 Flaws in ColdFusion and Campaign Classic
+**Category:** 🔴 Vulnerability
+**Time:** 18:48 UTC
+
+**Summary:**  
+Adobe has released patches for multiple maximum-severity security flaws impacting Adobe ColdFusion and Adobe Campaign Classic.  The ColdFusion updates "resolves critical and important vulnerabilities that could lead to arbitrary code execution, privilege escalation, arbitrary file system read, and security feature bypass," Adobe said in an alert released Tuesday.  The vulnerabilities are listed
+
+🔗 [Read Full Article](https://thehackernews.com/2026/07/adobe-patches-7-cvss-100-flaws-in.html)
+
+
+---
+
+### 📰 Critical Cursor Flaws Could Let Prompt Injection Escape Sandbox and Run Commands
+**Category:** 🔴 Vulnerability
+**Time:** 18:48 UTC
+
+**Summary:**  
+Two flaws in Cursor, an AI code editor, could let a single, ordinary-looking prompt break out of the editor's safety sandbox and run any command on a developer's computer. There is no click to fall for and no approval box to ignore.  Cato AI Labs&nbsp;found the pair and named them DuneSlide. They are tracked as&nbsp;CVE-2026-50548&nbsp;and&nbsp;CVE-2026-50549, both rated 9.8 out of 10 (or 9.3
+
+🔗 [Read Full Article](https://thehackernews.com/2026/07/critical-cursor-flaws-could-let-prompt.html)
+
+
+---
+
+### 📰 Progress Kemp LoadMaster Pre-Auth RCE Flaw Faces Active Exploitation Attempts
+**Category:** 🔴 Vulnerability
+**Time:** 18:48 UTC
+
+**Summary:**  
+A recently disclosed critical security flaw impacting Progress Kemp LoadMaster is seeing active exploitation attempts, according to an advisory from eSentire's Threat Response Unit (TRU).  The Canadian cybersecurity company said it identified exploitation attempts targeting CVE-2026-8037 (CVSS score: 9.6), an operating system (OS) command injection flaw that could be exploited to achieve
+
+🔗 [Read Full Article](https://thehackernews.com/2026/07/latest-progress-kemp-loadmaster-pre.html)
+
+
+---
+
+### 📰 AI-Generated Browser Ransomware Abuses Chromium API on Windows and Android
+**Category:** 📰 News
+**Time:** 18:48 UTC
+
+**Summary:**  
+Cybersecurity researchers have flagged a new malware artifact generated using DeepSeek that constructed a novel attack path combining "unrealistic browser-malware concepts with a real browser capability" to turn it into a working ransomware technique that runs entirely inside the browser on both Windows and Android devices.  "This is the first documented case where a frontier AI model
+
+🔗 [Read Full Article](https://thehackernews.com/2026/07/ai-generated-browser-ransomware-abuses.html)
 
 
 ---
