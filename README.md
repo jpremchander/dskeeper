@@ -6,50 +6,26 @@ vulnerabilities, and exploitation activity for continuous learning.
 ---
 ## 📅 2026-07-02
 
-### 📰 AI Agent Exploits Langflow RCE to Automate Database Ransomware Attack
-**Category:** 🔴 Vulnerability
-**Time:** 09:23 UTC
-
-**Summary:**  
-Security firm&nbsp;Sysdig&nbsp;says it has found what it believes is the first ransomware attack run from start to finish by an AI agent.  Its Threat Research Team calls the operator JADEPUFFER and says a large language model handled the whole job: breaking in, stealing credentials, moving deeper into the network, then encrypting and wiping a company's production database.  Ransomware has always
-
-🔗 [Read Full Article](https://thehackernews.com/2026/07/ai-agent-exploits-langflow-rce-to.html)
-
-
----
-
-### 📰 FortiBleed Credential Theft Linked to INC and Lynx Ransomware Operations
+### 📰 ToddyCat-Linked Umbrij Malware Abuses OAuth to Access Gmail via Google API
 **Category:** 📰 News
-**Time:** 09:23 UTC
+**Time:** 14:17 UTC
 
 **Summary:**  
-The recently discovered financially-motivated FortiBleed campaign has been attributed to INC and Lynx ransomware operations, indicating that the verified, stolen credentials were intended for follow-on intrusions.  "An operator tied to FortiBleed's infrastructure was found actively working negotiation panels for both groups, tying mass FortiGate credential theft directly to ransomware deployment
+The threat actor known as ToddyCat has been attributed to a new malware called Umbrij that's designed to gain surreptitious access to a victim's email correspondence via the Google API.  "In this campaign, the attackers focused their attention on corporate email communications hosted on Gmail, targeting access compromise via APIs," Kaspersky said in a detailed report published this week. "
 
-🔗 [Read Full Article](https://thehackernews.com/2026/07/fortibleed-credential-theft-linked-to.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/07/toddycat-linked-umbrij-malware-abuses.html)
 
 
 ---
 
-### 📰 New ChocoPoC RAT Targets Vulnerability Researchers via Fake PoC Exploit Repos
-**Category:** 🔴 Vulnerability
-**Time:** 09:23 UTC
+### 📰 Identity Lifecycle Management Wasn't Built for AI Agents
+**Category:** 💡 Expert Insight
+**Time:** 14:17 UTC
 
 **Summary:**  
-Attackers are hiding a data-stealing trojan inside fake exploit code aimed at the people who hunt bugs for a living. The malware, called ChocoPoC, travels in Python proof-of-concept (PoC) repositories on GitHub that claim to exploit hot new CVEs.  Run one, and it quietly lifts your saved passwords, browser cookies, and files, then hands the attacker a shell on your machine.&nbsp;YesWeHack and
+Identity lifecycle management was architected around a person with an employment record, a manager, and a departure date. AI agents have none of those. As autonomous principals proliferate across enterprise environments, the governance model built for humans develops structural blind spots that traditional IGA tools weren't designed to detect. This guide covers where that model breaks, what it
 
-🔗 [Read Full Article](https://thehackernews.com/2026/07/new-chocopoc-rat-targets-vulnerability.html)
-
-
----
-
-### 📰 SharePoint RCE CVE-2026-45659 Added to CISA KEV After Active Exploitation
-**Category:** 🔴 Vulnerability
-**Time:** 09:23 UTC
-
-**Summary:**  
-The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a high-severity flaw impacting Microsoft SharePoint Server to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.  The vulnerability, tracked as CVE-2026-45659 (CVSS score: 8.8), is a case of remote code execution arising from the deserialization of untrusted data. The issue
-
-🔗 [Read Full Article](https://thehackernews.com/2026/07/sharepoint-rce-cve-2026-45659-added-to.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/07/identity-lifecycle-management.html)
 
 
 ---
