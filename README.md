@@ -6,14 +6,26 @@ vulnerabilities, and exploitation activity for continuous learning.
 ---
 ## 📅 2026-07-03
 
-### 📰 PamStealer Uses Fake Maccy Sites and PAM Checks to Steal Mac Login Passwords
-**Category:** 📰 News
-**Time:** 09:28 UTC
+### 📰 Armored Likho Targets Government Agencies, Power Sector with BusySnake Stealer
+**Category:** 💡 Expert Insight
+**Time:** 14:22 UTC
 
 **Summary:**  
-Cybersecurity researchers have flagged a new macOS information stealer called PamStealer that employs a series of clever tricks to infect systems and siphon sensitive data.  The stealer, discovered by Jamf Threat Labs, is distributed as a compiled AppleScript (.scpt) file impersonating Maccy, a legitimate open-source clipboard manager. It has been codenamed PamStealer owing to its ability to
+A previously undocumented threat actor known as Armored Likho has been attributed to cyber attacks targeting government agencies and the electric power sector across Russia, Brazil, and Kazakhstan.  "Armored Likho blends financially motivated campaigns targeting private individuals with targeted cyber espionage aimed at organizations," Kaspersky said in a technical analysis published today. "
 
-🔗 [Read Full Article](https://thehackernews.com/2026/07/pamstealer-uses-fake-maccy-sites-and.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/07/armored-likho-targets-government.html)
+
+
+---
+
+### 📰 European Parliament Member Investigating Spyware Was Hacked With Pegasus
+**Category:** 💡 Expert Insight
+**Time:** 14:22 UTC
+
+**Summary:**  
+A new report from the Citizen Lab has revealed that former Member of the European Parliament Stelios Kouloglou had his mobile device repeatedly hacked with the notorious Pegasus spyware while serving on a committee that was tasked with investigating the abuse of such commercial surveillance tools in the bloc.  "Through forensic analysis of his device, we found that the attackers could have had
+
+🔗 [Read Full Article](https://thehackernews.com/2026/07/european-parliament-member.html)
 
 
 ---
