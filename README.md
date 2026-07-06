@@ -6,50 +6,38 @@ vulnerabilities, and exploitation activity for continuous learning.
 ---
 ## 📅 2026-07-06
 
-### 📰 New TrojPix Attack Leaks Data From Air-Gapped Systems via Video Cable Emissions
+### 📰 ⚡ Weekly Recap: Proxy Botnets, Browser Ransomware, AI Agent Tricks, Fake PoC Malware and More
 **Category:** 📰 News
-**Time:** 10:50 UTC
+**Time:** 15:46 UTC
 
 **Summary:**  
-Researchers at&nbsp;Shandong University&nbsp;have shown a fast new way to pull data off computers that are cut off from every network. The technique, called&nbsp;TrojPix, tweaks on-screen pixels in ways the eye cannot see, so that the video cable carrying them radiates a faint radio signal a nearby receiver can decode.  But TrojPix works only once malware is already on the target machine, so it
+A streaming box should not need a threat model. Neither should a username field, a demo repo, a reset flow, or a browser permission prompt. That is the irritating part this week: the risky pieces were ordinary.  Home devices became a routing cover. Clean code pulled dirt from a dependency. Identity shortcuts aged badly. AI systems trusted the wrong instructions. Same soft spot throughout: trust
 
-🔗 [Read Full Article](https://thehackernews.com/2026/07/new-trojpix-attack-leaks-data-from-air.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/07/monday-recap-proxy-botnets-browser.html)
 
 
 ---
 
-### 📰 New Java-Based QuimaRAT MaaS Built to Run on Windows, Linux, and macOS
+### 📰 How to Evaluate an AI SOC Platform in 2026: 6 Capabilities That Separate Leaders from Bolt-On AI solutions
 **Category:** 📰 News
-**Time:** 10:50 UTC
+**Time:** 15:46 UTC
 
 **Summary:**  
-Cybersecurity researchers have flagged a novel Java-based remote access trojan (RAT) called QuimaRAT that's capable of targeting Windows, Linux, and macOS environments.  According to LevelBlue, the cross-platform malware is advertised under a malware-as-a-service (MaaS) model, costing anywhere between $150 for one month to $1,200 for lifetime access. Other subscription tiers include $300 for
+Building a shortlist for an AI SOC evaluation can be tough. SIEM, SOAR, and pureplay AI SOC vendors are all saying the same thing. But behind the identical label sit very different products, from chat assistants bolted onto a legacy SIEM to agent platforms that run detection, triage, investigation, and response on their own data foundation.  Whether a platform will materially change outcomes for
 
-🔗 [Read Full Article](https://thehackernews.com/2026/07/new-java-based-quimarat-maas-built-to.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/07/how-to-evaluate-ai-soc-platform-in-2026.html)
 
 
 ---
 
-### 📰 Opera GX Flaw Let Malicious Sites Auto-Install Mods to Steal Data From Visited Pages
-**Category:** 🔴 Vulnerability
-**Time:** 10:50 UTC
-
-**Summary:**  
-Researchers found a flaw in&nbsp;Opera GX, the gaming-focused version of the Opera browser, that let a malicious website silently install a browser add-on and use it to lift specific data from the pages a victim visits.  In a proof of concept, they reconstructed a signed-in user's full Gmail address from a single visit, with no click. Opera has patched the flaw and says it found no evidence that
-
-🔗 [Read Full Article](https://thehackernews.com/2026/07/opera-gx-flaw-let-malicious-sites-auto.html)
-
-
----
-
-### 📰 SkillCloak Lets Malicious AI Agent Skills Evade Static Scanners with Self-Extracting Packing
+### 📰 Suspected China-Nexus Hackers Use Fake Indian Tax Filing Utility to Deploy DcRAT
 **Category:** 📰 News
-**Time:** 10:50 UTC
+**Time:** 15:46 UTC
 
 **Summary:**  
-Scanners meant to catch malicious add-on "skills" for AI coding agents can be fooled by a few simple changes that leave the malware working, according to a&nbsp;new study&nbsp;from researchers at the Hong Kong University of Science and Technology.  Their strongest trick slipped past every scanner tested more than 90% of the time, and the same team built a runtime checker that catches most of the
+A suspected China-nexus threat activity cluster has been observed targeting Indian taxpayers, tax professionals, and corporate finance teams to deliver a remote access trojan designed to steal sensitive data from compromised hosts.  The multi-stage campaign, codenamed Operation DragonReturn by Seqrite Labs, involves sending spear-phishing emails impersonating the Income Tax Department of India.
 
-🔗 [Read Full Article](https://thehackernews.com/2026/07/new-skillcloak-technique-lets-malicious.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/07/suspected-china-nexus-hackers-use-fake.html)
 
 
 ---
