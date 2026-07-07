@@ -6,38 +6,38 @@ vulnerabilities, and exploitation activity for continuous learning.
 ---
 ## 📅 2026-07-07
 
-### 📰 Suspected China-Aligned Hackers Exploit Roundcube Flaws Against Universities
-**Category:** 🔴 Vulnerability
-**Time:** 09:52 UTC
+### 📰 Court Filing Reveals Windows Device ID Helped FBI Trace Alleged Scattered Spider Hacker
+**Category:** 📰 News
+**Time:** 14:50 UTC
 
 **Summary:**  
-A suspected China-aligned threat activity cluster has been observed exploiting Roundcube webmail software belonging to physics and engineering departments of U.S. and Canadian universities as part of a new campaign.  The activity involves the exploitation of now-patched, critical security flaws in the open-source email solution, such as CVE-2024-42009 (CVSS score: 9.3), to siphon credentials,
+U.S. prosecutors linked an alleged Scattered Spider hacker to a break-in at a luxury jewelry retailer using a persistent Windows device ID, according to a newly unsealed federal complaint.  Microsoft records tied that ID first to the account the attackers used to keep access during the May 2025 intrusion, then to online accounts prosecutors say belong to 19-year-old Peter Stokes.  Stokes is
 
-🔗 [Read Full Article](https://thehackernews.com/2026/07/suspected-china-aligned-hackers-exploit.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/07/court-filing-reveals-windows-device-id.html)
 
 
 ---
 
-### 📰 CERT/CC Warns of Hidden Admin Backdoor in Tenda Router Firmware
+### 📰 Writer AI Flaw Could Let Agent Previews Leak Session Tokens Across Tenants
 **Category:** 🔴 Vulnerability
-**Time:** 09:52 UTC
+**Time:** 14:50 UTC
 
 **Summary:**  
-Several versions of firmware released by Chinese network device manufacturer Tenda have been found to embed an undocumented authentication backdoor that enables administrative access to the devices' web management interfaces, the CERT Coordination Center (CERT/CC) warned Monday.  "An attacker can exploit this vulnerability, tracked as CVE-2026-11405, to bypass the password verification process
+Cybersecurity researchers have disclosed details of a now-patched critical session isolation vulnerability in Writer, an enterprise generative artificial intelligence (AI) platform, that could result in cross-tenant compromise.  The one-click vulnerability has been codenamed WriteOut by the Sand Security Research team.  "An outsider could go from having no access to taking over any Writer AI
 
-🔗 [Read Full Article](https://thehackernews.com/2026/07/certcc-warns-of-hidden-admin-backdoor.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/07/writer-ai-flaw-could-let-agent-previews.html)
 
 
 ---
 
-### 📰 BeyondTrust Patches Critical Auth Bypass Flaws in Remote Support and PRA
-**Category:** 🔴 Vulnerability
-**Time:** 09:52 UTC
+### 📰 What Changes When Your Software Supply Chain Includes AI Writing Your Code?
+**Category:** 📰 News
+**Time:** 14:50 UTC
 
 **Summary:**  
-BeyondTrust has released updates to address two critical security flaws affecting Remote Support (RS) and Privileged Remote Access (PRA) products that, if successfully exploited, could allow unauthenticated attackers to take control of susceptible devices.  The vulnerabilities are listed below -     CVE-2026-40138 (CVSS score: 9.2) - A pre-authentication vulnerability exists in the
+Software supply chain security was hard enough. Then AI joined the build pipeline.  For five years, "software supply chain security" meant one question: what's in your code? Which open-source packages, which versions, which transitive dependencies three layers deep that nobody chose on purpose?   SolarWinds, Log4Shell, and XZ Utils all taught the same lesson: the risk lives less in the code a
 
-🔗 [Read Full Article](https://thehackernews.com/2026/07/beyondtrust-patches-critical-auth.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/07/what-changes-when-your-software-supply.html)
 
 
 ---
