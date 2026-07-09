@@ -6,50 +6,50 @@ vulnerabilities, and exploitation activity for continuous learning.
 ---
 ## 📅 2026-07-09
 
-### 📰 Meta's New AI Image Tool Lets Others Use Your Public Instagram Photos in AI Images
+### 📰 AI Attacks Move in Minutes. Join This Webinar on Building a Defense That Keeps Up
 **Category:** 📅 Webinar/Event
-**Time:** 09:50 UTC
+**Time:** 15:23 UTC
 
 **Summary:**  
-Meta has announced that its new artificial intelligence (AI) model Muse Image lets people use public Instagram posts and reels to generate AI content, and it's enabled by default.  "You can also @-mention Instagram accounts in the Meta AI app to bring specific Instagram profiles right into your images," the social media giant said in a post.  "Whether you want to design a custom event invitation
+AI has changed how fast attacks move. Work that once took an attacker days now takes minutes. Using models like Mythos, attackers write tailored bait, pick targets, test what lands, and jump to the next host before your team clears the first alert.  That is the gap, and it is not your fault. The tools and runbooks most teams run on were built for attackers who work at human speed. AI-driven
 
-🔗 [Read Full Article](https://thehackernews.com/2026/07/metas-new-ai-image-tool-lets-others-use.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/07/ai-attacks-move-in-minutes-join-this.html)
 
 
 ---
 
-### 📰 Top AI Agents Built to Catch Malicious Code Can Be Tricked Into Running It
+### 📰 Summer of Clearinghouses
 **Category:** 📰 News
-**Time:** 09:50 UTC
+**Time:** 15:23 UTC
 
 **Summary:**  
-Ask an AI coding agent to scan open-source code for security holes, and it might run the attacker's code on your own machine instead.  That is the finding in a&nbsp;proof-of-concept published Wednesday&nbsp;by the AI Now Institute, an attack it calls "Friendly Fire." It works against Anthropic's Claude Code and OpenAI's Codex when either is running in an autonomous mode that approves its own
+Everyone seems to have announced a clearinghouse over the past few weeks. We did too. Ours is called Athena, and the main thing that sets it apart is that it was already real and running when we announced it — built quietly months earlier, heads down, taking findings and shipping fixes, because customers kept asking us to. We only announced it now because everyone else started announcing theirs,
 
-🔗 [Read Full Article](https://thehackernews.com/2026/07/friendly-fire-ai-agents-built-to-catch.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/07/summer-of-clearinghouses.html)
 
 
 ---
 
-### 📰 GhostApproval Symlink Flaws Could Let Malicious Repos Run Code in AI Coding Agents
+### 📰 GodDamn Ransomware Uses PoisonX Driver to Disable Endpoint Defenses
 **Category:** 📰 News
-**Time:** 09:50 UTC
+**Time:** 15:23 UTC
 
 **Summary:**  
-Researchers at&nbsp;Wiz&nbsp;found that a flaw in six popular AI coding assistants lets a booby-trapped code project quietly take control of a developer's computer. The assistant asks permission to edit one harmless-looking file, but the write lands on a sensitive one instead.  The affected tools are Amazon Q Developer, Anthropic's Claude Code, Augment, Cursor, Google Antigravity, and Windsurf.
+Cybersecurity researchers have flagged a new ransomware family called GodDamn that employs the PoisonX kernel driver to neutralize security software as part of its defense evasion strategy.  According to a new report published by the Threat Hunter Team from Symantec, the ransomware was first publicly spotted in the wild on May 21, 2026. It's assessed to be a rebrand of the Beast ransomware,
 
-🔗 [Read Full Article](https://thehackernews.com/2026/07/ghostapproval-symlink-flaws-could-let.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/07/goddamn-ransomware-uses-poisonx-driver.html)
 
 
 ---
 
-### 📰 Fake 7-Zip Installers Turn Devices Into Residential Proxy Nodes
-**Category:** 📰 News
-**Time:** 09:50 UTC
+### 📰 Microsoft Patches RoguePlanet Defender Flaw That Can Grant SYSTEM Privileges
+**Category:** 🔴 Vulnerability
+**Time:** 15:23 UTC
 
 **Summary:**  
-Cybersecurity researchers have disclosed details of a new threat actor dubbed Lurking Lizard that has been operating an end-to-end malicious residential proxy business using an infrastructure comprising more than 230 lookalike domains.  The activity dates back to at least August 2022, according to DNS threat intelligence firm Infoblox. Once such campaign, observed earlier this year, involved the
+Microsoft has released security updates for a Defender vulnerability known as RoguePlanet, nearly a month after details of the flaw became public.  The vulnerability, tracked as CVE-2026-50656 (CVSS score: 7.8), is a privilege escalation issue in the Microsoft Malware Protection Engine ("mpengine.dll"), which provides scanning, detection, and cleaning capabilities for its antivirus and
 
-🔗 [Read Full Article](https://thehackernews.com/2026/07/fake-7-zip-installers-turn-devices-into.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/07/microsoft-patches-rogueplanet-defender.html)
 
 
 ---
