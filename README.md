@@ -6,14 +6,26 @@ vulnerabilities, and exploitation activity for continuous learning.
 ---
 ## 📅 2026-07-11
 
-### 📰 Critical Zimbra Flaw Could Let Crafted Emails Run Malicious Code in User Sessions
-**Category:** 🔴 Vulnerability
-**Time:** 08:04 UTC
+### 📰 Compromised jscrambler 8.14.0 npm Release Drops Rust Infostealer During Install
+**Category:** 📰 News
+**Time:** 19:12 UTC
 
 **Summary:**  
-Zimbra is urging customers to apply updates to address a critical security vulnerability impacting the Classic Web Client that could result in arbitrary code execution.  The vulnerability has been described as a case of stored cross-site scripting (XSS) that could allow specially crafted emails to execute malicious scripts in a user's session. It has yet to be assigned a CVE identifier.  "The
+Version&nbsp;8.14.0&nbsp;of the jscrambler npm package shipped with a malicious&nbsp;preinstall&nbsp;hook that silently drops and runs a native infostealer during installation, one build each for Windows, macOS, and Linux.  Published on July 11, 2026, it needs no import and no CLI call. Installing 8.14.0 is enough to run&nbsp;it.  Socket flagged the release&nbsp;six minutes after it was
 
-🔗 [Read Full Article](https://thehackernews.com/2026/07/critical-zimbra-flaw-could-let-crafted_0483473395.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/07/compromised-jscrambler-8140-npm-release.html)
+
+
+---
+
+### 📰 Hackers Weaponize Balochistan Police Portal in Multi-Group Espionage Campaigns
+**Category:** 📰 News
+**Time:** 19:12 UTC
+
+**Summary:**  
+Cybersecurity researchers have disclosed details of sustained cyber espionage activity against several Pakistani law enforcement organizations undertaken by suspected China- and India-aligned threat actors between February 2024 and April 2026.  "At Balochistan Police, the compromised assets included servers hosting web applications that manage police and citizen data, such as criminal and
+
+🔗 [Read Full Article](https://thehackernews.com/2026/07/hackers-weaponize-balochistan-police.html)
 
 
 ---
