@@ -6,62 +6,50 @@ vulnerabilities, and exploitation activity for continuous learning.
 ---
 ## 📅 2026-07-15
 
-### 📰 SASE Has An AI Blind Spot. Inspecting Packets Is No Longer Enough.
+### 📰 TuxBot v3 Evolution Shows Signs of LLM-Assisted IoT Botnet Development
 **Category:** 📰 News
-**Time:** 13:54 UTC
+**Time:** 19:20 UTC
 
 **Summary:**  
-For years, routing traffic through cloud proxies was good enough. Then work moved to the browser, AI entered the workflow, and the inspection model stopped keeping up.  Enterprise workflows now live across SaaS applications, browsers, and an expanding ecosystem of generative AI tools, unsanctioned browser extensions, and autonomous agents. Employees routinely paste intellectual property into
+Cybersecurity researchers have disclosed details of a previously unreported Internet-of-Things (IoT) botnet framework dubbed TuxBot v3 Evolution that shows signs of being developed with assistance from a large language model (LLM), albeit with not so successful results.  "While the AI complied with their request to generate botnet code, it included a safety disclaimer that the developer failed
 
-🔗 [Read Full Article](https://thehackernews.com/2026/07/sase-has-ai-blind-spot-inspecting.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/07/tuxbot-v3-evolution-shows-signs-of-llm.html)
 
 
 ---
 
-### 📰 Researcher Drops New Windows Zero-Day PoC Hours After Microsoft Patch Tuesday
+### 📰 OkoBot Malware Framework Injects Seed Phrase Phishing Into Ledger and Trezor Apps
+**Category:** 📰 News
+**Time:** 19:20 UTC
+
+**Summary:**  
+A malware framework called OkoBot has been running on Windows machines since April 2025, and one of its modules is built to con hardware wallet owners out of their recovery phrase.  On an infected PC, the request comes from inside the wallet's own desktop software. Sometimes it waits until you plug the device in first. The page is malicious. The app around it is the real one you installed, and
+
+🔗 [Read Full Article](https://thehackernews.com/2026/07/okobot-malware-framework-injects-seed.html)
+
+
+---
+
+### 📰 Firefox, Chrome, Adobe, and VMware Updates Fix Multiple Critical Security Flaws
 **Category:** 🔴 Vulnerability
-**Time:** 13:54 UTC
+**Time:** 19:20 UTC
 
 **Summary:**  
-Security researcher Chaotic Eclipse (aka Nightmare-Eclipse) has released a new proof-of-concept (PoC) exploit called LegacyHive.  It has been described as a Windows User Profile Service arbitrary hive load elevation of privileges vulnerability. The Windows User Profile Service, also referred to as ProfSvc, is a core system component that manages user accounts and environments.  "The PoC requires
+Mozilla has released updates to address two critical flaws in Firefox for which it warned that exploit code has been published.  The vulnerabilities are listed below -     CVE-2026-15718, an invalid pointer in the JavaScript: WebAssembly component   CVE-2026-15719, a site isolation in the DOM: Navigation component  "We are aware that exploit code for this is public, however we are not aware of
 
-🔗 [Read Full Article](https://thehackernews.com/2026/07/researcher-drops-new-windows-zero-day.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/07/firefox-chrome-adobe-and-vmware-updates.html)
 
 
 ---
 
-### 📰 New Webinar: Closing the Approval Gap in AI-Era Ad Tech
-**Category:** 📅 Webinar/Event
-**Time:** 13:54 UTC
+### 📰 Two SonicWall SMA 1000 Zero-Days Exploited, One Could Enable Admin Commands
+**Category:** 🔴 Vulnerability
+**Time:** 19:20 UTC
 
 **Summary:**  
-A single approved marketing tag can quietly load fourth-party code your security team has never seen, granting full access to your forms, customer data, and checkout pages.  This on-demand webinar reveals how this Approval Gap forms, and gives your team the blueprint to close it before an auditor, regulator, or attacker finds it first.  The Reality of the Approval Gap  It's a pattern every
+SonicWall has warned of active exploitation of two zero-day vulnerabilities impacting Secure Mobile Access (SMA) 1000 series appliances, one of which could be exploited to achieve arbitrary command execution.  The vulnerabilities are listed below -     CVE-2026-15409 (CVSS score: 10.0) - A Server-side request forgery (SSRF) vulnerability that a remote unauthenticated attacker could exploit to
 
-🔗 [Read Full Article](https://thehackernews.com/2026/07/new-webinar-closing-approval-gap-in-ai.html)
-
-
----
-
-### 📰 Cursor Flaw Lets Malicious Cloned Repositories Trigger Windows Code Execution
-**Category:** 📰 News
-**Time:** 13:54 UTC
-
-**Summary:**  
-Open a repository in Cursor&nbsp;on Windows and, if a file named&nbsp;git.exe&nbsp;is sitting in the project root, Cursor runs it. No click, no approval dialog, no warning that anything in the folder is about to execute.  Whatever that binary does, it does as you, with your source, your SSH keys and your cloud tokens. Cursor keeps re-running it for as long as the project stays open.  No prompt
-
-🔗 [Read Full Article](https://thehackernews.com/2026/07/cursor-flaw-lets-malicious-cloned.html)
-
-
----
-
-### 📰 Compromised AsyncAPI npm Packages Deliver Multi-Stage Botnet Malware
-**Category:** 📰 News
-**Time:** 13:54 UTC
-
-**Summary:**  
-Four compromised npm packages in the @asyncapi namespace have been observed distributing a multi-stage botnet loader, according to findings from OX Security, SafeDep, Socket, and StepSecurity.  The affected packages are listed below -     @asyncapi/generator-helpers@1.1.1   @asyncapi/generator-components@0.7.1   @asyncapi/generator@3.3.1   @asyncapi/specs(v6.11.2, v6.11.2-alpha.1)  "The
-
-🔗 [Read Full Article](https://thehackernews.com/2026/07/compromised-asyncapi-npm-packages.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/07/two-sonicwall-sma-1000-zero-days.html)
 
 
 ---
