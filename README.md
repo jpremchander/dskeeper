@@ -4,3 +4,29 @@ This repository tracks real-world cybersecurity threats,
 vulnerabilities, and exploitation activity for continuous learning.
 
 ---
+## 📅 2026-07-19
+
+### 📰 UAC-0145 Uses ClickFix CAPTCHAs to Infect Ukrainian Devices wih Malware
+**Category:** 📰 News
+**Time:** 19:14 UTC
+
+**Summary:**  
+Russian state-sponsored threat actors have been observed leveraging the infamous ClickFix strategy to trick Ukrainian targets into infecting their own machines with data-stealing malware.  According to the Computer Emergency Response Team of Ukraine (CERT-UA), the activity has been attributed to UAC-0145, a sub-cluster within Sandworm, an advanced hacking unit affiliated with GRU, Russia's
+
+🔗 [Read Full Article](https://thehackernews.com/2026/07/uac-0145-uses-clickfix-captchas-to.html)
+
+
+---
+
+### 📰 SonicWall SMA Zero-Days Exploited Before Disclosure to Gain Root Access
+**Category:** 🔴 Vulnerability
+**Time:** 19:14 UTC
+
+**Summary:**  
+A previously undocumented threat actor has been attributed to the exploitation of recently disclosed SonicWall Secure Mobile Access (SMA) 1000 series VPN appliances as zero-days prior their public disclosure since June 22, 2026.  Cybersecurity company Volexity is tracking the activity under the moniker UTA0533. The discovery was made following an incident response investigation earlier this
+
+🔗 [Read Full Article](https://thehackernews.com/2026/07/sonicwall-sma-zero-days-exploited.html)
+
+
+---
+
