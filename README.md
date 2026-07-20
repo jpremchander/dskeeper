@@ -6,62 +6,62 @@ vulnerabilities, and exploitation activity for continuous learning.
 ---
 ## 📅 2026-07-20
 
-### 📰 ⚡ Weekly Recap: WordPress RCE, SonicWall 0-Days, AI Service Attacks, SharePoint 0-Day and More
-**Category:** 🔴 Vulnerability
-**Time:** 14:20 UTC
-
-**Summary:**  
-A single request should not be able to do this much. But this week, small inputs led to code execution, memory loss, stolen keys, and disabled security tools.  The paths were often simple: exposed systems, weak checks, old drivers, fake prompts, and public code used for malware delivery. Some bugs were new. Others were already being used before defenders had time to patch.  Here is the full
-
-🔗 [Read Full Article](https://thehackernews.com/2026/07/weekly-recap-wordpress-rce-sonicwall-0.html)
-
-
----
-
-### 📰 Russian Intelligence Hacks IP Cameras to Spy on Military Logistics Across NATO States and Ukraine
+### 📰 FakeGit Campaign Uses 7,600 GitHub Repositories to Spread SmartLoader Malware
 **Category:** 📰 News
-**Time:** 14:20 UTC
+**Time:** 19:49 UTC
 
 **Summary:**  
-At least one Russian intelligence service is systematically hijacking internet-connected security cameras across Europe and Ukraine, using the feeds to watch military transport routes, weapons shipments bound for Kyiv, and the locations of Ukrainian troops.  That is the finding of a cybersecurity advisory published July 10 by the AIVD and MIVD, the Netherlands' civilian and military intelligence
+Cybersecurity researchers have discovered nearly 7,600 malicious GitHub repositories, out of which more than 800 pose as artificial intelligence (AI) skills or Model Context Protocol (MCP) servers to deliver a malware family known as SmartLoader as part of an ongoing campaign codenamed FakeGit.  "FakeGit uses copied projects, lookalike developer profiles, convincing READMEs, and malicious ZIP
 
-🔗 [Read Full Article](https://thehackernews.com/2026/07/russian-intelligence-hacks-ip-cameras.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/07/fakegit-campaign-uses-7600-github.html)
 
 
 ---
 
-### 📰 Mythos Didn't Break Your Security Program. Your Exposure Window Could.
-**Category:** 🔴 Vulnerability
-**Time:** 14:20 UTC
+### 📰 Exposed Server Reveals AI-Assisted Phishing Toolkit Behind WebDAV Malware Campaign
+**Category:** 📰 News
+**Time:** 19:49 UTC
 
 **Summary:**  
-The industry spent the initial months after Anthropic's April 7 Mythos reveal focused on volume. How many new CVEs would Mythos add to an already overloaded pipeline? How quickly would the flood of AI-driven discovery overwhelm triage capabilities? How long would it take adversaries to weaponize Mythos findings at scale? Those questions were and remain valid. Yet they all stop short of
+A malware operator left its delivery server wide open, and Rapid7 pulled down the whole toolkit: 1,048 files spanning lure templates, filename-spoofing tests, execution experiments, droppers, builder notes, and two campaign chains. One was already live against Windows users in Mexico, delivering an infostealer through a fake government ID-lookup site over WebDAV.  What makes it more than a
 
-🔗 [Read Full Article](https://thehackernews.com/2026/07/mythos-didnt-break-your-security.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/07/exposed-server-reveals-ai-assisted.html)
 
 
 ---
 
-### 📰 New 7-Zip Vulnerability Could Let Crafted XZ Archives Run Code During Extraction
-**Category:** 🔴 Vulnerability
-**Time:** 14:20 UTC
+### 📰 HollowGraph Malware Hides C2 and Stolen Files in Microsoft 365 Events Dated 2050
+**Category:** 📅 Webinar/Event
+**Time:** 19:49 UTC
 
 **Summary:**  
-Opening a crafted XZ archive in 7-Zip could let an attacker run code on the machine. The flaw, CVE-2026-14266, is a heap-based buffer overflow in how the archiver processes XZ chunked data, and Trend Micro's Zero Day Initiative (ZDI) detailed it on July 15. A fix shipped on June 25 in 7-Zip 26.02.  The overflow lets an attacker "execute code in the context of the current process," per the
+A newly discovered espionage implant has been using a hijacked Microsoft 365 calendar as its command channel, planting operator instructions and smuggling out stolen files as attachments on calendar events dated to the year 2050.  Group-IB, which named the malware HollowGraph, says the approach moves tasking and stolen data through legitimate Microsoft Graph API traffic, so the activity looks
 
-🔗 [Read Full Article](https://thehackernews.com/2026/07/new-7-zip-vulnerability-could-let.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/07/hollowgraph-malware-hides-c2-and-stolen.html)
 
 
 ---
 
-### 📰 Russian-Speaking Hacker Uses Google Gemini CLI to Control Botnet of Eight Dental Clinic PCs
-**Category:** 💡 Expert Insight
-**Time:** 14:20 UTC
+### 📰 World's Largest AI Model Repository Hugging Face Breached by Autonomous AI Agent
+**Category:** 📰 News
+**Time:** 19:49 UTC
 
 **Summary:**  
-A solo Russian-speaking threat actor known as "bandcampro" outsourced a chunk of their operations to Google's open-source Gemini CLI artificial intelligence (AI) and commandeered a live botnet.  The findings come from an analysis of 200 Gemini CLI session logs between March 19 and April 21, 2026, which found the threat actor using AI, among other things, to crack passwords, set up a residential
+In an ironic twist, open-source artificial intelligence (AI) platform Hugging Face revealed that it was the victim of a hack perpetrated by an autonomous AI agent system.  The company said it detected and responded to the incident targeting its production infrastructure earlier last week.  "We identified unauthorized access to a limited set of internal datasets and to several credentials used by
 
-🔗 [Read Full Article](https://thehackernews.com/2026/07/russian-speaking-hacker-uses-google.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/07/worlds-largest-ai-model-repository.html)
+
+
+---
+
+### 📰 SleeperGem Uses Three Malicious RubyGems Packages to Target Developer Machines
+**Category:** 📰 News
+**Time:** 19:49 UTC
+
+**Summary:**  
+Cybersecurity researchers have flagged a new software supply chain attack codenamed SleeperGem targeting the Ruby ecosystem after three malicious gems were published to RubyGems with the end goal of serving additional payloads.  The rogue gems are listed below -     git_credential_manager (versions 2.8.0, 2.8.1, 2.8.2, 2.8.3) - Published on July 18, 2026   Dendreo (versions 1.1.3, 1.1.4) -
+
+🔗 [Read Full Article](https://thehackernews.com/2026/07/sleepergem-uses-three-malicious.html)
 
 
 ---
