@@ -6,50 +6,74 @@ vulnerabilities, and exploitation activity for continuous learning.
 ---
 ## 📅 2026-07-23
 
-### 📰 How Synthetic Identity Fraud is Coming for Machine Identities
-**Category:** 📰 News
-**Time:** 14:16 UTC
-
-**Summary:**  
-Most people understand identity theft as an attacker stealing a real person's sensitive information and impersonating them. Synthetic identity fraud is much harder to catch. Instead of stealing a real identity, the attacker manufactures a new one, frankensteining together several real data points with fabricated ones to create a person who doesn't exist. Since no real victim monitors misuse, a
-
-🔗 [Read Full Article](https://thehackernews.com/2026/07/how-synthetic-identity-fraud-is-coming.html)
-
-
----
-
-### 📰 Attackers Weaponize GitHub Actions Runners to Target cPanel and WHM Servers
-**Category:** 📰 News
-**Time:** 14:16 UTC
-
-**Summary:**  
-Cybersecurity researchers have shed light on a large-scale campaign that has turned compromised GitHub repositories into distributed attack infrastructure designed to target cPanel and WebHost Manager (WHM) instances.  The activity involves malicious Packagist development versions spanning 10 packages associated with a legitimate PHP and DevOps developer, dinushchathurya, between July 12 and 13,
-
-🔗 [Read Full Article](https://thehackernews.com/2026/07/attackers-weaponize-github-actions.html)
-
-
----
-
-### 📰 Google Adds Selfie Video Recovery for Users Locked Out of Their Accounts
-**Category:** 📰 News
-**Time:** 14:16 UTC
-
-**Summary:**  
-Google on Thursday announced a new way for users to sign-in to their accounts by letting them take a selfie video.  The selfie for sign-in, per the tech giant, is another option on top of existing recovery methods to log in to an account, including an email address or a phone number. The idea is to use a video selfie as a way to regain access if a user ever gets locked out or doesn't have access
-
-🔗 [Read Full Article](https://thehackernews.com/2026/07/google-adds-selfie-video-recovery-for.html)
-
-
----
-
-### 📰 Nine-Year-Old RefluXFS Linux Flaw Gives Local Users Root on Default RHEL Installs
+### 📰 Russian Espionage Group Exploited Zimbra Zero-Day to Steal Mail and 2FA Codes
 **Category:** 🔴 Vulnerability
-**Time:** 14:16 UTC
+**Time:** 19:26 UTC
 
 **Summary:**  
-RefluXFS, a new Linux kernel flaw disclosed on July 22 and tracked as CVE-2026-64600, lets an unprivileged local user overwrite root-owned files on an XFS filesystem and gain persistent root access.  Qualys said default installations of Red Hat Enterprise Linux and its derivatives, Fedora Server, and Amazon Linux can meet the conditions for exploitation.  The company demonstrated the race
+A Russian state-supported espionage group spent months reading Western mailboxes through a then-unknown flaw in Zimbra's webmail client.  The payload goes after the last 90 days of email, the organization's entire email directory, the password saved in the browser and the codes kept for two-factor recovery. Opening the message was enough to start it.  The NSA, CISA and partner agencies published
 
-🔗 [Read Full Article](https://thehackernews.com/2026/07/nine-year-old-refluxfs-linux-flaw-gives.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/07/russian-espionage-group-exploited.html)
+
+
+---
+
+### 📰 ThreatsDay: Android Spyware, PLC Attacks, AI Image Prompt Injection + 12 More Stories
+**Category:** 📰 News
+**Time:** 19:26 UTC
+
+**Summary:**  
+Most of this week's trouble came dressed as something useful.  A package stole data. A fake extension opened remote access. A safety app became spyware. An image gave hidden orders to an AI agent. Other threats hid in open systems, weak code, and normal network traffic.    The threats change every week. Subscribe, and we’ll alert you when each new ThreatsDay Bulletin is out.   The danger was
+
+🔗 [Read Full Article](https://thehackernews.com/2026/07/threatsday-android-spyware-plc-attacks.html)
+
+
+---
+
+### 📰 Claude Cowork Flaw Could Let AI Agent Escape Its VM and Access Mac Files
+**Category:** 🔴 Vulnerability
+**Time:** 19:26 UTC
+
+**Summary:**  
+Cybersecurity researchers have uncovered a sandbox escape vulnerability in Anthropic's Claude Cowork that makes it possible to break out of the confines of a Linux virtual machine (VM) within which the agent runs to read or write files anywhere on the Mac.  Accomplish AI, which shared details of the vulnerability with The Hacker News ahead of publication, said about 500,000 macOS users running
+
+🔗 [Read Full Article](https://thehackernews.com/2026/07/claude-cowork-flaw-could-let-ai-agent.html)
+
+
+---
+
+### 📰 Chaos Ransomware Uses msaRAT to Route C2 Traffic Through Headless Chrome and Edge
+**Category:** 📰 News
+**Time:** 19:26 UTC
+
+**Summary:**  
+The Chaos ransomware group ran its command-and-control through the victim's own browser. Cisco Talos on Thursday detailed msaRAT, the Rust implant behind it, found on a compromised Windows machine ahead of the encryptor.  The implant never opens an outbound connection of its own. Its process talks to 127.0.0.1 and nothing else. It starts Chrome or Edge in headless mode and drives the browser
+
+🔗 [Read Full Article](https://thehackernews.com/2026/07/chaos-ransomware-uses-msarat-to-route.html)
+
+
+---
+
+### 📰 China-Nexus JadeProx Uses New TriBack Loader in Government and Healthcare Attacks
+**Category:** 📰 News
+**Time:** 19:26 UTC
+
+**Summary:**  
+An exposed Alibaba Cloud server has revealed a China-nexus operation that Group-IB tracks as JadeProx. The cluster has targeted government, healthcare, and education organizations across Asia and Latin America with a previously undocumented Windows loader called TriBack Loader.  Group-IB found the server in mid-April 2026 in Alibaba Cloud's Singapore region; it was offline by the time the report
+
+🔗 [Read Full Article](https://thehackernews.com/2026/07/china-nexus-jadeprox-uses-new-triback.html)
+
+
+---
+
+### 📰 Check Point Patches Exploited SmartConsole Flaw Allowing Full Admin Access
+**Category:** 🔴 Vulnerability
+**Time:** 19:26 UTC
+
+**Summary:**  
+Check Point has released security updates to address multiple vulnerabilities impacting Security Management and Multi-Domain Management (MDSM) products, including a critical flaw that has come under active exploitation in the wild.  The security flaw, tracked as CVE-2026-16232 (CVSS score: 9.3), is an authentication bypass affecting the Check Point SmartConsole login process that allows an
+
+🔗 [Read Full Article](https://thehackernews.com/2026/07/check-point-patches-exploited.html)
 
 
 ---
