@@ -6,50 +6,50 @@ vulnerabilities, and exploitation activity for continuous learning.
 ---
 ## 📅 2026-07-27
 
-### 📰 ⚡ Weekly Recap: Rogue AI Agents, Check Point Exploit, Slopsquatting, ClickFix Lures and More
-**Category:** 🔴 Vulnerability
-**Time:** 14:48 UTC
-
-**Summary:**  
-Monday starts with the usual promise that everything is under control. Then the logs wake up.  This week, trusted tools crossed lines, old flaws found new work, exposed systems stayed exposed, and attackers kept hiding inside normal-looking services. Nothing looked strange at first. That helped.  That is the mood. Here is the full recap.  ⚡ Threat of the Week  OpenAI Says Its AI Agent Went Rogue
-
-🔗 [Read Full Article](https://thehackernews.com/2026/07/weekly-recap-rogue-ai-agents-check.html)
-
-
----
-
-### 📰 n8n Sandbox Escape Lets Workflow Editors Run OS Commands as the n8n Process
-**Category:** 🔴 Vulnerability
-**Time:** 14:48 UTC
-
-**Summary:**  
-n8n has patched a high-severity expression-sandbox escape that could let an authenticated workflow editor execute operating-system commands on the server running the automation platform. Security Joes found the flaw while probing n8n's February fix for CVE-2026-27577 for another bypass.  The affected ranges are &lt;2.31.5 and &gt;=2.32.0,&lt;2.32.1. n8n fixed the flaw in versions 2.31.5 and
-
-🔗 [Read Full Article](https://thehackernews.com/2026/07/n8n-sandbox-escape-lets-workflow.html)
-
-
----
-
-### 📰 Operation BlueDash Deploys Level RMM and ScreenConnect via Fake Teams Update
+### 📰 Dysphoria IoT Botnet Adds Blockchain C2 and Victim Relays After JackSkid Disruption
 **Category:** 📰 News
-**Time:** 14:48 UTC
+**Time:** 19:43 UTC
 
 **Summary:**  
-Cybersecurity researchers have flagged a Microsoft Teams-themed phishing campaign that employs "secure document" lures to deliver legitimate remote monitoring and management (RMM) tools.  "The victim was directed through compromised web infrastructure to a counterfeit Microsoft Store page claiming that Microsoft Teams had to be updated before the shared document could be opened," ZeroBEC said in
+Dysphoria, an Internet of Things (IoT) botnet line tracked by CNCERT and XLab, has adopted blockchain-based name services and infected-device relays after a March law-enforcement operation against JackSkid infrastructure. The researchers say the design makes the botnet harder to disrupt.  CNCERT, China's national computer emergency response team, and XLab, the threat-intelligence lab of Chinese
 
-🔗 [Read Full Article](https://thehackernews.com/2026/07/operation-bluedash-deploys-level-rmm.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/07/dysphoria-iot-botnet-adds-blockchain-c2.html)
 
 
 ---
 
-### 📰 Cruciferra Crypter Uses BYOVD and Process Ghosting to Hide Windows Malware
-**Category:** 💡 Expert Insight
-**Time:** 14:48 UTC
+### 📰 Public Exploit Released for Patched vBulletin Pre-Auth Code Execution Flaw
+**Category:** 🔴 Vulnerability
+**Time:** 19:43 UTC
 
 **Summary:**  
-The China-linked cybercrime group behind the use of income tax-related phishing lures targeting Indian taxpayers, tax professionals, and corporate finance teams has been observed using a sophisticated crypter service called Cruciferra.  According to a new analysis by Proofpoint, Cruciferra has been utilized by various unrelated cybercriminal threat clusters to deliver a wide array of remote
+Public exploit details released on July 27 show how an unauthenticated request can reach PHP's eval() function inside vBulletin and execute code on an unpatched forum server. The attack requires no account, administrative access, or interaction from another user.  SSD Secure Disclosure lists vBulletin 6.2.1 and earlier, and 6.1.6 and earlier, as affected, but does not give a lower version
 
-🔗 [Read Full Article](https://thehackernews.com/2026/07/cruciferra-crypter-uses-byovd-and.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/07/public-exploit-released-for-patched.html)
+
+
+---
+
+### 📰 TELESHIM Abuses Telegram for C2 in Attacks Against Middle East Governments
+**Category:** 📰 News
+**Time:** 19:43 UTC
+
+**Summary:**  
+Cybersecurity researchers have flagged fresh malicious cyber activity by a threat actor with ties to East Asia targeting government entities in the Middle East.  The intrusions have resulted in the deployment of previously unreported malware families dubbed TELESHIM, MIXEDKEY, and BINDCLOAK, according to Zscaler ThreatLabz. The cybersecurity firm said it detected the campaign earlier this month.
+
+🔗 [Read Full Article](https://thehackernews.com/2026/07/teleshim-abuses-telegram-for-c2-in.html)
+
+
+---
+
+### 📰 GitHub Adds 3-Day Dependabot Cooldown to Limit Poisoned Package Adoption
+**Category:** 📰 News
+**Time:** 19:43 UTC
+
+**Summary:**  
+GitHub has announced a new cooldown mechanism in Dependabot, allowing the tool to wait at least three days after a release is published before opening a pull request.  "The cooldown configuration option in the dependabot.yml still controls the behavior, though, so you can choose a different cooldown parameter that fits your project," the Microsoft-owned subsidiary said.  According to GitHub, the
+
+🔗 [Read Full Article](https://thehackernews.com/2026/07/github-adds-3-day-dependabot-cooldown.html)
 
 
 ---
