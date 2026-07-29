@@ -6,74 +6,62 @@ vulnerabilities, and exploitation activity for continuous learning.
 ---
 ## 📅 2026-07-29
 
-### 📰 Mythos Asks the Right Question. It Doesn't Answer It.
+### 📰 Critical Rails Flaw Could Let Unauthenticated Attackers Read Server Files via Image Uploads
 **Category:** 🔴 Vulnerability
-**Time:** 14:22 UTC
+**Time:** 19:25 UTC
 
 **Summary:**  
-AI is compressing exploit timelines. The real question isn't whether your vulnerability management playbook needs to change, it's which part of it you've been getting wrong all along.  The conversation happening in security circles right now goes something like this: Mythos is here. Exploit timelines are collapsing. Does the vulnerability management playbook need to change?  The honest answer is
+Ruby on Rails has released fixes for a critical Active Storage vulnerability that could let unauthenticated attackers read arbitrary files from application servers through crafted image uploads.  Tracked as CVE-2026-66066 (CVSS score: 9.5), the flaw can expose the Rails process environment and secrets such as secret_key_base, the Rails master key, database passwords, cloud storage credentials,
 
-🔗 [Read Full Article](https://thehackernews.com/2026/07/mythos-asks-right-question-it-doesnt.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/07/critical-rails-flaw-could-let.html)
 
 
 ---
 
-### 📰 Researchers Show a Single Malicious Webpage Visit Can Compromise Tor Browser
+### 📰 Ruflo MCP Flaw Lets Unauthenticated Attackers Run Commands and Poison AI Memory
 **Category:** 🔴 Vulnerability
-**Time:** 14:22 UTC
+**Time:** 19:25 UTC
 
 **Summary:**  
-Nebula Security says a patched Firefox JIT flaw could be triggered by simply visiting a malicious webpage and was also used to compromise Tor Browser.  Tracked as CVE-2026-10702, the bug provides arbitrary code execution inside the browser's renderer process. Mozilla rated it High and fixed it in the Firefox 151.0.3 update.  "No settings or additional user interaction are required," Eten Zou,
+Cybersecurity researchers have flagged a maximum-severity security flaw in Ruflo, an open-source agent meta-harness for Anthropic Claude Code and OpenAI Codex, that could result in unauthenticated remote code execution.  The vulnerability, tracked as CVE-2026-59726 (CVSS score: 10.0), impacts all versions of the project before version 3.16.3. It has been codenamed RufRoot by Noma Security's
 
-🔗 [Read Full Article](https://thehackernews.com/2026/07/researchers-show-single-malicious.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/07/ruflo-mcp-flaw-lets-unauthenticated.html)
 
 
 ---
 
-### 📰 73% of Organizations Say They Are Not Fully Ready for a Major Cyberattack
+### 📰 Three Critical VMware Flaws Allow Auth Bypass, Code Execution, and VM Escape
+**Category:** 🔴 Vulnerability
+**Time:** 19:25 UTC
+
+**Summary:**  
+Broadcom has released security updates to address multiple security flaws impacting VMware ESX, vCenter, Workstation, and Fusion, three of which have been designated as critical in severity.  The first of the three critical-rated flaws is CVE-2026-59309 (CVSS score: 9.8), which has been described as an authentication bypass in VMware vCenter.  "A malicious actor with network access to vCenter
+
+🔗 [Read Full Article](https://thehackernews.com/2026/07/three-critical-vmware-flaws-allow-auth.html)
+
+
+---
+
+### 📰 Coordinated Cyberattack Targets 30+ Minnesota Water Systems as One Plant Goes Offline
 **Category:** 📰 News
-**Time:** 14:22 UTC
+**Time:** 19:25 UTC
 
 **Summary:**  
-Most organizations have incident response plans, security tools, and technical teams in place. Yet new research suggests that many still lack the coordination, visibility, and executive alignment needed to withstand a serious cyberattack.  According to The State of Incident Response Readiness 2026, based on a survey of 600 senior IT security decision makers conducted by Vanson Bourne in January
+A coordinated cyberattack targeted operational technology at more than 30 Minnesota community water systems on July 26 and 27, triggering a statewide cybersecurity response.  Braham, Plymouth, South St. Paul and Maple Plain have publicly described a plant outage, communications failures or affected automated controls.  Braham's water plant went offline, and the city asked residents to minimize
 
-🔗 [Read Full Article](https://thehackernews.com/2026/07/73-of-organizations-say-they-are-not.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/07/coordinated-cyberattack-targets-30.html)
 
 
 ---
 
-### 📰 Russia Charges Telegram Founder Pavel Durov With Aiding Terrorist Activity
+### 📰 Nine-Year Fraud Campaign Clones Russian Company Sites to Steal Advance Payments
 **Category:** 📰 News
-**Time:** 14:22 UTC
+**Time:** 19:25 UTC
 
 **Summary:**  
-The Federal Security Service of the Russian Federation (FSB) on Wednesday said it charged Telegram founder Pavel Durov for allegedly facilitating terrorist activities and for failing to remove prohibited information in violation of Russian law.  The principal security agency said the instant messaging platform "failed to remove numerous channels, chats, and bots on the platform that are
+Cybersecurity researchers have disclosed details of a large-scale fraud campaign that involves creating lookalike websites of major Russian companies with an aim to siphon funds from international firms for more than nine years.  According to Russian cybersecurity vendor F6, the threat actors have set up clone websites of Russian companies across fertilizer manufacturers, petrochemical companies
 
-🔗 [Read Full Article](https://thehackernews.com/2026/07/russia-charges-telegram-founder-pavel.html)
-
-
----
-
-### 📰 Public PoC Released for Exploited Check Point SmartConsole Authentication Bypass
-**Category:** 🔴 Vulnerability
-**Time:** 14:22 UTC
-
-**Summary:**  
-Cybersecurity researchers have shared additional technical details about a recently patched critical security flaw impacting Check Point Security Management Server and Multi-Domain Security Management Server (MDS) that has come under active exploitation in the wild.  The vulnerability, tracked as CVE-2026-16232 (CVSS score: 9.3), is an authentication bypass in the SmartConsole login process that
-
-🔗 [Read Full Article](https://thehackernews.com/2026/07/rapid7-releases-poc-for-exploited-check.html)
-
-
----
-
-### 📰 New Gitea RCE Lets Repository Writers Plant a Git Hook to Run Shell Commands
-**Category:** 🔴 Vulnerability
-**Time:** 14:22 UTC
-
-**Summary:**  
-Gitea, the self-hosted Git platform, has patched a critical remote code execution vulnerability. A user with ordinary repository write access can turn attacker-controlled patch content into a live Git hook and run shell commands as the Gitea service account.  Tracked as CVE-2026-60004 (CVSS score: 9.8), the flaw affects Gitea versions 1.17 and later before 1.27.1 and is fixed in 1.27.1. The
-
-🔗 [Read Full Article](https://thehackernews.com/2026/07/new-gitea-rce-lets-repository-writers.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/07/nine-year-fraud-campaign.html)
 
 
 ---
