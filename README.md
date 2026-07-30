@@ -6,50 +6,50 @@ vulnerabilities, and exploitation activity for continuous learning.
 ---
 ## 📅 2026-07-30
 
-### 📰 Russian Hackers Exploit Microsoft OWA Flaw to Keep Mailbox Access After Credential Rotation
-**Category:** 🔴 Vulnerability
-**Time:** 08:37 UTC
-
-**Summary:**  
-The Russian threat actors recently linked to the exploitation of a now-patched vulnerability in Zimbra have been observed exploiting another vulnerability, this time in Microsoft Outlook Web Access (OWA), to target U.S. and European government entities, as well as the telecommunications, financial, hospitality, and aerospace sectors.  The activity, which began on July 22, 2026, involves the
-
-🔗 [Read Full Article](https://thehackernews.com/2026/07/russian-hackers-exploit-microsoft-owa.html)
-
-
----
-
-### 📰 FCC Blocks New Foreign-Produced Robots and Power Inverters Over Cyber Risks
-**Category:** 📅 Webinar/Event
-**Time:** 08:37 UTC
-
-**Summary:**  
-The Federal Communications Commission (FCC) added foreign-produced mobile robots and networked power inverters to its Covered List on July 28. The move generally prevents new models from receiving the equipment authorization required for import, marketing, or sale in the US.  Previously authorized models can still be sold, and devices people already own are unaffected. Federal purchases and use
-
-🔗 [Read Full Article](https://thehackernews.com/2026/07/fcc-blocks-new-foreign-produced-robots.html)
-
-
----
-
-### 📰 Amazon Links Debug and Chalk npm Hijack to North Korea’s Sapphire Sleet
+### 📰 Microsoft Copilot for Word Can Copy Hidden Prompts Into New Documents
 **Category:** 📰 News
-**Time:** 08:37 UTC
+**Time:** 14:17 UTC
 
 **Summary:**  
-Amazon has tied the September 2025 hijack of the npm packages debug and chalk to North Korea. For ten months, the incident sat in the public record as crypto theft: a maintainer phished through a lookalike npm domain and a wallet-draining script pushed into at least 18 packages carrying more than 2 billion weekly downloads between them.  The original Aikido and Wiz reports did not attribute the
+Hidden instructions in a Word document can make Microsoft 365 Copilot rewrite figures in a report, then copy the same instructions into the finished file. Håkon Måløy disclosed the technique on July 28, 144 days after reporting it to Microsoft.  In his proof of concept, the internally generated file triggered the same behavior when it was used in a second Copilot drafting session.  Måløy's
 
-🔗 [Read Full Article](https://thehackernews.com/2026/07/amazon-links-debug-and-chalk-npm-hijack.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/07/microsoft-copilot-for-word-can-copy.html)
 
 
 ---
 
-### 📰 Cisco FMC Zero-Day Actively Exploited, Static Credentials Could Expose Sensitive Data
-**Category:** 🔴 Vulnerability
-**Time:** 08:37 UTC
+### 📰 The Network Has Become the Control Plane for AI Security
+**Category:** 📅 Webinar/Event
+**Time:** 14:17 UTC
 
 **Summary:**  
-The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a newly disclosed security flaw impacting Cisco Secure Firewall Management Center (FMC) Software to its Known Exploited Vulnerabilities (KEV) catalog, following reports of zero-day exploitation.  The vulnerability, assigned CVE-2026-20316 (CVSS score: 5.3), could permit an unauthenticated, remote attacker to log
+Network firewalls are the workhorses of modern cybersecurity. They are trusted to protect the network, blocking malicious traffic and preventing intrusions and breaches. And for decades, network security teams have built controls around a relatively stable model: users connect to applications, applications exchange data, and security tools inspect packets, protocols, and destinations. Firewalls
 
-🔗 [Read Full Article](https://thehackernews.com/2026/07/cisco-fmc-zero-day-actively-exploited.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/07/the-network-has-become-control-plane.html)
+
+
+---
+
+### 📰 Hackers Exploit AnySign4PC via Hacked Korean Sites to Install Backdoors Without Prompts
+**Category:** 🔴 Vulnerability
+**Time:** 14:17 UTC
+
+**Summary:**  
+South Korean authorities and four security firms have disclosed a state-sponsored campaign that compromised trusted domestic websites. The attackers used those sites to exploit locally installed financial-security software and infect targeted visitors with SIGNBT or COPPERHEDGE backdoors.  A compromised page could infect a system running a vulnerable AnySign4PC version without a prompt or
+
+🔗 [Read Full Article](https://thehackernews.com/2026/07/hackers-exploit-anysign4pc-via-hacked.html)
+
+
+---
+
+### 📰 SilverFox Targets Japanese Manufacturer with 3-Driver BYOVD Chain and ValleyRAT
+**Category:** 📰 News
+**Time:** 14:17 UTC
+
+**Summary:**  
+The Chinese cybercrime group known as Silver Fox has been observed using new drivers as part of bring your own vulnerable driver (BYOVD) attacks targeting a Japanese organization in the industrial manufacturing sector to ultimately deliver ValleyRAT (aka Winos 4.0) for persistent remote access.  "In this campaign, the group combines new vulnerable-driver abuse, newly observed abuse of legitimate
+
+🔗 [Read Full Article](https://thehackernews.com/2026/07/silverfox-targets-japanese-manufacturer.html)
 
 
 ---
