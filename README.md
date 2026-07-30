@@ -6,50 +6,74 @@ vulnerabilities, and exploitation activity for continuous learning.
 ---
 ## 📅 2026-07-30
 
-### 📰 Microsoft Copilot for Word Can Copy Hidden Prompts Into New Documents
+### 📰 DPRK-Linked macOS Malvertising Uses Fake Updates to Deliver Crypto-Stealing Malware
 **Category:** 📰 News
-**Time:** 14:17 UTC
+**Time:** 19:41 UTC
 
 **Summary:**  
-Hidden instructions in a Word document can make Microsoft 365 Copilot rewrite figures in a report, then copy the same instructions into the finished file. Håkon Måløy disclosed the technique on July 28, 144 days after reporting it to Microsoft.  In his proof of concept, the internally generated file triggered the same behavior when it was used in a second Copilot drafting session.  Måløy's
+Threat actors with ties to North Korea have been attributed to a sophisticated macOS malvertising campaign that involves redirecting users to fake web pages displaying a full-screen non-existent update sequence to deliver malware as part of a new iteration of the long-running Contagious Interview campaign.  The defining aspect of the attack is that bogus macOS software update screen stealthily
 
-🔗 [Read Full Article](https://thehackernews.com/2026/07/microsoft-copilot-for-word-can-copy.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/07/dprk-linked-macos-malvertising-uses.html)
 
 
 ---
 
-### 📰 The Network Has Become the Control Plane for AI Security
-**Category:** 📅 Webinar/Event
-**Time:** 14:17 UTC
+### 📰 ThreatsDay: AI-Powered Hacking, 370 Chrome Flaws, SonicWall Attacks, DNS Hijacking + 22 More Stories
+**Category:** 🔴 Vulnerability, 💡 Expert Insight
+**Time:** 19:41 UTC
 
 **Summary:**  
-Network firewalls are the workhorses of modern cybersecurity. They are trusted to protect the network, blocking malicious traffic and preventing intrusions and breaches. And for decades, network security teams have built controls around a relatively stable model: users connect to applications, applications exchange data, and security tools inspect packets, protocols, and destinations. Firewalls
+A lot of security still comes down to trusting the wrong screen.  This week, that screen might be a login page, an install guide, a recruiter call, or a familiar service behaving slightly wrong. Behind it: reused credentials, exposed systems, quiet loaders, abused trust, and exploit paths that should have been harder.  Some defenses improved. The loose parts still got found first. Anyway,
 
-🔗 [Read Full Article](https://thehackernews.com/2026/07/the-network-has-become-control-plane.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/07/threatsday-ai-powered-hacking-370.html)
 
 
 ---
 
-### 📰 Hackers Exploit AnySign4PC via Hacked Korean Sites to Install Backdoors Without Prompts
+### 📰 Azure Cosmos DB Flaw Exposed Platform-Wide Key That Could Access Any Database
 **Category:** 🔴 Vulnerability
-**Time:** 14:17 UTC
+**Time:** 19:41 UTC
 
 **Summary:**  
-South Korean authorities and four security firms have disclosed a state-sponsored campaign that compromised trusted domestic websites. The attackers used those sites to exploit locally installed financial-security software and infect targeted visitors with SIGNBT or COPPERHEDGE backdoors.  A compromised page could infect a system running a vulnerable AnySign4PC version without a prompt or
+A now-patched vulnerability in Azure Cosmos DB could have let an attacker escape the service's Gremlin query sandbox and obtain full read and write access to databases across customer tenants, according to Wiz.  Wiz, which codenamed the chain CosmosEscape, said the exploit chain began with a crafted query against a Gremlin database controlled by the attacker. From there, code execution on a
 
-🔗 [Read Full Article](https://thehackernews.com/2026/07/hackers-exploit-anysign4pc-via-hacked.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/07/azure-cosmos-db-flaw-exposed-platform.html)
 
 
 ---
 
-### 📰 SilverFox Targets Japanese Manufacturer with 3-Driver BYOVD Chain and ValleyRAT
-**Category:** 📰 News
-**Time:** 14:17 UTC
+### 📰 Russian Hackers Exploit Microsoft OWA Flaw to Keep Mailbox Access After Credential Rotation
+**Category:** 🔴 Vulnerability
+**Time:** 19:41 UTC
 
 **Summary:**  
-The Chinese cybercrime group known as Silver Fox has been observed using new drivers as part of bring your own vulnerable driver (BYOVD) attacks targeting a Japanese organization in the industrial manufacturing sector to ultimately deliver ValleyRAT (aka Winos 4.0) for persistent remote access.  "In this campaign, the group combines new vulnerable-driver abuse, newly observed abuse of legitimate
+The Russian threat actors recently linked to the exploitation of a now-patched vulnerability in Zimbra have been observed exploiting another vulnerability, this time in Microsoft Outlook Web Access (OWA), to target U.S. and European government entities, as well as the telecommunications, financial, hospitality, and aerospace sectors.  The activity, which began on July 22, 2026, involves the
 
-🔗 [Read Full Article](https://thehackernews.com/2026/07/silverfox-targets-japanese-manufacturer.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/07/russian-hackers-exploit-microsoft-owa.html)
+
+
+---
+
+### 📰 FCC Blocks New Foreign-Produced Robots and Power Inverters Over Cyber Risks
+**Category:** 📅 Webinar/Event
+**Time:** 19:41 UTC
+
+**Summary:**  
+The Federal Communications Commission (FCC) added foreign-produced mobile robots and networked power inverters to its Covered List on July 28. The move generally prevents new models from receiving the equipment authorization required for import, marketing, or sale in the US.  Previously authorized models can still be sold, and devices people already own are unaffected. Federal purchases and use
+
+🔗 [Read Full Article](https://thehackernews.com/2026/07/fcc-blocks-new-foreign-produced-robots.html)
+
+
+---
+
+### 📰 Amazon Links Debug and Chalk npm Hijack to North Korea’s Sapphire Sleet
+**Category:** 📰 News
+**Time:** 19:41 UTC
+
+**Summary:**  
+Amazon has tied the September 2025 hijack of the npm packages debug and chalk to North Korea. For ten months, the incident sat in the public record as crypto theft: a maintainer phished through a lookalike npm domain and a wallet-draining script pushed into at least 18 packages carrying more than 2 billion weekly downloads between them.  The original Aikido and Wiz reports did not attribute the
+
+🔗 [Read Full Article](https://thehackernews.com/2026/07/amazon-links-debug-and-chalk-npm-hijack.html)
 
 
 ---
