@@ -6,38 +6,62 @@ vulnerabilities, and exploitation activity for continuous learning.
 ---
 ## 📅 2026-07-31
 
-### 📰 6 Reasons Why Device Code Phishing is the Fastest-Growing Threat of 2026
+### 📰 Suspected Chinese-Speaking Hackers Target Central Asian Governments With OctLurk and SilkLurk
 **Category:** 📰 News
-**Time:** 14:22 UTC
+**Time:** 19:42 UTC
 
 **Summary:**  
-Device code phishing - the abuse of the OAuth 2.0 device authorization grant to steal access tokens - has evolved from a niche red-team technique to an industrial-scale threat in under six months.  Designed for input-constrained devices like smart TVs, printers, and so on, the device authorization login flow has been adopted by a wide range of apps and use-cases that it wasn't originally
+A Chinese-speaking threat actor is suspected to be behind a fresh wave of cyber attacks targeting government organizations mainly located in Central Asia, including Afghanistan, Kyrgyzstan, Tajikistan, Uzbekistan, Kazakhstan, and the Syrian Arab Republic, since January 2025.  These targeted organizations operate across several sectors, such as healthcare, research, government offices,
 
-🔗 [Read Full Article](https://thehackernews.com/2026/07/6-reasons-why-device-code-phishing-is.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/08/suspected-chinese-speaking-hackers.html)
 
 
 ---
 
-### 📰 Chinese Hacker Commands DeepSeek via Telegram to Launch Autonomous Attacks
+### 📰 HollowFrame Loader Deploys Matryoshka Backdoor in Spear-Phishing Attack on Law Firm
+**Category:** 📰 News
+**Time:** 19:42 UTC
+
+**Summary:**  
+Cybersecurity researchers have shed light on a previously undocumented Go-based loader framework called HollowFrame and a Rust-based malware family tracked as Matryoshka.  According to Blackpoint Cyber, the intrusion sequence begins with a spear-phishing message containing a link to an encrypted archive, which holds a Windows Shortcut (LNK). Executing the file triggers a multi-stage chain that
+
+🔗 [Read Full Article](https://thehackernews.com/2026/07/hollowframe-loader-deploys-matryoshka.html)
+
+
+---
+
+### 📰 Cheap Android TV Boxes Pose as Phones and Turn Owners’ Broadband Into Proxies
+**Category:** 📰 News
+**Time:** 19:42 UTC
+
+**Summary:**  
+Bitsight says some cheap Android TV boxes have shipped with apps that rewrite their hardware identity to mimic Samsung, Huawei, Xiaomi, or Vivo phones, then click ads on websites run by the same operators.  Researchers named the operation Fuyao and attributed it to Zhejiang Fengwo IoT Technology Co., Ltd., a mainland China company founded in 2019.  The same apps have a second job. When a box
+
+🔗 [Read Full Article](https://thehackernews.com/2026/07/cheap-android-tv-boxes-pose-as-phones.html)
+
+
+---
+
+### 📰 Three Recent Chrome Releases Fix 1,442 Flaws, More Than Prior 23 Updates Combined
 **Category:** 🔴 Vulnerability
-**Time:** 14:22 UTC
+**Time:** 19:42 UTC
 
 **Summary:**  
-Palo Alto Networks' Unit 42 says a Chinese-speaking threat actor used DeepSeek through the open-source Hermes Agent framework to launch attacks autonomously.  After an initial Telegram instruction, the agent found internet-facing systems and selected public exploits. The researchers recovered no further operator input in the session.  The operator, tracked through the aliases knaithe and KnYuan,
+Google on Thursday announced that it fixed a whopping 1,072 security bugs in Chrome versions 149 and 150, surpassing the total number of flaws the company fixed across the prior 23 milestones combined.  Both versions were released last month. In its latest patch for Chrome 151, released Wednesday, the tech giant resolved 370 flaws, out of which 349 were reported by Google itself. Seven of the
 
-🔗 [Read Full Article](https://thehackernews.com/2026/07/chinese-hacker-commands-deepseek-via.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/07/three-recent-chrome-releases-fix-1442.html)
 
 
 ---
 
-### 📰 Anthropic Says Claude Mistook the Open Internet for a CTF and Breached Three Organizations
-**Category:** 📰 News
-**Time:** 14:22 UTC
+### 📰 Researchers Report 84 Flaws in 4G and 5G Cores, Including a Session Hijacking Flaw
+**Category:** 🔴 Vulnerability
+**Time:** 19:42 UTC
 
 **Summary:**  
-Anthropic on Thursday became the latest artificial intelligence (AI) company to reveal that three of its models, including Claude Opus 4.7, Mythos 5, and an unnamed research model, had breached three unnamed organizations during cybersecurity testing without its knowledge.  The AI firm said the earliest incidents date back to April 2026, adding it made the discoveries after launching a "
+An academic study has disclosed a "widespread class" of security vulnerabilities impacting 4G and 5G core networks that, if successfully exploited, could trigger denial-of-service (DoS) attacks and even session hijacking, allowing an attacker to seize control of a user's network session.  The findings have been released by a group of researchers from Singapore's Nanyang Technological University
 
-🔗 [Read Full Article](https://thehackernews.com/2026/07/anthropic-says-claude-mistook-open.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/07/researchers-report-84-flaws-in-4g-and.html)
 
 
 ---
