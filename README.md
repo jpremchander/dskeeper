@@ -6,38 +6,50 @@ vulnerabilities, and exploitation activity for continuous learning.
 ---
 ## 📅 2026-08-03
 
-### 📰 Thermo Fisher Patches Flaw That Could Make DNA File Tampering Nearly Undetectable
-**Category:** 🔴 Vulnerability, 💡 Expert Insight
-**Time:** 09:56 UTC
-
-**Summary:**  
-Thermo Fisher Scientific has patched a flaw in select Applied Biosystems human identification software that could allow data files to be altered before analysis software loads them.  The vendor's July 31 security bulletin says nearly undetectable changes to .fsa and .hid outputs could occur if laboratory controls are circumvented.  Thermo Fisher tracks the issue as CVE-2026-17583 and rates it
-
-🔗 [Read Full Article](https://thehackernews.com/2026/08/thermo-fisher-patches-flaw-that-could.html)
-
-
----
-
-### 📰 N-able Says Attackers Take Over N-central Servers After Initial Fix Proves Incomplete
-**Category:** 🔴 Vulnerability
-**Time:** 09:56 UTC
-
-**Summary:**  
-N-able said attackers exploited an authentication bypass in N-central to gain remote administrative access and reach the customer systems managed through those servers.  Its first fix was incomplete. CVE-2026-18577 affects N-central builds prior to 2026.3.1.7. N-able shipped build 2026.3.1.7 on August 2 as the first unaffected version.  N-central is the remote monitoring and management platform
-
-🔗 [Read Full Article](https://thehackernews.com/2026/08/n-able-says-attackers-take-over-n.html)
-
-
----
-
-### 📰 Hugging Face Diffusers Flaws Could Let Model Repositories Execute Arbitrary Code
+### 📰 ⚡ Weekly Recap: Rogue AI Models, $88M Bitcoin Theft, Water-System Attacks and Dangling DNS Hijacks
 **Category:** 📰 News
-**Time:** 09:56 UTC
+**Time:** 14:52 UTC
 
 **Summary:**  
-Three high-severity security flaws have been disclosed in Hugging Face's Diffusers library that could allow crafted model repositories to stealthily execute arbitrary code on machines that load it, opening the artificial intelligence (AI) supply chain to security risk.  "These vulnerabilities are bypassing trust_remote_code, the safeguard designed to stop unreviewed code from running in the
+This week kept coming back to permission. A model crossed a boundary. A wallet trusted bad randomness. Webmail kept an intruder around. Public systems, package feeds, hotel networks, and login flows all gave away more than intended.  Some of it was clever. Most of it was just access left lying around: old bugs, exposed gear, poisoned dependencies, weak defaults, and tooling that moved from
 
-🔗 [Read Full Article](https://thehackernews.com/2026/08/hugging-face-diffusers-flaws-could-let.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/08/weekly-recap-rogue-ai-models-88m.html)
+
+
+---
+
+### 📰 FOMO in the SOC: Where AI Platforms like Claude Actually Fit
+**Category:** 📰 News
+**Time:** 14:52 UTC
+
+**Summary:**  
+AI is moving incredibly fast, and every security leader is feeling the pressure to keep up.  AI platforms like Claude, Codex and Cursor are already helping security teams write detections, investigate alerts, summarize incidents, and automate repetitive work. The conversation has evolved from whether AI belongs in the SOC, to where each type of AI delivers the most value.  With so many new AI
+
+🔗 [Read Full Article](https://thehackernews.com/2026/08/fomo-in-soc-where-ai-platforms-like.html)
+
+
+---
+
+### 📰 Chinese Threat Actor Uses Leaked DarkSword Kit to Deploy GHOSTBLADE on iOS
+**Category:** 🔴 Vulnerability
+**Time:** 14:52 UTC
+
+**Summary:**  
+An unknown Chinese-threat actor has been observed running a campaign targeting Apple iOS devices by leveraging a publicly leaked version of the DarkSword exploit kit.  Attack surface management platform Censys said it identified the threat actor running more than 100 web properties, most of which are fake Amazon Web Services (AWS) sign-in pages on a domain that also hosts the exploit toolkit.  "
+
+🔗 [Read Full Article](https://thehackernews.com/2026/08/chinese-threat-actor-uses-leaked.html)
+
+
+---
+
+### 📰 PNLD Breach Exposes U.K. Police and Government Contact Details on Dark Web
+**Category:** 📰 News
+**Time:** 14:52 UTC
+
+**Summary:**  
+The Police National Legal Database (PNLD) has confirmed that police, government and customer contact information was compromised and published on the dark web.  The data included names, organisations and work email addresses belonging to police officers, police staff, criminal justice professionals, government partners and customers.  The incident, identified on July 26, also exposed some names
+
+🔗 [Read Full Article](https://thehackernews.com/2026/08/pnld-breach-exposes-uk-police-and.html)
 
 
 ---
