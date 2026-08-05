@@ -6,62 +6,74 @@ vulnerabilities, and exploitation activity for continuous learning.
 ---
 ## 📅 2026-08-05
 
-### 📰 New OVSwrap Linux Kernel Flaw Lets Local Users Gain Root via Open vSwitch
-**Category:** 🔴 Vulnerability
-**Time:** 14:21 UTC
-
-**Summary:**  
-A memory corruption flaw in the Linux kernel's Open vSwitch datapath gives ordinary local users a path to root on a broad set of default-configured distributions, and a public exploit ships with pre-built records for roughly 800 kernel builds.  The vulnerability, tracked as CVE-2026-64531 (CVSS score: 7.8) and codenamed OVSwrap by its discoverer, was disclosed by security researcher Asim
-
-🔗 [Read Full Article](https://thehackernews.com/2026/08/new-ovswrap-linux-kernel-flaw-lets.html)
-
-
----
-
-### 📰 Kali365 Weaponizes Microsoft Authentication Against US Companies: New Enterprise Risk
+### 📰 Over 250 ClickFix Domains Use Browser Fingerprinting to Hide macOS Malware Lures
 **Category:** 📰 News
-**Time:** 14:21 UTC
+**Time:** 19:43 UTC
 
 **Summary:**  
-Kali365 is turning a legitimate Microsoft login into a gateway to corporate data.  The phishing kit targets US organizations with attacker-controlled device codes that victims approve on Microsoft's real authentication page. Once access and refresh tokens are issued, attackers may retain access to email, documents, and cloud resources, creating a direct path to data exposure, financial fraud,
+A macOS ClickFix operation spanning more than 250 front-end domains now fingerprints visitors before deciding whether to show them a malware lure, a change Microsoft Threat Intelligence tracked on infrastructure it had been watching for weeks.  The server-side gate hides the malicious page from crawlers and sandboxes while presenting selected Mac users with a fake software download. Microsoft
 
-🔗 [Read Full Article](https://thehackernews.com/2026/08/kali365-weaponizes-microsoft.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/08/over-250-clickfix-domains-use-browser.html)
 
 
 ---
 
-### 📰 Critical Gitea Flaw Let Unauthenticated Attackers Read Server Files via Org-Mode Markup
-**Category:** 🔴 Vulnerability
-**Time:** 14:21 UTC
-
-**Summary:**  
-An unauthenticated attacker can read any file the service account can access on Gitea, the self-hosted Git platform, in versions 1.22.1 through 1.27.0. No login, no repository write access. A public repository and crafted Org-mode markup are enough. The flaw is fixed in Gitea 1.27.1.  The file-read flaw is tracked as CVE-2026-59774, rated Critical with a CVSS score of 9.8, and received its
-
-🔗 [Read Full Article](https://thehackernews.com/2026/08/critical-gitea-flaw-let-unauthenticated.html)
-
-
----
-
-### 📰 Leaked n8n API Tokens Exposed Live Instances to Credential Theft
-**Category:** 🔴 Vulnerability
-**Time:** 14:21 UTC
-
-**Summary:**  
-GitGuardian researchers found 321 n8n instances accepting API tokens exposed in public GitHub commits and demonstrated four ways attackers could use them to access sensitive data and downstream credentials without exploiting a software vulnerability.  We scanned public GitHub commits for exposed n8n API tokens and identified 4,576 unique credentials associated with 1,255 hostnames. Of the 896
-
-🔗 [Read Full Article](https://thehackernews.com/2026/08/leaked-n8n-api-tokens-exposed-live.html)
-
-
----
-
-### 📰 Open VSX Removes 77 Malicious Evil Twin Extensions Exfiltrating Developer Data
+### 📰 OpenAI Disrupts Poipet Scam Network Using ChatGPT Across Multiple Fraud Schemes
 **Category:** 📰 News
-**Time:** 14:21 UTC
+**Time:** 19:43 UTC
 
 **Summary:**  
-A cluster of 77 extensions on the Open VSX marketplace has been found to impersonate legitimate developer tools while transmitting information about the systems and development environments on which they were installed.  The "evil twin" extensions were uploaded to the repository between July 26 and August 1, 2026, according to Manifold Security. The packages have been removed from Open VSX as of
+OpenAI said it disrupted a Cambodia-based scam operation that used its generative artificial intelligence (AI) chatbot ChatGPT to facilitate a wide range of investment, romance, gambling, and law enforcement impersonation schemes.  To that end, it banned a coordinated network of ChatGPT accounts likely originating from Southeast Asia and operating from the city of Poipet, a region with extensive
 
-🔗 [Read Full Article](https://thehackernews.com/2026/08/open-vsx-removes-77-malicious-evil-twin.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/08/openai-disrupts-poipet-scam-network.html)
+
+
+---
+
+### 📰 Poison Claude Sells Discounted Claude Access While Its Operator Sees Every Customer Prompt
+**Category:** 📰 News
+**Time:** 19:43 UTC
+
+**Summary:**  
+Cybersecurity researchers have discovered more than half-a-dozen services advertisements for illegal access to artificial intelligence (AI) models on underground cybercrime forums and messaging platforms.  One such service, Poison Claude, claims to offer access to Anthropic's large language models (LLMs), including Opus 4.8, Opus 4.7, Opus 4.6, and Sonnet 4.6.  "Advertisements for Poison Claude
+
+🔗 [Read Full Article](https://thehackernews.com/2026/08/poison-claude-sells-discounted-claude.html)
+
+
+---
+
+### 📰 Paperclip AI Flaws Let Attackers Run Host Commands via Malicious Agent Imports
+**Category:** 📰 News
+**Time:** 19:43 UTC
+
+**Summary:**  
+Two security flaws in Paperclip could let attackers execute commands on a network server or a developer's computer. Paperclip is an open-source control plane for teams of artificial intelligence (AI) agents, and both paths rely on importing a malicious agent and starting it.  A third flaw could expose sensitive data and control-plane details through application programming interface (API) routes
+
+🔗 [Read Full Article](https://thehackernews.com/2026/08/paperclip-ai-flaws-let-attackers-run.html)
+
+
+---
+
+### 📰 Veeam, Terraform MCP, Django Patch Critical Flaws, Led by CVSS 10.0 Cross-Tenant Bug
+**Category:** 🔴 Vulnerability
+**Time:** 19:43 UTC
+
+**Summary:**  
+HashiCorp, Veeam, and the Django Software Foundation have patched 11 vulnerabilities across Terraform MCP Server, Veeam Service Provider Console, and Django.  The three most serious:     An unauthenticated flaw in Veeam's console that hands over a managed agent's credentials, rated 9.5   A cross-tenant flaw in HashiCorp's MCP server that lets one user's Terraform token be reused for later users'
+
+🔗 [Read Full Article](https://thehackernews.com/2026/08/veeam-terraform-mcp-django-patch.html)
+
+
+---
+
+### 📰 Trojanized npm Packages Employ NullReceiver Tactic to Decode C2 IP from Blockchain
+**Category:** 📰 News
+**Time:** 19:43 UTC
+
+**Summary:**  
+Cybersecurity researchers have flagged an evolution of the EtherHiding blockchain-based command-and-control (C2) technique that conceals the C2 server IP address inside a made-up destination address of a completely empty Ethereum transfer.  The new dead drop resolver approach, observed in two trojanized npm packages "bianira-ui" and "fluid-type-ui," has been codenamed NullReceiver by
+
+🔗 [Read Full Article](https://thehackernews.com/2026/08/trojanized-npm-packages-decode-c2-ip.html)
 
 
 ---
