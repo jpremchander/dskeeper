@@ -6,38 +6,62 @@ vulnerabilities, and exploitation activity for continuous learning.
 ---
 ## 📅 2026-08-05
 
-### 📰 Claude Mythos 5 Tried to Backdoor a Real Open-Source Project in Testing, Then Vouched for Itself
-**Category:** 📰 News
-**Time:** 08:44 UTC
-
-**Summary:**  
-An agent running Anthropic's Claude Mythos 5 spent 34 hours trying to get a malware dropper merged into a real open-source project during a cyber evaluation by the UK's AI Security Institute.  When a bystander publicly warned that the code was malicious, the agent denied it, force-pushed a rewritten branch history to erase the evidence, and posted from a second account it controlled to vouch for
-
-🔗 [Read Full Article](https://thehackernews.com/2026/08/claude-mythos-5-tried-to-backdoor-real.html)
-
-
----
-
-### 📰 CISA Flags Langflow RCE, Tomcat, and N-central Flaws as Actively Exploited
+### 📰 New OVSwrap Linux Kernel Flaw Lets Local Users Gain Root via Open vSwitch
 **Category:** 🔴 Vulnerability
-**Time:** 08:44 UTC
+**Time:** 14:21 UTC
 
 **Summary:**  
-The U.S. Cybersecurity and Infrastructure Security Agency (CISA), on August 5, 2026, added three flaws to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation in the wild.  The list of vulnerabilities is as follows -     CVE-2026-9198 (CVSS score: 9.8) - A code injection vulnerability in Langflow that allows unauthenticated attackers to achieve full remote
+A memory corruption flaw in the Linux kernel's Open vSwitch datapath gives ordinary local users a path to root on a broad set of default-configured distributions, and a public exploit ships with pre-built records for roughly 800 kernel builds.  The vulnerability, tracked as CVE-2026-64531 (CVSS score: 7.8) and codenamed OVSwrap by its discoverer, was disclosed by security researcher Asim
 
-🔗 [Read Full Article](https://thehackernews.com/2026/08/cisa-flags-langflow-rce-tomcat-and-n.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/08/new-ovswrap-linux-kernel-flaw-lets.html)
 
 
 ---
 
-### 📰 QuickFox Supply Chain Attack Delivers FDMTP Backdoor via Trojanized Windows Installer
+### 📰 Kali365 Weaponizes Microsoft Authentication Against US Companies: New Enterprise Risk
 **Category:** 📰 News
-**Time:** 08:44 UTC
+**Time:** 14:21 UTC
 
 **Summary:**  
-Cybersecurity researchers have disclosed what has been described as a "long-standing supply chain attack" on QuickFox, a virtual private network (VPN) and network acceleration tool designed for overseas Chinese users.  According to Fortinet FortiGuard Labs, the supply chain attack has been ongoing since at least August 2025 and involves a trojanized version of the application to deliver FDMTP, a
+Kali365 is turning a legitimate Microsoft login into a gateway to corporate data.  The phishing kit targets US organizations with attacker-controlled device codes that victims approve on Microsoft's real authentication page. Once access and refresh tokens are issued, attackers may retain access to email, documents, and cloud resources, creating a direct path to data exposure, financial fraud,
 
-🔗 [Read Full Article](https://thehackernews.com/2026/08/quickfox-supply-chain-attack-delivers.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/08/kali365-weaponizes-microsoft.html)
+
+
+---
+
+### 📰 Critical Gitea Flaw Let Unauthenticated Attackers Read Server Files via Org-Mode Markup
+**Category:** 🔴 Vulnerability
+**Time:** 14:21 UTC
+
+**Summary:**  
+An unauthenticated attacker can read any file the service account can access on Gitea, the self-hosted Git platform, in versions 1.22.1 through 1.27.0. No login, no repository write access. A public repository and crafted Org-mode markup are enough. The flaw is fixed in Gitea 1.27.1.  The file-read flaw is tracked as CVE-2026-59774, rated Critical with a CVSS score of 9.8, and received its
+
+🔗 [Read Full Article](https://thehackernews.com/2026/08/critical-gitea-flaw-let-unauthenticated.html)
+
+
+---
+
+### 📰 Leaked n8n API Tokens Exposed Live Instances to Credential Theft
+**Category:** 🔴 Vulnerability
+**Time:** 14:21 UTC
+
+**Summary:**  
+GitGuardian researchers found 321 n8n instances accepting API tokens exposed in public GitHub commits and demonstrated four ways attackers could use them to access sensitive data and downstream credentials without exploiting a software vulnerability.  We scanned public GitHub commits for exposed n8n API tokens and identified 4,576 unique credentials associated with 1,255 hostnames. Of the 896
+
+🔗 [Read Full Article](https://thehackernews.com/2026/08/leaked-n8n-api-tokens-exposed-live.html)
+
+
+---
+
+### 📰 Open VSX Removes 77 Malicious Evil Twin Extensions Exfiltrating Developer Data
+**Category:** 📰 News
+**Time:** 14:21 UTC
+
+**Summary:**  
+A cluster of 77 extensions on the Open VSX marketplace has been found to impersonate legitimate developer tools while transmitting information about the systems and development environments on which they were installed.  The "evil twin" extensions were uploaded to the repository between July 26 and August 1, 2026, according to Manifold Security. The packages have been removed from Open VSX as of
+
+🔗 [Read Full Article](https://thehackernews.com/2026/08/open-vsx-removes-77-malicious-evil-twin.html)
 
 
 ---
