@@ -6,50 +6,74 @@ vulnerabilities, and exploitation activity for continuous learning.
 ---
 ## 📅 2026-08-06
 
-### 📰 Chinese-Made Zbtlink Routers Ship With Backdoor That Opens Unauthenticated Root Shells
+### 📰 Over 4,400 Rockwell PLCs Exposed Online, 22 Found in Water Attack Cities
 **Category:** 📰 News
-**Time:** 08:46 UTC
+**Time:** 14:25 UTC
 
 **Summary:**  
-Cybersecurity researchers have disclosed details of a "factory-shipped backdoor" implanted in at least 20 Chinese router models from Zbtlink.  According to a new report from VulnCheck, the implant appears in all 21 firmware images currently available from Zbtlink that span more than 2 years. The backdoors are designed such that they start automatically and attempt to beacon to Chinese
+Forescout found 22 internet-facing Rockwell Automation programmable logic controllers (PLCs) in cities hit by recent cyberattacks on US water utilities. Nineteen used the same mobile carrier network.  Its August 3 scan counted 4,407 exposed Rockwell controllers worldwide, including 2,844 in the United States, but Forescout could not confirm any were compromised. That figure counts exposed
 
-🔗 [Read Full Article](https://thehackernews.com/2026/08/chinese-made-zbtlink-routers-ship-with.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/08/over-4400-rockwell-plcs-exposed-online.html)
 
 
 ---
 
-### 📰 Ransom Cartel Creator Gets 16 Years in Prison for Operating Ransomware-as-a-Service
-**Category:** 📰 News
-**Time:** 08:46 UTC
+### 📰 CryptoJS Weak RNG Behind $5.7 Million in Drains Affects Five Crypto Wallet Apps
+**Category:** 💡 Expert Insight
+**Time:** 14:25 UTC
 
 **Summary:**  
-A federal judge in Alexandria, Virginia, sentenced Maksim Silnikau to 16 years in prison on August 5 for creating and running Ransom Cartel, the ransomware-as-a-service operation he stood up in 2021.  Between 2021 and 2023, Ransom Cartel conspirators attacked at least 18 companies, including firms in California, New York and Nebraska, and others abroad, according to the Justice Department.
+Coinspect has identified CryptoJS.lib.WordArray.random() as the weak random number generator behind the Ill Bloom wallet drains.  Introduced in the JavaScript cryptography library 12 years ago, the function supplied weak entropy that affected wallet apps used to generate recovery phrases. Coinspect's on-chain analysis puts the measured theft across two sweeps since late May at a lower bound of
 
-🔗 [Read Full Article](https://thehackernews.com/2026/08/ransom-cartel-creator-gets-16-years-in.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/08/cryptojs-weak-rng-behind-57-million-in.html)
 
 
 ---
 
-### 📰 CISA Flags TeamCity CVE-2026-63077 RCE Flaw Under Active Exploitation in the Wild
+### 📰 Apple iCloud Private Relay Can Expose Real IPs Through WebKit Proxy Bypasses
+**Category:** 📰 News
+**Time:** 14:25 UTC
+
+**Summary:**  
+Cybersecurity researchers have disclosed a security issue with Apple's iCloud Private Relay tool that can expose a user's real IP address.  Introduced with iOS 15, iCloud Private Relay employs a dual-hop architecture to ensure users' privacy by routing their Safari web traffic through two relays so that no single third-party, including Apple, can determine where the request is originating from
+
+🔗 [Read Full Article](https://thehackernews.com/2026/08/webkit-proxy-bypasses-can-expose-real.html)
+
+
+---
+
+### 📰 AI Recommendation Poisoning: How "Ask AI" Buttons Silently Alter LLM Memory
 **Category:** 🔴 Vulnerability
-**Time:** 08:46 UTC
+**Time:** 14:25 UTC
 
 **Summary:**  
-A newly patched security flaw impacting on-premise versions of JetBrains TeamCity has come under active exploitation in the wild, according to the U.S. Cybersecurity and Infrastructure Security Agency (CISA).  The vulnerability in question is CVE-2026-63077 (CVSS score: 9.8), a case of deserialization of untrusted data that could allow an unauthenticated attacker with access to a TeamCity server
+A new class of prompt injection is spreading across commercial websites. It requires no malware, no stolen credentials, and no zero-day exploit. It abuses a standard feature built into almost every major AI assistant: pre-filled deep links.  We observed production websites embedding hidden prompt injection payloads inside "Ask AI" buttons on marketing and competitor comparison pages. When a user
 
-🔗 [Read Full Article](https://thehackernews.com/2026/08/cisa-flags-teamcity-cve-2026-63077-rce.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/08/ai-recommendation-poisoning-how-ask-ai.html)
 
 
 ---
 
-### 📰 Snowflake Hacker Pleads Guilty Over Breaches Affecting at Least 100 Million People
-**Category:** 📰 News
-**Time:** 08:46 UTC
+### 📰 Attackers Compile khunt Inside Oracle to Turn SQL Injection Into Windows SYSTEM Access
+**Category:** 🔴 Vulnerability
+**Time:** 14:25 UTC
 
 **Summary:**  
-Connor Riley Moucka pleaded guilty in Seattle federal court on Wednesday to computer fraud, wire fraud, aggravated identity theft and a related conspiracy over the 2024 breaches of Snowflake customer accounts.  The intrusions reached at least 165 organizations and exposed records belonging to at least 100 million people. Moucka, 26, of Kitchener, Ontario, personally took at least $495,000 from
+Attackers broke into an organization's Oracle database through a SQL injection flaw in a public-facing web application, then installed a post-exploitation toolkit without writing an executable to disk. They fed Java source code to the database, let Oracle compile it into stored schema objects, and ran commands from inside the database engine.  Huntress, which tracks the toolkit as khunt,
 
-🔗 [Read Full Article](https://thehackernews.com/2026/08/snowflake-hacker-pleads-guilty-over.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/08/attackers-compile-khunt-inside-oracle.html)
+
+
+---
+
+### 📰 AWS, Google, and Vercel Agent Flaws Let Attackers Trigger Tools Without Running the Model
+**Category:** 📰 News
+**Time:** 14:25 UTC
+
+**Summary:**  
+Security flaws in agent infrastructure from Amazon Web Services (AWS), Google, and Vercel let untrusted or forged instructions reach an agent's tools with no check that a model turn had authorized them.  In several of the attack paths, the model never ran at all, so system prompts, content filters, and model-level guardrails never got a chance to intervene.  The affected products include Amazon
+
+🔗 [Read Full Article](https://thehackernews.com/2026/08/aws-google-and-vercel-patch-agent-flaws.html)
 
 
 ---
