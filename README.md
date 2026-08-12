@@ -6,62 +6,62 @@ vulnerabilities, and exploitation activity for continuous learning.
 ---
 ## 📅 2026-08-12
 
-### 📰 OpenAI, Anthropic, Google API Flaw Let Weaker AI Models Decode Stronger Models' Reasoning
-**Category:** 📰 News
-**Time:** 13:21 UTC
-
-**Summary:**  
-A newly disclosed flaw in the way OpenAI, Anthropic, and Google carried hidden AI reasoning between API calls let researchers recover internal reasoning and secrets from session logs, including API keys and passwords.  The weakness affected encrypted reasoning objects used by the providers' reasoning APIs, where a block created in one session could be replayed into another and, during testing,
-
-🔗 [Read Full Article](https://thehackernews.com/2026/08/openai-anthropic-google-api-flaw-let.html)
-
-
----
-
-### 📰 Enterprise Defenses Recovered at the Edge and Collapsed Inside
-**Category:** 📅 Webinar/Event
-**Time:** 13:21 UTC
-
-**Summary:**  
-Enterprise defenses are tuned to catch the attacks that make noise. This year's data shows attackers winning by making none.  According to Picus Labs' new Blue Report 2026, which measured more than 338 million real attack simulations across actual client production environments in the first half of 2026, defenses are having one of their strongest years yet. Average prevention effectiveness
-
-🔗 [Read Full Article](https://thehackernews.com/2026/08/enterprise-defenses-recovered-at-edge.html)
-
-
----
-
-### 📰 Adobe Patches Three CVSS 10.0 ColdFusion and Campaign Classic Flaws
+### 📰 Lazarus Exploits Windows Zero-Day to Gain SYSTEM Access and Deploy Backdoor
 **Category:** 🔴 Vulnerability
-**Time:** 13:21 UTC
+**Time:** 19:08 UTC
 
 **Summary:**  
-Adobe has shipped updates to address multiple critical security vulnerabilities impacting ColdFusion, Commerce, and Campaign Classic that, if successfully exploited, could result in arbitrary code execution and privilege escalation.  The most severe of the flaws are listed below -     CVE-2026-48362 (CVSS score: 10.0) - An operating system command injection vulnerability in ColdFusion that could
+The North Korean threat actor known as Lazarus Group has been attributed to the zero-day exploitation of a newly patched security flaw impacting Microsoft Windows to deliver a never-before-seen backdoor targeting defense and aerospace companies across France, Germany, Brazil, and India.  The activity, per Check Point Research, is part of Operation Dream Job, a long-running cyber espionage and
 
-🔗 [Read Full Article](https://thehackernews.com/2026/08/adobe-patches-three-cvss-100-coldfusion.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/08/lazarus-exploits-windows-zero-day-to.html)
 
 
 ---
 
-### 📰 Attackers Exploit VMware vCenter Vulnerability to Gain Persistent Remote Access
-**Category:** 🔴 Vulnerability
-**Time:** 13:21 UTC
-
-**Summary:**  
-Threat actors have begun to actively exploit a recently patched critical security flaw in Broadcom VMware vCenter, according to new findings from QUIRSO.  The vulnerability in question is CVE-2026-59310 (CVSS score: 9.8), a directory-traversal vulnerability in the VMware vCenter server that a malicious actor with network access can exploit to execute arbitrary code. Patches for the flaw were
-
-🔗 [Read Full Article](https://thehackernews.com/2026/08/attackers-exploit-vmware-vcenter.html)
-
-
----
-
-### 📰 Malicious LiteLLM Releases Tied to Trivy Hack May Have Exposed 2,100+ Organizations
+### 📰 737 Chrome VPN Extensions Caught Routing Traffic Through Proxies. Check If You Have One
 **Category:** 📰 News
-**Time:** 13:21 UTC
+**Time:** 19:08 UTC
 
 **Summary:**  
-Two malicious LiteLLM releases sat on PyPI for about 40 minutes in March carrying credential-stealing code capable of harvesting cloud keys, SSH keys, Kubernetes tokens, database passwords, and other secrets from systems that installed them.  Threat intelligence firm CloudSEK now says a dataset it obtained, built from roughly 434,000 files the attackers captured, maps potential exposure to more
+A massive set of 737 free VPN and proxy extensions have been found to mainly target Russian-speaking users seeking access to blocked services with an aim to intercept browser traffic and route them through a proxy infrastructure.  The extensions, published across at least 40 Chrome Web Store developer accounts, racked up 75,486 installs. Of those identified, 274 have been found to impersonate 66
 
-🔗 [Read Full Article](https://thehackernews.com/2026/08/malicious-litellm-releases-tied-to.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/08/737-chrome-vpn-extensions-caught.html)
+
+
+---
+
+### 📰 SAP Commerce Cloud Flaw Could Let Unauthenticated Attackers Execute Arbitrary Code
+**Category:** 🔴 Vulnerability
+**Time:** 19:08 UTC
+
+**Summary:**  
+SAP has released patches to address a maximum-severity security flaw impacting Commerce Cloud (Data Hub Adapter) that could result in arbitrary code execution.  The vulnerability, assigned the CVE identifier CVE-2026-58231, is rated 10.0 on the CVSS scoring system. It has been described as a case of insufficient authorization checks and input validation.  "SAP Commerce Cloud allows an
+
+🔗 [Read Full Article](https://thehackernews.com/2026/08/sap-commerce-cloud-flaw-could-let.html)
+
+
+---
+
+### 📰 ShieldBreak Zero-Day PoC Claims Microsoft Defender Patch Bypass With SYSTEM Access
+**Category:** 🔴 Vulnerability
+**Time:** 19:08 UTC
+
+**Summary:**  
+The security researcher going by the name Chaotic Eclipse (aka INFINITE NIGHTMARE, MSNightmare, and Nightmare-Eclipse) has released a proof-of-concept (PoC) for a new Microsoft zero-day called ShieldBreak.  The vulnerability, rooted in Microsoft Defender for Windows, demonstrates a patch bypass for CVE-2026-50656 (CVSS score: 7.8), otherwise known as RoguePlanet.  RoguePlanet has been described
+
+🔗 [Read Full Article](https://thehackernews.com/2026/08/shieldbreak-zero-day-poc-claims.html)
+
+
+---
+
+### 📰 Cisco ASA and FTD Flaw Exploited in the Wild Can Trigger Remote DoS
+**Category:** 🔴 Vulnerability
+**Time:** 19:08 UTC
+
+**Summary:**  
+Cisco has warned that a new vulnerability impacting Secure Firewall Adaptive Security Appliance (ASA) Software and Secure Firewall Threat Defense (FTD) Software has been exploited in the wild.  The high-severity flaw, tracked as CVE-2026-20349 (CVSS score: 8.6), is a case of insufficient error checking when processing HTTP requests that could allow an unauthenticated, remote attacker to trigger
+
+🔗 [Read Full Article](https://thehackernews.com/2026/08/cisco-asa-and-ftd-flaw-exploited-in.html)
 
 
 ---
