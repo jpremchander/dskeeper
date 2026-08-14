@@ -4,17 +4,3 @@ This repository tracks real-world cybersecurity threats,
 vulnerabilities, and exploitation activity for continuous learning.
 
 ---
-## 📅 2026-08-13
-
-### 📰 Attackers Exploit SharePoint Authentication Bypass After Public PoC Release
-**Category:** 🔴 Vulnerability
-**Time:** 07:42 UTC
-
-**Summary:**  
-Threat actors have begun to exploit a newly disclosed Microsoft SharePoint vulnerability following the release of a proof-of-concept (PoC) code.  The vulnerability in question is CVE-2026-55040 (CVSS score: 9.1), which refers to a critical security feature bypass that stems from weak authentication. It was patched by Microsoft as part of its July 2026 Patch Tuesday updates.  "The authentication
-
-🔗 [Read Full Article](https://thehackernews.com/2026/08/attackers-exploit-sharepoint.html)
-
-
----
-
