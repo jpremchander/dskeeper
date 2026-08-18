@@ -4,17 +4,3 @@ This repository tracks real-world cybersecurity threats,
 vulnerabilities, and exploitation activity for continuous learning.
 
 ---
-## 📅 2026-08-17
-
-### 📰 ⚡ Weekly Recap: VMware Exploits, Windows 0-Day, MCP Attacks, Browser Hijacks and More
-**Category:** 🔴 Vulnerability
-**Time:** 18:47 UTC
-
-**Summary:**  
-The expensive attacks are not always the clever ones.  This week had plenty of proof. Exposed services got hit, old bugs found fresh use, browser sessions became attack paths, and supply-chain problems kept spreading farther than the original compromise. A lot of it came down to access that was already there and defenses that assumed nobody would look too closely.  So, nothing magical. Just a
-
-🔗 [Read Full Article](https://thehackernews.com/2026/08/weekly-recap-vmware-exploits-windows-0.html)
-
-
----
-
