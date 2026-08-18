@@ -6,50 +6,62 @@ vulnerabilities, and exploitation activity for continuous learning.
 ---
 ## 📅 2026-08-18
 
-### 📰 16 Typosquatted RubyGems Packages Steal Browser Credentials and Crypto Wallets
+### 📰 Microsoft Copilot Personal Flaws Could Let One Click Exfiltrate Data From Connected Apps
 **Category:** 📰 News
-**Time:** 12:55 UTC
+**Time:** 18:45 UTC
 
 **Summary:**  
-Cybersecurity researchers have flagged a new typosquatting campaign targeting RubyGems users with a Windows-based information stealer.  OpenSourceMalware, which discovered the activity on August 15, 2026, is tracking the threat under the moniker StubMaker. The complete list of packages published as part of the campaign is below -     ubnuler   ubnlder   ri18nr   reaker   rakier   orakw   joxn
+Varonis Threat Labs has disclosed three vulnerabilities in Microsoft Copilot Personal that it said could allow a single click on a crafted link to silently pull data from connected apps and other information available to the victim's Copilot session.  The flaws, which the researchers collectively named CoSnitch, turn in part on an undocumented URL parameter that the assistant itself surfaced
 
-🔗 [Read Full Article](https://thehackernews.com/2026/08/16-typosquatted-rubygems-packages-steal.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/08/microsoft-copilot-personal-flaws-could.html)
 
 
 ---
 
-### 📰 One Attacker Has Scraped Both Salesforce and ServiceNow Portals Since 2025
-**Category:** 📰 News
-**Time:** 12:55 UTC
-
-**Summary:**  
-A single piece of infrastructure has been pulling records out of Salesforce and ServiceNow customer portals across multiple industries for more than a year, according to research published this week by agent security platform Reco.  The activity, which Reco has named the City Forum campaign after a domain tied to the attacker's IP address, traces back to one server: 158.220.87.79, hosted on a
-
-🔗 [Read Full Article](https://thehackernews.com/2026/08/one-attacker-has-scraped-both.html)
-
-
----
-
-### 📰 SafePal Hardware Wallet Maker Says Flaw Exposed Data of Nearly 40,000 Customers
-**Category:** 📰 News
-**Time:** 12:55 UTC
-
-**Summary:**  
-SafePal has disclosed that an authorization flaw in an order-tracking plug-in exposed the names, email addresses, shipping addresses, phone numbers, and purchase details of approximately 39,798 customers.  The hardware wallet maker said all affected customers were notified individually by email on August 16 from security@safepal.com, with the subject line "[Important] Your SafePal Order
-
-🔗 [Read Full Article](https://thehackernews.com/2026/08/safepal-hardware-wallet-maker-says-flaw.html)
-
-
----
-
-### 📰 CISA Flags Actively Exploited Ray Flaw That Can Trigger Browser-Based RCE
+### 📰 Attackers Exploit MLflow SSRF Flaw to Steal Cloud Credentials and Secrets
 **Category:** 🔴 Vulnerability
-**Time:** 12:55 UTC
+**Time:** 18:45 UTC
 
 **Summary:**  
-The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a critical flaw impacting Ray to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.  Ray is an open-source, Python-native distributed computing framework designed to scale artificial intelligence and machine learning workloads. As of writing, the GitHub project has more than
+Two critical vulnerabilities impacting MLflow, an open-source artificial intelligence (AI) platform, and FUXA, an open-source, web-based SCADA / HMI software built for operational technology (OT) and industrial automation, are witnessing malicious scanning and exploitation efforts.  According to independent reports from watchTowr and VulnCheck, the vulnerabilities in question are as follows -
 
-🔗 [Read Full Article](https://thehackernews.com/2026/08/cisa-flags-actively-exploited-ray-flaw.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/08/attackers-exploit-mlflow-ssrf-flaw-to.html)
+
+
+---
+
+### 📰 Ransom Busters Claims It Hacked Ransomware Servers, Asks Victims for Up to $60,000
+**Category:** 💡 Expert Insight
+**Time:** 18:45 UTC
+
+**Summary:**  
+A ransomware affiliate calling itself Ransom Busters has been spotted proactively sending emails to victim organizations and claims to delete stolen data from ransomware groups' servers in exchange for a fee ranging from $20,000 to $60,000.  "In these messages, the third-party offers to help the victim recover from ransomware attack. This immediately stands out as anomalous," GuidePoint Research
+
+🔗 [Read Full Article](https://thehackernews.com/2026/08/ransom-busters-claims-it-hacked.html)
+
+
+---
+
+### 📰 AI "Mind Viruses" Can Spread Between Agents Through Persistent Prompt Files
+**Category:** 📰 News
+**Time:** 18:45 UTC
+
+**Summary:**  
+Security researchers at Anthropic and Switzerland's EPFL have demonstrated that self-propagating payloads can spread from one artificial intelligence (AI) agent to the next through the editable system prompt files that autonomous agent harnesses use to carry state between sessions.  The work, released as a preprint on August 10, 2026, tests the technique in a simulated six-agent coding
+
+🔗 [Read Full Article](https://thehackernews.com/2026/08/ai-mind-viruses-can-spread-between.html)
+
+
+---
+
+### 📰 TWINLOOT Abuses SharePoint and Teams to Steal Credentials and Move Across Networks
+**Category:** 📰 News
+**Time:** 18:45 UTC
+
+**Summary:**  
+Cybersecurity researchers have disclosed details of a previously undocumented Python implant framework dubbed TWINLOOT.  "TWINLOOT is a modular, PyArmor-hardened Python implant designed to operate its entire command-and-control infrastructure inside trusted Microsoft services," Ontinue said in a technical report shared with The Hacker News. "Tasking flows through SharePoint Online file
+
+🔗 [Read Full Article](https://thehackernews.com/2026/08/twinloot-abuses-sharepoint-and-teams-to.html)
 
 
 ---
