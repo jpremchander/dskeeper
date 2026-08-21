@@ -6,38 +6,38 @@ vulnerabilities, and exploitation activity for continuous learning.
 ---
 ## 📅 2026-08-21
 
-### 📰 Wazuh and AI For Enhanced SOC Workflows
+### 📰 Microsoft Defender's Own Driver Can Be Weaponized to Delete Security Software at Boot
+**Category:** 🔴 Vulnerability
+**Time:** 18:44 UTC
+
+**Summary:**  
+Check Point Research has disclosed a technique that uses Microsoft Defender's own legitimately signed boot-time remediation driver to perform arbitrary kernel-level file and registry operations on Windows systems ranging from Windows 7 through Windows 11 25H2, with no software flaw exploited and no driver imported from outside the machine.  The driver, BTR.sys (Boot Time Removal Tool), is a
+
+🔗 [Read Full Article](https://thehackernews.com/2026/08/microsoft-defenders-own-driver-can-be.html)
+
+
+---
+
+### 📰 Android Car Malware Spreads Through Built-In Updaters for Ad Fraud, Proxy Botnet
 **Category:** 📰 News
-**Time:** 12:57 UTC
+**Time:** 18:44 UTC
 
 **Summary:**  
-Artificial Intelligence (AI) has become one of this decade's defining technologies. From healthcare and finance to manufacturing and education, organizations increasingly rely on AI to automate repetitive tasks, uncover patterns hidden within large datasets, and support faster decision-making. Cybersecurity has experienced a similar transformation. While attackers employ AI to automate
+Cybersecurity researchers have flagged a new malware family that's specifically designed to infect Android-based vehicle head unit firmware developed by DoFun.  Kaspersky, which discovered the threat in June 2026, said the end goal of the malware is to serve a multi-stage downloader to enable ad fraud and creation of a proxy botnet.  "The malware spread through the built-in updaters of
 
-🔗 [Read Full Article](https://thehackernews.com/2026/08/wazuh-and-ai-for-enhanced-soc-workflows.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/08/android-car-malware-spreads-through.html)
 
 
 ---
 
-### 📰 Cisco Patches Nine Crosswork and Secure Workload Flaws, Five Scoring CVSS 10.0
+### 📰 Microsoft Patches Severe Entra ID Flaw (CVSS 10.0) Allowing Remote Code Execution
 **Category:** 🔴 Vulnerability
-**Time:** 12:57 UTC
+**Time:** 18:44 UTC
 
 **Summary:**  
-Cisco has published another round of security updates for Crosswork platforms and Secure Workload Software as part of a continued comprehensive internal security review.  Four of the security vulnerabilities affect Crosswork Data Gateway, Crosswork Network Controller, and Crosswork Planning, regardless of the device configuration. A brief description of each of the flaws is below -
+Update: The story was updated after publication to note that the vulnerability has not been exploited.  Although the security bulletin originally marked the "Exploited" field under the Exploitability Assessment table as "Yes," on August 21, 2026, Microsoft corrected the "Exploited" status to "No" after The Hacker News contacted the company for comment. It also noted, "this vulnerability was not
 
-🔗 [Read Full Article](https://thehackernews.com/2026/08/cisco-patches-nine-crosswork-and-secure.html)
-
-
----
-
-### 📰 GitLab CVE-2026-19478 Comes Under Active Exploitation Within Days of Disclosure
-**Category:** 🔴 Vulnerability
-**Time:** 12:57 UTC
-
-**Summary:**  
-A newly disclosed security flaw in GitLab has come under active exploitation within days of public disclosure, according to watchTowr.  The vulnerability in question is CVE-2026-19478 (CVSS score: 9.4), a case of code injection that allows an unauthenticated attacker to modify or delete publicly accessible GitLab projects and rewrite their data under certain conditions without requiring
-
-🔗 [Read Full Article](https://thehackernews.com/2026/08/gitlab-cve-2026-19478-comes-under.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/08/microsoft-entra-id-flaw-cvss-100.html)
 
 
 ---
