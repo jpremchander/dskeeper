@@ -6,62 +6,50 @@ vulnerabilities, and exploitation activity for continuous learning.
 ---
 ## 📅 2026-08-25
 
-### 📰 Mirage2FA Surge Hits 4,500 US and EU Companies, Abusing Microsoft 365 Login Flows
+### 📰 A Malicious Webpage Could Poison Your Local AI Model Behind NVIDIA NemoClaw
 **Category:** 📰 News
-**Time:** 12:56 UTC
+**Time:** 18:46 UTC
 
 **Summary:**  
-Thousands of companies have been affected by the Mirage2FA campaign from 2024 to 2026. The commercial phishing-as-a-service toolkit targets Microsoft 365 accounts by abusing legitimate login flows and bypassing two-factor authentication.  According to ANY.RUN research, 48% of targeted email addresses were potentially compromised. Most of the affected companies are US-based.  Mirage2FA Campaign
+Oasis Security has disclosed a weakness in NVIDIA NemoClaw that could let an attacker-controlled webpage take unauthenticated control of the local Ollama instance serving an AI agent and plant hidden instructions inside the model itself.  The findings were shared with The Hacker News ahead of publication, and the report says Oasis Security reported them to NVIDIA's Product Security Incident
 
-🔗 [Read Full Article](https://thehackernews.com/2026/08/mirage2fa-surge-hits-4500-us-and-eu.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/08/a-malicious-webpage-could-poison-your.html)
 
 
 ---
 
-### 📰 24 npm Packages Abuse unpkg Mirrors to Host Fake Cloudflare CAPTCHA Pages
+### 📰 WhatsApp Adds Multiple Passkeys for Phishing-Resistant Sign-Ins Across iOS and Android
 **Category:** 📰 News
-**Time:** 12:56 UTC
+**Time:** 18:46 UTC
 
 **Summary:**  
-Cybersecurity researchers have disclosed details of a new campaign that uses a cluster of 24 npm packages as free phishing infrastructure for redirecting to ClickFix-style fake CAPTCHA pages.  "While the malware is simply a single HTML page inside the npm package, and while downloading it wouldn't do harm, the threat actor’s use of npm isn't to infect developers who install it, but to use the
+Meta on Tuesday announced a set of WhatsApp account security features, including support for multiple passkeys to a single account to help users with both iOS and Android devices sign into their accounts using the phishing-resistant method.  The tech giant said more than 1 billion people use a passkey to log into WhatsApp. Support for passkeys was first introduced in Android in October 2023,
 
-🔗 [Read Full Article](https://thehackernews.com/2026/08/24-npm-packages-abuse-unpkg-mirrors-to.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/08/whatsapp-adds-multiple-passkeys-for.html)
 
 
 ---
 
-### 📰 E4del and PINHOLE RATs Turn FTP Banners Into Dead Drops for Malware Commands
-**Category:** 📰 News
-**Time:** 12:56 UTC
-
-**Summary:**  
-Cybersecurity researchers are calling attention to a new campaign that employs FTP banners as dead drop resolvers (DDRs) to deliver two previously unreported remote access trojans (RATs) tracked as E4del and PINHOLE.  While threat actors are known to abuse legitimate services to point to additional command-and-control (C2) infrastructure and blend in with regular network traffic, the development
-
-🔗 [Read Full Article](https://thehackernews.com/2026/08/e4del-and-pinhole-rats-turn-ftp-banners.html)
-
-
----
-
-### 📰 Frontier AI: Vulnerability Management's Systemic Revolution
+### 📰 Marimo Notebook Flaw Could Run MCP Commands Before Cells Execute in Edit Mode
 **Category:** 🔴 Vulnerability
-**Time:** 12:56 UTC
+**Time:** 18:46 UTC
 
 **Summary:**  
-Vulnerability management has been a staple of security programs since the dawn of the cybersecurity discipline. The symbiotic relationship between vulnerability and patch management teams has also existed for that time and has gone through waves of contention and thankfulness. While this relationship required thoughtful care and feeding from both sides, both sides were aiming to work toward a
+Marimo has addressed a high-severity security flaw in its notebook software that allowed an attacker to execute an attacker-supplied Model Context Protocol (MCP) command in a specially crafted notebook, according to VulnCheck's CVE Numbering Authority (CNA) record.  The CNA record says the command can run as a local subprocess when the notebook is opened in edit mode.  The vulnerability, tracked
 
-🔗 [Read Full Article](https://thehackernews.com/2026/08/frontier-ai-vulnerability-managements.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/08/marimo-notebook-flaw-could-run-mcp.html)
 
 
 ---
 
-### 📰 Attackers Target miniOrange SAML Flaws That Can Grant WordPress Admin Access
+### 📰 Actively Exploited Oracle WebLogic Flaw Lets Unauthenticated Attackers Access Critical Data
 **Category:** 🔴 Vulnerability
-**Time:** 12:56 UTC
+**Time:** 18:46 UTC
 
 **Summary:**  
-Bad actors are attempting to exploit two severe unauthenticated authentication bypasses in the Xecurify miniOrange SAML 2.0 Single Sign On plugin that make it possible for an attacker to sign in as any WordPress user, including administrators.  The vulnerabilities, as disclosed by Patchstack, are listed below -     CVE-2026-61979 (CVSS score: 8.1) - An unauthenticated privilege escalation
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a maximum-severity security flaw impacting Oracle HTTP Server and Oracle WebLogic Server to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.  The vulnerability, tracked as CVE-2026-21962 (CVSS score: 10.0), allows an unauthenticated attacker with network access via HTTP to
 
-🔗 [Read Full Article](https://thehackernews.com/2026/08/attackers-target-miniorange-saml-flaws.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/08/actively-exploited-oracle-weblogic-flaw.html)
 
 
 ---
