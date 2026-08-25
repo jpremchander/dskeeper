@@ -4,29 +4,3 @@ This repository tracks real-world cybersecurity threats,
 vulnerabilities, and exploitation activity for continuous learning.
 
 ---
-## 📅 2026-08-24
-
-### 📰 ⚡ Weekly Recap: AI-Powered PLC Attacks, GitLab Attacks, Stripe Key Leaks and More
-**Category:** 🔴 Vulnerability
-**Time:** 18:48 UTC
-
-**Summary:**  
-A package gets installed. A login prompt opens. A box sits exposed to the internet. Nothing looks unusual yet.  That’s roughly the mood this week. Trusted tools turn hostile, old weak spots get fresh attention, AI makes exploit work cheaper, and researchers keep finding attacks that sound harder than they actually are.  Plenty to clean up. Here’s the short version.  ⚡ Threat of the Week  U.S.
-
-🔗 [Read Full Article](https://thehackernews.com/2026/08/weekly-recap-ai-powered-plc-attacks.html)
-
-
----
-
-### 📰 WordlistLoader Delivers Amatera via ClickFix, SynkLoader Phishes Windows Passwords
-**Category:** 📰 News
-**Time:** 18:48 UTC
-
-**Summary:**  
-Cybersecurity researchers have flagged two new malware families called  WordlistLoader and SynkLoader that's used to deliver next-stage payloads and likely sell access to ransomware groups.  According to findings from Gen Digital, WordlistLoader is being used to deliver Amatera Stealer (aka ACR Stealer or AcridRain Stealer) via ClearFake campaigns, which employ the ClickFix (aka FakeCaptcha)
-
-🔗 [Read Full Article](https://thehackernews.com/2026/08/wordlistloader-delivers-amatera-via.html)
-
-
----
-
