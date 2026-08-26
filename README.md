@@ -6,86 +6,62 @@ vulnerabilities, and exploitation activity for continuous learning.
 ---
 ## 📅 2026-08-26
 
-### 📰 Imagine the SOC Without a Queue: From Alert Backlog to AI Hypothesis Engine
+### 📰 FBI Disrupts China-Linked QTFY Infrastructure Used to Steal Data From U.S. Organizations
 **Category:** 📰 News
-**Time:** 13:02 UTC
+**Time:** 19:52 UTC
 
 **Summary:**  
-The SOC we've always known was built around a model that guarantees most of the alert queue will never receive analyst review. There's never time. In a traditional SOC, the typical progression follows a well-known pattern: an alert arrives; a detection engine assigns a severity score. The issue then waits for a human to decide if it should escalate to an investigation.  Given the volume of
+The U.S. Department of Justice (DoJ) on Wednesday announced the disruption of two hacking platforms named QScan and QTRouter operated by Chinese threat actors to target critical infrastructure and other sensitive networks in the country.  The activity has been attributed to a Chinese state-sponsored group known as QTFY, employed by Nanjing Xinjiuwei Network Technology Company (南京鑫玖维网络科技有限公司).&
 
-🔗 [Read Full Article](https://thehackernews.com/2026/08/imagine-soc-without-queue-from-alert.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/08/fbi-disrupts-china-linked-qtfy.html)
 
 
 ---
 
-### 📰 Claude Opus 4.6 Bypasses Gym Booking Limit, Cancels Other Users' Reservations in Tests
+### 📰 Nimbus Manticore Expands Toolset With TWOSTROKE-Like Backdoor and SSH Tunneler
+**Category:** 💡 Expert Insight
+**Time:** 19:52 UTC
+
+**Summary:**  
+Cybersecurity researchers have discovered additional infrastructure and previously undocumented malware associated with Nimbus Manticore, an Iranian state-sponsored hacking group affiliated with the Islamic Revolutionary Guard Corps (IRGC).  Group-IB, in a new analysis published today, described the cyber espionage actor as among the most active Iranian APT groups in 2026. Nimbus Manticore (aka
+
+🔗 [Read Full Article](https://thehackernews.com/2026/08/nimbus-manticore-expands-toolset-with.html)
+
+
+---
+
+### 📰 NovaCookies Campaigns Abuse Genuine Docusign Notifications to Steal Microsoft 365 Sessions
+**Category:** 📰 News
+**Time:** 19:52 UTC
+
+**Summary:**  
+Cybersecurity researchers have disclosed details of a new adversary-in-the-middle (AitM) phishing toolkit called NovaCookies that's used as a proxy to redirect Microsoft 365 sign-ins, while capturing authenticated sessions in the process.  In a report shared with The Hacker News ahead of publication, Island characterized the $320/month service as a subscription-based phishing platform that
+
+🔗 [Read Full Article](https://thehackernews.com/2026/08/novacookies-campaigns-abuse-genuine.html)
+
+
+---
+
+### 📰 CISA Red Team Compromised Two Critical Infrastructure Orgs, One Detected Nothing
+**Category:** 📰 News
+**Time:** 19:52 UTC
+
+**Summary:**  
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has published the results of two red team assessments it conducted simultaneously against two critical infrastructure organizations, using what it described as similar tradecraft while recording sharply different defensive outcomes.  Both organizations were fully compromised at the domain level, and in both, the red team also
+
+🔗 [Read Full Article](https://thehackernews.com/2026/08/cisa-red-team-compromised-two-critical.html)
+
+
+---
+
+### 📰 Unpatched Kaltura mwEmbed Flaws Could Let Remote Attackers Read Files and Run Code
 **Category:** 🔴 Vulnerability
-**Time:** 13:02 UTC
+**Time:** 19:52 UTC
 
 **Summary:**  
-Aikido Security has published research that recreates the Australian gym-booking incident in a synthetic environment, finding that Claude Opus 4.6, running on the OpenClaw agent harness, exploited a client-side-only booking restriction in 9 of 10 runs.  The original incident was first reported by ABC News on August 10, based on chat logs and screenshots the user supplied. He had asked an
+The CERT Coordination Center (CERT/CC) has disclosed two unpatched vulnerabilities in Kaltura's HTML5 video player library that allow a remote, unauthenticated attacker to read arbitrary files from a server and execute code on it.  The flaws, tracked as CVE-2026-19913 and CVE-2026-19912, both stem from the same unsafe deserialization in the mwEmbedLoader.php endpoint of the mwEmbed player
 
-🔗 [Read Full Article](https://thehackernews.com/2026/08/claude-opus-46-bypasses-gym-booking.html)
-
-
----
-
-### 📰 OpenAI Bans Russian ChatGPT Accounts Used to Run Influence Operation
-**Category:** 📰 News
-**Time:** 13:02 UTC
-
-**Summary:**  
-OpenAI on Tuesday said it banned a cluster of Russian ChatGPT accounts that used VPNs to bypass access restrictions and run an influence operation, which relied on its artificial intelligence (AI) tool to generate social media posts and comments that were shared on Substack, Telegram, X, Facebook and LinkedIn.  The accounts "were being used to promote the International Burke Institute (IBI), a
-
-🔗 [Read Full Article](https://thehackernews.com/2026/08/openai-bans-russian-chatgpt-accounts.html)
-
-
----
-
-### 📰 INTERPOL Operation Jackal IV Arrests 58, Identifies 263 in Global Cyber Fraud Crackdown
-**Category:** 📰 News
-**Time:** 13:02 UTC
-
-**Summary:**  
-An eight-month INTERPOL operation targeting West African organized crime groups has led to arrests of 58 people and the identification of 263 suspects.  "The operation, which brought together 22 countries from six continents, is a response to the escalating global threat posed by West African criminal networks – such as the Black Axe and other similar groups," INTERPOL said.  "These groups are
-
-🔗 [Read Full Article](https://thehackernews.com/2026/08/interpol-operation-jackal-iv-arrests-58.html)
-
-
----
-
-### 📰 Newly SLEEPWALKER Backdoor Waits for One Crafted Packet, Then Runs Its Own Bytecode
-**Category:** 📰 News
-**Time:** 13:02 UTC
-
-**Summary:**  
-An independent malware researcher has documented a previously unreported Windows backdoor, dubbed SLEEPWALKER, that stays inert in memory until a specifically crafted network packet reaches the machine and then runs commands written in a 23-instruction language of its own design.  The sample is an unsigned 64-bit Windows dynamic-link library (DLL) of 59,904 bytes, built to be side-loaded into&
-
-🔗 [Read Full Article](https://thehackernews.com/2026/08/newly-sleepwalker-backdoor-waits-for.html)
-
-
----
-
-### 📰 Critical Gitea RCE Actively Exploited as Reported Attack Drops Miner-Like Payload
-**Category:** 🔴 Vulnerability
-**Time:** 13:02 UTC
-
-**Summary:**  
-The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday warned of active exploitation efforts targeting a recently patched critical security flaw impacting Gitea.  The vulnerability in question is CVE-2026-60004 (CVSS score: 9.8), a case of remote code execution that allows an attacker with ordinary write access to a repository to execute arbitrary shell commands as the
-
-🔗 [Read Full Article](https://thehackernews.com/2026/08/critical-gitea-rce-actively-exploited.html)
-
-
----
-
-### 📰 Fake Apple Support AI Calls Target Stolen-Device Owners for Passcodes and 2FA Codes
-**Category:** 📰 News
-**Time:** 13:02 UTC
-
-**Summary:**  
-Cybersecurity researchers have disclosed details of a phishing-as-a-service (PhaaS) platform built to strip Apple's Activation Lock from stolen devices, using rented AI voice agents that call theft victims posing as Apple Support and ask for their device passcode.  SOCRadar Threat Research Unit (STRU) said the platform, which it tracks as AnonyMousKIT, is credit-metered and drives lures across
-
-🔗 [Read Full Article](https://thehackernews.com/2026/08/fake-apple-support-ai-calls-target.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/08/unpatched-kaltura-mwembed-flaws-could.html)
 
 
 ---
