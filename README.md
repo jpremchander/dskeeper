@@ -6,38 +6,38 @@ vulnerabilities, and exploitation activity for continuous learning.
 ---
 ## 📅 2026-09-01
 
-### 📰 Attackers Steal METR API Key and Consume AI Credits Worth About $600,000
-**Category:** 📰 News
-**Time:** 11:26 UTC
-
-**Summary:**  
-METR (short for Model Evaluation and Threat Research and pronounced "Meter"), a research non-profit that evaluates frontier artificial intelligence (AI) models for their ability to carry out long-horizon, agentic tasks, disclosed that it suffered "two notable security incidents" where external actors attempted to gain unauthorized access to its systems.  No sensitive information is believed to
-
-🔗 [Read Full Article](https://thehackernews.com/2026/09/attackers-steal-metr-api-key-and.html)
-
-
----
-
-### 📰 Russia-Aligned UAC-0099 Plants Nuclear Weapon Prompt in Malware to Disrupt AI Analysis
-**Category:** 📅 Webinar/Event, 💡 Expert Insight
-**Time:** 11:26 UTC
-
-**Summary:**  
-Cybersecurity researchers have disclosed a new technique dubbed GuardBreaker that's been put to use by a Russia-aligned threat actor known as UAC-0099 against a target in Ukraine with an aim to interfere with artificial intelligence (AI)-assisted analysis.  The idea, ESET said in a series of posts on X, is to deliberately trip a large language model's (LLM) safety mechanisms and prevent its
-
-🔗 [Read Full Article](https://thehackernews.com/2026/09/russia-aligned-uac-0099-plants-nuclear.html)
-
-
----
-
-### 📰 Attackers Exploit Critical Langflow and Rails Flaws in Credential-Probing and C2 Activity
+### 📰 13 Malicious Packagist Packages Target Unpatched iPhones to Steal Crypto Wallet Seeds
 **Category:** 🔴 Vulnerability
-**Time:** 11:26 UTC
+**Time:** 16:23 UTC
 
 **Summary:**  
-Threat actors are exploiting two critical flaws impacting Langflow and Ruby on Rails, according to new findings from VulnCheck.  The vulnerabilities in question are listed below -     CVE-2026-0768 (CVSS score: 9.8) - A lack of proper validation of a user-supplied input vulnerability that could be exploited to execute arbitrary Python code in the context of the root user.   CVE-2026-66066 aka
+Cybersecurity researchers have identified a set of 13 malicious Composer theme packages on Packagist that are designed to inject JavaScript into Vietnamese movie and comic streaming sites that install those libraries and initiate the deployment of spyware aimed at unpatched iOS devices.  "The injected code runs two operations against a site's visitors: a mobile ad-fraud and gambling-redirect
 
-🔗 [Read Full Article](https://thehackernews.com/2026/09/attackers-exploit-critical-langflow-and.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/09/13-malicious-packagist-packages-target.html)
+
+
+---
+
+### 📰 Iranian Hackers Pose as Recruiters to Deliver Cross-Platform RATs Through Coding Tests
+**Category:** 📰 News
+**Time:** 16:23 UTC
+
+**Summary:**  
+The Iranian Nimbus Manticore hacking group has been attributed to two previously undocumented malware families that highlight the continued evolution of its toolset and likely expand its targeting footprint to infect Linux and Apple macOS systems using cross-platform remote access trojans (RATs) developed using Node.js and JavaScript.  Russian cybersecurity company Kaspersky is tracking the
+
+🔗 [Read Full Article](https://thehackernews.com/2026/09/iranian-hackers-pose-as-recruiters-to.html)
+
+
+---
+
+### 📰 Threat Actors Don’t Want Better Attacks. They Want Repeatable Ones
+**Category:** 📰 News
+**Time:** 16:23 UTC
+
+**Summary:**  
+The most common way into a company last year was to ask.  A web page tells the visitor to prove they are not a robot. While they read the instructions, it quietly places a command on their clipboard. Then it talks them through opening a terminal and pasting it in. The technique is called ClickFix, and it was the most common initial access method Microsoft’s team observed last year, accounting
+
+🔗 [Read Full Article](https://thehackernews.com/2026/09/threat-actors-dont-want-better-attacks.html)
 
 
 ---
