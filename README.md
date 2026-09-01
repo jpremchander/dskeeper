@@ -4,29 +4,3 @@ This repository tracks real-world cybersecurity threats,
 vulnerabilities, and exploitation activity for continuous learning.
 
 ---
-## 📅 2026-08-31
-
-### 📰 North Korean Job Fraud Expands Beyond IT Into Healthcare and Sales
-**Category:** 📰 News
-**Time:** 22:41 UTC
-
-**Summary:**  
-Threat actors with ties to the Democratic People's Republic of Korea (aka DPRK or North Korea) have been observed seeking job opportunities beyond the information technology (IT) sector, with recent investigations identifying suspected workers employed in sales and marketing and the medical profession.  The ongoing insider threat is part of what has been described as the IT worker scheme,
-
-🔗 [Read Full Article](https://thehackernews.com/2026/08/north-korean-job-fraud-expands-beyond.html)
-
-
----
-
-### 📰 ⚡ Weekly Recap: Chinese Spy Proxy, AI Agents Go Off-Task, Router Backdoors and More
-**Category:** 📰 News
-**Time:** 22:41 UTC
-
-**Summary:**  
-The boring parts caused most of the trouble.  A router shipped ready to listen. A fake check turned the user into the installer. Trusted systems collected traffic and passwords, then cleaned the logs. Old bugs formed new attack chains. Even an AI agent decided its assigned task was optional.  Elsewhere, fake apps, helpful support calls, cheap banking kits, exposed systems, and weak defaults kept
-
-🔗 [Read Full Article](https://thehackernews.com/2026/08/weekly-recap-chinese-spy-proxy-ai.html)
-
-
----
-
