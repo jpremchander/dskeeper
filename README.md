@@ -6,38 +6,38 @@ vulnerabilities, and exploitation activity for continuous learning.
 ---
 ## 📅 2026-09-03
 
-### 📰 Pegasus Zero-Click Spyware Exploit Infects Serbian Student Movement Member's iPhone
-**Category:** 🔴 Vulnerability, 💡 Expert Insight
-**Time:** 10:59 UTC
+### 📰 US Becomes Top Target in RMM Phishing Campaign Spanning 46 Countries
+**Category:** 📰 News
+**Time:** 16:12 UTC
 
 **Summary:**  
-The iPhone belonging to a member of Serbia's student protest movement was infected with NSO Group's Pegasus spyware, according to new findings from the Citizen Lab in collaboration with the SHARE Foundation.  "Our analysis confirmed that an iMessage zero-click exploit was used to infect the device with NSO Group's Pegasus spyware," the Citizen Lab said. "We found high-confidence indicators of
+An RMM phishing campaign initially associated with Canadian targeting due to its use of Canada Revenue Agency (CRA) tax forms as lures has turned out to be part of a broader campaign spanning 46 countries.  Around 45% of observed activity was associated with the United States, making it the campaign's top geographic target. ANY.RUN research connected 601 cases to the wider operation, which uses
 
-🔗 [Read Full Article](https://thehackernews.com/2026/09/pegasus-zero-click-spyware-exploit.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/09/us-becomes-top-target-in-rmm-phishing.html)
 
 
 ---
 
-### 📰 Researcher Releases FalconFlank PoC Showing Privilege Escalation in CrowdStrike Falcon
-**Category:** 🔴 Vulnerability
-**Time:** 10:59 UTC
+### 📰 Attackers Turn Trusted Node.js Runtime Into Malware Delivery Tool in Targeted Attacks
+**Category:** 📰 News
+**Time:** 16:12 UTC
 
 **Summary:**  
-The security researcher known as Chaotic Eclipse (aka INFINITE NIGHTMARE, MSNightmare, and Nightmare-Eclipse) has dropped a new zero-day dubbed FalconFlank, a privilege escalation flaw impacting Crowdstrike Falcon.  "FalconFlank is a 0day privilege escalation that abuses the office malicious macros remediation in CrowdStrike Falcon Sensor," the researcher said in a GitHub README file, adding
+Threat actors are leveraging the trusted Node.js JavaScript runtime in multiple cyber attacks as a way to deploy malicious payloads.  According to a new report published by the Symantec Threat Hunter Team today, the attack method has been put to use in attacks targeting government departments, technology companies, and hotels since February 2026.  "The technique's appeal is that node.exe (the
 
-🔗 [Read Full Article](https://thehackernews.com/2026/09/researcher-releases-falconflank-poc.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/09/attackers-turn-trusted-nodejs-runtime.html)
 
 
 ---
 
-### 📰 CISA Adds Seven Exploited Flaws as Attackers Deploy Reverse Shells and Crypto Miners
-**Category:** 🔴 Vulnerability
-**Time:** 10:59 UTC
+### 📰 Shai-Hulud's Reach Just Grew to 469 Credential Locations. Here's What That Means
+**Category:** 📰 News
+**Time:** 16:12 UTC
 
 **Summary:**  
-The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added seven security flaws to its Known Exploited Vulnerabilities (KEV) catalog after they landed in attackers' crosshairs.  The vulnerabilities are as follows -     CVE-2026-83548 (CVSS score: 10.0) - A server-side request forgery vulnerability in SonicWall SMA 1000 Appliances that could allow a remote unauthenticated
+In early August, GitGuardian researchers found that a recent Shai-Hulud infostealer worm variant had evolved to scan for credentials across 469 locations across developer environments, Continuous Integration/Continuous Deployment (CI/CD) tooling, cloud configurations, and even AI tool configs.  Earlier variants of the infostealer worm only checked 189 paths. The jump says a lot. Attackers have
 
-🔗 [Read Full Article](https://thehackernews.com/2026/09/cisa-adds-seven-exploited-flaws-as.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/09/shai-huluds-reach-just-grew-to-469.html)
 
 
 ---
