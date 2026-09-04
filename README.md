@@ -6,50 +6,38 @@ vulnerabilities, and exploitation activity for continuous learning.
 ---
 ## 📅 2026-09-04
 
-### 📰 Over 440,000 Exploit Attempts Target Super Forms and Elementor Pro RCE Flaws
-**Category:** 🔴 Vulnerability
-**Time:** 10:59 UTC
+### 📰 Phishing Campaign Sends Millions of Emails Using Invisible Unicode to Evade Filters
+**Category:** 📅 Webinar/Event
+**Time:** 16:06 UTC
 
 **Summary:**  
-Threat actors are exploiting two critical security flaws in WordPress plugins Super Forms and Elementor Pro, according to findings from Wordfence.  The vulnerabilities in question are -     CVE-2026-14894 (CVSS score: 9.8) - A missing file type validation vulnerability in Super Forms – Drag &amp; Drop Form Builder that allows unauthenticated attackers to upload files of any type, including
+Microsoft is alerting of a "high-volume phishing campaign" that's using invisible Unicode tag characters to bypass email filters.  "Instead of using these characters to hide instructions from people while exposing them to AI models, the attacker used them to split financial lure words such as 'funding' to prevent email filters from parsing them," the Microsoft Security Research team said.  The
 
-🔗 [Read Full Article](https://thehackernews.com/2026/09/over-440000-exploit-attempts-target.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/09/phishing-campaign-sends-millions-of.html)
 
 
 ---
 
-### 📰 Plex Urges Immediate Updates After Patching Multiple Undisclosed Security Flaws
+### 📰 PostgreSQL Fixes 12-Year-Old Logical Decoding Flaw Enabling Replication-Role Code Execution
 **Category:** 🔴 Vulnerability
-**Time:** 10:59 UTC
+**Time:** 16:06 UTC
 
 **Summary:**  
-Plex is urging users to update their instances to the latest version following the release of an update that patches multiple security flaws.  The fixes are available in Plex Media Server 1.43.3 and Plex Desktop 1.115.0. The streaming media service did not elaborate on what those issues are, but said CVE identifiers have been requested for them.  "We recommend all server owners and Desktop users
+PostgreSQL has released updates to address a security flaw that allows an account with the REPLICATION attribute to run arbitrary code as the operating-system user running the database server.  The flaw, tracked as CVE-2026-6471 (CVSS score: 7.2), has been present since logical decoding was introduced in PostgreSQL 9.4 in 2014. Versions before PostgreSQL 18.6, 17.11, 16.15, 15.19, and 14.24 are
 
-🔗 [Read Full Article](https://thehackernews.com/2026/09/plex-urges-immediate-updates-after.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/09/postgresql-fixes-12-year-old-logical.html)
 
 
 ---
 
-### 📰 Google Releases Chrome Update to Patch Actively Exploited V8 Zero-Day
+### 📰 New Ted Backdoor Hides Inside Victims' Own HAProxy Builds to Intercept Web Traffic
 **Category:** 🔴 Vulnerability
-**Time:** 10:59 UTC
+**Time:** 16:06 UTC
 
 **Summary:**  
-Google on Thursday released security updates to patch 12 vulnerabilities, including one that has come under active exploitation in the wild.  The high-severity vulnerability, tracked as CVE-2026-85046 (CVSS score: 8.8), has been described as a type confusion bug in V8, Chrome's JavaScript and WebAssembly engine.  "Type confusion in V8 in Google Chrome prior to 152.0.7977.82 allowed a remote
+A previously undocumented Linux toolkit has been found compiled directly into the trojanized HAProxy load balancers of two South Korean organizations, where it intercepted web traffic and served altered pages to selected visitors.  The attackers named the implant ted in debug strings left in the binary. It is not a HAProxy vulnerability, and installing it requires code execution on the host and
 
-🔗 [Read Full Article](https://thehackernews.com/2026/09/google-releases-chrome-update-to-patch.html)
-
-
----
-
-### 📰 GPT-6 Astra Scores 100% on ExploitBench as OpenAI Blocks PoC Exploit Requests
-**Category:** 🔴 Vulnerability
-**Time:** 10:59 UTC
-
-**Summary:**  
-OpenAI on Thursday officially unveiled GPT‑6 Astra, which it described as the "world's most intelligent and aligned model."  The development comes days after the artificial intelligence (AI) company said the model had reached the "Critical" cybersecurity capability threshold under its Preparedness Framework.  "Astra is state-of-the-art on computer use, browsing, software engineering,
-
-🔗 [Read Full Article](https://thehackernews.com/2026/09/gpt-6-astra-scores-100-on-exploitbench.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/09/new-ted-backdoor-hides-inside-victims.html)
 
 
 ---
