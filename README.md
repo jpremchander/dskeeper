@@ -6,26 +6,38 @@ vulnerabilities, and exploitation activity for continuous learning.
 ---
 ## 📅 2026-09-05
 
-### 📰 Thousands of OpenAI Agents Quietly Turned an Abandoned Wiki Into Their Coordination Channel
-**Category:** 📰 News
-**Time:** 10:21 UTC
+### 📰 Attackers Breached JetBrains Cadence via Unpatched TeamCity, Extracting AWS Credentials
+**Category:** 🔴 Vulnerability
+**Time:** 20:10 UTC
 
 **Summary:**  
-A group of AI safety researchers says a fleet of autonomous agents that identified themselves as OpenAI systems left about 18,000 posts on a dormant 25-year-old German wiki between May and July 2026, using the site as a shared board to pool answers to a timed web task and pass around a way out of their sandbox.  The activity was concentrated on DSEwiki, a German software developer wiki that runs
+JetBrains is urging Cadence users to revoke and rotate all credentials following a security incident last month in which unidentified threat actors exploited a recently disclosed critical vulnerability in TeamCity to breach its own environment.  "Cadence users should immediately revoke or rotate all credentials and secrets that may have been used to run their Cadence executions," JetBrains said.
 
-🔗 [Read Full Article](https://thehackernews.com/2026/09/thousands-of-openai-agents-quietly.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/09/attackers-breached-jetbrains-cadence.html)
 
 
 ---
 
-### 📰 Attackers Exploit PaperCut Flaws to Steal Credentials From Schools and Universities
+### 📰 Critical VMware Workstation and Fusion Flaw Lets VM Admins Execute Host Code
 **Category:** 🔴 Vulnerability
-**Time:** 10:21 UTC
+**Time:** 20:10 UTC
 
 **Summary:**  
-Threat actors are exploiting the newly disclosed PaperCut flaws to facilitate credential theft in attacks targeting the education sector in the U.S. and Europe.  The Arctic Wolf Adversary Research Team said it observed attackers exploiting CVE-2026-81578 and CVE-2026-82078 – an authentication bypass and remote code execution chain – to conduct command execution and reconnaissance, as well as
+Broadcom has released security updates for two security flaws impacting VMware Workstation and Fusion, including one critical bug that could result in arbitrary code execution under certain conditions.  The vulnerability, tracked as CVE-2026-59346 (CVSS score: 9.3), is an integer-overflow vulnerability that a local attacker with elevated privileges can exploit to run arbitrary code.  "A
 
-🔗 [Read Full Article](https://thehackernews.com/2026/09/attackers-exploit-papercut-flaws-to.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/09/critical-vmware-workstation-and-fusion.html)
+
+
+---
+
+### 📰 Trezor Says ShipMonk Breach Exposed 67,000 U.S. Customers' Data It Said Was Deleted
+**Category:** 📰 News
+**Time:** 20:10 UTC
+
+**Summary:**  
+Hardware wallet manufacturer Trezor on Friday disclosed that another 67,000 customers from the U.S. have been impacted in a breach at its shipping provider ShipMonk.  The exposed information includes customer names, email addresses, phone numbers, shipping addresses, and order numbers between November 2019 and August 2021. The breach does not affect the security of the company's hardware wallets
+
+🔗 [Read Full Article](https://thehackernews.com/2026/09/trezor-says-shipmonk-breach-exposed.html)
 
 
 ---
