@@ -4,29 +4,3 @@ This repository tracks real-world cybersecurity threats,
 vulnerabilities, and exploitation activity for continuous learning.
 
 ---
-## 📅 2026-09-06
-
-### 📰 Attackers Hijack MikroTik Routers Through Internet-Exposed SSH Without Authentication
-**Category:** 🔴 Vulnerability
-**Time:** 10:40 UTC
-
-**Summary:**  
-Attackers are exploiting MikroTik routers with their Secure Shell (SSH) remote-access service, which is reachable from the internet, to gain full administrative control without authentication, according to&nbsp;CERT Polska's attack warning, published on September 5.  Successful attacks date to at least September 2. The Hacker News’s September 6 review of the warning found no victim count or
-
-🔗 [Read Full Article](https://thehackernews.com/2026/09/attackers-hijack-mikrotik-routers.html)
-
-
----
-
-### 📰 Four REVSTEALER-Linked Modules Disable Windows Update and Defender to Run a Crypto Miner
-**Category:** 📰 News
-**Time:** 10:40 UTC
-
-**Summary:**  
-Elastic Security Labs has documented four previously unreported programs associated with REVSTEALER, an emerging Windows information stealer, that remain on an infected machine after the stealer deletes itself.  One of them switches off Windows Update and Microsoft Defender before running a cryptocurrency miner.  The company named the four programs ProManager, WinUpdate, SoftManager, and
-
-🔗 [Read Full Article](https://thehackernews.com/2026/09/four-revstealer-linked-modules-disable.html)
-
-
----
-
