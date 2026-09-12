@@ -6,14 +6,26 @@ vulnerabilities, and exploitation activity for continuous learning.
 ---
 ## 📅 2026-09-12
 
-### 📰 When the Whole Company Adopts AI: What It Does to Your SOC
-**Category:** 📰 News
-**Time:** 15:20 UTC
+### 📰 CISA Adds 5 Actively Exploited Artifactory, ScreenConnect, and RouterOS Flaws to KEV
+**Category:** 🔴 Vulnerability
+**Time:** 20:24 UTC
 
 **Summary:**  
-Over the past year, we watched a new class of alert appear in enterprise security operations centers and grow faster than anything else in the stream: alerts that were triggered by AI tools and agents. Not attacks against AI, but the ordinary, everyday footprint of an organization using it, from developers running coding agents and non-technical staff signing consumer AI tools into corporate
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added five security flaws impacting JFrog Artifactory, ConnectWise ScreenConnect, and MikroTik RouterOS to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation in the wild.  Details of the vulnerabilities are as follows -     CVE-2026-42016 (CVSS score: 8.1) - An incorrect authorization
 
-🔗 [Read Full Article](https://thehackernews.com/2026/09/when-whole-company-adopts-ai-what-it.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/09/cisa-adds-5-actively-exploited.html)
+
+
+---
+
+### 📰 OpenAI Agents Linked to RubyGems Campaign That Gained RCE on RubyDoc Servers
+**Category:** 📰 News
+**Time:** 20:24 UTC
+
+**Summary:**  
+The "major malicious attack" that targeted RubyGems in May 2026 was the work of a swarm of OpenAI agents, according to a new report published by researchers Spencer Kitts, Thomas Larsen, and Sydney Von Arx.  On May 12, Maciej Mensfeld, senior product manager for software supply chain security at Mend.io, disclosed details of a coordinated cyber attack that targeted the package manager for the
+
+🔗 [Read Full Article](https://thehackernews.com/2026/09/openai-agents-linked-to-rubygems.html)
 
 
 ---
