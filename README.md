@@ -4,3 +4,113 @@ This repository tracks real-world cybersecurity threats,
 vulnerabilities, and exploitation activity for continuous learning.
 
 ---
+## 📅 2026-09-17
+
+### 📰 Critical Unbound DNSSEC Validator Flaw Could Allow RCE via a Malicious DNS Zone
+**Category:** 🔴 Vulnerability
+**Time:** 16:40 UTC
+
+**Summary:**  
+Every release of the Unbound DNS resolver before 1.26.1 has a critical heap overflow in its DNSSEC validator, maintainer NLnet Labs said in an&nbsp;advisory&nbsp;on Wednesday.  An attacker who controls a malicious zone and queries a vulnerable resolver can trigger it, enabling remote code execution.  Unbound 1.26.1, released the same day, fixes the bug, tracked as&nbsp;CVE-2026-81642, along with
+
+🔗 [Read Full Article](https://thehackernews.com/2026/09/critical-unbound-dnssec-validator-flaw.html)
+
+
+---
+
+### 📰 Can You Prove a New CVE Is Exploitable Before Attackers Do? Learn How in This Webinar
+**Category:** 🔴 Vulnerability, 📅 Webinar/Event
+**Time:** 16:40 UTC
+
+**Summary:**  
+A new CVE drops. Your scanner finds it. The severity score looks ugly.  But that still does not answer the question that matters: Can it actually be exploited in your environment?  Mythos-class AI is compressing the time between disclosure and working exploitation, while many security programs still validate risk on weekly or quarterly cycles. The dangerous gap is no longer just technical. It is
+
+🔗 [Read Full Article](https://thehackernews.com/2026/09/can-you-prove-new-cve-is-exploitable.html)
+
+
+---
+
+### 📰 CISO's Expert Guide to Agentic Pentesting for Websites
+**Category:** 🔴 Vulnerability, 💡 Expert Insight
+**Time:** 16:40 UTC
+
+**Summary:**  
+Attackers now weaponize new vulnerabilities in about five days (Mandiant, part of Google Cloud). The median organization takes 43 days to patch one (Verizon DBIR 2026). A new free guide explains how autonomous AI agents are closing that gap, and what security leaders must demand before pointing one at production.  TL;DR  Exploitation is now the front door. It starts 31% of breaches (Verizon DBIR
+
+🔗 [Read Full Article](https://thehackernews.com/2026/09/cisos-expert-guide-to-agentic.html)
+
+
+---
+
+### 📰 China-Aligned FamousSparrow Deploys SparroWocky Backdoor Across Latin America
+**Category:** 📰 News
+**Time:** 16:40 UTC
+
+**Summary:**  
+The China-aligned state-sponsored threat actor known as FamousSparrow has been observed deploying a previously unreported backdoor called SparroWocky in attacks targeting multiple countries in Latin America since at least August 2025.  "SparroWocky is a modular, C++ backdoor," ESET security researchers Alexandre Côté Cyr and Romain Dumont said in a technical report shared with The Hacker News
+
+🔗 [Read Full Article](https://thehackernews.com/2026/09/china-aligned-famoussparrow-deploys.html)
+
+
+---
+
+### 📰 OpenAI Reveals Six Model Incidents Involving Hidden Failures and Unauthorized Uploads
+**Category:** 📰 News
+**Time:** 16:40 UTC
+
+**Summary:**  
+OpenAI on Wednesday disclosed six new instances of "unexpected or concerning model behavior" that took place over the past six months, while sharing a new framework for reporting, tracking, investigating, and disclosing model misalignment in a bid to improve transparency.  "As AI systems grow more advanced and more widely deployed, we need to build a broader and better-informed consensus on the
+
+🔗 [Read Full Article](https://thehackernews.com/2026/09/openai-reveals-six-model-incidents.html)
+
+
+---
+
+### 📰 BIND 9 Update Fixes 14 Flaws, Including an Unauthenticated Crash Over DNS-over-HTTPS
+**Category:** 📰 News
+**Time:** 16:40 UTC
+
+**Summary:**  
+The Internet Systems Consortium (ISC) has released&nbsp;BIND 9.20.29 and 9.21.26&nbsp;to fix fourteen security flaws it&nbsp;disclosed&nbsp;on 16 September in BIND 9, its open-source DNS server software. One of them affects any BIND server that answers DNS-over-HTTPS (DoH).  A sender with no credentials can crash the server process,&nbsp;named, with a single request that carries an invalid SIG
+
+🔗 [Read Full Article](https://thehackernews.com/2026/09/bind-9-update-fixes-14-flaws-including.html)
+
+
+---
+
+### 📰 Gyazo Breach Exposes 23.62 Million User Records and 490 Million Image Metadata Records
+**Category:** 📰 News
+**Time:** 16:40 UTC
+
+**Summary:**  
+A security breach at Gyazo, Helpfeel's image-sharing service, exposed about 23.62 million user records, including email addresses and password hashes, the Kyoto-based company said in a&nbsp;notice&nbsp;published Wednesday.  It also exposed about 490 million image metadata records, mostly for images from January 2019 or earlier, including the IDs that make up Gyazo image links.  Helpfeel said
+
+🔗 [Read Full Article](https://thehackernews.com/2026/09/gyazo-breach-exposes-2362-million-user.html)
+
+
+---
+
+### 📰 Cisco Warns of New Zero-Day ISE Auth Bypass (CVSS 10.0) Exploited in Active Attacks
+**Category:** 🔴 Vulnerability
+**Time:** 16:40 UTC
+
+**Summary:**  
+Cisco has warned of a fresh maximum-severity security flaw impacting Identity Services Engine (ISE) that has come under active exploitation.  The vulnerability, tracked as CVE-2026-76460 (CVSS score: 10.0), could allow an unauthenticated, remote attacker to bypass authentication.  "This vulnerability is due to insufficient authentication control on an API endpoint," Cisco said. "An attacker
+
+🔗 [Read Full Article](https://thehackernews.com/2026/09/cisco-warns-of-new-zero-day-ise-auth.html)
+
+
+---
+
+### 📰 U.S. Seizes NightmareStresser Domains Linked to Hundreds of Thousands of DDoS Attacks
+**Category:** 📰 News
+**Time:** 16:40 UTC
+
+**Summary:**  
+The U.S. Department of Justice (DoJ) on Tuesday announced the court-authorized seizure of internet domains associated with a distributed denial-of-service (DDoS)-for-hire service known as NightmareStresser.  The domains in question are: nightmare-stresser[.]com and nightmarestresser[.]org. Visitors to the site are now greeted by a seizure banner that states -  "This domain has been seized by the
+
+🔗 [Read Full Article](https://thehackernews.com/2026/09/us-seizes-nightmarestresser-domains.html)
+
+
+---
+
