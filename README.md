@@ -4,3 +4,53 @@ This repository tracks real-world cybersecurity threats,
 vulnerabilities, and exploitation activity for continuous learning.
 
 ---
+## 📅 2026-09-19
+
+### 📰 Critical Pre-Auth RCE in Orkes Conductor Workflow Platform Exploited in the Wild
+**Category:** 🔴 Vulnerability
+**Time:** 10:40 UTC
+
+**Summary:**  
+A critical vulnerability impacting Orkes Conductor is being actively exploited in the wild, according to Fortinet.  The vulnerability in question is CVE-2026-58138 (CVSS v3.1 score: 9.8/CVSS v4 score: 9.3), which relates to a case of unauthenticated remote code execution.  "Orkes Conductor 3.21.21 before 3.30.2 contains an unauthenticated remote code execution vulnerability that allows remote
+
+🔗 [Read Full Article](https://thehackernews.com/2026/09/critical-pre-auth-rce-in-orkes.html)
+
+
+---
+
+### 📰 Google Gemini Broke Into Real Company Systems After Security Test Domain Mix-Up
+**Category:** 📰 News
+**Time:** 10:40 UTC
+
+**Summary:**  
+Google's Gemini model has become the latest artificial intelligence (AI) system to access the internet and break into other companies during a cybersecurity evaluation. The development was first reported by The Wall Street Journal.  The incidents occurred in May 2026 as part of a test run conducted by Israeli company Irregular. The evaluation partner was also involved in similar hacks disclosed
+
+🔗 [Read Full Article](https://thehackernews.com/2026/09/google-gemini-broke-into-real-company.html)
+
+
+---
+
+### 📰 CrowdSec Says TanStack npm Attack Led to Copy of 170 Private GitHub Repositories
+**Category:** 📰 News
+**Time:** 10:40 UTC
+
+**Summary:**  
+An attacker copied about 170 of CrowdSec's private GitHub repositories on May 22 using the account of an employee who had just left, CrowdSec&nbsp;said on September 18.  The French security company had kept his GitHub access open. CrowdSec says his laptop was compromised in May's&nbsp;supply chain attack on TanStack, in which malicious versions of TanStack's npm packages stole credentials from
+
+🔗 [Read Full Article](https://thehackernews.com/2026/09/crowdsec-says-tanstack-npm-attack-led.html)
+
+
+---
+
+### 📰 CISA Flags Three Linux Kernel Vulnerabilities Exploited in the Wild
+**Category:** 🔴 Vulnerability
+**Time:** 10:40 UTC
+
+**Summary:**  
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added three security flaws impacting the Linux kernel to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.  The vulnerabilities are listed below -     CVE-2025-39682 (CVSS score: 9.8) - An improper check for unusual or exceptional conditions vulnerability in the TLS receive path
+
+🔗 [Read Full Article](https://thehackernews.com/2026/09/cisa-flags-three-linux-kernel.html)
+
+
+---
+
