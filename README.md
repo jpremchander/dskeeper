@@ -6,62 +6,74 @@ vulnerabilities, and exploitation activity for continuous learning.
 ---
 ## 📅 2026-09-22
 
-### 📰 AI Agents Are Rewriting the Rules of Lateral Movement
+### 📰 Check Point Warns of Management Server Zero-Day Exploited in Targeted Attacks
+**Category:** 🔴 Vulnerability
+**Time:** 21:06 UTC
+
+**Summary:**  
+Attackers exploited a previously unknown flaw in Check Point's Security Management Server in a handful of targeted attacks on July 23,&nbsp;the company said.  The flaw, CVE-2026-93616, allows an attacker who can access the server's web service to run scripts on it without logging in. Check Point released a fix on September 22 for the server that controls firewall policies for the Check Point
+
+🔗 [Read Full Article](https://thehackernews.com/2026/09/check-point-warns-of-management-server.html)
+
+
+---
+
+### 📰 WordPress Issues Patch for Critical Flaw That Can Enable Code Execution on Some Servers
+**Category:** 🔴 Vulnerability
+**Time:** 21:06 UTC
+
+**Summary:**  
+WordPress has fixed a critical flaw in its core software that lets an attacker with no account make a site load a PHP file from outside its theme folders.  On some servers, that can go further, allowing the attacker to run their own code. The fix shipped on September 22 in WordPress 7.1.2, with fixes for every branch the project still supports, back to 4.7, and WordPress is telling site owners
+
+🔗 [Read Full Article](https://thehackernews.com/2026/09/wordpress-issues-patch-for-critical.html)
+
+
+---
+
+### 📰 Malicious npm Package Poses as Twilio Bug-Bounty Probe, Can Exfiltrate Credentials
 **Category:** 📰 News
-**Time:** 16:41 UTC
+**Time:** 21:06 UTC
 
 **Summary:**  
-Security teams have spent decades asking whether an identity has too much access. AI agents raise a harder question: how can we determine which paths an autonomous system can discover, given the access it already has?  A person may try several ways to complete a task. A deterministic application follows the flow its developer wrote. But an AI agent is relentless in its pursuit of done. In May
+Cybersecurity researchers have disclosed details of a malicious npm package named "tw-pkgprobe-7731" that masquerades as a security tool targeting developers integrating Twilio into their applications, while stealthily attempting to harvest sensitive data.  The package, named "tw-pkgprobe-7731," was first uploaded to the npm registry in mid-August 2026 by an npm account named "twdepprobe7731."
 
-🔗 [Read Full Article](https://thehackernews.com/2026/09/ai-agents-are-rewriting-rules-of.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/09/malicious-npm-package-poses-as-twilio.html)
 
 
 ---
 
-### 📰 New CVSS 10.0 VeloCloud Orchestrator Flaw Actively Exploited in Certificate-Based Setups
-**Category:** 🔴 Vulnerability
-**Time:** 16:41 UTC
-
-**Summary:**  
-Attackers are exploiting a new flaw in on-premises VeloCloud Orchestrator (VCO), the server that manages the Edge devices in a VeloCloud SD-WAN, Arista said on September 22.  The flaw, tracked as CVE-2026-93952, may allow a remote attacker with no login access to privilege internal functions and affect the VCO host. Only orchestrators set up to authenticate their Edges with certificates are
-
-🔗 [Read Full Article](https://thehackernews.com/2026/09/new-cvss-100-velocloud-orchestrator.html)
-
-
----
-
-### 📰 DORA Year Two: Can Your SOC Actually See the Attack?
+### 📰 Microsoft Takes Down EvilTokens Device-Code Phishing Service Tied to 12,000 Inbox Compromises
 **Category:** 📰 News
-**Time:** 16:41 UTC
+**Time:** 21:06 UTC
 
 **Summary:**  
-When the Digital Operational Resilience Act (DORA) became enforceable across the European Union in January 2025, it triggered an administrative sprint. Financial entities spent the first year establishing risk governance, assessing third-party service providers, updating contract clauses, and documenting incident escalation workflows.  Now in its second year, the harder part of DORA is
+Microsoft on Tuesday announced the takedown of the EvilTokens device code phishing service that it said used artificial intelligence (AI) "at every step of the attack chain."  The action, carried out with authorization from the U.S. District Court for the Eastern District of Virginia, involved the efforts of Health-ISAC, alongside Cloudflare, Coinbase, OpenAI, Railway, SpyCloud, The Shadowserver
 
-🔗 [Read Full Article](https://thehackernews.com/2026/09/dora-year-two-can-your-soc-actually-see.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/09/microsoft-takes-down-eviltokens-device.html)
 
 
 ---
 
-### 📰 New Linux Kernel Flaw Gives ARM64 KVM Guests Read-Write Access to Host Memory
+### 📰 Critical Bifrost AI Gateway Flaw Lets Attackers Run Commands Without Credentials
 **Category:** 🔴 Vulnerability
-**Time:** 16:41 UTC
+**Time:** 21:06 UTC
 
 **Summary:**  
-A new flaw in the Linux kernel's KVM virtualization code for ARM64 processors can leave a freed piece of host memory exposed to a guest virtual machine on hosts with nested virtualization enabled.  The bug, tracked as&nbsp;CVE-2026-89775, allows a guest to read and write host kernel memory, and the researcher who found it says it can be used to escape the guest and run code on the host machine.
+A critical vulnerability in&nbsp;Bifrost, an open-source AI gateway that routes requests to more than 20 LLM providers, allows an unauthenticated attacker to run arbitrary commands on the gateway server with a single HTTP request.  The flaw, tracked as&nbsp;CVE-2026-90898&nbsp;(CVSS score: 9.8), affects all versions of the Bifrost HTTP transport before 2.1.0 when management authentication is
 
-🔗 [Read Full Article](https://thehackernews.com/2026/09/new-linux-kernel-flaw-gives-arm64-kvm.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/09/critical-bifrost-ai-gateway-flaw-lets.html)
 
 
 ---
 
-### 📰 SharePoint Flaw Initially Listed as Spoofing by Microsoft Enables Authenticated RCE
+### 📰 Researcher Drops BigDiskBuster Zero-Day PoC That Blocks Microsoft Defender Updates
 **Category:** 🔴 Vulnerability
-**Time:** 16:41 UTC
+**Time:** 21:06 UTC
 
 **Summary:**  
-A SharePoint Server vulnerability that Microsoft initially classified as a spoofing flaw with a CVSS score of 6.5 actually enables authenticated remote code execution, according to&nbsp;full technical details&nbsp;published today by Viettel Cyber Security researcher Dinh Ho Anh Khoa.  The flaw, CVE-2026-65660, affects SharePoint Server 2016, 2019, and Subscription Edition. Patches have been
+A zero-day proof-of-concept tool that stops Microsoft Defender from installing platform and signature updates by filling all available disk space was&nbsp;published on GitHub&nbsp;on September 19.  The tool, called BigDiskBuster, has no patch, no CVE, and no Microsoft advisory. Its author, Abdelhamid Naceri, is a former Microsoft security researcher whose earlier Defender exploits were used in
 
-🔗 [Read Full Article](https://thehackernews.com/2026/09/sharepoint-flaw-initially-listed-as.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/09/researcher-drops-bigdiskbuster-zero-day.html)
 
 
 ---
