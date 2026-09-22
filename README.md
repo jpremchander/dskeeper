@@ -6,62 +6,62 @@ vulnerabilities, and exploitation activity for continuous learning.
 ---
 ## 📅 2026-09-22
 
-### 📰 Malicious npm Package indexed-btree Hid Its Loader in Runtime Code Before Removal
+### 📰 AI Agents Are Rewriting the Rules of Lateral Movement
 **Category:** 📰 News
-**Time:** 11:18 UTC
+**Time:** 16:41 UTC
 
 **Summary:**  
-A malicious npm package named "indexed-btree" has been observed hiding its malicious behavior within application code rather than using lifecycle scripts, indicating that threat actors are likely shifting tactics in response to recent security controls.  "Indexed-btree is a malicious npm package mimicking the legit sorted-btree package, an ordinary B-tree/indexing utility," Checkmarx said. "
+Security teams have spent decades asking whether an identity has too much access. AI agents raise a harder question: how can we determine which paths an autonomous system can discover, given the access it already has?  A person may try several ways to complete a task. A deterministic application follows the flow its developer wrote. But an AI agent is relentless in its pursuit of done. In May
 
-🔗 [Read Full Article](https://thehackernews.com/2026/09/malicious-npm-package-indexed-btree-hid.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/09/ai-agents-are-rewriting-rules-of.html)
 
 
 ---
 
-### 📰 SideCopy Broadens India Targeting to Academia With ReverseRAT Spear-Phishing
-**Category:** 📰 News
-**Time:** 11:18 UTC
-
-**Summary:**  
-The threat actor known as SideCopy has been observed using spear-phishing lures to target academic institutions in India, expanding their strategic focus beyond government entities.  "SideCopy campaign operations typically initiate through spear-phishing campaigns that leverage the abuse of mshta.exe to execute malicious scripts and circumvent standard security protocols," Trellix researchers
-
-🔗 [Read Full Article](https://thehackernews.com/2026/09/sidecopy-broadens-india-targeting-to.html)
-
-
----
-
-### 📰 One Hidden Meta Muse Setting Could Let Attackers Turn the AI Assistant Into a Backdoor
-**Category:** 📰 News
-**Time:** 11:18 UTC
-
-**Summary:**  
-Malware already running on a Mac can quietly take over Meta's Muse assistant and use the broad access its owner granted the app, security researcher Patrick Wardle has shown in a&nbsp;proof-of-concept&nbsp;released on September 21.  It works by changing a hidden setting so that when the user taps the microphone and dictates a prompt, the words go to the attacker instead of Meta.  The flaw is in
-
-🔗 [Read Full Article](https://thehackernews.com/2026/09/one-hidden-meta-muse-setting-could-let.html)
-
-
----
-
-### 📰 WordPress Comment2Shell Flaw Can Turn Anonymous Comment XSS Into RCE via Admin Session
+### 📰 New CVSS 10.0 VeloCloud Orchestrator Flaw Actively Exploited in Certificate-Based Setups
 **Category:** 🔴 Vulnerability
-**Time:** 11:18 UTC
+**Time:** 16:41 UTC
 
 **Summary:**  
-A new flaw in WordPress core let an anonymous visitor leave a comment that planted a hidden script on the page. If a logged-in administrator later opened that page, the script could run code on the site's server.  WordPress fixed the flaw, tracked as&nbsp;CVE-2026-93485&nbsp;and dubbed "Comment2Shell," on September 17 in&nbsp;version 7.1.1&nbsp;and told site owners to update right away. The
+Attackers are exploiting a new flaw in on-premises VeloCloud Orchestrator (VCO), the server that manages the Edge devices in a VeloCloud SD-WAN, Arista said on September 22.  The flaw, tracked as CVE-2026-93952, may allow a remote attacker with no login access to privilege internal functions and affect the VCO host. Only orchestrators set up to authenticate their Edges with certificates are
 
-🔗 [Read Full Article](https://thehackernews.com/2026/09/wordpress-comment2shell-flaw-can-turn.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/09/new-cvss-100-velocloud-orchestrator.html)
 
 
 ---
 
-### 📰 Zyxel and Veeam Flaws Under Active Exploitation With Command and SYSTEM Access
-**Category:** 🔴 Vulnerability
-**Time:** 11:18 UTC
+### 📰 DORA Year Two: Can Your SOC Actually See the Attack?
+**Category:** 📰 News
+**Time:** 16:41 UTC
 
 **Summary:**  
-The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a now-patched security flaw impacting Zyxel GS1900 series switches to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.  The vulnerability, tracked as CVE-2026-7273 (CVSS score: 8.8), is a stack-based buffer overflow vulnerability that could result in arbitrary operating
+When the Digital Operational Resilience Act (DORA) became enforceable across the European Union in January 2025, it triggered an administrative sprint. Financial entities spent the first year establishing risk governance, assessing third-party service providers, updating contract clauses, and documenting incident escalation workflows.  Now in its second year, the harder part of DORA is
 
-🔗 [Read Full Article](https://thehackernews.com/2026/09/zyxel-and-veeam-flaws-under-active.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/09/dora-year-two-can-your-soc-actually-see.html)
+
+
+---
+
+### 📰 New Linux Kernel Flaw Gives ARM64 KVM Guests Read-Write Access to Host Memory
+**Category:** 🔴 Vulnerability
+**Time:** 16:41 UTC
+
+**Summary:**  
+A new flaw in the Linux kernel's KVM virtualization code for ARM64 processors can leave a freed piece of host memory exposed to a guest virtual machine on hosts with nested virtualization enabled.  The bug, tracked as&nbsp;CVE-2026-89775, allows a guest to read and write host kernel memory, and the researcher who found it says it can be used to escape the guest and run code on the host machine.
+
+🔗 [Read Full Article](https://thehackernews.com/2026/09/new-linux-kernel-flaw-gives-arm64-kvm.html)
+
+
+---
+
+### 📰 SharePoint Flaw Initially Listed as Spoofing by Microsoft Enables Authenticated RCE
+**Category:** 🔴 Vulnerability
+**Time:** 16:41 UTC
+
+**Summary:**  
+A SharePoint Server vulnerability that Microsoft initially classified as a spoofing flaw with a CVSS score of 6.5 actually enables authenticated remote code execution, according to&nbsp;full technical details&nbsp;published today by Viettel Cyber Security researcher Dinh Ho Anh Khoa.  The flaw, CVE-2026-65660, affects SharePoint Server 2016, 2019, and Subscription Edition. Patches have been
+
+🔗 [Read Full Article](https://thehackernews.com/2026/09/sharepoint-flaw-initially-listed-as.html)
 
 
 ---
