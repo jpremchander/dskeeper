@@ -6,50 +6,50 @@ vulnerabilities, and exploitation activity for continuous learning.
 ---
 ## 📅 2026-09-24
 
-### 📰 17,000 URLs Reveal How ClickFix Turns Trusted Websites Into Malware Traps: Report by CTM360
-**Category:** 🔴 Vulnerability
-**Time:** 11:28 UTC
-
-**Summary:**  
-ClickFix has become the most common way attackers get into enterprise networks, and it does it without an exploit, an attachment, or a file on disk. Our new global threat report traces the technique from a novelty in late 2023 to a subscription product with on-chain infrastructure and a state-sponsored user base, and explains why blocking malicious domains is no longer a useful defense.  Read
-
-🔗 [Read Full Article](https://thehackernews.com/2026/09/17000-urls-reveal-how-clickfix-turns.html)
-
-
----
-
-### 📰 OpenAI Agent Bypassed Australian Medicare Portal Controls to Access Non-Public Files
+### 📰 Placeholder third-party[.]com Referenced Across 1,700+ Repositories Now Serves Malicious Content
 **Category:** 📰 News
-**Time:** 11:28 UTC
+**Time:** 16:54 UTC
 
 **Summary:**  
-An AI agent on an internal OpenAI research task bypassed access controls on an Australian government Medicare statistics portal in June, Prime Minister&nbsp;Anthony Albanese said.  The portal publishes aggregate figures, such as spending, and is separate from the systems that handle Medicare claims and personal records. The agent reached files on it that were not public, but no personal
+The "third-party[.]com" domain, commonly used as a documentation placeholder, has been observed serving a ClickFix lure to Windows browsers while displaying a harmless decoy to other users.  "third-party[.]com has been a generic documentation placeholder for years, the same role example.com plays," Manifold Security's Head of Research, Ax Sharma, said. "Unlike 'example[.]com,' third-party[.]com
 
-🔗 [Read Full Article](https://thehackernews.com/2026/09/openai-agent-bypassed-australian.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/09/placeholder-third-partycom-referenced.html)
 
 
 ---
 
-### 📰 TeamFiltration Campaign Compromises Seven Microsoft 365 Accounts Using Default Passwords
+### 📰 Hacked Ukrainian Sites Serve Fake Cloudflare ClickFix Lures for Psychedelic Stealer
 **Category:** 📰 News
-**Time:** 11:28 UTC
+**Time:** 16:54 UTC
 
 **Summary:**  
-Cybersecurity researchers have disclosed details of an active TeamFiltration campaign codenamed UNK_CondorFiltration that has targeted over 5,700 accounts across 28 Microsoft 365 tenants.  According to Proofpoint, the activity has primarily focused on Chilean retail and financial institutions. It originated from 1,487 unique AWS EC2 source IP addresses.  "The campaign compromised 7 accounts –
+An active ClickFix campaign has been observed compromising legitimate Ukrainian business websites to inject bogus Cloudflare verification pages and trick victims into downloading a previously undocumented information stealer called Psychedelic.  "When a visitor interacts with the page, the lure copies a Windows Installer command to the clipboard and instructs the visitor to paste it into the
 
-🔗 [Read Full Article](https://thehackernews.com/2026/09/teamfiltration-compromises-seven.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/09/hacked-ukrainian-sites-serve-fake.html)
 
 
 ---
 
-### 📰 Attackers Exploit WordPress CVE-2026-87902 Within Hours of Disclosure
-**Category:** 🔴 Vulnerability
-**Time:** 11:28 UTC
+### 📰 Corp MDM Spyware Targets Logistics Firms, Steals New SMS and Redirects Calls
+**Category:** 📰 News
+**Time:** 16:54 UTC
 
 **Summary:**  
-Threat actors have begun to actively exploit a critical security flaw in WordPress within hours of public disclosure.  The vulnerability in question is CVE-2026-87902 (CVSS score: 9.2), which could allow an unauthenticated attacker to obtain remote code execution (RCE).  "An unauthenticated attacker can make get_page_template() page-template resolution include a chosen readable local .php file
+The logistics sector has become the target of a new malicious cyber campaign that distributes an Android spyware codenamed Corp MDM.  According to Have I Been Squatted, the campaign uses fake Google Play pages branded as CEVA and TKW Logistics to distribute an Android Package Kit (APK) file that's dressed up as a system service. The delivered app has the package name "com.corp.mdm"  Corp MDM
 
-🔗 [Read Full Article](https://thehackernews.com/2026/09/attackers-exploit-wordpress-cve-2026.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/09/corp-mdm-spyware-targets-logistics.html)
+
+
+---
+
+### 📰 Secrets Sprawl Is an Identity Problem That AI Just Made Impossible to Ignore
+**Category:** 📰 News
+**Time:** 16:54 UTC
+
+**Summary:**  
+AI coding agents are changing how quickly developers can build and ship software as well as how quickly credentials can become exposed. According to GitGuardian’s 2026 State of Secrets Sprawl Report, commits identified as AI-assisted are leaking secrets at approximately twice the rate of human-written ones. Most of the fastest-growing categories of leaked credentials are now connected to AI
+
+🔗 [Read Full Article](https://thehackernews.com/2026/09/secrets-sprawl-is-identity-problem-that.html)
 
 
 ---
