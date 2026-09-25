@@ -6,38 +6,50 @@ vulnerabilities, and exploitation activity for continuous learning.
 ---
 ## 📅 2026-09-25
 
-### 📰 Compromised GitHub Actions Came Back Online and Resumed Executing Mini Shai-Hulud Malware
+### 📰 Bitget Says Suspected North Korean Hackers Stole $351.6M After Backend Compromise
 **Category:** 📰 News
-**Time:** 16:57 UTC
+**Time:** 21:22 UTC
 
 **Summary:**  
-Two actions-cool GitHub Actions have been disabled for a second time after the repositories became accessible last week, months after they were compromised during the May 2026 Mini Shai-Hulud campaign.  The affected GitHub Actions are listed below -     actions-cool/issues-helper   actions-cool/maintain-one-comment  Visiting either of the repositories now shows the message: "Access to this
+Cryptocurrency exchange Bitget said suspected North Korean threat actors have stolen $351.6 million from its hot and warm wallets.&nbsp;  "At 18:31 UTC on September 24, 2026, Bitget's security systems identified unauthorized transfers involving a limited number of hot wallets," BitGet said in a post shared on X. "Bitget's cold wallets and the overwhelming majority of platform assets remain
 
-🔗 [Read Full Article](https://thehackernews.com/2026/09/compromised-github-actions-came-back.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/09/bitget-says-suspected-north-korean.html)
 
 
 ---
 
-### 📰 PamStealer macOS Malware Adds Live C2 Payload Decryption and Multi-Layer Persistence
-**Category:** 📰 News
-**Time:** 16:57 UTC
+### 📰 Roundcube Pre-Auth SQL Injection Flaw Actively Exploited in the Wild
+**Category:** 🔴 Vulnerability
+**Time:** 21:22 UTC
 
 **Summary:**  
-Cybersecurity researchers have flagged a new version of PamStealer that ensures that the main payload can only be recovered using a server-side decryption chain.  The latest artifacts, per Jamf Threat Labs, continue to rely on the same JavaScript for Automation (JXA) dropper mechanism, but modify the lure and the delivery method.  "Where earlier variants embedded their payload key material
+The Canadian Centre for Cyber Security has warned that a now-patched Roundcube Webmail vulnerability is being actively exploited in the wild.  The vulnerability in question is CVE-2026-48842 (CVSS score: 8.1), a pre-authentication SQL injection in the virtuser_query plugin of Roundcube Webmail versions 1.6.x before 1.6.16 and 1.7.x before 1.7.1.  The issue stems from a preg_replace() backslash
 
-🔗 [Read Full Article](https://thehackernews.com/2026/09/pamstealer-macos-malware-adds-live-c2.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/09/roundcube-pre-auth-sql-injection-flaw.html)
 
 
 ---
 
-### 📰 The SOC Doesn't Need to Start Over with Every Alert
+### 📰 Cloudflare Fixes Flaw That Let One Container Read Another Customer's Leftover Disk Data
 **Category:** 📰 News
-**Time:** 16:57 UTC
+**Time:** 21:22 UTC
 
 **Summary:**  
-Security leaders keep debating whether AI will produce an entirely new class of cyberattack. The nearer change is quieter and already visible: AI has made a failed attack cheap to retry.  The routine version looks like this. An attacker lands on a low-privilege cloud account, and the first try at privilege escalation goes nowhere. That dead end used to cost hours of documentation reading,
+A flaw in Cloudflare Containers let a paying customer read data that other customers' containers had left behind on the same server, Cloudflare and the researchers who found it said on Thursday.  The data came from disk space that earlier containers had used and given up, not from any live workload, and an attacker could not choose whose data they got,&nbsp;according to Cloudflare. The company
 
-🔗 [Read Full Article](https://thehackernews.com/2026/09/the-soc-doesnt-need-to-start-over-with.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/09/cloudflare-fixes-flaw-that-let-one.html)
+
+
+---
+
+### 📰 WSO2 and Adobe Commerce Flaws Exploited in Attacks, Added to CISA KEV
+**Category:** 🔴 Vulnerability
+**Time:** 21:22 UTC
+
+**Summary:**  
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA), on Thursday, added two critical security flaws impacting WSO2 and Adobe Commerce and Magento to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of active exploitation.  The vulnerabilities are listed below -     CVE-2026-5430 (CVS score: 9.8) - A path traversal vulnerability in&nbsp; WSO2 API Control Plane,
+
+🔗 [Read Full Article](https://thehackernews.com/2026/09/wso2-and-adobe-commerce-flaws-exploited.html)
 
 
 ---
