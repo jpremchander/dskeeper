@@ -6,26 +6,50 @@ vulnerabilities, and exploitation activity for continuous learning.
 ---
 ## 📅 2026-09-26
 
-### 📰 Attackers Bypass WAFs to Exploit Oracle PeopleSoft Flaw and Deploy Web Shells
-**Category:** 🔴 Vulnerability
-**Time:** 16:09 UTC
+### 📰 Lunex Stealer Abuses AMD Driver to Disable Security Monitoring and Steal Browser Credentials
+**Category:** 📰 News
+**Time:** 20:54 UTC
 
 **Summary:**  
-Google is warning of renewed mass exploitation of a known security vulnerability in Oracle PeopleSoft as part of a campaign targeting multiple sectors globally.  The ShinyHunters-linked activity involves the weaponization of CVE-2026-35273 (CVSS score: 9.8), a critical security flaw that could result in unauthenticated remote code execution.  The vulnerability was first exploited as a zero-day
+The Psychedelic Stealer malware distributed via compromised Ukrainian websites using ClickFix-style Cloudflare verification checks is part of a wider malware-as-a-service (MaaS) platform called Lunex.  The new findings come from Ontinue, which described the activity as a four-stage attack chain aimed at targeting Ukrainian-speaking users.  "The attack chain begins with a fake CAPTCHA page and
 
-🔗 [Read Full Article](https://thehackernews.com/2026/09/attackers-bypass-wafs-to-exploit-oracle.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/09/lunex-stealer-abuses-amd-driver-to.html)
 
 
 ---
 
-### 📰 Zero Trust for AI Agents Starts With Fixing Zero Visibility
-**Category:** 📰 News
-**Time:** 16:09 UTC
+### 📰 Elementor CSRF Flaw Lets Attackers Take Over Sites After Admin Clicks Crafted Link
+**Category:** 🔴 Vulnerability
+**Time:** 20:54 UTC
 
 **Summary:**  
-The way we talk about AI agents is shifting, and the way we implement them requires an even more fundamental shift. While earlier discourse focused on how quickly organizations could stand up agents and how much productivity they could promise, a string of recent incidents, including a widely discussed intrusion at Hugging Face during an evaluation of OpenAI agents, has spurred organizations to
+Details have emerged about a high-severity security flaw in the Elementor Website Builder WordPress plugin that could be exploited by an unauthenticated attacker to create rogue administrator accounts and take control of a site.  The cross-site request forgery (CSRF) vulnerability, which has yet to be assigned a CVE identifier, carries a CVSS score of 8.8 out of 10.0. It only affects versions
 
-🔗 [Read Full Article](https://thehackernews.com/2026/09/zero-trust-for-ai-agents-starts-with.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/09/elementor-csrf-flaw-lets-attackers-take.html)
+
+
+---
+
+### 📰 SharePoint RCE and MikroTik RouterOS Flaws Actively Exploited in the Wild
+**Category:** 🔴 Vulnerability
+**Time:** 20:54 UTC
+
+**Summary:**  
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two security flaws impacting Microsoft SharePoint and Mikrotik RouterOS to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.  The vulnerabilities in question are as follows -     CVE-2026-65660 (CVSS score: 8.8) - A code injection vulnerability in Microsoft Office SharePoint
+
+🔗 [Read Full Article](https://thehackernews.com/2026/09/sharepoint-rce-and-mikrotik-routeros.html)
+
+
+---
+
+### 📰 Kiteworks Urges Customers to Shut Down Systems for 9 Hours Over Possible Cyber Attack
+**Category:** 📰 News
+**Time:** 20:54 UTC
+
+**Summary:**  
+Kiteworks (formerly Accellion) is urging customers to shut down their systems as a precautionary measure for nine hours over the weekend after it received threat intelligence about an imminent cyber attack.  "Kiteworks received credible threat intelligence from federal intelligence authorities indicating that a threat actor may attempt to target some Kiteworks systems," said Frank Balonis, Chief
+
+🔗 [Read Full Article](https://thehackernews.com/2026/09/kiteworks-urges-customers-to-shut-down.html)
 
 
 ---
