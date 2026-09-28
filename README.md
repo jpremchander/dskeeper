@@ -6,50 +6,74 @@ vulnerabilities, and exploitation activity for continuous learning.
 ---
 ## 📅 2026-09-28
 
-### 📰 Webinar: How to Govern AI Agents, Reduce Excessive Access, and Control Shadow AI
-**Category:** 📅 Webinar/Event, 💡 Expert Insight
-**Time:** 13:28 UTC
-
-**Summary:**  
-AI agents are moving into production faster than security teams can govern them. They are connecting to apps, handling data, calling APIs, and acting across business systems—often without the same controls applied to human users.  According to Okta’s Global CISO Insights 2026 report, only 47% of CISOs are confident they can identify every AI agent in their environment. Even among those who feel
-
-🔗 [Read Full Article](https://thehackernews.com/2026/09/webinar-how-to-govern-ai-agents-reduce.html)
-
-
----
-
-### 📰 Carbonato Botnet Compromises Docker Hosts to Deploy Telegram-Controlled Hermes AI Agent
-**Category:** 📰 News
-**Time:** 13:28 UTC
-
-**Summary:**  
-Cybersecurity researchers have disclosed details of a new botnet malware called Carbonato that's targeting exposed Docker daemons to deploy an open-source artificial intelligence (AI) agent framework called Hermes Agent.  "The implant installs the framework unchanged, then overwrites its SOUL.md persona file," ThreatDown said. "The 39-line prompt directs it to execute tasks received through
-
-🔗 [Read Full Article](https://thehackernews.com/2026/09/carbonato-botnet-compromises-docker.html)
-
-
----
-
-### 📰 JADEPUFFER-Linked Attackers Used Compromised Service Principals to Delete Azure Resources
-**Category:** 📰 News
-**Time:** 13:28 UTC
-
-**Summary:**  
-The threat actor known as JADEPUFFER has been observed orchestrating destructive actions within a Microsoft Azure environment using compromised service principals.  Microsoft, which is tracking the activity under the name Storm-3168, has called it an evolution of the threat actor's tradecraft. The attack took place in early June 2026 over a period of about 18 hours.  "The destructive operations
-
-🔗 [Read Full Article](https://thehackernews.com/2026/09/jadepuffer-linked-attackers-used.html)
-
-
----
-
-### 📰 CISA Says Attackers Are Exploiting Two Critical Citrix NetScaler Flaws Globally
+### 📰 Apple Patches CoreGraphics Flaw Possibly Exploited in Targeted Attacks
 **Category:** 🔴 Vulnerability
-**Time:** 13:28 UTC
+**Time:** 23:06 UTC
 
 **Summary:**  
-The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Sunday added two critical Citrix NetScaler ADC and Gateway flaws to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation.  The vulnerabilities are listed below -     CVE-2026-88771 (CVSS score: 9.5) - An improper input validation vulnerability that could allow an unauthenticated attacker to
+Apple has released security updates to address a vulnerability in older versions of iOS, iPadOS, and macOS that it said may have been exploited in targeted attacks.  The vulnerability, tracked as CVE-2026-86950, refers to an out-of-bounds write impacting the CoreGraphics component that could lead to arbitrary code execution when processing a maliciously crafted file.  The iPhone maker said the
 
-🔗 [Read Full Article](https://thehackernews.com/2026/09/cisa-says-attackers-are-exploiting-two.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/09/apple-patches-coregraphics-flaw.html)
+
+
+---
+
+### 📰 Hackers Use NeedyMantis to Maintain Long-Term Access in Breached Networks
+**Category:** 💡 Expert Insight
+**Time:** 23:06 UTC
+
+**Summary:**  
+Hackers have used a malware family called NeedyMantis to maintain long-term access to networks they had already breached, Microsoft said in&nbsp;a technical analysis.  The malware has been seen in a small number of targeted intrusions at telecommunications organizations, universities, medical nonprofits, intergovernmental organizations, and government contractors. Its use goes back to at least
+
+🔗 [Read Full Article](https://thehackernews.com/2026/09/hackers-use-needymantis-to-maintain.html)
+
+
+---
+
+### 📰 IAM for AI agents: A Practical Enterprise Framework
+**Category:** 💡 Expert Insight
+**Time:** 23:06 UTC
+
+**Summary:**  
+What is IAM for AI agents?  AI agents authenticate, invoke tools, and act across enterprise systems with delegated authority. IAM for AI Agents is the identity-control architecture that governs those actors. This guide covers the limits of conventional provisioning, the components that matter, how to evaluate framework choices, and what runtime evidence proves an agent behaved as intended.
+
+🔗 [Read Full Article](https://thehackernews.com/2026/09/iam-for-ai-agent.html)
+
+
+---
+
+### 📰 Bitget Says Attacker Exploited Third-Party Security Product Flaw to Steal $388M
+**Category:** 🔴 Vulnerability
+**Time:** 23:06 UTC
+
+**Summary:**  
+The attacker who stole about $388 million from the cryptocurrency exchange Bitget gained access through a vulnerability in a third-party security product the exchange used, Bitget said on Monday.  The attacker exploited the flaw to obtain high-level internal credentials and then, on September 24, used them to send fraudulent withdrawal commands to Bitget's wallet system.  Exchanges keep most
+
+🔗 [Read Full Article](https://thehackernews.com/2026/09/bitget-says-attacker-exploited-third.html)
+
+
+---
+
+### 📰 RatHat Android Malware Console Uses Gemini to Identify Higher-Value Victims
+**Category:** 📰 News
+**Time:** 23:06 UTC
+
+**Summary:**  
+RatHat's operators build and publish the Android banking trojan and control infected phones from a web console, according to security company Cleafy. Cleafy has&nbsp;traced nearly 100 deployments&nbsp;of that console since April 2026. It said this fits a malware-as-a-service model, in which each customer runs a separate copy.  The console stores what the malware collects from each phone,
+
+🔗 [Read Full Article](https://thehackernews.com/2026/09/rathat-android-malware-console-uses.html)
+
+
+---
+
+### 📰 ⚡ Weekly Recap: $387M Crypto Hack, Citrix Exploits, AI Agents Go Off-Script, and More Threats
+**Category:** 🔴 Vulnerability
+**Time:** 23:06 UTC
+
+**Summary:**  
+A domain used as harmless placeholder text showed up in roughly 1,700 repositories. Then somebody registered it and started serving malicious lures. That is the kind of week this was: forgotten assumptions turning into live attack surface.  Elsewhere, weak service accounts, old bugs, exposed systems, phishing kits, and strangely easy exploit paths kept doing useful work for attackers. Nothing
+
+🔗 [Read Full Article](https://thehackernews.com/2026/09/weekly-recap-387m-crypto-hack-citrix.html)
 
 
 ---
