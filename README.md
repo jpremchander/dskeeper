@@ -6,50 +6,62 @@ vulnerabilities, and exploitation activity for continuous learning.
 ---
 ## 📅 2026-09-29
 
-### 📰 Dutch Police Arrest 24-Year-Old Amsterdam Man in ShinyHunters Investigation
+### 📰 French Tax Data Theft Using Stolen Staff Passwords Went Undetected for Seven Weeks
 **Category:** 📰 News
-**Time:** 12:31 UTC
+**Time:** 22:05 UTC
 
 **Summary:**  
-Dutch authorities have confirmed that they arrested a 24-year-old man from Amsterdam in connection with the ShinyHunters group.  "It is true that this month a 24-year-old man from Amsterdam was arrested in an investigation into the hacker group ShinyHunters," the Politie Landelijke Opsporing en Interventies said in an X post Monday.  Police said the individual is expected to appear before the
+An attacker used stolen passwords of staff at France's tax administration to take tax data on hundreds of thousands of taxpayers and businesses in June and July.  Neither the tax administration nor France's national cybersecurity agency saw the data leave. The attack was not sophisticated, the agency, ANSSI, says in a&nbsp;report&nbsp;(in French) published on Tuesday: it worked because of weak
 
-🔗 [Read Full Article](https://thehackernews.com/2026/09/dutch-police-arrest-24-year-old.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/09/french-tax-data-theft-using-stolen.html)
 
 
 ---
 
-### 📰 Official MCP Python SDK Flaw Can Let Malicious Servers Steal OAuth Credentials
-**Category:** 📰 News
-**Time:** 12:31 UTC
+### 📰 New Spectre-v2 BTR Attack Leaks Linux Memory Despite Existing Defenses
+**Category:** 🔴 Vulnerability, 💡 Expert Insight
+**Time:** 22:05 UTC
 
 **Summary:**  
-A malicious MCP server could trick an application built on the official&nbsp;MCP Python SDK&nbsp;into handing over the OAuth credentials it uses to log in to a real service, the SDK's maintainers said in a security advisory.  Affected versions sent the client secret, the authorization code, and the PKCE proof key to a token endpoint the attacker controlled. The fix is in versions 1.30.0 and
+A group of academics from VUSec and Scuola Superiore Sant'Anna have disclosed details of a new Spectre CPU vulnerability variant that affects Just-In-Time (JIT) engines present in web browsers, language runtimes, and the operating system kernel, across multiple CPU vendors.  The new Spectre-v2 variant has been codenamed Branch Target Reuse (BTR).  "The key insight is that, while modern CPUs
 
-🔗 [Read Full Article](https://thehackernews.com/2026/09/official-mcp-python-sdk-flaw-can-let.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/09/new-spectre-v2-btr-attack-leaks-linux.html)
 
 
 ---
 
-### 📰 OpenAI Shelves GPT-6.1 Astra After Tests Find Deception and Unauthorized Actions
-**Category:** 📰 News
-**Time:** 12:31 UTC
+### 📰 Russia's Star Blizzard Targets 100+ Organizations With Fake Event Invites to Deliver Backdoor
+**Category:** 📅 Webinar/Event
+**Time:** 22:05 UTC
 
 **Summary:**  
-OpenAI on Monday shelved plans to release GPT-6.1 Astra, a next-generation artificial intelligence (AI) model that was planned for an October launch, after it failed internal safety and alignment audits.  The development was first reported by The Wall Street Journal. The move "marks a rare case of a major AI developer ditching a new release because of safety concerns," the news publication said.
+Russian state hackers known as Star Blizzard have been using fake event invitations to trick people into installing a backdoor on their Windows computers,&nbsp;according to Microsoft.  The campaigns, aimed at people and organizations tied to Ukraine, have affected more than 100 organizations since January, mostly in the U.S. and U.K. At least one computer was infected, but the number of breached
 
-🔗 [Read Full Article](https://thehackernews.com/2026/09/openai-shelves-gpt-61-astra-after-tests.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/09/russias-star-blizzard-targets-100.html)
 
 
 ---
 
-### 📰 OpenAI Pauses Tool Use After Agent Bypasses Internet Controls to Reach External Chatbot
+### 📰 Kiteworks Fixes Critical Flaw Found During Nine-Hour Precautionary Shutdown
 **Category:** 🔴 Vulnerability
-**Time:** 12:31 UTC
+**Time:** 22:05 UTC
 
 **Summary:**  
-OpenAI said it has made the decision to pause training of its most powerful models after one of its agents during reinforcement learning (RL) training contacted an external chatbot by exploiting a loophole in its internet-access restrictions.  "An agent attempting to complete a search-based training task queried a public chatbot service through a gap in our internet-access restrictions:
+Kiteworks on Monday said it worked with federal intelligence authorities over the weekend as it identified and addressed a critical security vulnerability during the scheduled precautionary shutdown.  "During the shutdown, this activity led to the discovery of a previously unknown critical vulnerability confined to a capability that is enabled for less than 1% of the customer base," the company
 
-🔗 [Read Full Article](https://thehackernews.com/2026/09/openai-pauses-tool-use-after-agent.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/09/kiteworks-fixes-critical-flaw-found.html)
+
+
+---
+
+### 📰 101 Malicious npm Packages Add Developers' WhatsApp Accounts to Groups Without Consent
+**Category:** 📰 News
+**Time:** 22:05 UTC
+
+**Summary:**  
+Cybersecurity researchers have identified a cluster of 101 npm packages that are used to trap developers into a WhatsApp group subscriber campaign dubbed PhantomSub.  "The malicious packages abuse the 'Baileys' WhatsApp open source project to add the victims to groups without their consent," OX Security researchers Nir Zadok, Moshe Siman Tov Bustan, and Vitalii Chepurko said in a technical
+
+🔗 [Read Full Article](https://thehackernews.com/2026/09/101-malicious-npm-packages-add.html)
 
 
 ---
