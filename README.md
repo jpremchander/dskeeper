@@ -6,86 +6,38 @@ vulnerabilities, and exploitation activity for continuous learning.
 ---
 ## 📅 2026-10-01
 
-### 📰 How Financial Services Companies Can Modernize Their Software Supply Chain
+### 📰 Police Arrest 16-Year-Old Suspected of Running KillSec, Seize Ransomware Leak Site and Servers
 **Category:** 📰 News
-**Time:** 12:51 UTC
+**Time:** 22:31 UTC
 
 **Summary:**  
-Every security leader at a bank, insurer, or asset manager has had a version of this conversation: Security wants to eliminate a class of vulnerabilities. Engineering explains what it would take to upgrade the platform where they live. Somebody prices out the regression testing. Somebody else raises the change-freeze calendar. The finding gets an exception, a compensating control, and a date
+Police in Spain have arrested a 16-year-old whom investigators suspect of running the KillSec ransomware group. KillSec is accused of stealing data from organizations and threatening to publish it on its leak site unless they paid.  The 16-year-old was one of 3 people arrested on September 30, when police also took control of that site.  Investigators identified him as KillSec's suspected
 
-🔗 [Read Full Article](https://thehackernews.com/2026/10/how-financial-services-companies-can.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/10/police-arrest-16-year-old-suspected-of.html)
 
 
 ---
 
-### 📰 OpenAI Disrupts Reasoning Extraction Campaign Linked to Moonshot AI Associates
-**Category:** 📰 News
-**Time:** 12:51 UTC
-
-**Summary:**  
-OpenAI on Wednesday said it identified and disrupted a coordinated distillation campaign that was designed to illicitly extract protected reasoning from its artificial intelligence (AI) models.  A "core cluster of the activity," going back to the first week of July, has been attributed to individuals associated with Moonshot AI, a Chinese AI company based in Beijing. It did not cite any
-
-🔗 [Read Full Article](https://thehackernews.com/2026/10/openai-disrupts-reasoning-extraction.html)
-
-
----
-
-### 📰 CISA Adds Exploited Cisco Catalyst SD-WAN Manager Auth Bypass to KEV
+### 📰 ThreatsDay: AI-Powered Zero-Day Chain, 543K Live Secrets, Model Inspection RCE and 13 More Stories
 **Category:** 🔴 Vulnerability
-**Time:** 12:51 UTC
+**Time:** 22:31 UTC
 
 **Summary:**  
-The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a critical authentication bypass flaw impacting Cisco Catalyst SD-WAN Manager to its Known Exploited Vulnerabilities (KEV), following reports of active exploitation.  The vulnerability, tracked as CVE-2026-76504 (CVSS score: 9.8), could allow an unauthenticated, remote attacker to access an affected system with
+This week, the useful words are boring ones: inspect, cache, compile, store, trust. Each sounds harmless. Each can become an attack path when a system does a little more than people expect. A model check can run code. A cache can mix up requests. A public secret can stay useful for years.  That is the lesson running through the list. Attackers do not always need a brilliant new trick. They can
 
-🔗 [Read Full Article](https://thehackernews.com/2026/10/cisa-adds-exploited-cisco-catalyst-sd.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/10/threatsday-ai-powered-zero-day-chain.html)
 
 
 ---
 
-### 📰 Google Rolls Out Gemini 4 Argon to Trusted Cyber Defenders, Plans Guardrail-Free Version
+### 📰 WordPress Backdoor Rebuilds Itself After Cleanup Using Files, Database, and Shared Memory
 **Category:** 📰 News
-**Time:** 12:51 UTC
+**Time:** 22:31 UTC
 
 **Summary:**  
-Google on Wednesday announced its latest frontier artificial intelligence (AI) model, Gemini 4 Argon, that it said is being rolled out to a set of trusted cyber defenders through its Fairwind Program.  "It delivers frontier performance in complex workflows across real-world software engineering, enterprise knowledge work like legal and finance, and cybersecurity defense," Koray Kavukcuoglu,
+Cybersecurity researchers have shed light on a WordPress compromise in which threat actors deployed multiple persistence mechanisms to ensure that the final payload kept returning without having to infect the site again.  The backdoor has been codenamed SC after the "SC_" markers present in the injected content. Sucuri has described the malware as a "self-healing mesh" that's
 
-🔗 [Read Full Article](https://thehackernews.com/2026/10/google-rolls-out-gemini-4-argon-to.html)
-
-
----
-
-### 📰 Apple CoreGraphics PoC Emerges as WhatsApp PDF Checks Hint at Possible Delivery Path
-**Category:** 🔴 Vulnerability
-**Time:** 12:51 UTC
-
-**Summary:**  
-Security researchers have published the first public proof-of-concept for CVE-2026-86950, an Apple CoreGraphics flaw Apple says may have been used in attacks against specific targeted individuals.  The trigger is a malicious PDF with a crafted embedded font that crashes unpatched iPhones and Macs. The code causes a crash, not an execution error. Turning the memory corruption into a working
-
-🔗 [Read Full Article](https://thehackernews.com/2026/10/apple-coregraphics-poc-emerges-as.html)
-
-
----
-
-### 📰 Bitget Confirms Third-Party Zero-Day Behind $387.5 Million Cryptocurrency Theft
-**Category:** 🔴 Vulnerability
-**Time:** 12:51 UTC
-
-**Summary:**  
-Cryptocurrency exchange Bitget on Wednesday confirmed that attackers who stole $387.5 million last week exploited a zero-day flaw in third-party security products, citing ongoing investigation findings from SlowMist.  "Their investigation identified malicious activity involving third-party security products, including a zero-day vulnerability, and recovered a customized tool used by the attacker
-
-🔗 [Read Full Article](https://thehackernews.com/2026/10/bitget-confirms-third-party-zero-day.html)
-
-
----
-
-### 📰 MetaMask Security Incident Prompts Exit of Affected Ethereum Validators
-**Category:** 📰 News
-**Time:** 12:51 UTC
-
-**Summary:**  
-MetaMask on Thursday said it's responding to what it described as an "ongoing security incident" impacting part of its infrastructure.  "We are actively addressing and remediating the issue internally, in coordination with external partners and security advisors," the software cryptocurrency wallet maker said. "At this time, we have identified no immediate threat to MetaMask wallets."  MetaMask
-
-🔗 [Read Full Article](https://thehackernews.com/2026/10/metamask-security-incident-prompts-exit.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/10/wordpress-backdoor-rebuilds-itself.html)
 
 
 ---
