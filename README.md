@@ -4,124 +4,16 @@ This repository tracks real-world cybersecurity threats,
 vulnerabilities, and exploitation activity for continuous learning.
 
 ---
-## 📅 2026-09-30
+## 📅 2026-10-01
 
-### 📰 Attackers Exploit Zimbra Flaw to Deploy Web Shells and Harvest Authentication Secrets
+### 📰 Citrix NetScaler Post-Exploitation Payload Creates Superuser, Maps Web Shell to CSS-Like URLs
 **Category:** 🔴 Vulnerability
-**Time:** 22:04 UTC
+**Time:** 05:16 UTC
 
 **Summary:**  
-Threat actors have weaponized a now-patched security flaw in Zimbra Collaboration Suite (ZCS) to deploy web shells and access mailbox data, according to findings from the Microsoft Security Research team.  The attack exploits CVE-2026-73570 (CVSS score: 8.9), an unauthenticated operating system command injection flaw that can lead to remote code execution when Simple Network Management Protocol
+Threat actors have been observed exploiting a critical pre-authentication command injection vulnerability in Citrix NetScaler ADC and NetScaler Gateway to drop web shells and attempt theft of configuration data.  LevelBlue's Threat Hunt Operations &amp; Research (THOR) team, which analyzed the exploitation activity across multiple customer environments, said it identified malicious NetScaler
 
-🔗 [Read Full Article](https://thehackernews.com/2026/09/attackers-exploit-zimbra-flaw-to-deploy.html)
-
-
----
-
-### 📰 Attackers Abuse MSP360 to Deploy ScreenConnect in Dual-RMM Phishing Attacks
-**Category:** 📰 News
-**Time:** 22:04 UTC
-
-**Summary:**  
-Microsoft has warned of phishing campaigns distributing an installer for the MSP360 Remote Monitoring and Management (RMM) software under the guise of meeting invitations, PDF-themed lures, software update prompts, and other social-engineering content.  "Once executed, the legitimate MSP360 installer, distributed under a deceptive file name established remote management access on affected
-
-🔗 [Read Full Article](https://thehackernews.com/2026/09/attackers-abuse-msp360-to-deploy.html)
-
-
----
-
-### 📰 Cisco Warns of Attackers Exploiting Critical Authentication Bypass in SD-WAN Manager
-**Category:** 🔴 Vulnerability
-**Time:** 22:04 UTC
-
-**Summary:**  
-Attackers are exploiting a new critical zero-day flaw in Cisco Catalyst SD-WAN Manager, the system companies use to manage their Cisco SD-WAN networks, Cisco said in an&nbsp;advisory&nbsp;on September 30.  The flaw, CVE-2026-76504, could allow a remote attacker with no login access to use the Manager's API as the admin user. Fixed releases are available, and there is no workaround. It carries a
-
-🔗 [Read Full Article](https://thehackernews.com/2026/09/cisco-warns-of-attackers-exploiting.html)
-
-
----
-
-### 📰 Attackers Abuse ChatGPT Custom GPTs to Deliver RAT via ClickFix Lures
-**Category:** 📰 News
-**Time:** 22:04 UTC
-
-**Summary:**  
-Threat actors are abusing ChatGPT Custom GPTs to disguise them as legitimate product offerings and direct unsuspecting victims to malicious sites that employ ClickFix lures to deliver malware.  Huntress, which observed the activity in late September 2026, said it marks the abuse of yet another feature in trusted artificial intelligence (AI) platforms. Prior campaigns have weaponized shared
-
-🔗 [Read Full Article](https://thehackernews.com/2026/09/attackers-abuse-chatgpt-custom-gpts-to.html)
-
-
----
-
-### 📰 Know Your Enemy: Browser-Based Attack Techniques in 2026
-**Category:** 📰 News
-**Time:** 22:04 UTC
-
-**Summary:**  
-Given that the browser is where business apps are accessed and used, it makes sense that attacks are happening there too. Most breaches today begin in a browser session. Often, they never leave it, with the entire attack chain from initial access to exfiltration playing out in the browser.  Here are the six most dangerous techniques that should be on every security team's radar in 2026.  1.
-
-🔗 [Read Full Article](https://thehackernews.com/2026/09/know-your-enemy-browser-based-attack.html)
-
-
----
-
-### 📰 AI Coding Agents Exposed 13,000 Internal Images, Including Billing Records, on GitHub
-**Category:** 📰 News
-**Time:** 22:04 UTC
-
-**Summary:**  
-AI coding agents asked to share screenshots of code changes for review have put internal company images in public GitHub repositories, security company Glow said.  Its researchers found more than 13,000 internal images from developers at over 300 organizations, including customer billing records and screens of features not yet released. In most cases, they sat under developers' personal accounts
-
-🔗 [Read Full Article](https://thehackernews.com/2026/09/ai-coding-agents-exposed-13000-internal.html)
-
-
----
-
-### 📰 US-Focused CSuite Phishing Steals Microsoft 365 Sessions and Deploys RMM Tools for Remote Access
-**Category:** 📰 News
-**Time:** 22:04 UTC
-
-**Summary:**  
-ANY.RUN researchers traced a US-focused CSuite phishing campaign across 351 sandbox analyses, with 51% of submissions coming from the United States. Technology, manufacturing, government, and consulting organizations showed the highest exposure.  By combining Microsoft 365 session theft with remote-access tool deployment, CSuite can turn a phishing incident into broader account compromise, fraud
-
-🔗 [Read Full Article](https://thehackernews.com/2026/09/us-focused-csuite-phishing-steals.html)
-
-
----
-
-### 📰 Attackers Exploit NetScaler Flaw for Root Access, Deploy WHIPSHOT and SLAPSHOT
-**Category:** 🔴 Vulnerability
-**Time:** 22:04 UTC
-
-**Summary:**  
-Unknown threat actors have been observed exploiting a newly patched security flaw in Citrix NetScaler ADC and NetScaler Gateway appliances to target organizations in North America and Europe.  The activity, observed by Mandiant Consulting and Google Threat Intelligence Group (GTIG) in September 2026, has targeted government, financial services, technology, education, and legal and professional
-
-🔗 [Read Full Article](https://thehackernews.com/2026/09/attackers-exploit-netscaler-flaw-for.html)
-
-
----
-
-### 📰 OpenSSL Fixes High-Severity DTLS Flaw That Can Leak Heap Memory Unencrypted
-**Category:** 📰 News
-**Time:** 22:04 UTC
-
-**Summary:**  
-A High-severity OpenSSL flaw can leak heap memory to the other side of a DTLS connection or crash the program,&nbsp;OpenSSL said&nbsp;on September 29 as it released fixes.  DTLS, the TLS variant used for UDP traffic, resends a handshake message if no reply arrives before the timer expires. The leak or crash can happen when such a resend starts while a larger handshake message is stuck part-way
-
-🔗 [Read Full Article](https://thehackernews.com/2026/09/openssl-fixes-high-severity-dtls-flaw.html)
-
-
----
-
-### 📰 Citrix NetScaler CVE-2026-88772 Exploit Details Show Pre-Auth Path to Shellcode Execution
-**Category:** 🔴 Vulnerability
-**Time:** 22:04 UTC
-
-**Summary:**  
-Cybersecurity researchers have disclosed technical details of a recently patched critical security flaw in Citrix NetScaler ADC and Gateway that has come under active exploitation in the wild.  The vulnerability, tracked as CVE-2026-88772 (CVSS score: 9.5), has been described as a memory overflow bug in the Datagram Transport Layer Security (DTLS) protocol handling that's rooted in the NetScaler
-
-🔗 [Read Full Article](https://thehackernews.com/2026/09/citrix-netscaler-cve-2026-88772-exploit.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/10/citrix-netscaler-post-exploitation.html)
 
 
 ---
