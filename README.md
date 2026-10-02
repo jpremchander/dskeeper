@@ -6,38 +6,50 @@ vulnerabilities, and exploitation activity for continuous learning.
 ---
 ## 📅 2026-10-02
 
-### 📰 Why CISOs Struggle to Answer the Board's Three Hardest Questions, and How to Fix the Report
+### 📰 GitLab Patches Critical 9.9 AI Gateway Flaw Allowing Command Execution on Self-Hosted Servers
 **Category:** 🔴 Vulnerability
-**Time:** 12:14 UTC
+**Time:** 22:01 UTC
 
 **Summary:**  
-The quarterly board meeting is two weeks out. The security team is pulling exports from the identity provider, the cloud posture tool, the vulnerability scanner, the SIEM and the EDR console. Someone is building a spreadsheet to reconcile them. Someone else is turning that spreadsheet into slides.  Then a board member asks three questions:     How secure is the organization, overall?   What is
+A critical flaw in GitLab's AI Gateway could let a logged-in user with Duo Agent Platform access run commands on the gateway under certain conditions, GitLab&nbsp;said in an advisory.  The gateway is the service that connects a GitLab instance to AI models, and only organizations that host their own gateway need to act. The flaw is fixed in gateway versions 19.2.4, 19.3.2, and 19.4.1.  The flaw
 
-🔗 [Read Full Article](https://thehackernews.com/2026/10/why-cisos-struggle-to-answer-boards.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/10/gitlab-patches-critical-self-hosted-ai.html)
 
 
 ---
 
-### 📰 Android 17 Advanced Protection Locks Accessibility Services to Verified Accessibility Tools
+### 📰 Antino Backdoor Uses Outlook and OneDrive for C2 in China-Nexus Espionage Campaign
 **Category:** 📰 News
-**Time:** 12:14 UTC
+**Time:** 22:01 UTC
 
 **Summary:**  
-Google has announced a new security measure that limits access to Android's accessibility services to verified applications classified as Accessibility Tools when Advanced Protection is enabled.  With malicious Android applications abusing the API serving as the main conduit for malware and financial fraud, the tech giant said the move would block a major attack pathway. Advanced Protection is a
+Government and policy organizations across Asia have become the target of a new campaign orchestrated by a China-nexus threat actor.  The activity, which has targeted government and policy organizations in Taiwan, India, the Philippines, Cambodia, Pakistan, Thailand, and Myanmar, involves the deployment of a previously undocumented backdoor codenamed Antino. Cisco Talos is tracking the cluster
 
-🔗 [Read Full Article](https://thehackernews.com/2026/10/android-17-advanced-protection-locks.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/10/antino-backdoor-uses-outlook-and.html)
 
 
 ---
 
-### 📰 Critical FortiMail Zero-Day Flaw Exploited in Attacks Allows Unauthenticated Arbitrary File Writes
+### 📰 Dell CSM Flaws Enable Unauthenticated Admin Access and Root on Kubernetes Nodes
 **Category:** 🔴 Vulnerability
-**Time:** 12:14 UTC
+**Time:** 22:01 UTC
 
 **Summary:**  
-The U.S. Cybersecurity and Infrastructure Security Agency (CISA), on Thursday, added a critical security flaw impacting Fortinet FortiMail to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation.  The vulnerability, tracked as CVE-2026-104286 (CVSS score: 9.8), allows unauthenticated attackers to write arbitrary files on the underlying system.  "An improper
+Dell has released security updates to address multiple critical security flaws in Dell Container Storage Modules (CSM) that could be exploited by bad actors to take over susceptible systems.  The vulnerabilities are listed below -     CVE-2026-63688 (CVSS score: 10.0) - A missing authentication for critical function vulnerability in the csm-authorization-storage gRPC server that an
 
-🔗 [Read Full Article](https://thehackernews.com/2026/10/critical-fortimail-zero-day-flaw.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/10/dell-csm-flaws-enable-unauthenticated.html)
+
+
+---
+
+### 📰 OpenAI Parts Ways With Three Safety Researchers Over Sensitive Information Mishandling
+**Category:** 📰 News
+**Time:** 22:01 UTC
+
+**Summary:**  
+OpenAI has parted ways with three members of its safety team after they leaked private information in violation of company policies, The Wall Street Journal reported.  "We have parted ways with three individuals for violating our policies on accessing and handling sensitive company information," a spokesperson for the company was quoted as saying. "Our investigation confirmed that these
+
+🔗 [Read Full Article](https://thehackernews.com/2026/10/openai-parts-ways-with-three-safety.html)
 
 
 ---
