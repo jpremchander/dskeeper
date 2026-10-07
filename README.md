@@ -6,74 +6,62 @@ vulnerabilities, and exploitation activity for continuous learning.
 ---
 ## 📅 2026-10-07
 
-### 📰 The Sixth Voice of the CISO Data Shows Cyber Risk Has Moved Inside the Workflow
+### 📰 Attackers Hijack .gh, .sl, and .as Registries to Obtain Certificates for Google Domains
 **Category:** 📰 News
-**Time:** 13:02 UTC
+**Time:** 22:56 UTC
 
 **Summary:**  
-The 2026 findings are not just a year-over-year shift. They mark the latest point in a five-year arc where resilience, AI governance, human risk, and board scrutiny are converging inside the systems where work actually happens.  For years, the enterprise cybersecurity story has been told as a straight line of escalation: more attacks, more data loss, more pressure, and more urgency. That
+Attackers compromised three country-code top-level domains (ccTLDs) and obtained unauthorized HTTPS certificates for several Google domains, Google&nbsp;said on October 6.  Google's own systems were not breached, but any domain ending in .gh (Ghana), .sl (Sierra Leone) or .as (American Samoa) was put at risk. With such a certificate, an attacker could pose as the real site over an encrypted
 
-🔗 [Read Full Article](https://thehackernews.com/2026/10/the-sixth-voice-of-ciso-data-shows.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/10/attackers-hijack-gh-sl-and-as.html)
 
 
 ---
 
-### 📰 FBI Warns FortiBleed Remains Active After Amassing 86,644 Fortinet Device Credentials
-**Category:** 🔴 Vulnerability
-**Time:** 13:02 UTC
-
-**Summary:**  
-The U.S. Federal Bureau of Investigation (FBI) and Secret Service (USSS) on Tuesday warned that the FortiBleed credential harvesting campaign remains an active threat aimed at internet-facing Fortinet FortiGate firewalls and secure socket layer (SSL) virtual private network (VPN) gateways.  "The campaign exploits reused or leaked credentials and legacy SHA-256 password storage, enabling threat
-
-🔗 [Read Full Article](https://thehackernews.com/2026/10/fbi-warns-fortibleed-remains-active.html)
-
-
----
-
-### 📰 Atlassian Data Center Flaw Draws Exploitation Attempts Within Two Hours of Public Details
-**Category:** 🔴 Vulnerability
-**Time:** 13:02 UTC
-
-**Summary:**  
-Threat actors have begun to exploit a newly disclosed critical security flaw impacting Atlassian Data Center products that could allow access to sensitive files under certain conditions.  The arbitrary file access flaw, tracked as CVE-2026-21589 (CVSS score: 9.3) affects multiple products, including Bitbucket Data Center, Confluence Data Center, Jira Service Management Data Center, Jira Software
-
-🔗 [Read Full Article](https://thehackernews.com/2026/10/atlassian-data-center-flaw-draws.html)
-
-
----
-
-### 📰 What Is Agentic Pentesting? What It Proves, and Where It Stops.
-**Category:** 🔴 Vulnerability
-**Time:** 13:02 UTC
-
-**Summary:**  
-If you’re evaluating an agentic pentesting solution right now, you’ve probably heard the same pitch more than once: point it at a target, and it discovers, validates, and exploits attack paths autonomously, the way a real attacker would.  That promise is worth taking seriously. It’s also worth pressure testing, and three questions do the heavy lifting.&nbsp;     What can the assessment actually
-
-🔗 [Read Full Article](https://thehackernews.com/2026/10/what-is-agentic-pentesting-what-it.html)
-
-
----
-
-### 📰 Anthropic Expands Claude Access for Vetted Cyber Teams as Glasswing Finds 129,000 Flaws
+### 📰 Eight Malicious npm Packages Downloaded 40,767 Times Deliver Overlord RAT and Stealer
 **Category:** 📰 News
-**Time:** 13:02 UTC
+**Time:** 22:56 UTC
 
 **Summary:**  
-Anthropic on Tuesday said it's expanding a program that allows vetted cybersecurity professionals to test its advanced artificial intelligence (AI) models with reduced safeguards and blocking classifiers, as the company claimed its Project Glasswing initiative uncovered at least 129,000 verified software vulnerabilities between April and July 2026.  The company said it also found an additional
+Cybersecurity researchers have disclosed details of a long-running npm supply chain malware campaign that pushes information stealers and remote access trojans (RAT) to compromised hosts.  The campaign has been codenamed MALFEX by CloudSEK and Checkmarx. The activity is assessed to be the work of a lone threat actor who appears to have published 12 packages since August 2023, eight of which have
 
-🔗 [Read Full Article](https://thehackernews.com/2026/10/anthropic-expands-claude-access-for.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/10/eight-malicious-npm-packages-downloaded.html)
 
 
 ---
 
-### 📰 100+ Compromised Websites Use Fake Cloudflare Checks to Deliver LunexStealer
-**Category:** 📰 News
-**Time:** 13:02 UTC
+### 📰 SonicWall Patches CVSS 10.0 Pre-Authentication SSRF Flaw in SMA1000 Appliances
+**Category:** 🔴 Vulnerability
+**Time:** 22:56 UTC
 
 **Summary:**  
-The Computer Emergency Response Team of Ukraine (CERT-UA) has identified more than 100 compromised websites that have been injected with malicious JavaScript to serve an information-stealing malware called LunexStealer (aka Psychedelic Stealer).  The activity, which was observed by the agency in September 2026, has been attributed to a threat cluster dubbed UAC-0277. It did not disclose who the
+SonicWall has released hotfixes for four flaws in its SMA1000 appliances, the gateways that give remote workers access to a company's network and applications. The most serious could allow an attacker without a login to send requests through the appliance and reach internal functions.  SonicWall rates it 10.0 on the CVSS scale and says it has no evidence that any of the four flaws is being
 
-🔗 [Read Full Article](https://thehackernews.com/2026/10/100-compromised-websites-use-fake.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/10/sonicwall-patches-cvss-100-pre.html)
+
+
+---
+
+### 📰 Unpatched Critical LMCache Flaw Lets Unauthenticated Attackers Run Code Remotely
+**Category:** 🔴 Vulnerability
+**Time:** 22:56 UTC
+
+**Summary:**  
+A critical vulnerability in LMCache, open-source software that speeds up large language model (LLM) servers such as vLLM, lets an attacker run code on the cache server without logging in, and no fixed version is available.  The flaw is in LMCache's&nbsp;multiprocess mode, where the cache runs as a standalone server that LLM workers reach over the ZeroMQ messaging library. A single network
+
+🔗 [Read Full Article](https://thehackernews.com/2026/10/unpatched-critical-lmcache-flaw-lets.html)
+
+
+---
+
+### 📰 PoeLLM Malware Infects 3,400+ Servers to Expand Crypto Mining Botnet
+**Category:** 📰 News
+**Time:** 22:56 UTC
+
+**Summary:**  
+Cybersecurity researchers are calling attention to a new malware family that has been observed targeting exposed artificial intelligence (AI) and large language model (LLM) infrastructure with an aim to deploy cryptocurrency miners and further expand the scale of the botnet.  The financially motivated campaign, dubbed Canto Incognito, has been found to install cryptocurrency miners, including
+
+🔗 [Read Full Article](https://thehackernews.com/2026/10/poellm-malware-infects-3400-servers-to.html)
 
 
 ---
