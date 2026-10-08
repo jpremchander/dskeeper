@@ -6,62 +6,62 @@ vulnerabilities, and exploitation activity for continuous learning.
 ---
 ## 📅 2026-10-08
 
-### 📰 Wazza Phishkit Targets Banking, Government, and Manufacturing Across the US, EU, and Australia
+### 📰 FBI Says China-Linked Hackers Ran Portal Giving Third Parties Access to Stolen Emails
 **Category:** 📰 News
-**Time:** 13:10 UTC
+**Time:** 23:09 UTC
 
 **Summary:**  
-Phishing kits are no longer limited to copying a familiar login page and waiting for a victim to enter credentials. Attackers are increasingly building filtering, session management, and traffic controls into the infrastructure that delivers the phishing page itself.  ANY.RUN has identified Wazza, a new phishkit targeting banking, manufacturing, and government organizations across the US, Europe
+Hackers tied to a Chinese cybersecurity company stole email from government organizations, law enforcement agencies, healthcare systems, and religious institutions in Southeast Asia, the FBI and agencies in 6 other countries said on October 8.  The company, Integrity Technology Group, has been sanctioned by the U.S. and the UK. The hackers scanned websites for flaws using a tool containing more
 
-🔗 [Read Full Article](https://thehackernews.com/2026/10/wazza-phishkit-targets-banking.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/10/fbi-says-china-linked-hackers-ran.html)
 
 
 ---
 
-### 📰 16 Malicious Firefox Extensions Pose as Rabby and OKX Wallets to Steal Recovery Phrases
+### 📰 ThreatsDay: Ransomware Affiliate Betrayal, WhatsApp RAT, Exposed Hacker Tools and 12 More Stories
 **Category:** 📰 News
-**Time:** 13:10 UTC
+**Time:** 23:09 UTC
 
 **Summary:**  
-Cybersecurity researchers have discovered a cluster of 16 malicious Mozilla Firefox extensions that are capable of stealing cryptocurrency wallet recovery phrases and private keys.  "The extensions masquerade as wallet portals, desktop utilities, and browser tools, but their code intercepts recovery phrases and private keys during wallet import flows and attempts to send those secrets to
+The crooks have trust problems of their own. One ransomware affiliate decided to keep the profits for himself. Elsewhere, an attacker left a server exposed, complete with tools and traces of an intrusion. Apparently, keeping things secure is a problem on both sides of the fence.  The rest of the week isn't much more reassuring. Malicious code turned up in developer packages and extensions that
 
-🔗 [Read Full Article](https://thehackernews.com/2026/10/16-malicious-firefox-extensions-pose-as.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/10/threatsday-ransomware-affiliate.html)
 
 
 ---
 
-### 📰 U.S. Offers Up to $10 Million for Tips on Zhang Yu, Charged in HAFNIUM Hacks
+### 📰 Japan Sees Sharp Rise in Web Data Leaks Amid Mobile API Abuse and Metabase Attacks
 **Category:** 📰 News
-**Time:** 13:10 UTC
+**Time:** 23:09 UTC
 
 **Summary:**  
-The U.S. State Department is offering up to $10 million for information leading to the identification or location of Zhang Yu, a Chinese national charged in the United States in connection with the 2021 Microsoft Exchange Server attacks known as HAFNIUM.  The reward is for information leading to his identification or location, the news outlet&nbsp;NTD reported&nbsp;this week, citing a notice
+Attackers behind a string of personal data leaks at Japanese organizations have abused APIs for mobile apps and targeted known software flaws, the JPCERT Coordination Center (JPCERT/CC) said.  The Tokyo-based center, which takes incident reports, based its&nbsp;October 8, 2026 alert&nbsp;on those reports and other information. The alert names no attacker and no affected organization.  JPCERT/
 
-🔗 [Read Full Article](https://thehackernews.com/2026/10/us-offers-up-to-10-million-for-tips-on.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/10/japan-sees-sharp-rise-in-web-data-leaks.html)
 
 
 ---
 
-### 📰 MonsterCloud Owner Accused of Billing Over $19M While Secretly Paying Ransoms to Decrypt Data
+### 📰 UAC-0099 Targets Ukrainian Government Personnel With ASHVEIN RAT Hiding Commands in HTML
 **Category:** 📰 News
-**Time:** 13:10 UTC
+**Time:** 23:09 UTC
 
 **Summary:**  
-The U.S. Department of Justice (DoJ) on Wednesday announced charges against a 50-year-old U.S. and Israeli national for allegedly defrauding ransomware victims by secretly paying the attackers to obtain decryptors while claiming to use proprietary tools to recover their data.  Zohar Pinhasi (aka Zack Silver and Zack Green) has been charged with two counts of wire fraud and one count of wire
+The Russia-aligned threat actor known as UAC-0099 has been attributed to a previously undocumented .NET infostealer and remote access trojan (RAT) codenamed ASHVEIN.  According to TrendAI, the malware has been put to use in attacks targeting Ukrainian government personnel. The cybersecurity company is tracking the cluster under the name Earth Sirrush (previously SHADOW-EARTH-065).  ASHVEIN,
 
-🔗 [Read Full Article](https://thehackernews.com/2026/10/monstercloud-owner-accused-of-billing.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/10/uac-0099-targets-ukrainian-government.html)
 
 
 ---
 
-### 📰 Tensorlake npm Package Compromised to Deliver Shai-Hulud Credential-Stealing Worm
+### 📰 ARTEX AI Pentesting Tool Used in Data Theft Attacks on South Korean Financial Firms
 **Category:** 📰 News
-**Time:** 13:10 UTC
+**Time:** 23:09 UTC
 
 **Summary:**  
-The npm package known as "tensorlake," a TypeScript software development kit (SDK) for Tensorlake applications, sandboxes, and cloud services, was compromised as part of a ChainDrop / Shai-Hulud supply chain attack.  The malicious version 0.5.144 "contains obfuscated malware that harvests credentials, exfiltrates secrets, establishes persistence, and executes remotely supplied code," Socket said
+Cybersecurity researchers have disclosed details of a targeted campaign aimed at South Korean financial organizations that used an artificial intelligence (AI) pen testing tool named ARTEX to carry out the attacks.  The activity, per CrowdStrike Intelligence, was active from late September to early October 2026, and resulted in data exfiltration.  "In this activity, the threat actor leveraged
 
-🔗 [Read Full Article](https://thehackernews.com/2026/10/tensorlake-npm-package-compromised-to.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/10/artex-ai-pentesting-tool-used-in-data.html)
 
 
 ---
