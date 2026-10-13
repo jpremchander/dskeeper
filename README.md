@@ -6,86 +6,74 @@ vulnerabilities, and exploitation activity for continuous learning.
 ---
 ## 📅 2026-10-13
 
-### 📰 [Webinar] How to Stop AI-Driven Privilege Escalation With Runtime Identity Controls
-**Category:** 🔴 Vulnerability, 📅 Webinar/Event
-**Time:** 13:56 UTC
-
-**Summary:**  
-The dangerous part of a stolen identity isn't always the initial login. It's what an attacker can do with that access next.  With AI accelerating reconnaissance, exploitation of vulnerabilities, and privilege escalation, attackers can move through systems faster than security teams can investigate. A compromised account that looks legitimate at first could become the starting point for a much
-
-🔗 [Read Full Article](https://thehackernews.com/2026/10/webinar-how-to-stop-ai-driven-privilege.html)
-
-
----
-
-### 📰 LG Smart TVs Vulnerable to Pre-Auth Root Takeover From Local Network
+### 📰 Anthropic Warns Small AI Models Could Soon Form Self-Propagating IoT Botnets
 **Category:** 📰 News
-**Time:** 13:56 UTC
+**Time:** 22:29 UTC
 
 **Summary:**  
-Three vulnerabilities in LG's webOS can be chained to give an attacker on the same local network root access to certain smart TVs without a PIN or any interaction from the owner.  LG has issued a fix, according to&nbsp;an advisory published by SSD Secure Disclosure&nbsp;on October 12.  The chain was tested on two TV models, the 32LQ636BPSA and the 27TQ600SW, running webOS 7.5.7-25 on firmware
+Small artificial intelligence (AI) models may be months away from developing capabilities to self-replicate on IoT devices like smart ovens and off-brand Android TV boxes, according to a warning from Anthropic.  The frontier AI lab said small AI models could form autonomous, self-propagating worm botnets that are "challenging to shut down," since "there's no centralized point to shut off."
 
-🔗 [Read Full Article](https://thehackernews.com/2026/10/lg-smart-tvs-vulnerable-to-pre-auth.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/10/anthropic-warns-small-ai-models-could.html)
 
 
 ---
 
-### 📰 Product Walkthrough: Bitdefender AI Visibility and Control
-**Category:** 📰 News
-**Time:** 13:56 UTC
-
-**Summary:**  
-A user opens a browser tab, pastes data into a chat assistant, and nothing is installed.  A developer adds a coding&nbsp;assistant as an editor extension, and nothing shows up in the installed programs list.  Someone downloads a local model runtime, a program that runs models directly on the machine instead of sending data to an external service, because they were told not to send company data
-
-🔗 [Read Full Article](https://thehackernews.com/2026/10/product-walkthrough-bitdefender-ai.html)
-
-
----
-
-### 📰 Attackers Heat French Supermarket Fridges Up to 50°C by Hijacking Danfoss Controllers
-**Category:** 📰 News
-**Time:** 13:56 UTC
-
-**Summary:**  
-Attackers took remote control of fridges and freezers at hundreds of French supermarkets on the night of October 11 and warmed them, forcing stores to throw food away, several retail chains said.  The attackers reached them through the controller that runs all of a store's fridges and freezers, a device made by Danish company Danfoss that maintenance firms can manage remotely. Les Mousquetaires
-
-🔗 [Read Full Article](https://thehackernews.com/2026/10/attackers-heat-french-supermarket.html)
-
-
----
-
-### 📰 Two Critical MarkLogic Flaws Could Give Delegated Managers Persistent Admin Control
-**Category:** 📰 News
-**Time:** 13:56 UTC
-
-**Summary:**  
-Two of 31 newly disclosed flaws in Progress Software's&nbsp;MarkLogic Server&nbsp;database could let an account given only some management privileges take administrator control of the server, the company says.  Progress published all 31 on October 12 and scored five of them critical. Fixes have been available since September 10, in&nbsp;MarkLogic 11.3.7&nbsp;and&nbsp;MarkLogic 12.1.0.  Affected
-
-🔗 [Read Full Article](https://thehackernews.com/2026/10/two-critical-marklogic-flaws-could-give.html)
-
-
----
-
-### 📰 GitLab Patches CVSS 10.0 Flaw That Could Let Unauthenticated Users Run Server Code
+### 📰 Docker Fixes Critical Two-Year-Old Hub Flaw That Let One User Push Images as Another
 **Category:** 🔴 Vulnerability
-**Time:** 13:56 UTC
+**Time:** 22:29 UTC
 
 **Summary:**  
-GitLab has released patches for a maximum-severity security flaw impacting its Community Edition (CE) and Enterprise Edition (EE) software that could result in arbitrary code execution.  "GitLab has remediated an issue that, under certain conditions, could have allowed an unauthenticated user to execute arbitrary code on the GitLab server via a specially crafted regular expression in a CI/CD
+A flaw in Docker Hub, the registry where container images are published and downloaded, let one user push, pull, or delete images as another user. Docker fixed the flaw on September 30 and says it found no evidence that anyone exploited it.  The flaw was in the feature that&nbsp;converts a personal account&nbsp;into an organization, Docker said in a&nbsp;security advisory&nbsp;on October 12.
 
-🔗 [Read Full Article](https://thehackernews.com/2026/10/gitlab-patches-cvss-100-flaw-that-could.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/10/docker-fixes-critical-two-year-old-hub.html)
 
 
 ---
 
-### 📰 Low-Cost Android Phones Ship With Preinstalled Malware That Turns Them Into Residential Proxies
-**Category:** 📰 News
-**Time:** 13:56 UTC
+### 📰 Attacker Chains Three Ivanti Connect Secure Zero-Days for Root Access, Only Two Patched So Far
+**Category:** 🔴 Vulnerability
+**Time:** 22:29 UTC
 
 **Summary:**  
-Low-cost Android smartphones have been shipped with malicious software baked into the device firmware, allowing bad actors to covertly install apps, conduct ad fraud, and turn devices into residential proxies.  The activity, which targets Android devices built on MediaTek platforms across several brands, is being tracked by Bitdefender under the moniker Midnight Mimosa.  The preinstalled
+An attacker chained three zero-day flaws in Ivanti Connect Secure, a VPN appliance, to run commands as root without logging in, security firm&nbsp;Volexity said&nbsp;on October 13. Ivanti has released fixes for two of the flaws and told customers on affected versions to "act immediately." A fix for the third is still pending, according to Volexity.  Volexity, which reported the flaws to Ivanti,
 
-🔗 [Read Full Article](https://thehackernews.com/2026/10/low-cost-android-phones-ship-with.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/10/attacker-chains-three-ivanti-connect.html)
+
+
+---
+
+### 📰 SAP Discloses Critical CVSS 10 Flaw in Cloud SDK for Python Allowing OAuth2 Credential Theft
+**Category:** 📰 News
+**Time:** 22:29 UTC
+
+**Summary:**  
+A flaw in SAP's&nbsp;Cloud SDK for Python&nbsp;can send an application's OAuth2 client credentials to a server an attacker controls, SAP said in a&nbsp;security advisory&nbsp;on October 13. The flaw affects multi-tenant applications on SAP Business Technology Platform (BTP) that use the SDK, SAP's official Python client for BTP services. An attacker must be able to control the tenant subdomain,
+
+🔗 [Read Full Article](https://thehackernews.com/2026/10/sap-discloses-critical-cvss-10-flaw-in.html)
+
+
+---
+
+### 📰 GitHub Tightens npm Publishing After Flaw Left 1,500+ Packages Vulnerable to Hijacking
+**Category:** 📰 News
+**Time:** 22:29 UTC
+
+**Summary:**  
+GitHub has taken the step of expiring unvalidated npm trusted publishing configurations 48 hours after creation after researchers found that it was possible for an attacker to push new versions of a different user's package without having to steal their credentials.  "Your configuration becomes validated and exempt from expiry after its first successful publish," the Microsoft-owned subsidiary
+
+🔗 [Read Full Article](https://thehackernews.com/2026/10/github-tightens-npm-publishing-after.html)
+
+
+---
+
+### 📰 Xandr Fined a Record €8.6 Million for Relaying Grindr Data Revealing Sexual Orientation
+**Category:** 📰 News
+**Time:** 22:29 UTC
+
+**Summary:**  
+The Norwegian Data Protection Authority (DPA) has fined Xandr, an advertising unit owned by Microsoft, €8.6 million ($9.62 million) for illegally relaying ​Grindr users' sensitive data to advertisers.  The administrative penalty is the largest issued by the data protection watchdog, arguing the case merited a high fine because of the "very serious" nature of the breach. The infringements
+
+🔗 [Read Full Article](https://thehackernews.com/2026/10/xandr-fined-record-86-million-for.html)
 
 
 ---
