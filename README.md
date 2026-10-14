@@ -6,50 +6,74 @@ vulnerabilities, and exploitation activity for continuous learning.
 ---
 ## 📅 2026-10-14
 
-### 📰 U.S. Shuts Down Over 40 Laptop Farms, Charges 14 in North Korean IT Worker Fraud
-**Category:** 📰 News
-**Time:** 16:55 UTC
-
-**Summary:**  
-The U.S. Department of Justice (DoJ) on Tuesday charged 14 people and seized about 187 computers as part of its ongoing efforts to disrupt North Korea's fraudulent remote IT worker (ITW) scheme.  The indictment charges a mix of U.S. citizens and Chinese nationals for their roles in an IT worker conspiracy affecting more than 70 U.S. companies, charging them with wire fraud conspiracy, money
-
-🔗 [Read Full Article](https://thehackernews.com/2026/10/us-shuts-down-over-40-laptop-farms.html)
-
-
----
-
-### 📰 CISA Urges Immediate Ivanti Connect Secure Updates as Honeypots Log 105 Exploit Attempts
+### 📰 Cisco Warns of Active Attacks Exploiting New Critical Secure Email Gateway Vulnerability
 **Category:** 🔴 Vulnerability
-**Time:** 16:55 UTC
+**Time:** 21:28 UTC
 
 **Summary:**  
-The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday urged organizations to take steps to immediately update their Ivanti Connect Secure (ICS) appliances and deployments to the latest version following the disclosure of an actively exploited vulnerability.  The security flaw, tracked as CVE-2026-104935 (CVSS score: 8.6), is a case of authentication bypass impacting ICS
+Attackers are exploiting a critical flaw in Cisco Secure Email Gateway that lets a sender with no login write files to the appliance's operating system, Cisco&nbsp;said in an advisory&nbsp;on Wednesday.  The attacker sends an email with a crafted attachment through the gateway and, if it succeeds, could then run commands as root. The appliance filters an organization's email for spam, malware,
 
-🔗 [Read Full Article](https://thehackernews.com/2026/10/cisa-urges-immediate-ivanti-connect.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/10/cisco-warns-of-active-attacks.html)
 
 
 ---
 
-### 📰 curl Patches HTTP/2 Upload Flaw After PoC Demonstrates Client-Side Code Execution
+### 📰 Hackers Backdoor Nextcloud Servers Through Critical Flaw in Collabora’s Built-in CODE App
 **Category:** 🔴 Vulnerability
-**Time:** 16:55 UTC
+**Time:** 21:28 UTC
 
 **Summary:**  
-A flaw in how curl handles HTTP/2 uploads lets a malicious server receiving an upload corrupt the client's memory, and the researcher who reported it turned that into code execution on the uploading machine.  The curl project fixed it on October 14 in&nbsp;curl 8.23.0. Taking over a client needs exact knowledge of its build and memory layout, and curl expects a real attack to end in a crash
+Attackers exploited a flaw in an optional Nextcloud app,&nbsp;Collabora Online - Built-in CODE Server, to plant web shells on Nextcloud servers. Three administrators&nbsp;reported the issue on GitHub, with the first logged attack on September 10.  A web shell is a small file that executes any command an attacker sends via a web request, with the rights of the web server account. The flaw
 
-🔗 [Read Full Article](https://thehackernews.com/2026/10/curl-patches-http2-upload-flaw-after.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/10/hackers-backdoor-nextcloud-servers.html)
 
 
 ---
 
-### 📰 How to Run a Deepfake Readiness Drill Before a Cloned Voice Calls Your Team
+### 📰 Microsoft Disrupts 3 Phishing Kits Linked to Over 1 Billion Scam Messages
 **Category:** 📰 News
-**Time:** 16:55 UTC
+**Time:** 21:28 UTC
 
 **Summary:**  
-Cloned voices and synthetic video calls now show up in payment fraud, help desk resets, and access requests. A structured drill shows security teams exactly where verification breaks down, while nothing is at stake.  The call comes in at 4:40 on a Friday. It's the CFO, or it sounds exactly like her, asking the controller to push a supplier payment out before the weekend because a deal closes
+Microsoft and Health-ISAC, along with the Japan Cybercrime Control Center (JC3) and a coalition of private sector companies, such as Resecurity, Cloudflare, Oracle, Proofpoint, and TRM Labs, announced the disruption of three phishing kits, CoGUI (aka NX or FA), Haozi (aka Phoenix), and Iron Man System.  "Since January 2026, the threat actors behind these kits have been responsible for
 
-🔗 [Read Full Article](https://thehackernews.com/2026/10/how-to-run-deepfake-readiness-drill.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/10/microsoft-disrupts-3-phishing-kits.html)
+
+
+---
+
+### 📰 Researchers Used a Public OpenAI Model to Build a $250,000 Chrome Full-Chain Exploit in Six Days
+**Category:** 🔴 Vulnerability
+**Time:** 21:28 UTC
+
+**Summary:**  
+A team at security firm XBOW chained three then-unknown Google Chrome bugs into a single attack that runs code on a Windows computer when the user only loads a web page, the company said.  Its researchers built the attack in six days by directing AI agents running OpenAI's publicly available GPT-5.6 Sol model. Google has since confirmed all three bugs,&nbsp;fixed them, and paid XBOW its top $
+
+🔗 [Read Full Article](https://thehackernews.com/2026/10/researchers-used-public-openai-model-to.html)
+
+
+---
+
+### 📰 Hirudo Android Trojan Uses Patched Banking Apps to Bypass Their Built-In Security Checks
+**Category:** 🔴 Vulnerability
+**Time:** 21:28 UTC
+
+**Summary:**  
+Cybersecurity researchers have disclosed details of a new Android banking trojan called Hirudo that works by replacing legitimate banking apps with purpose-built patched versions designed to bypass security checks from inside the app itself, marking a new escalation in financial fraud.&nbsp;  Dutch mobile security company ThreatFabric said it identified replacements for eight Indonesian banking
+
+🔗 [Read Full Article](https://thehackernews.com/2026/10/hirudo-android-trojan-uses-patched.html)
+
+
+---
+
+### 📰 An AI Agent Found a Critical OTP Bypass in Production. The Attack Was the Easy Part.
+**Category:** 📰 News
+**Time:** 21:28 UTC
+
+**Summary:**  
+The bug was simple: the login let you choose where your sign-in code went. Proving it on a live website was the hard part.  TL;DR     During an authorized assessment, an AI pentesting agent found a critical authentication bypass on a major insurer's production website, on its own.   One login request let the user choose where the one-time passcode went.   The attack was the easy part. Proving it
+
+🔗 [Read Full Article](https://thehackernews.com/2026/10/an-ai-agent-found-critical-otp-bypass.html)
 
 
 ---
