@@ -6,62 +6,98 @@ vulnerabilities, and exploitation activity for continuous learning.
 ---
 ## 📅 2026-10-15
 
-### 📰 India Mandates Registered Caller Name Display on 4G and Newer Networks From November 1
+### 📰 Citizen Lab Traces Zero-Click Candiru Spyware Infections at Al Jazeera to Targeted Online Ads
 **Category:** 📰 News
-**Time:** 11:11 UTC
+**Time:** 16:42 UTC
 
 **Summary:**  
-The Indian government has directed telecom service providers (TSPs) in the country to mandatorily display callers' registered names along with their numbers for incoming calls starting November 1, 2026, in an effort to help people identify calls from unknown numbers and tackle spam or fraudulent calls.  To that end, the Department of Telecommunications has issued a circular urging service
+Candiru, an Israeli maker of spyware sold to governments, infected devices at the news network Al Jazeera through ordinary online ads, in attacks that needed no click or other action from the user, researchers at&nbsp;the Citizen Lab&nbsp;said Thursday.  The hidden attack code ran the moment an ad loaded on the screen, and in some cases the ad loaded out of sight, in the background.  The Citizen
 
-🔗 [Read Full Article](https://thehackernews.com/2026/10/india-mandates-registered-caller-name.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/10/citizen-lab-traces-zero-click-candiru.html)
 
 
 ---
 
-### 📰 GhostAction Compromises About 1,900 GitHub Accounts, Targets Over 30,000 Repositories
+### 📰 Silent Lynx Exploits WinRAR Flaw to Deploy Reverse Shell in CIS Government Attacks
+**Category:** 🔴 Vulnerability
+**Time:** 16:42 UTC
+
+**Summary:**  
+The threat actor known as Silent Lynx has been attributed to a fresh set of attacks targeting government organizations across the Commonwealth of Independent States (CIS).  The activity, observed from June 2025 through August 2026, involves four different infection chains that make use of macro-enabled documents, PS2EXE downloaders, GitHub-hosted PowerShell, and crafted WinRAR archives
+
+🔗 [Read Full Article](https://thehackernews.com/2026/10/silent-lynx-exploits-winrar-flaw-to.html)
+
+
+---
+
+### 📰 Help TDS Linked to Hotejka as 20,000+ Cloudflare Pages Domains Host Tech Support Scams
 **Category:** 📰 News
-**Time:** 11:11 UTC
+**Time:** 16:42 UTC
 
 **Summary:**  
-The credential-theft campaign known as GhostAction has ramped up, targeting more than 30,000 repositories across 3,000 users and organizations.  The spike, according to GitGuardian, was observed on October 8 and 9, 2026.  "This resulted from compromising the GitHub accounts of about 1,900 users. It attempted to extract 3,174 secrets from public repositories' CI," security researchers Gaetan
+A long-running Traffic Distribution System (TDS) known as Help TDS to a Russian-language affiliate program called Hotejka, which appears to be a rebrand of a traffic monetization operation dubbed ROI777.  Help TDS is assessed to be active since at least 2017, offering PHP code templates to partners and affiliates that are installed into compromised websites with an aim to direct unsuspecting
 
-🔗 [Read Full Article](https://thehackernews.com/2026/10/ghostaction-compromises-about-1900.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/10/help-tds-linked-to-hotejka-as-20000.html)
 
 
 ---
 
-### 📰 Langflow's Critical Authenticated RCE Flaw Targeted in 1,423 Honeypot Exploit Attempts
+### 📰 NGINX Fixes 5 Flaws, Including Possible RCE and a TLS Bug That May Skip Client-Cert Checks
 **Category:** 🔴 Vulnerability
-**Time:** 11:11 UTC
+**Time:** 16:42 UTC
 
 **Summary:**  
-Threat actors are exploiting a critical security flaw in Langflow, according to an alert from Previdian.  Langflow is an open-source platform that allows developers to build artificial intelligence (AI) applications and agentic workflows. In February 2025, DataStax, the parent company of Langflow, was acquired by IBM.  The vulnerability in question is CVE-2026-105740 (CVSS score: 9.9), a case of
+NGINX released&nbsp;versions 1.30.6 and 1.31.7&nbsp;on October 14 to fix five vulnerabilities, one of them present in every release since May 2005.  There are three memory bugs that F5, the company behind NGINX, says could crash a worker process or possibly let an attacker run code, and each requires a specific configuration to exploit.  A fourth lets an attacker forge a TLS session that could
 
-🔗 [Read Full Article](https://thehackernews.com/2026/10/langflows-critical-authenticated-rce.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/10/nginx-fixes-5-flaws-including-possible.html)
 
 
 ---
 
-### 📰 AhsayCBS Flaws Exploited to Deploy Web Shells Get New Fixes After Incomplete Patches
+### 📰 Next.js Ships Out-of-Band Patch for Two Critical RCE Flaws in Caching and SVG Processing
 **Category:** 🔴 Vulnerability
-**Time:** 11:11 UTC
+**Time:** 16:42 UTC
 
 **Summary:**  
-Singapore-based Ahsay Backup has released security updates to address two security flaws in AhsayCBS that have been exploited by bad actors to drop web shells and XMRig cryptocurrency miners.  The vulnerabilities in question are CVE-2026-105133 and CVE-2026-105134, which could be chained to sidestep authentication and execute arbitrary commands on affected systems.  In a report published earlier
+Next.js released an&nbsp;out-of-band security update&nbsp;on October 14 that fixes two critical flaws allowing unauthenticated remote code execution, along with a high-severity denial-of-service flaw.  One code-execution flaw is in React Server Components, and the other in librsvg, the open-source library Next.js uses through the&nbsp;sharp&nbsp;package to handle SVG images.  The fixes are in
 
-🔗 [Read Full Article](https://thehackernews.com/2026/10/ahsaycbs-flaws-exploited-to-deploy-web.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/10/nextjs-ships-out-of-band-patch-for-two.html)
 
 
 ---
 
-### 📰 Palo Alto Networks Patches PAN-OS Authenticated RCE Flaw Amid Active Exploitation
+### 📰 Drupal Patches Critical Field UI Flaw With Unauthenticated RCE Path via Contributed Modules
 **Category:** 🔴 Vulnerability
-**Time:** 11:11 UTC
+**Time:** 16:42 UTC
 
 **Summary:**  
-Palo Alto Networks on Wednesday issued security updates for a high-severity flaw in PAN-OS software that has come under active exploitation.  The vulnerability, tracked as CVE-2026-0322 (CVSS score: 8.6), is a case of remote code execution in the management interface.  "A remote code execution (RCE) vulnerability in the management interface of Palo Alto Networks PAN-OS software enables an
+Drupal core has a critical flaw in its Field UI module that could let an attacker run code on the site's server, and fixes were shipped on October 14 in Drupal 11.4.10, 11.3.19, and 10.6.19.  An attacker cannot reach the flaw through core alone, the Drupal Security Team said in&nbsp;its advisory. Several exploit paths exist through contributed modules, and at least one known path needs no login.
 
-🔗 [Read Full Article](https://thehackernews.com/2026/10/palo-alto-networks-patches-pan-os.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/10/drupal-patches-critical-core-rce-flaw.html)
+
+
+---
+
+### 📰 Fake AI Attacks Spread Across US Companies: How MSSPs Can Stop Incidents Early
+**Category:** 📰 News
+**Time:** 16:42 UTC
+
+**Summary:**  
+Attackers are impersonating popular AI products to distribute malware, steal browser sessions, and compromise business accounts. ANY.RUN linked 1,258 public sandbox analyses to fake AI campaigns between April and October of 2026.&nbsp;  The campaigns also increase operational pressure on MSSPs serving US businesses, which accounted for 16% of country-attributed targets.&nbsp;  Similar attacks
+
+🔗 [Read Full Article](https://thehackernews.com/2026/10/fake-ai-attacks-spread-across-us.html)
+
+
+---
+
+### 📰 Why AI Confidence Is Not Validation
+**Category:** 📰 News
+**Time:** 16:42 UTC
+
+**Summary:**  
+AI is already part of digital forensics and incident response work, with or without a policy in place to govern it. The issue is that these tools are growing more confident in their own output faster than practitioners are developing reliable ways to verify it. Without governance models and validation standards in place, that gap compounds and rarely stays contained to a workstation: an
+
+🔗 [Read Full Article](https://thehackernews.com/2026/10/why-ai-confidence-is-not-validation.html)
 
 
 ---
