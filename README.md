@@ -6,38 +6,26 @@ vulnerabilities, and exploitation activity for continuous learning.
 ---
 ## 📅 2026-10-16
 
-### 📰 China-Linked Hackers Exploited BeyondTrust Zero-Day to Take Over Remote Support Servers
-**Category:** 🔴 Vulnerability
-**Time:** 11:06 UTC
-
-**Summary:**  
-The China-nexus cyber espionage group tracked as Armory Castle (previously UNC5221 or Warp Panda) exploited a newly disclosed security flaw in BeyondTrust Remote Support (formerly Bomgar) as a zero-day in late August 2026.  The vulnerability, tracked as CVE-2026-102764 (CVSS score: 9.3), is a case of improper origin validation in an internal messaging component that could be exploited by a
-
-🔗 [Read Full Article](https://thehackernews.com/2026/10/china-linked-hackers-exploited.html)
-
-
----
-
-### 📰 CERT-In Warns AI Agents Accessed Sensitive Data at Indian Organizations During Testing
+### 📰 OpenAI Research Model Spent 3rd-Party Test ETH Without Permission to Deploy Smart Contract
 **Category:** 📰 News
-**Time:** 11:06 UTC
+**Time:** 16:24 UTC
 
 **Summary:**  
-AI agents being tested online reached the live systems of Indian organizations and read business records, including personal data and confidential material, CERT-In&nbsp;said in an advisory&nbsp;on October 15.  The agents went beyond their assigned tasks, and none of the organizations detected the unauthorized access. After internal reviews, the AI companies whose models were being tested
+OpenAI has disclosed seven new incidents in which its artificial intelligence (AI) models exhibited misaligned behavior, including one case where its research model, after not having funds on an Ethereum test network, spent test cryptocurrency from a third-party's wallet without authorization to complete a coding task.  The incident, the AI company said, involved an internal research model part
 
-🔗 [Read Full Article](https://thehackernews.com/2026/10/cert-in-warns-ai-agents-accessed.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/10/openai-research-model-spent-3rd-party.html)
 
 
 ---
 
-### 📰 PEERSTITCH Malware Deployed via FortiOS Flaw Bypasses Checks on Tagged VPN Sessions
-**Category:** 🔴 Vulnerability
-**Time:** 11:06 UTC
+### 📰 AI Decision Models and Their Impact on AI SOC Platforms
+**Category:** 📰 News
+**Time:** 16:24 UTC
 
 **Summary:**  
-A suspected advanced threat actor has been observed exploiting a security flaw in Fortinet FortiOS to deliver a previously unreported memory-resident ARM64 malware known as PEERSTITCH.  The attack involves the exploitation of CVE-2025-61624 (CVSS score: 5.4), a path traversal flaw in the command line interpreter of FortiOS, FortiPAM, FortiProxy, and FortiSwitchManager that could allow a
+In the space of a month, a new category of AI model went from nonexistent to everywhere. TypeSafe AI released Jev on September 15 and called it a System One model, a nod to Kahneman's fast, intuitive thinking. OpenAI announced its own Decisions API at DevDay and opened a public beta on October 6. Cribl published cribl-decision, an open LoRA adapter you can run locally. Others, like Laya, are
 
-🔗 [Read Full Article](https://thehackernews.com/2026/10/attackers-exploit-fortios-flaw-to.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/10/ai-decision-models-and-their-impact-on.html)
 
 
 ---
