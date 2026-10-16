@@ -6,26 +6,74 @@ vulnerabilities, and exploitation activity for continuous learning.
 ---
 ## 📅 2026-10-16
 
-### 📰 OpenAI Research Model Spent 3rd-Party Test ETH Without Permission to Deploy Smart Contract
-**Category:** 📰 News
-**Time:** 16:24 UTC
+### 📰 Researchers Demonstrate OpenBSD Root Exploit Chaining 37-Year-Old Shared-Memory Bug
+**Category:** 🔴 Vulnerability
+**Time:** 20:47 UTC
 
 **Summary:**  
-OpenAI has disclosed seven new incidents in which its artificial intelligence (AI) models exhibited misaligned behavior, including one case where its research model, after not having funds on an Ethereum test network, spent test cryptocurrency from a third-party's wallet without authorization to complete a coding task.  The incident, the AI company said, involved an internal research model part
+A local privilege escalation exploit published today gains root on OpenBSD 7.9 by chaining a roughly 37-year-old integer overflow with a separate kernel flaw, bypassing OpenBSD's KARL kernel-address randomization and its SMAP and SMEP hardware protections. Security firm Calif, which found and reported the flaws, published a detailed writeup and full proof-of-concept code after OpenBSD shipped
 
-🔗 [Read Full Article](https://thehackernews.com/2026/10/openai-research-model-spent-3rd-party.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/10/researchers-demonstrate-openbsd-root.html)
 
 
 ---
 
-### 📰 AI Decision Models and Their Impact on AI SOC Platforms
-**Category:** 📰 News
-**Time:** 16:24 UTC
+### 📰 Attackers Tampered with AOMEI Backupper's Update Servers for Minutes to Deliver a Backdoor
+**Category:** 💡 Expert Insight
+**Time:** 20:47 UTC
 
 **Summary:**  
-In the space of a month, a new category of AI model went from nonexistent to everywhere. TypeSafe AI released Jev on September 15 and called it a System One model, a nod to Kahneman's fast, intuitive thinking. OpenAI announced its own Decisions API at DevDay and opened a public beta on October 6. Cribl published cribl-decision, an open LoRA adapter you can run locally. Others, like Laya, are
+Attackers repeatedly changed the files that AOMEI Backupper fetches from the vendor's own update servers, in windows of five to ten minutes at a time between May and July 2026, so that any copy of the Windows backup program that checked for an update during one of those windows would download and run a backdoor.  Google Threat Intelligence Group, Mandiant, and&nbsp;ManageEngine's Threat Analysis
 
-🔗 [Read Full Article](https://thehackernews.com/2026/10/ai-decision-models-and-their-impact-on.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/10/attackers-tampered-with-aomei.html)
+
+
+---
+
+### 📰 UAT-11985 Uses Fake Event Invites to Target Taiwan Research Affiliates With Google AitM Phishing
+**Category:** 📅 Webinar/Event
+**Time:** 20:47 UTC
+
+**Summary:**  
+Cybersecurity researchers have disclosed details of an advanced persistent threat (APT) spear-phishing campaign that has targeted individuals affiliated with Taiwan research organizations to direct victims to an adversary-in-the-middle (AitM) phishing framework designed to harvest their Google account credentials and multi-factor authentication (MFA) codes.  The activity is being tracked by
+
+🔗 [Read Full Article](https://thehackernews.com/2026/10/uat-11985-uses-fake-event-invites-to.html)
+
+
+---
+
+### 📰 China-Linked Hackers Exploited BeyondTrust Zero-Day to Take Over Remote Support Servers
+**Category:** 🔴 Vulnerability
+**Time:** 20:47 UTC
+
+**Summary:**  
+The China-nexus cyber espionage group tracked as Armory Castle (previously UNC5221 or Warp Panda) exploited a newly disclosed security flaw in BeyondTrust Remote Support (formerly Bomgar) as a zero-day in late August 2026.  The vulnerability, tracked as CVE-2026-102764 (CVSS score: 9.3), is a case of improper origin validation in an internal messaging component that could be exploited by a
+
+🔗 [Read Full Article](https://thehackernews.com/2026/10/china-linked-hackers-exploited.html)
+
+
+---
+
+### 📰 CERT-In Warns AI Agents Accessed Sensitive Data at Indian Organizations During Testing
+**Category:** 📰 News
+**Time:** 20:47 UTC
+
+**Summary:**  
+AI agents being tested online reached the live systems of Indian organizations and read business records, including personal data and confidential material, CERT-In&nbsp;said in an advisory&nbsp;on October 15.  The agents went beyond their assigned tasks, and none of the organizations detected the unauthorized access. After internal reviews, the AI companies whose models were being tested
+
+🔗 [Read Full Article](https://thehackernews.com/2026/10/cert-in-warns-ai-agents-accessed.html)
+
+
+---
+
+### 📰 PEERSTITCH Malware Deployed via FortiOS Flaw Bypasses Checks on Tagged VPN Sessions
+**Category:** 🔴 Vulnerability
+**Time:** 20:47 UTC
+
+**Summary:**  
+A suspected advanced threat actor has been observed exploiting a security flaw in Fortinet FortiOS to deliver a previously unreported memory-resident ARM64 malware known as PEERSTITCH.  The attack involves the exploitation of CVE-2025-61624 (CVSS score: 5.4), a path traversal flaw in the command line interpreter of FortiOS, FortiPAM, FortiProxy, and FortiSwitchManager that could allow a
+
+🔗 [Read Full Article](https://thehackernews.com/2026/10/attackers-exploit-fortios-flaw-to.html)
 
 
 ---
