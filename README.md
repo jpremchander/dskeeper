@@ -6,14 +6,14 @@ vulnerabilities, and exploitation activity for continuous learning.
 ---
 ## 📅 2026-10-17
 
-### 📰 Hackers Use Compromised ConnectWise Credential to Sign In to 173 Microsoft 365 Tenants
+### 📰 MALFEX npm Package 'imgdecode' Hides Shellcode Loader in Windows Native Addon
 **Category:** 📰 News
-**Time:** 10:25 UTC
+**Time:** 15:19 UTC
 
 **Summary:**  
-Cybersecurity researchers are sounding the alarm related to an active campaign in which unknown threat actors are abusing a compromised Microsoft 365 (M365) credential belonging to ConnectWise Cloud Backup (formerly SkyKick) to gain unauthorized access to customers' M365 environments.  ConnectWise Cloud Backup is a cloud-based backup and recovery service built for managed service providers (MSPs
+Cybersecurity researchers have discovered a malicious npm package that's part of a recently disclosed software supply chain attack campaign dubbed MALFEX.  The package, named "imgdecode," was uploaded to the package registry on September 30, 2026, by a user named "malfexteste8." It has been downloaded 979 times as of writing and is still available on npm as of writing. The latest version of
 
-🔗 [Read Full Article](https://thehackernews.com/2026/10/hackers-use-compromised-connectwise.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/10/malfex-npm-package-imgdecode-hides.html)
 
 
 ---
