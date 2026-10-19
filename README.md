@@ -6,38 +6,62 @@ vulnerabilities, and exploitation activity for continuous learning.
 ---
 ## 📅 2026-10-19
 
-### 📰 Fake Web3 Accelerator Uses npm Packages to Spread Malware and Hijack AI Agent Traffic
-**Category:** 📰 News
-**Time:** 12:44 UTC
-
-**Summary:**  
-A fake Web3 accelerator has been observed pushing information stealers and backdoors to Windows and macOS systems using malicious npm packages under the pretext of offering free artificial intelligence (AI) credits for Anthropic Claude and Google Gemini, coding tools, and security audits.  "The tools delivered information-stealing malware and backdoors for macOS and Windows machines," Elastic
-
-🔗 [Read Full Article](https://thehackernews.com/2026/10/fake-web3-accelerator-uses-npm-packages.html)
-
-
----
-
-### 📰 Unpatched Broadcom Wi-Fi Flaw Lets Attackers in Range Run Code as Root on Routers
+### 📰 Hackers Exploit Plex2Shell Flaws to Install Crypto Miners and Linux Proxy Backdoor
 **Category:** 🔴 Vulnerability
-**Time:** 12:44 UTC
+**Time:** 22:11 UTC
 
 **Summary:**  
-A flaw in Broadcom's Wi-Fi setup software lets an attacker within radio range run code as root on Broadcom-based routers, without the network password or any pairing step, security researcher Quentin Kaiser&nbsp;disclosed&nbsp;on October 16.  He showed the attack working against home gateways supplied by three Belgian internet providers, in one case reading the Wi-Fi password off the device
+Threat actors have begun to exploit a chain of vulnerabilities in Plex Media Server to deploy cryptocurrency miners and reverse proxy software, a day after a proof-of-concept (PoC) went public.  According to a researcher who goes by the online alias boredhackerblog, the exploitation activity involves chaining four different vulnerabilities, collectively called Plex2Shell.  The vulnerabilities
 
-🔗 [Read Full Article](https://thehackernews.com/2026/10/unpatched-broadcom-wi-fi-flaw-lets.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/10/hackers-exploit-plex2shell-flaws-to.html)
 
 
 ---
 
-### 📰 OpenCode Console Breach May Have Exposed OpenAI, Anthropic, and Google API Keys
+### 📰 Popular WordPress SEO Plugin Rank Math PRO Hijacked to Deliver Self-Restoring Backdoor
 **Category:** 📰 News
-**Time:** 12:44 UTC
+**Time:** 22:11 UTC
 
 **Summary:**  
-An intruder reached a legacy system at OpenCode on the night of October 16 and may have exposed the third-party AI provider keys that users had saved in OpenCode Console, the company said.  Console is OpenCode's optional hosted service: a workspace saves its own OpenAI, Anthropic, or Google key there, and Console uses that key to call the provider so team members can use the models without
+Copies of Rank Math PRO, the paid version of the Rank Math SEO plugin for WordPress, that were downloaded from rankmath.com or delivered as updates between 20:02 UTC on October 15 and 07:12 UTC on October 16 contained malware, Rank Math said in a&nbsp;security notice&nbsp;published on October 16.  Any site that installed and activated one of those copies should be treated as compromised, and the
 
-🔗 [Read Full Article](https://thehackernews.com/2026/10/opencode-console-breach-may-have.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/10/popular-wordpress-seo-plugin-rank-math.html)
+
+
+---
+
+### 📰 ⚡ Weekly Recap: 98 Zero-Days, Rogue AI Agents, $100M Crypto Theft, 700 Supermarkets Hit and More
+**Category:** 🔴 Vulnerability
+**Time:** 22:11 UTC
+
+**Summary:**  
+The worst problems don't always come with a warning. Sometimes they arrive through a service everyone trusts, a device someone bought, or a system nobody thought to check. By the time something looks wrong, the damage may already be done.  This week had plenty of that. Trusted connections became a problem. Hardware wasn't as safe as it looked. Old bugs found new victims, and some systems were
+
+🔗 [Read Full Article](https://thehackernews.com/2026/10/weekly-recap-98-zero-days-rogue-ai.html)
+
+
+---
+
+### 📰 GhostAction Attackers Plant Credential Stealer Disguised as Font in 94 GitHub Repositories
+**Category:** 📰 News
+**Time:** 22:11 UTC
+
+**Summary:**  
+The threat actor behind the GhostAction supply chain attack has expanded beyond injecting malicious GitHub Actions workflows into compromised projects to phish open-source developers and deliver a stealer malware disguised within a fake font file.  The latest evolution, detailed by OpenSourceMalware, signals that the attackers are actively refining their modus operandi in response to steps
+
+🔗 [Read Full Article](https://thehackernews.com/2026/10/ghostaction-attackers-plant-credential.html)
+
+
+---
+
+### 📰 From Email-to-Case to the Boardroom: How Inherited Agents Break Governance Built for Software
+**Category:** 📅 Webinar/Event
+**Time:** 22:11 UTC
+
+**Summary:**  
+In Salesforce Agentforce, the recommended way to make an agent respond to events is a Flow: a record is created or a case is updated, and the Flow passes data into the agent's prompt. Separately, Email-to-Case and Web-to-Case turn inbound customer messages into case records; it is how airlines and hotels run support intake. Both are standard, documented, as-designed features. Chained together,
+
+🔗 [Read Full Article](https://thehackernews.com/2026/10/from-email-to-case-to-boardroom-how.html)
 
 
 ---
