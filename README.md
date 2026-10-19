@@ -4,17 +4,3 @@ This repository tracks real-world cybersecurity threats,
 vulnerabilities, and exploitation activity for continuous learning.
 
 ---
-## 📅 2026-10-18
-
-### 📰 ConnectWise Suspends Cloud Backup After Attackers Compromise Microsoft 365 Tenants
-**Category:** 📰 News
-**Time:** 10:44 UTC
-
-**Summary:**  
-ConnectWise on Saturday said it has disabled seven ConnectWise application identities as it continues its investigation into an incident in which unknown threat actors obtained unauthorized access to the application identities and compromised Microsoft 365 tenants.  The disabled identities are listed below -     ConnectWise Cloud Backup - 506e08f9-6e9a-4da4-942b-a099a03644ae   ConnectWise
-
-🔗 [Read Full Article](https://thehackernews.com/2026/10/connectwise-suspends-cloud-backup-after.html)
-
-
----
-
