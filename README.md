@@ -6,50 +6,74 @@ vulnerabilities, and exploitation activity for continuous learning.
 ---
 ## 📅 2026-10-21
 
-### 📰 PHP Issues Emergency Patches for Two Critical PHP2Shell RCE Flaws as Exploit Attempts Emerge
+### 📰 Critical GitLab Flaw (CVSS 10.0) Could Allow Unauthenticated RCE Across 12 Years of Releases
 **Category:** 🔴 Vulnerability
-**Time:** 16:58 UTC
+**Time:** 21:28 UTC
 
 **Summary:**  
-PHP has released emergency updates that fix two critical flaws in the language itself, letting an attacker without an account run code on a web server. The fixes are in PHP 8.5.12, 8.4.27, 8.3.36 and 8.2.35, and the PHP team says only updating fully protects a server.  The flaws, together called PHP2Shell, sit in the PHP runtime, not in any application, so a site is exposed even when its own
+GitLab released fixes on October 21 for a flaw that lets an attacker run code on a self-managed server without logging in, and it affects every version of the software going back to 7.0, released in 2014.  The fix matters even for administrators who patched nine days earlier: the October 12 update covered only versions 19.2 and later, and the new fixed versions sit one patch above it, so an
 
-🔗 [Read Full Article](https://thehackernews.com/2026/10/php-issues-emergency-patches-for-two.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/10/critical-gitlab-flaw-cvss-100-could.html)
 
 
 ---
 
-### 📰 Google Chrome Adds ClickFix Warnings to Stop Users From Running Malicious Commands
+### 📰 LiteLLM Compromised in Supply Chain Attack Delivering Credential Stealer and Backdoor
 **Category:** 📰 News
-**Time:** 16:58 UTC
+**Time:** 21:28 UTC
 
 **Summary:**  
-Google on Tuesday said it's rolling out improved safeguards in its Chrome browser to secure users against ClickFix attacks when Enhanced Protection is enabled.  ClickFix is a popular social engineering technique in which bad actors trick users into copying and pasting malicious code directly into their computer's operating system, thereby bypassing conventional security controls.  As part of
+The popular LiteLLM Python package has been compromised as part of a software supply chain attack that delivered a credential stealer and a backdoor, according to reports from SafeDep, Socket, StepSecurity, and Upwind.  The compromise affects LiteLLM 1.107.0, distributed through PyPI wheels and Docker images. The Python package has since been quarantined on Python Package Index (PyPI), and the
 
-🔗 [Read Full Article](https://thehackernews.com/2026/10/google-chrome-adds-clickfix-warnings-to.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/10/litellm-compromised-in-supply-chain.html)
 
 
 ---
 
-### 📰 China-Aligned Bronze Sandcastle Abuses Sandboxie DLL Sideloading to Deploy Backdoors
+### 📰 OpenAI's GPT-6 Agent Removed Safety Monitoring, Then Falsely Denied Doing So
 **Category:** 📰 News
-**Time:** 16:58 UTC
+**Time:** 21:28 UTC
 
 **Summary:**  
-Cybersecurity researchers have disclosed details of a previously undocumented China-aligned threat cluster known as Bronze Sandcastle that has been observed targeting organizations in Asia and Africa since mid-2025.  "The most distinctive technical marker for Bronze Sandcastle is its consistent use of Sandboxie DLL sideloading," Sophos security researcher Gabor Szappanos said in a post published
+OpenAI has revealed that two artificial intelligence (AI) agents powered by GPT-6.1 Sol and one GPT-6 Astra weakened misalignment monitoring while making requested software changes during two internal coding tasks.  The AI company said the incident took place on October 3 and 6, 2026, for Sol and Astra, respectively, as part of an internal deployment.  "A GPT-6.1 Sol agent repairing an
 
-🔗 [Read Full Article](https://thehackernews.com/2026/10/china-aligned-bronze-sandcastle-abuses.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/10/openais-gpt-6-agent-removed-safety.html)
 
 
 ---
 
-### 📰 Generative AI Is Erasing Behavioral Tells, Weakening Behavior-Only Detection, Proofpoint Reports
-**Category:** 📅 Webinar/Event
-**Time:** 16:58 UTC
+### 📰 PHP2Shell: What Actually Protects You Before the 14:00 UTC PHP RCE Patch, and What Doesn't
+**Category:** 🔴 Vulnerability
+**Time:** 21:28 UTC
 
 **Summary:**  
-Generative AI has changed what a malicious email looks like. Messages that once gave themselves away through clumsy wording, generic pretexts, and reused templates now arrive fluent, personalized, and unique to each recipient, and the behavioral signals email filters have relied on for years are fading as a result.  Proofpoint shared several examples of the shift at its Protect 2026 conference.
+You cannot fully block the two critical PHP flaws called PHP2Shell before today's fix, and the one setting being passed around as a workaround is not enough on its own, the security firm that suggested it now says.  PHP will release the fix at&nbsp;14:00 UTC on October 21&nbsp;for two flaws it rates 9.2 out of 10, and has given no workaround of its own. Until you can install it, what lowers your
 
-🔗 [Read Full Article](https://thehackernews.com/2026/10/generative-ai-is-erasing-behavioral.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/10/php2shell-what-actually-protects-you.html)
+
+
+---
+
+### 📰 The Harness Is the Hard Part of Agentic Pentesting
+**Category:** 📰 News
+**Time:** 21:28 UTC
+
+**Summary:**  
+An AppSec team can point an AI agent running on a general-purpose model at its own web apps with little setup. Sure, the model writes the attacks. But everything that makes those attacks safe to run against production and worth acting on afterward lives in the harness around the model. The harness is where the engineering in AI pentesting sits. The Hugging Face intrusion OpenAI disclosed in July
+
+🔗 [Read Full Article](https://thehackernews.com/2026/10/the-harness-is-hard-part-of-agentic.html)
+
+
+---
+
+### 📰 Attackers Hijacked Over 300 Tor Exit Relays to Intercept SSH Connections
+**Category:** 📰 News
+**Time:** 21:28 UTC
+
+**Summary:**  
+Attackers took control of more than 300 Tor exit relays in early October and used them to redirect SSH connections to servers that stole login passwords, a researcher found.  Exit relays are the last hop in a Tor circuit, where traffic leaves the network for its destination. Only a password login to an SSH server made through Tor between October 1 and 5, after accepting the interception
+
+🔗 [Read Full Article](https://thehackernews.com/2026/10/attackers-hijacked-over-300-tor-exit.html)
 
 
 ---
