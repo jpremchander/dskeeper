@@ -6,50 +6,38 @@ vulnerabilities, and exploitation activity for continuous learning.
 ---
 ## 📅 2026-10-23
 
-### 📰 Critical Flaw in Python’s Popular Pillow Image Library Allows Code Execution via a Crafted Image
-**Category:** 🔴 Vulnerability
-**Time:** 11:20 UTC
-
-**Summary:**  
-Pillow, the most widely used image library for Python, can be made to run operating system commands on a server by specifying the name of a file it is told to open.  The flaw,&nbsp;CVE-2026-112900, is in the way Pillow handles EPS images, which it opens by passing the file's name to Ghostscript, a separate program it runs to turn the image into pixels, without checking the name first.
-
-🔗 [Read Full Article](https://thehackernews.com/2026/10/critical-flaw-in-pythons-popular-pillow.html)
-
-
----
-
-### 📰 Researchers Demonstrate Node2Shell RCE Exploit on Node.js Build Using Crafted Brotli Data
-**Category:** 🔴 Vulnerability
-**Time:** 11:20 UTC
-
-**Summary:**  
-Malicious Brotli data can make an application on an official build of Node.js run attacker-supplied code, security researchers at Imperva have&nbsp;demonstrated.  Their "Node2Shell" proof of concept ran code on the official Node.js 24.22.0 image for Linux arm64, with no debugger or custom build, by feeding crafted data to the bundled Brotli decoder (CVE-2026-111497). Node.js disclosed the flaw
-
-🔗 [Read Full Article](https://thehackernews.com/2026/10/researchers-demonstrate-node2shell-rce.html)
-
-
----
-
-### 📰 Critical x402 SDK Flaw Could Let Malicious APIs Drain AI Agents’ Token Balances
+### 📰 Hackers Breach Enterprise Firewalls and VPNs, Exposing Over 70,000 Credentials
 **Category:** 📰 News
-**Time:** 11:20 UTC
+**Time:** 16:49 UTC
 
 **Summary:**  
-AI agents paying for API calls with the&nbsp;x402 SDKs&nbsp;could sign a payment for their full balance of a supported token if a malicious API asked for it,&nbsp;security firm V12 said&nbsp;on October 22.  The cause was the SDKs' default client, which set no spending limit until releases on August 18 added one. The risk was limited to agents who automatically signed payments and whose apps set
+Cybersecurity researchers have disclosed details of a large-scale campaign that has targeted exposed network edge devices such as Fortinet FortiGate and Palo Alto Networks GlobalProtect firewalls.  "Artifacts from this investigation also indicate that operators in this campaign have obtained access to numerous organizations worldwide, and have attempted to further compromise some victims,
 
-🔗 [Read Full Article](https://thehackernews.com/2026/10/critical-x402-sdk-flaw-could-let.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/10/hackers-breach-enterprise-firewalls-and.html)
 
 
 ---
 
-### 📰 PHP2Shell Exploit Attempts Hit Millions as Attackers Try to Deploy Mirai Malware
+### 📰 PHP Warns of Another Unpatched RCE Risk Two Days After Emergency PHP2Shell Patches
 **Category:** 🔴 Vulnerability
-**Time:** 11:20 UTC
+**Time:** 16:49 UTC
 
 **Summary:**  
-Threat actors have been observed unsuccessfully attempting to exploit the newly disclosed PHP2Shell vulnerabilities to rope infected systems into a Mirai botnet variant called Potassium, as it emerges that weaponizing the flaws may be harder than previously thought.  The attacks aim to exploit CVE-2026-109618 and CVE-2026-109619 (CVSS scores: 9.2), which can result in unauthenticated remote
+PHP has warned of another way an attacker could run code on a web server, two days after it shipped emergency fixes for the critical PHP2Shell flaws.  The new issue, assigned CVE-2026-115560, affects only web applications configured in an unusual way, and PHP considers it an unlikely risk.The project is not issuing an emergency fix for it. Instead, it recommends turning off a feature called
 
-🔗 [Read Full Article](https://thehackernews.com/2026/10/php2shell-exploit-attempts-hit-millions.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/10/urgent-php-warns-of-another-unpatched.html)
+
+
+---
+
+### 📰 Russian-Linked Hackers Used New Mesh Network Backdoor in Destructive Ukraine Attack
+**Category:** 📰 News
+**Time:** 16:49 UTC
+
+**Summary:**  
+The Russian state-sponsored hacking group Sandworm teamed up with another threat actor to carry out a destructive wiping attack targeting a Ukrainian logistics company last year.  According to ESET, the attack involved UAC-0099 (aka Earth Sirrush) obtaining initial access to the target on July 16, 2025, via a spear-phishing email bearing a malware-laced attachment that led to the deployment of
+
+🔗 [Read Full Article](https://thehackernews.com/2026/10/russian-linked-hackers-used-new-mesh.html)
 
 
 ---
