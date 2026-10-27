@@ -6,74 +6,50 @@ vulnerabilities, and exploitation activity for continuous learning.
 ---
 ## 📅 2026-10-27
 
-### 📰 GoAhead TLS Flaws Allow Revoked Client Certificates and Enable Session Decryption
+### 📰 CyberStrikeAI Uses 44 AI Agents to Automate Hacking Operations Against Japan Targets
 **Category:** 📰 News
-**Time:** 17:48 UTC
+**Time:** 22:00 UTC
 
 **Summary:**  
-The GoAhead embedded web server loaded a certificate revocation list into its default TLS backend but never turned revocation checking on, so a revoked client certificate could still pass login on affected setups.  The flaw is in builds that use the OpenSSL backend with mutual-TLS, where the server checks a client certificate and vice versa, and a revocation list is configured to block revoked
+Cybersecurity researchers have disclosed details of three cyber attacks targeting organizations in Japan in which artificial intelligence (AI) was a key element, either in the driving seat or to assist a human operator.  TrendAI, which analyzed three exposed server environments used by threat actors to conduct the malicious cyber operations, described them as distinct from previously published
 
-🔗 [Read Full Article](https://thehackernews.com/2026/10/goahead-tls-flaws-allow-revoked-client.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/10/cyberstrikeai-uses-44-ai-agents-to.html)
 
 
 ---
 
-### 📰 Apple Backports Fix for Exploited CoreGraphics Flaw to Older iPhones and iPads
-**Category:** 🔴 Vulnerability
-**Time:** 17:48 UTC
-
-**Summary:**  
-Apple on Monday backported fixes for a high-severity security flaw that was exploited in real-world cyber attacks to older devices.  The vulnerability, tracked as CVE-2026-86950 (CVSS score: 8.8), is an out-of-bounds write affecting CoreGraphics that could result in arbitrary code execution when processing a maliciously crafted file.  Patches for the flaw were released last month by Apple in
-
-🔗 [Read Full Article](https://thehackernews.com/2026/10/apple-backports-fix-for-exploited.html)
-
-
----
-
-### 📰 Microsoft Authenticator Flaw Let Permissionless Android Apps Steal Work Account Tokens
-**Category:** 🔴 Vulnerability
-**Time:** 17:48 UTC
-
-**Summary:**  
-Microsoft has fixed a flaw in its Authenticator app for Android that let a malicious app with no permissions pose as a trusted Microsoft app, such as Teams, and collect sign-in tokens for a victim's work account.  Microsoft tracks the flaw as&nbsp;CVE-2026-80097&nbsp;and fixed it in Authenticator for Android version 6.2606.4246, so anyone using the app should update.  In the researchers' tests,
-
-🔗 [Read Full Article](https://thehackernews.com/2026/10/microsoft-authenticator-flaw-let.html)
-
-
----
-
-### 📰 Keystone to Destroy 18,835 Hardware Wallets After Hackers Steal Device Verification Key
+### 📰 Australia Gets Into Amadey Malware Backend, Cuts Off Access to 180,000 Infected Computers
 **Category:** 📰 News
-**Time:** 17:48 UTC
+**Time:** 22:00 UTC
 
 **Summary:**  
-An attacker who gained access to Keystone's website obtained the key that its hardware wallets use to prove they are genuine, the company said in a&nbsp;statement&nbsp;on October 26.  Someone with that key could build counterfeit devices that pass the online check owners use to verify a Keystone. A buyer who trusted a counterfeit could have their crypto stolen, but the incident did not involve
+A criminal using the Amadey malware can no longer access or steal data from 180,000 infected computers around the world, including some in Australia, the Australian Signals Directorate (ASD) says. The agency's operators gained access to the criminal's operation's backend and cut it off from those computers.  "The next steps that we took were to disconnect that Amadey controller from all those
 
-🔗 [Read Full Article](https://thehackernews.com/2026/10/keystone-to-destroy-18835-hardware.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/10/australia-gets-into-amadey-malware.html)
 
 
 ---
 
-### 📰 AI-Generated Fake Login Pages Are Making Account Takeovers Easier
+### 📰 OpenAI Compaction Flaw Let Researchers Bypass Hidden Reasoning Protections
 **Category:** 📰 News
-**Time:** 17:48 UTC
+**Time:** 22:00 UTC
 
 **Summary:**  
-Fake login pages are nothing new, but generative AI is making them easier to build and more convincing. Attackers can recreate familiar login screens, impersonate trusted brands and tailor phishing attempts to specific employees or organizations.&nbsp;  Some fake login pages go beyond stealing passwords. They can also capture MFA codes or hijack authenticated sessions, allowing attackers to gain
+OpenAI's compaction feature, which shrinks a long conversation to save space, could be turned into a way to copy a model's hidden reasoning out in plain text,&nbsp;security firm Xint&nbsp;has shown.  OpenAI's reasoning models work through a problem before answering, and the service normally returns only the raw reasoning as&nbsp;an encrypted item&nbsp;the user cannot read. The method got past
 
-🔗 [Read Full Article](https://thehackernews.com/2026/10/ai-generated-fake-login-pages-are.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/10/openai-compaction-flaw-let-researchers.html)
 
 
 ---
 
-### 📰 Lazarus Abuses South Korean Security Software to Deploy Malware Using Post-Quantum Encryption
+### 📰 Attackers Hijack Dahua IP Cameras in Ukraine Using P2P Access and Auth Weaknesses
 **Category:** 📰 News
-**Time:** 17:48 UTC
+**Time:** 22:00 UTC
 
 **Summary:**  
-The North Korea-linked Lazarus Group has been attributed to a cyber espionage campaign dubbed Operation FlashHole targeting at least three organizations in South Korea spanning the construction, software, and wire-communication equipment manufacturing sectors.  According to Russian cybersecurity company Kaspersky, the campaign has been active since at least July 2025. It's assessed to pick up
+The Computer Emergency Response Team of Ukraine (CERT-UA) has issued an alert warning of unauthorized remote access to video surveillance systems manufactured by Dahua.  "Cases of compromising IP cameras and DVRs with access to the video stream, changing the device configuration and creating third-party accounts have been recorded," the State Special Communications Service of Ukraine (SSSCIP)
 
-🔗 [Read Full Article](https://thehackernews.com/2026/10/lazarus-abuses-south-korean-security.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/10/attackers-hijack-dahua-ip-cameras-in.html)
 
 
 ---
