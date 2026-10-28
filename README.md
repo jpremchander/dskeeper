@@ -6,98 +6,86 @@ vulnerabilities, and exploitation activity for continuous learning.
 ---
 ## 📅 2026-10-28
 
-### 📰 Adobe Fixes 8 Critical Campaign Classic Flaws Allowing Code Execution and Security Bypass
+### 📰 Volt Typhoon Used Covert Silent Train Network in Four Zero-Day Exploitation Campaigns
 **Category:** 🔴 Vulnerability
-**Time:** 12:30 UTC
+**Time:** 22:24 UTC
 
 **Summary:**  
-Adobe has released patches to address multiple critical security flaws in Campaign Classic that, if successfully exploited, could result in arbitrary code execution, security feature bypass, and privilege escalation.  The list of eight vulnerabilities is as follows -     CVE-2026-104351 (CVSS score: 9.9) - A code injection vulnerability that could lead to arbitrary code execution.
+The China-nexus cyber espionage group known as Volt Typhoon has been attributed to a now-disrupted covert access network dubbed Silent Train that has been put to use for zero-day exploitation and strategic access.  "First identified in late 2023, Silent Train uses rotating chains of compromised SOHO, IoT, and enterprise infrastructure," Lumen Technologies Black Lotus Labs said in a report shared
 
-🔗 [Read Full Article](https://thehackernews.com/2026/10/adobe-fixes-8-critical-campaign-classic.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/10/volt-typhoon-used-covert-silent-train.html)
 
 
 ---
 
-### 📰 American Organizations Under Attack: Skyw4lker Device Code Phishing Campaign Exposed
-**Category:** 💡 Expert Insight
-**Time:** 12:30 UTC
-
-**Summary:**  
-Modern phishing campaigns can compromise American businesses without relying on traditional credential theft. Attackers can abuse legitimate cloud services, authentication mechanisms, and trusted business workflows to gain access to corporate accounts while leaving fewer obvious signs behind.  ANY.RUN's analysis of Skyw4lker, a device code phishing campaign primarily targeting U.S. organizations
-
-🔗 [Read Full Article](https://thehackernews.com/2026/10/american-organizations-under-attack.html)
-
-
----
-
-### 📰 Anthropic's Unreleased AI Model Chains Flaws Into Working Chrome, Safari, Windows and Linux Exploits
-**Category:** 🔴 Vulnerability
-**Time:** 12:30 UTC
-
-**Summary:**  
-An unreleased Anthropic AI model found security flaws in Chrome, Safari, Android, Windows, and Linux and chained them into working proof-of-concept exploits, the company said in its latest report.  The exploits were built in the lab after the model was prompted, not seen in any real attack, and Anthropic reported every flaw to the vendor first, so all of them are already patched. One proof of
-
-🔗 [Read Full Article](https://thehackernews.com/2026/10/anthropics-unreleased-ai-model-chains.html)
-
-
----
-
-### 📰 FBI Seizes Virtualine Domain Over Alleged Criminal Hosting and Bitcoin Money Laundering
+### 📰 Google to Allow One-Tap Android App Installs From Approved Third-Party Stores Outside U.S.
 **Category:** 📰 News
-**Time:** 12:30 UTC
+**Time:** 22:24 UTC
 
 **Summary:**  
-The U.S. Department of Justice (DoJ) on Tuesday announced the seizure of a domain associated with a bulletproof hosting provider (BPH) named Virtualine.  The move was in response to the service being used to commit and facilitate prolific criminal activity, including "the advertisement of sexually explicit images of minors, the intentional disclosure of nonconsensual intimate visual depictions
+Third-party Android app stores can now apply to Google for permission to install apps with one tap, without Android's usual confirmation screens, and to update them in the background.  To qualify, a store must pass identity checks and send Google&nbsp;its full catalog, along with every new app and update, for ongoing malware scanning. Approved stores get the features from December 1, but only on
 
-🔗 [Read Full Article](https://thehackernews.com/2026/10/fbi-seizes-virtualine-domain-over.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/10/google-to-allow-one-tap-android-app.html)
 
 
 ---
 
-### 📰 Japan's GMO Offers $1 Million Bounty to Catch Hackers Behind FX Trading Cloud Breach
+### 📰 Researcher Reveals How Logic Bugs Alone Cracked Microsoft Edge in $175,000 Pwn2Own Win
 **Category:** 📰 News
-**Time:** 12:30 UTC
+**Time:** 22:24 UTC
 
 **Summary:**  
-Japan's GMO Internet Group is&nbsp;offering up to $1 million in total&nbsp;for tips that help catch the attackers who breached its Onamae.com Desktop Cloud service, after refusing to pay an extortion demand.  The reward program opened on October 28 and pays only if a tip helps lead to an arrest or an international wanted notice. The service&nbsp;hosts Windows desktops&nbsp;used for FX trading,
+A chain of logic flaws, with no memory corruption, can turn a malicious web page into code running on a Windows computer outside Microsoft Edge's sandbox, a security researcher has shown.  Orange Tsai of DEVCORE published the full method on October 28, five months after the chain won $175,000 at the&nbsp;Pwn2Own Berlin contest&nbsp;in May. Microsoft fixed the Edge bugs the day after the contest,
 
-🔗 [Read Full Article](https://thehackernews.com/2026/10/japans-gmo-offers-1-million-bounty-to.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/10/researcher-reveals-how-logic-bugs-alone.html)
 
 
 ---
 
-### 📰 Tailscale Patches SSH Flaws That Could Let Hacked Devices Gain Root Access on Other Servers
+### 📰 PHP2Shell Attack Roots 25 Servers, Breaches U.S. Government-Affiliated Network
 **Category:** 🔴 Vulnerability
-**Time:** 12:30 UTC
+**Time:** 22:24 UTC
 
 **Summary:**  
-Tailscale has released&nbsp;version 1.104.4&nbsp;to fix flaws in its built-in SSH server that could let an attacker reach services and files on other servers that only the&nbsp;root&nbsp;user should be able to touch.  The flaws are in how&nbsp;Tailscale SSH&nbsp;forwards network connections, a job the Tailscale background process carries out with root privileges. To use them, an attacker must
+Cybersecurity researchers have disclosed details of what appears to be an artificial intelligence (AI)-assisted attack orchestrated by a suspected China-nexus threat actor that has leveraged the PHP2Shell vulnerabilities to breach exposed systems.  The activity, which was observed on October 25, 2026, involved an attacker combining PHP2Shell with a kernel privilege escalation exploit to root
 
-🔗 [Read Full Article](https://thehackernews.com/2026/10/tailscale-patches-ssh-flaws-that-could.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/10/php2shell-attack-roots-25-servers.html)
 
 
 ---
 
-### 📰 ShinyHunters-Exploited Oracle PeopleSoft Zero-Day Turns Out to Be Three Chained Flaws
+### 📰 Hackers Target Critical Oracle E-Business Suite RCE Flaw Days After Security Patch
 **Category:** 🔴 Vulnerability
-**Time:** 12:30 UTC
+**Time:** 22:24 UTC
 
 **Summary:**  
-The critical Oracle PeopleSoft bug that ShinyHunters has exploited since May is not one flaw but three chained together, the researchers who reported it said this week.  Oracle patched all three under a single identifier,&nbsp;CVE-2026-35273, in June. Its root is a server-side request forgery (SSRF) that reaches an internal management interface because PeopleSoft trusts its own loopback address
+Threat actors are beginning to probe for a newly patched critical vulnerability in Oracle E-Business Suite (EBS), according to threat intelligence firm Defused Cyber.  The vulnerability in question is CVE-2026-101767 (CVSS score: 9.8) , a case of improper authentication in the Oracle Application Object Library of Oracle E-Business Suite. It was patched by Oracle last week as part of its Critical
 
-🔗 [Read Full Article](https://thehackernews.com/2026/10/shinyhunters-exploited-oracle.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/10/hackers-target-critical-oracle-e.html)
 
 
 ---
 
-### 📰 Adobe Commerce PolyShell Attacks Breach Hundreds of Stores as Brotli Exploit Traffic Emerges
-**Category:** 🔴 Vulnerability
-**Time:** 12:30 UTC
+### 📰 Critical 16-Year-Old UEFI Flaw Can Run Code Before Secure Boot on Network-Booting Servers
+**Category:** 📰 News
+**Time:** 22:24 UTC
 
 **Summary:**  
-The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added two vulnerabilities impacting Adobe Commerce and Magento, and Google's Brotli decoder library to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.  The vulnerabilities are listed below -     CVE-2026-111497 (CVSS score: 9.2) - An unchecked return value vulnerability in
+A critical 16-year-old flaw in EDK II, the open-source code that most hardware makers use to build UEFI firmware, can allow an attacker to run code on a machine before its operating system loads, but only while the machine is booting over the network.  UEFI firmware is the software that runs first when a computer is switched on, before the operating system. An attacker who can reach the machine
 
-🔗 [Read Full Article](https://thehackernews.com/2026/10/adobe-commerce-polyshell-attacks-breach.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/10/critical-16-year-old-uefi-flaw-can-run.html)
+
+
+---
+
+### 📰 Wazuh and AI for Enhanced SOC Workflows
+**Category:** 📰 News
+**Time:** 22:24 UTC
+
+**Summary:**  
+Artificial Intelligence (AI) has become one of this decade's defining technologies. From healthcare and finance to manufacturing and education, organizations increasingly rely on AI to automate repetitive tasks, uncover patterns hidden within large datasets, and support faster decision-making. Cybersecurity has experienced a similar transformation. While attackers employ AI to automate
+
+🔗 [Read Full Article](https://thehackernews.com/2026/10/wazuh-and-ai-for-enhanced-soc-workflows.html)
 
 
 ---
