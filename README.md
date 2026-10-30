@@ -4,52 +4,16 @@ This repository tracks real-world cybersecurity threats,
 vulnerabilities, and exploitation activity for continuous learning.
 
 ---
-## 📅 2026-10-29
+## 📅 2026-10-30
 
-### 📰 ThreatsDay: Critical Firewall Flaws, Banking Trojans Rented, Weaponized PDF, Token Theft + 26 More Stories
-**Category:** 🔴 Vulnerability
-**Time:** 22:37 UTC
-
-**Summary:**  
-Some attacks take real skill. Others just need someone to leave a door open. This week has both. Exposed passwords, old bugs still getting exploited, and trusted software doing things it shouldn't.  There's a strange mix of clever tricks and careless mistakes. Hackers are borrowing trust from familiar apps, websites, and AI tools. Some are using AI to speed things up. Others are leaving their
-
-🔗 [Read Full Article](https://thehackernews.com/2026/10/threatsday-critical-firewall-flaws.html)
-
-
----
-
-### 📰 Linux Kernel TCP Flaw With 9.8 CVSS Score Affects Ubuntu, Red Hat and Other Distributions
-**Category:** 🔴 Vulnerability
-**Time:** 22:37 UTC
-
-**Summary:**  
-A flaw in the Linux kernel's TCP code, tracked as&nbsp;CVE-2026-98432, affects Ubuntu, Red Hat Enterprise Linux (RHEL), and other Linux distributions. The kernel's own CVE team rates it 9.8 out of 10 on the CVSS scale.  Anthropic said&nbsp;on October 27 that its AI model wrote an exploit that uses the flaw to let a remote attacker with no credentials run commands as root on Linux servers with a
-
-🔗 [Read Full Article](https://thehackernews.com/2026/10/linux-kernel-tcp-flaw-with-98-cvss.html)
-
-
----
-
-### 📰 Fake ChatGPT and Claude Apps Abuse Signed Executables to Deploy Crypto Miners
+### 📰 Binance Suffers Security Breach Affecting $6.3 Billion in Assets, Nearly $3 Billion Frozen
 **Category:** 📰 News
-**Time:** 22:37 UTC
+**Time:** 05:16 UTC
 
 **Summary:**  
-Threat actors are delivering malicious loaders and cryptocurrency miners under the guise of artificial intelligence (AI) desktop applications for Anthropic Claude and OpenAI ChatGPT as part of a campaign dubbed Yoba.  The activity involves creating fake GitHub projects that claim to be desktop applications like GPT-5.6 Sol, GPT-6 Astra, and Claude Opus, only to deliver a malware family called
+Cryptocurrency giant Binance said on Thursday that a "security incident" on its platform has impacted about $6.3 billion worth of assets.  The world's biggest cryptocurrency exchange said nearly $3 billion of those assets have been frozen on-chain so far.&nbsp;  Tether and Circle said they have frozen more than 1.567 billion USDT and 800 million related to the incident, respectively. The
 
-🔗 [Read Full Article](https://thehackernews.com/2026/10/fake-chatgpt-and-claude-apps-abuse.html)
-
-
----
-
-### 📰 Google's Gemini 4 Carbon Leads Benchmarks for Finding, Exploiting, and Patching Vulnerabilities
-**Category:** 🔴 Vulnerability
-**Time:** 22:37 UTC
-
-**Summary:**  
-Google on Wednesday took the wraps off Gemini 4 Carbon, its latest frontier model with state-of-the-art cybersecurity and long-horizon capabilities.  "It shows significant gains across coding and agentic tasks as well as across key capabilities critical for cybersecurity defense, landing a firm lead in SEC-bench Pro (88.2%) for finding vulnerabilities, ExploitGym (54.8%) for exploitation, and
-
-🔗 [Read Full Article](https://thehackernews.com/2026/10/googles-gemini-4-carbon-leads.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/10/binance-suffers-security-breach.html)
 
 
 ---
