@@ -4,3 +4,77 @@ This repository tracks real-world cybersecurity threats,
 vulnerabilities, and exploitation activity for continuous learning.
 
 ---
+## 📅 2026-11-02
+
+### 📰 DarkBlinders Compromises Israeli Target and Iraqi Kurdish Government Cloud Environment
+**Category:** 📰 News
+**Time:** 15:20 UTC
+
+**Summary:**  
+Cybersecurity researchers have disclosed details of a cyber espionage campaign targeting Israel and the Kurdistan Region of Iraq by an Iran state-aligned threat actor between August and October 2026.  According to a report published by Dream Research Labs, the campaign has led to the compromise of a high-profile individual in Israel, along with additional compromises affecting a government cloud
+
+🔗 [Read Full Article](https://thehackernews.com/2026/11/darkblinders-compromises-israeli-target.html)
+
+
+---
+
+### 📰 Critical Langflow Flaws Could Let Unauthenticated Attackers Run Code on Servers
+**Category:** 🔴 Vulnerability
+**Time:** 15:20 UTC
+
+**Summary:**  
+Two critical flaws in Langflow could let a remote attacker with no account bypass authentication or run arbitrary code,&nbsp;IBM said last week.  Langflow is an open-source tool for building AI agents and workflows, and&nbsp;its vulnerability reports go to IBM. Every release from 1.0.0 through 1.12.8 has the flaws, and the only fix is version 1.13.0.  Neither flaw is in CISA's&nbsp;Known
+
+🔗 [Read Full Article](https://thehackernews.com/2026/11/critical-langflow-flaws-could-let.html)
+
+
+---
+
+### 📰 Is Your SOC Ready for AI Agents? A Maturity Check Before You Deploy
+**Category:** 📰 News
+**Time:** 15:20 UTC
+
+**Summary:**  
+Forty percent of security teams now use AI every day, and another 56% are testing it. Only 4% have no plans to adopt it, according to Prophet Security's State of AI in Security Operations 2026 survey of more than 250 CISOs, SOC leaders and practitioners. For the teams still testing, the next decision is whether their own SOC is ready.  AI SOC readiness has two parts: whether a SOC has the
+
+🔗 [Read Full Article](https://thehackernews.com/2026/11/is-your-soc-ready-for-ai-agents.html)
+
+
+---
+
+### 📰 Attackers Pose as IT Support on Microsoft Teams, Abuse AD CS to Steal Company Data
+**Category:** 📰 News
+**Time:** 15:20 UTC
+
+**Summary:**  
+Attackers posing as IT support on Microsoft Teams talked employees into giving them remote control of their PCs. They then used insecure Active Directory Certificate Services (AD CS) settings to obtain login certificates for privileged accounts, including one for a domain controller.  Microsoft said in&nbsp;a report&nbsp;that it investigated two such intrusions, one of which resulted in company
+
+🔗 [Read Full Article](https://thehackernews.com/2026/11/attackers-pose-as-it-support-on.html)
+
+
+---
+
+### 📰 Government Linux Servers Targeted With SysGoRAT and Suspected AI-Generated Scripts
+**Category:** 📰 News
+**Time:** 15:20 UTC
+
+**Summary:**  
+Cybersecurity researchers have disclosed details of a cyber espionage campaign specifically targeting Linux infrastructure associated with government entities and state-affiliated infrastructure.  The activity, observed by Palo Alto Networks Unit 42 between October 2025 and April 2026, has been tracked under the moniker CL-UNK-1211, where "CL" refers to cluster and "UNK" stands for unknown
+
+🔗 [Read Full Article](https://thehackernews.com/2026/11/government-linux-servers-targeted-with.html)
+
+
+---
+
+### 📰 New VOLTA Infostealer Uses Claude, Gemini, and Kimi AI to Rank Victims by Financial Value
+**Category:** 📰 News
+**Time:** 15:20 UTC
+
+**Summary:**  
+Cybersecurity researchers have discovered a new Windows infostealer malware called VOLTA-AUTODOXER (aka VOLTA) that makes use of a large language model (LLM) to rank a victim's stolen data by their monetization value.  Like other typical stealer families, VOLTA is equipped to harvest passwords and cookies from Chromium-based web browsers; data from Outlook profiles and Slack workspaces;
+
+🔗 [Read Full Article](https://thehackernews.com/2026/11/new-volta-infostealer-uses-claude.html)
+
+
+---
+
