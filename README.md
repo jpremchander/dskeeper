@@ -6,98 +6,74 @@ vulnerabilities, and exploitation activity for continuous learning.
 ---
 ## 📅 2026-11-03
 
-### 📰 Red Hat Patches 9.8-Rated Linux TCP RCE Flaw While Ubuntu Releases Fixes for Testing
-**Category:** 🔴 Vulnerability
-**Time:** 13:56 UTC
-
-**Summary:**  
-Fixed kernels for a&nbsp;use-after-free vulnerability in the Linux kernel's IPv4 TCP code&nbsp;are now available for Red Hat Enterprise Linux 8, 9, and 10, while Ubuntu's fixes for its three newest long-term-support releases remain in its opt-in testing channel with no date for a regular update.  The flaw, tracked as CVE-2026-98432, can be reached by a remote, unauthenticated attacker and can
-
-🔗 [Read Full Article](https://thehackernews.com/2026/11/red-hat-patches-98-rated-linux-tcp-rce.html)
-
-
----
-
-### 📰 The 4 Elements of Exposure Prioritization and How to Operationalize Them
-**Category:** 🔴 Vulnerability
-**Time:** 13:56 UTC
-
-**Summary:**  
-Your team is remediating more vulnerabilities than ever, yet your breach risk has barely changed. You’re spending too much time and effort on exposures attackers may never exploit, while higher-risk exposures sit, waiting in the queue. Gartner®’s report on exposure prioritization states that fewer than 10% of vulnerabilities are exploited, yet most are treated as urgent. The report also argues
-
-🔗 [Read Full Article](https://thehackernews.com/2026/11/the-4-elements-of-exposure.html)
-
-
----
-
-### 📰 Russia-Aligned Gorbag Hackers Exploit WinRAR Flaw to Deploy Data-Stealing Malware
-**Category:** 🔴 Vulnerability
-**Time:** 13:56 UTC
-
-**Summary:**  
-A Russia-aligned threat actor known as Gorbag has been observed using simple information stealer malware in attacks targeting Ukrainian organizations.  "Active since at least February 2025, the group has focused exclusively on Ukrainian targets, with a clear preference for law enforcement and justice entities, local administrations near the front line, and the defense sector," ESET researcher
-
-🔗 [Read Full Article](https://thehackernews.com/2026/11/russia-aligned-gorbag-hackers-exploit.html)
-
-
----
-
-### 📰 Hackers Exploit BTCPay Server Flaw to Steal Bitcoin and Litecoin From Hot Wallets
-**Category:** 🔴 Vulnerability
-**Time:** 13:56 UTC
-
-**Summary:**  
-BTCPay Server, a self-hosted, open-source cryptocurrency payment processor, has urged users to install the latest version of its software in response to reports of Bitcoin and Litecoin being stolen from hot wallets on instances running older versions.  "Our investigation found that these attacks targeted servers running BTCPay Server 2.4.1 (released on 23 July 2026) or earlier," BTCPay Server
-
-🔗 [Read Full Article](https://thehackernews.com/2026/11/hackers-exploit-btcpay-server-flaw-to.html)
-
-
----
-
-### 📰 Synology NAS Devices Targeted in Ransomware Attacks Exploiting Patched DSM Flaw
-**Category:** 🔴 Vulnerability
-**Time:** 13:56 UTC
-
-**Summary:**  
-Synology is urging customers to update the DiskStation Manager (DSM) software powering its Network Attached Storage (NAS) devices following ransomware attacks.  The Taiwanese vendor said it observed threat actors exploiting a vulnerability patched in December 2024 to target devices running outdated versions of DSM.  "These attacks aim to encrypt data and extort ransom," it said in a statement
-
-🔗 [Read Full Article](https://thehackernews.com/2026/11/synology-nas-devices-targeted-in.html)
-
-
----
-
-### 📰 New Wave of Refrigeration Cyberattacks Hits Supermarkets Across Europe, Forcing Stores to Pull Food
+### 📰 mSecure Warns Users to Change Passwords, Reset 2FA and Passkeys After Suspicious Activity
 **Category:** 📰 News
-**Time:** 13:56 UTC
+**Time:** 23:04 UTC
 
 **Summary:**  
-Attackers remotely changed the settings on refrigeration controls at supermarkets in Belgium, Sweden, Estonia and other European countries overnight into Monday, November 2, warming fridges and freezers.  No chain reported more than several dozen affected stores, and some had to throw away chilled and frozen food or take it off the shelf. Danfoss, a Danish maker of refrigeration controls,&nbsp
+Customers of the mSecure password manager are being urged to act now to protect the confidential information they store in it, possibly by changing passwords, resetting two-factor authentication (2FA), and removing passkeys.  The warning came in an email sent on November 3 in the name of developer mSeven Software. It says the company recently learned of suspicious activity linked to the app but
 
-🔗 [Read Full Article](https://thehackernews.com/2026/11/second-wave-of-cyberattacks-hits.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/11/msecure-warns-users-to-change-passwords.html)
 
 
 ---
 
-### 📰 Attackers Exploit Critical Siemens IoT2050 Flaw to Plant Remote Command Backdoors
-**Category:** 🔴 Vulnerability
-**Time:** 13:56 UTC
+### 📰 Chainstack Reports Production Systems Breach Exposing Customer Data and Password Hashes
+**Category:** 📰 News
+**Time:** 23:04 UTC
 
 **Summary:**  
-A maximum-severity security flaw impacting Siemens SIMATIC IoT2050 Advanced devices has come under active exploitation, VulnCheck has revealed.  The vulnerability, tracked as CVE-2026-58115 (CVSS score: 10.0), is a case of missing authentication for a critical function that could be exploited by an unauthenticated remote attacker to run arbitrary code.  "SIMATIC IoT2050 Advanced devices running
+Blockchain infrastructure provider Chainstack on Tuesday disclosed that it was targeted in a cyber attack that allowed an unauthorized party to gain access to some parts of its infrastructure.  The incident is assessed to be part of a large-scale, artificial intelligence (AI)-powered attack campaign that came to light last week.  "An external attacker gained unauthorized access to part of
 
-🔗 [Read Full Article](https://thehackernews.com/2026/11/attackers-exploit-critical-siemens.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/11/chainstack-reports-production-systems.html)
 
 
 ---
 
-### 📰 Attackers Target Unpatched CryptoPayment Gateway Flaw That Can Expose Wallet Credentials
-**Category:** 🔴 Vulnerability
-**Time:** 13:56 UTC
+### 📰 Binance Reveals How Fake Job Interviews and AI Tool Abuse Led to $6.43 Billion Theft
+**Category:** 📰 News
+**Time:** 23:04 UTC
 
 **Summary:**  
-Threat actors are attempting to exploit an unpatched maximum-severity security vulnerability in the CryptoPayment Gateway WordPress plugin, according to findings from Defused Cyber.  The vulnerability in question is CVE-2026-81648, which carries a CVSS score of 10.0. Successful exploitation of the flaw could permit unauthenticated users to delete arbitrary files on the server and extract
+Binance on Tuesday said the record-setting theft of $6.43 billion in assets from the world's largest cryptocurrency exchange was the culmination of a "sophisticated, multi-stage campaign" that involved the use of a tampered Homebrew installation and recruitment-themed social engineering attack targeting two of its engineers.  "It was not a single isolated breach or a simple phishing incident,"
 
-🔗 [Read Full Article](https://thehackernews.com/2026/11/attackers-target-unpatched.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/11/binance-reveals-how-fake-job-interviews.html)
+
+
+---
+
+### 📰 Barracuda Flaws Could Be Chained to Bypass Authorization and Gain Root Access
+**Category:** 🔴 Vulnerability
+**Time:** 23:04 UTC
+
+**Summary:**  
+Barracuda has disclosed details of two vulnerabilities affecting its products that, if chained together, could allow an attacker to bypass authorization controls and gain root access to a susceptible device.  The vulnerabilities, a pre-authentication authorization bypass vulnerability and a command injection vulnerability, have been assigned the CVE identifiers CVE-2026-116606 (CVSS score: 9.3)
+
+🔗 [Read Full Article](https://thehackernews.com/2026/11/barracuda-flaws-could-be-chained-to.html)
+
+
+---
+
+### 📰 Google Warns LLMjacking Attacks Are Costing Some Enterprises Up to $1 Million in Cloud Charges
+**Category:** 📰 News
+**Time:** 23:04 UTC
+
+**Summary:**  
+Google on Monday warned that threat actors are hijacking enterprise access to Large Language Models (LLMs) to fraudulently leverage expensive computing resources and AI services.  The tactic is called LLMjacking, a form of resource hijacking adapted for the LLM era, where an attacker obtains an API key through phishing, source code leaks, misconfigured environments, or exposed client-side code
+
+🔗 [Read Full Article](https://thehackernews.com/2026/11/google-warns-llmjacking-attacks-are.html)
+
+
+---
+
+### 📰 cPGuard Update Channel Hijacked to Backdoor Linux Servers and Collect Password Hashes
+**Category:** 📰 News
+**Time:** 23:04 UTC
+
+**Summary:**  
+An attacker broke into the update system of the cPGuard security tool on November 2 and used it to send a malicious script to customers' Linux servers.  The script installed a backdoor and collected password hashes and other sensitive files from servers that ran it, cPGuard maker OPSSHIELD said in an advisory. The attacker has since taken some of that data.  cPGuard 5.88.25 and later versions
+
+🔗 [Read Full Article](https://thehackernews.com/2026/11/cpguard-update-channel-hijacked-to.html)
 
 
 ---
