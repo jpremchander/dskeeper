@@ -6,122 +6,86 @@ vulnerabilities, and exploitation activity for continuous learning.
 ---
 ## 📅 2026-11-10
 
-### 📰 Binance Warns of iOS Sandbox Escape That Could Expose Crypto Wallet Keys, No Fix Confirmed
+### 📰 Git Patches Flaw That Lets Malicious Repositories Execute Code During Recursive Clones
+**Category:** 🔴 Vulnerability
+**Time:** 23:03 UTC
+
+**Summary:**  
+A flaw in Git can let a malicious repository run an attacker's code on a computer that clones it recursively, together with its submodules. The Git project fixed it this week in Git 2.56.1, with matching fixes for the 2.50 through 2.55 series in 2.50.2, 2.51.3, 2.52.1, 2.53.1, 2.54.1 and 2.55.1.  The flaw, tracked as CVE-2026-111760, is an integer truncation in how Git handles its index. An
+
+🔗 [Read Full Article](https://thehackernews.com/2026/11/git-patches-flaw-that-lets-malicious.html)
+
+
+---
+
+### 📰 SGLang RCE Exploit Breaches NEAR AI, Steals Data From 18 Agents and About 100 Users
+**Category:** 🔴 Vulnerability
+**Time:** 23:03 UTC
+
+**Summary:**  
+An attacker exploited a remote code execution flaw in SGLang, an open-source inference engine, and ran code on one of NEAR AI's inference servers last Sunday.  The attacker could also have seen requests being processed on that server that day, including requests sent in confidential mode, the company said earlier this week. That mode processes requests inside a trusted execution environment (TEE
+
+🔗 [Read Full Article](https://thehackernews.com/2026/11/sglang-rce-exploit-breaches-near-ai.html)
+
+
+---
+
+### 📰 Hackers Exploit Critical Xen Orchestra Auth Bypass Flaw to Gain Admin Access
+**Category:** 🔴 Vulnerability
+**Time:** 23:03 UTC
+
+**Summary:**  
+French software company Vates VMS has warned of a critical security vulnerability in Xen Orchestra that it said is being actively exploited in the wild.  The authentication bypass flaw, which does not yet have a CVE identifier, is tracked as VSA-2026-062.  "REST cookie parsing turns authenticationToken=j:%7B%7D into {}," Vates VMS said in an alert. "REST authentication passes that object to the
+
+🔗 [Read Full Article](https://thehackernews.com/2026/11/hackers-exploit-critical-xen-orchestra.html)
+
+
+---
+
+### 📰 Three China-Nexus Espionage Campaigns Linked Through Sparrow Malware Ecosystem
 **Category:** 📰 News
-**Time:** 14:39 UTC
+**Time:** 23:03 UTC
 
 **Summary:**  
-An iOS sandbox escape published on GitHub lets an app read other apps' files on iPhones running iOS 26 and 27. That puts seed phrases, private keys, and login credentials at risk of exposure to malicious apps, Binance warned today. Apple's updates for iOS 26 and 27, released yesterday, do not list a fix.  A researcher who goes by forcequit released the escape, called worse_query, on Sunday, a
+Three distinct threat activity clusters with shared infrastructure and malware code similarities have been observed targeting telecommunications providers, government organizations, military entities, research institutions, and critical infrastructure across Latin America, Asia, and Europe over the past year.  Check Point Research is tracking the clusters under the names SilentDelivery,
 
-🔗 [Read Full Article](https://thehackernews.com/2026/11/binance-warns-of-ios-sandbox-escape.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/11/three-china-nexus-espionage-campaigns.html)
 
 
 ---
 
-### 📰 Beyond the Alert: The Case for Rich Network Data
-**Category:** 📅 Webinar/Event
-**Time:** 14:39 UTC
-
-**Summary:**  
-At some point your security will fail. This isn’t pessimism. It’s not because your team and tools aren’t sophisticated enough. It’s the reason we have detections in the first place. And, it’s why once we accept that prevention has its limits, we arrive at an interdiction strategy: finding and disrupting what got in.  After the alert  The alert tells you something happened. However, gaining
-
-🔗 [Read Full Article](https://thehackernews.com/2026/11/beyond-alert-case-for-rich-network-data.html)
-
-
----
-
-### 📰 Apple Patches iMessage Group Chat Privacy Flaws and Bluetooth Pairing Vulnerabilities
+### 📰 Attackers Exploit AhsayCBS Flaws to Deploy Sandbox-Evading Python Backdoor
 **Category:** 🔴 Vulnerability
-**Time:** 14:39 UTC
+**Time:** 23:03 UTC
 
 **Summary:**  
-An iMessage flaw could let a remote attacker join a group chat and receive its messages, Apple said yesterday, and it released updates to fix it. The updates also fix a separate iMessage flaw that could let someone added to a group access messages sent before they joined.  As of today, other updates released yesterday for the iPhone XS, XS Max and XR, the iPad (7th generation) and some Apple
+Cybersecurity researchers have disclosed details of an attack that exploited two now-patched vulnerabilities in AhsayCBS to deliver a Python-based implant.  The activity, observed by Huntress in early October 2026, involves the exploitation of a chain comprising CVE-2026-105133 and CVE-2026-105134 to bypass authentication and execute arbitrary commands on affected systems. Patches for the two
 
-🔗 [Read Full Article](https://thehackernews.com/2026/11/apple-patches-imessage-group-chat.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/11/attackers-exploit-ahsaycbs-flaws-to.html)
 
 
 ---
 
-### 📰 Russian Turla Hackers Use New Cereal Malware to Steal Emails From Government Exchange Servers
+### 📰 Blind Eagle Uses Fake Court Notices to Deliver Remote Access Trojan Across Latin America
 **Category:** 📰 News
-**Time:** 14:39 UTC
+**Time:** 23:03 UTC
 
 **Summary:**  
-The Russia-aligned state-sponsored threat actor known as Turla (aka Snake) is wielding a previously undocumented cyber espionage toolset called Cereal that's used to break into victims' Microsoft Exchange servers with an aim to surreptitiously collect emails.  According to an ESET report shared with The Hacker News ahead of publication, the sophisticated and modular tool is designed for
+The threat actor known as Blind Eagle has resurfaced with a new campaign targeting organizations in Latin America through judicial and administrative-themed phishing lures to deliver a remote access trojan (RAT) that shares its lineage with AsyncRAT and DCRat.  "The campaign uses Portuguese and Spanish lures that resemble court notifications, fiscalía notices, tutela proceedings, and
 
-🔗 [Read Full Article](https://thehackernews.com/2026/11/russian-turla-hackers-use-new-cereal.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/11/blind-eagle-uses-fake-court-notices-to.html)
 
 
 ---
 
-### 📰 SAP Patches Four CVSS 10.0 Flaws, Including Two Enabling Remote Code Execution
-**Category:** 🔴 Vulnerability
-**Time:** 14:39 UTC
-
-**Summary:**  
-Four flaws that attackers could exploit without logging in were fixed today as part of SAP's monthly Security Patch Day—the vendor rates all four 10.0, the maximum CVSS score.  Three are in the SAP NetWeaver application server, the software SAP systems run on, and one is in the Web Dispatcher, which receives web requests from the internet and passes them on to that server.  The flaws in the Web
-
-🔗 [Read Full Article](https://thehackernews.com/2026/11/sap-patches-four-cvss-100-flaws.html)
-
-
----
-
-### 📰 France Blames Iran for Sabotage Attack on Refrigeration Controllers at About 700 Retail Sites
+### 📰 Fireworks AI Confirms Wider Breach Affecting Customer Datasets, Model Weights and Notion AI Chats
 **Category:** 📰 News
-**Time:** 14:39 UTC
+**Time:** 23:03 UTC
 
 **Summary:**  
-An October cyberattack on refrigeration controllers at about 700 French retail sites was carried out by a cyber unit of Iran's Islamic Revolutionary Guard Corps (IRGC), the French government said yesterday.  The attackers broke into controllers on the night of October 11 and changed their defrost settings to high temperatures. That caused food losses and, in at least 15 cases, fires.  The unit
+Fireworks AI disclosed on Monday that its investigation into a security incident first reported early last month&nbsp; uncovered further malicious activity, affecting account and billing information, alongside secrets, datasets, and incomplete models for a "limited set of accounts."  In a notice published on October 10, 2026, the company said it detected unauthorized use of internal Fireworks
 
-🔗 [Read Full Article](https://thehackernews.com/2026/11/france-blames-iran-for-sabotage-attack.html)
-
-
----
-
-### 📰 Anthropic's Claude Fable 5.2 Beats GPT-6 Cyber in Multi-Stage Cyberattack Benchmark
-**Category:** 📰 News
-**Time:** 14:39 UTC
-
-**Summary:**  
-Anthropic on Monday released Claude Fable 5.2 and Claude Mythos 5.2 models, which it said exhibit improvements in coding, reasoning, and vision.  During pre-release training, the large language models (LLMs) helped its engineers "complete otherwise-infeasible software migrations, designed three working electronic devices from scratch, solved two open problems in the physics of black holes, made
-
-🔗 [Read Full Article](https://thehackernews.com/2026/11/anthropics-claude-fable-52-beats-gpt-6.html)
-
-
----
-
-### 📰 Google Issues Chrome Security Update for Eighth Actively Exploited Zero-Day of 2026
-**Category:** 🔴 Vulnerability
-**Time:** 14:39 UTC
-
-**Summary:**  
-Google on Monday released updates to patch nine security vulnerabilities, including one that has come under active exploitation in the wild.  The high-severity vulnerability, assigned the CVE identifier CVE-2026-125350 (CVSS score: N/A), has been described as a use-after-free bug in the XML component.  Use-after-free bugs typically occur when a program attempts to access a memory location after
-
-🔗 [Read Full Article](https://thehackernews.com/2026/11/google-issues-chrome-security-update.html)
-
-
----
-
-### 📰 N-able Takes N-central Cloud Offline After Researcher Discloses 33 Zero-Days with PoC Exploits
-**Category:** 🔴 Vulnerability
-**Time:** 14:39 UTC
-
-**Summary:**  
-N-able said it has taken N-central Hosted Environments offline and is urging on-premises customers to shut down their servers until further notice following the public disclosure of over 30 vulnerabilities collectively tracked as Able2Shell.  "As a precautionary measure, we are temporarily taking our Hosted N-central environment offline while we take the necessary actions to secure the
-
-🔗 [Read Full Article](https://thehackernews.com/2026/11/n-able-takes-hosted-n-central-offline.html)
-
-
----
-
-### 📰 CISA Warns of Active Exploitation of OpenSSH, GPUStack, FreeSWITCH, and IBM Flaws
-**Category:** 🔴 Vulnerability
-**Time:** 14:39 UTC
-
-**Summary:**  
-The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added four security flaws impacting GPUStack, SignalWire FreeSwitch, OpenBSD OpenSSH, and IBM Aspera Faspex to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.  The vulnerabilities are listed below -     CVE-2026-123218 (CVSS score: 9.8) - An incorrect authorization vulnerability
-
-🔗 [Read Full Article](https://thehackernews.com/2026/11/cisa-warns-of-active-exploitation-of.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/11/fireworks-ai-breach-widens-to-expose.html)
 
 
 ---
