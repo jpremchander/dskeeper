@@ -6,14 +6,98 @@ vulnerabilities, and exploitation activity for continuous learning.
 ---
 ## 📅 2026-11-13
 
-### 📰 Hackers Exploit N-central Flaws to Infect 21 Servers, Including 19 Running Hotfix 2
+### 📰 PostgreSQL Patches 52 Flaws, Including 22-Year-Old Bug Enabling Authenticated RCE
 **Category:** 🔴 Vulnerability
-**Time:** 06:01 UTC
+**Time:** 19:26 UTC
 
 **Summary:**  
-N-able on Thursday said it's taking additional precautions in the wake of public disclosure of a new set of flaws tracked as 4EverAble2Shell and Agent2Shell.  "We are restricting certain N-central features and integrations," the company said in a Thursday update. "These measures may affect some functionality, but we believe taking additional precautions while remediation is completed is the
+A type confusion flaw in PostgreSQL lets a database user who can create objects run code on the server. Updates released yesterday fix it, along with 51 other security flaws. Full protection from this flaw also requires rebuilding any C-language extensions installed on the server.  The flaw, tracked as CVE-2026-6460, has a CVSS score of 8.8. Any code run this way has the rights of the operating
 
-🔗 [Read Full Article](https://thehackernews.com/2026/11/hackers-exploit-n-central-flaws-to.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/11/postgresql-patches-52-flaws-including.html)
+
+
+---
+
+### 📰 New Mior and Skyfall Attacks Let Rogue Cloud Hosts Steal Secrets From AMD SEV-SNP VMs
+**Category:** 📰 News
+**Time:** 19:26 UTC
+
+**Summary:**  
+Two attacks made public this week allow a malicious host to read data inside AMD SEV-SNP-protected virtual machines (VMs), which are built to keep the server's operator out.  One of them, Mior, can also modify a VM's memory and fake the signed report confirming which software it runs. Both need control of the server's hypervisor, and Mior also needs control of the server's BIOS. Researchers
+
+🔗 [Read Full Article](https://thehackernews.com/2026/11/new-mior-and-skyfall-attacks-let-rogue.html)
+
+
+---
+
+### 📰 FBI Says North Korean Hackers Stole Over $400 Million in Crypto Using Deepfake Video Calls
+**Category:** 📰 News
+**Time:** 19:26 UTC
+
+**Summary:**  
+The U.S. Federal Bureau of Investigation (FBI) has established that threat actors tied to the Democratic People's Republic of Korea (DPRK aka North Korea) have stolen more than $400 million worth of cryptocurrency as part of a social engineering scheme codenamed FaceStealer in the last 18 months.  As part of a coordinated set of actions announced by the U.S. government, the cloud-based
+
+🔗 [Read Full Article](https://thehackernews.com/2026/11/fbi-says-north-korean-hackers-stole.html)
+
+
+---
+
+### 📰 Trezor Confirms Hidden Implants in CryptoBilis-Sold Wallets That Can Steal Recovery Phrases
+**Category:** 📰 News
+**Time:** 19:26 UTC
+
+**Summary:**  
+Three Trezor Safe 5 wallets bought from the reseller CryptoBilis contain an implant, an extra circuit board that can copy their recovery phrases, hardware wallet maker Trezor said yesterday.  The implant reads the phrase from the wallet's screen and sends it over the mobile network to a server controlled by the attackers. The company examined one of the wallets in its lab, identified the other
+
+🔗 [Read Full Article](https://thehackernews.com/2026/11/trezor-confirms-hidden-hardware.html)
+
+
+---
+
+### 📰 When an AI Agent Goes Wrong, Can You Stop It?
+**Category:** 📰 News
+**Time:** 19:26 UTC
+
+**Summary:**  
+Suppose an AI agent is asked to sort support tickets and look up account details. A ticket contains instructions that lead the agent to export records to an unfamiliar destination. The agent can make the request because its identity has access to the records and its connected tools allow the action.  That kind of scenario raises a response question: what does “stop the agent” actually mean? A
+
+🔗 [Read Full Article](https://thehackernews.com/2026/11/when-ai-agent-goes-wrong-can-you-stop-it.html)
+
+
+---
+
+### 📰 SilentAir Hijacks Asian Telecom Networks to Intercept SMS 2FA Codes and Spy on Taiwanese Users
+**Category:** 📰 News
+**Time:** 19:26 UTC
+
+**Summary:**  
+A newly identified spying group used hacked equipment inside Asian mobile operators to intercept the calls and texts of selected people, mostly in Taiwan.  Enea, a telecom and cybersecurity software company based in Stockholm, found the group's attack sources in at least six Asian countries and named it SilentAir this week. It assessed with high confidence that SilentAir is a state-level actor,
+
+🔗 [Read Full Article](https://thehackernews.com/2026/11/silentair-hijacks-asian-telecom.html)
+
+
+---
+
+### 📰 Operation Endgame Takes Down Gootloader, CastleRAT and StealC Servers, Seizes 6.4M Stolen Logins
+**Category:** 📰 News
+**Time:** 19:26 UTC
+
+**Summary:**  
+An international police operation took down servers behind Gootloader, CastleRAT and StealC this week. Criminals used the three malware tools to gain access to computers, steal passwords, and launch ransomware attacks.  Police also seized about 6.4 million stolen logins belonging to more than 40,000 victims, according to Germany's Federal Criminal Police Office (BKA).  Gootloader is a loader:
+
+🔗 [Read Full Article](https://thehackernews.com/2026/11/operation-endgame-takes-down-gootloader.html)
+
+
+---
+
+### 📰 Hackers Exploit PHP2Shell Flaws in Check Point Gateways to Deploy TSGA Backdoor and Wipe ESXi Files
+**Category:** 🔴 Vulnerability
+**Time:** 19:26 UTC
+
+**Summary:**  
+An unknown threat actor has been observed targeting unpatched Check Point Security Gateways to obtain initial access via the PHP2Shell vulnerabilities and then a previously unreported local privilege escalation flaw in Gaia OS&nbsp; to deploy a backdoor called TSGA.  The activity, detailed by Check Point, began on October 30, 2026, and targeted Israeli organizations, with a broader follow-up
+
+🔗 [Read Full Article](https://thehackernews.com/2026/11/hackers-exploit-php2shell-flaws-in.html)
 
 
 ---
