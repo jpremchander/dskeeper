@@ -4,29 +4,3 @@ This repository tracks real-world cybersecurity threats,
 vulnerabilities, and exploitation activity for continuous learning.
 
 ---
-## 📅 2026-11-20
-
-### 📰 WhatsApp Patches 3 Security Flaws, Including Android Bug Suspected of Use in Scams
-**Category:** 🔴 Vulnerability
-**Time:** 23:52 UTC
-
-**Summary:**  
-Meta-owned WhatsApp has addressed security vulnerabilities, including one impacting its Android app that it suspects may have been exploited in connection with scam messages.  The vulnerability, tracked as CVE-2026-23871, has been described as a case of incomplete validation of external ad-reply URLs in WhatsApp for Android and WhatsApp Business for Android before 2.26.17.4.  The issue could
-
-🔗 [Read Full Article](https://thehackernews.com/2026/11/whatsapp-patches-3-security-flaws.html)
-
-
----
-
-### 📰 Bazuka Android Malware Uses Fake Screen Overlays to Hide Credential Theft and Device Control
-**Category:** 📰 News
-**Time:** 23:52 UTC
-
-**Summary:**  
-Cybersecurity researchers have disclosed details of a previously unknown Android malware framework called Bazuka that offers large language model (LLM) integration for victim management and control at scale.  Dutch mobile security company ThreatFabric said it discovered the threat in late October 2026 during an investigation into an NFC-relay banking Trojan.  "Bazuka is a full malware framework,
-
-🔗 [Read Full Article](https://thehackernews.com/2026/11/bazuka-android-malware-uses-fake-screen.html)
-
-
----
-
