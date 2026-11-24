@@ -4,100 +4,28 @@ This repository tracks real-world cybersecurity threats,
 vulnerabilities, and exploitation activity for continuous learning.
 
 ---
-## 📅 2026-11-23
+## 📅 2026-11-24
 
-### 📰 Webworm Suspected of Modifying SoftEther VPN to Evade Detection and Hide Remote Access
-**Category:** 📰 News
-**Time:** 23:40 UTC
-
-**Summary:**  
-The China-aligned threat actor known as Webworm is suspected to be using a custom version of the open-source SoftEther VPN Bridge tool in an attempt to remove recognizable detection fingerprints, while disguising it as network-monitoring software to establish covert remote access to compromised networks.  The modified variant "implements various tricks to hide itself from security tools,"
-
-🔗 [Read Full Article](https://thehackernews.com/2026/11/webworm-suspected-of-modifying.html)
-
-
----
-
-### 📰 ⚡ Weekly Recap: VMware 0-Day, Java4Shell, NGINX2Root, Ruby2Shell, and a Whole Lot of Shell Trouble
-**Category:** 📰 News
-**Time:** 23:40 UTC
-
-**Summary:**  
-A stolen key. A trusted message. A routine update. None of these looks like the start of a major security problem. That's partly why they work. Attackers don't always need to break down a door. Sometimes they just use one that's already open.  This week's stories show how quickly a small opening can turn into a much bigger mess. One breach helps attackers reach another target. Tools people rely
-
-🔗 [Read Full Article](https://thehackernews.com/2026/11/weekly-recap-vmware-0-day-java4shell.html)
-
-
----
-
-### 📰 Critical binary-parser Flaw Enables JavaScript Injection via Malicious Parser Definitions
+### 📰 OpenAI and Cisco Unveil AI-Assisted Linux Security Tool to Block Exploits Before Patching
 **Category:** 🔴 Vulnerability
-**Time:** 23:40 UTC
+**Time:** 09:22 UTC
 
 **Summary:**  
-A critical security flaw has been disclosed in the popular binary-parser library that could allow an attacker who controls parser definitions to execute arbitrary code.  The vulnerability, tracked as CVE-2026-134814 (CVSS score: 9.2 / 8.1), is a case of code injection impacting binary-parser versions prior to 2.3.1.  "Binary-parser before 2.3.1 contains a code injection vulnerability that allows
+OpenAI and Cisco have teamed up to launch Shirudo (meaning "shield" in Japanese), an open-source Linux runtime that allows artificial intelligence (AI) agents to defend systems without downtime.  "It lets agents write dynamic eBPF controls to shield systems from exploits, giving defenders more time to test and roll out patches," OpenAI said in a post on X.  The AI upstart called the initiative a
 
-🔗 [Read Full Article](https://thehackernews.com/2026/11/critical-binary-parser-flaw-enables.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/11/openai-and-cisco-unveil-ai-assisted.html)
 
 
 ---
 
-### 📰 Hackers Exploit Critical ScreenConnect Flaw to Hijack MSP Technician PCs Without Warning
+### 📰 Hackers Exploit N-able MailAssure Flaw While AI Agents Exploit MONAI Label Zero-Day
 **Category:** 🔴 Vulnerability
-**Time:** 23:40 UTC
+**Time:** 09:22 UTC
 
 **Summary:**  
-Threat actors are exploiting a now-patched security flaw in ConnectWise ScreenConnect to target managed service provider (MSP) servers.  The activity revolves around CVE-2026-84869 (CVSS score: 9.9), a critical ScreenConnect client flaw that allows a guest to transfer and execute a malicious payload on a connecting technician's host.  "On November 12, 2026, we observed one managed service
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added two flaws impacting N-able MailAssure and MONAI Label to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.  The critical vulnerabilities are listed below -     CVE-2026-134624 (CVSS score: 9.3) - A server-side request forgery (SSRF) vulnerability in N-able MailAssure's LDAP
 
-🔗 [Read Full Article](https://thehackernews.com/2026/11/hackers-exploit-critical-screenconnect.html)
-
-
----
-
-### 📰 N-able Discloses Critical Mail Assure Vulnerability Found During Breach Investigation
-**Category:** 🔴 Vulnerability, 💡 Expert Insight
-**Time:** 23:40 UTC
-
-**Summary:**  
-N-able yesterday disclosed a critical flaw it found while investigating the breach of its Mail Assure and SpamExperts Hosted Cloud, an email filtering service it runs for managed service providers.  The bug, tracked as CVE-2026-134624, is a server-side request forgery (SSRF) flaw. It allowed a user with high-level API access to open connections to internal systems of the user's choosing on the
-
-🔗 [Read Full Article](https://thehackernews.com/2026/11/n-able-discloses-critical-mail-assure.html)
-
-
----
-
-### 📰 Hackers Exploit Critical ASP.NET Anti-CSRF Library Flaw Allowing Unauthenticated RCE
-**Category:** 🔴 Vulnerability
-**Time:** 23:40 UTC
-
-**Summary:**  
-Cybersecurity researchers have urged users to discontinue using a legacy ASP.NET anti-CSRF library named Idunno.AntiCsrf ("Idunno.AntiCsrf.dll") following the discovery of a critical vulnerability that has been exploited in the wild.  The vulnerability, tracked as CVE-2026-131914, carries a CVSS score of 9.3 out of 10.0. The issue affects versions 0.9.1.0 and 0.9.1 Beta, and relates to an
-
-🔗 [Read Full Article](https://thehackernews.com/2026/11/hackers-exploit-critical-aspnet-anti.html)
-
-
----
-
-### 📰 Hackers Exploited GL.iNet Cloud Flaw to Install Malware on Routers and KVM Devices
-**Category:** 🔴 Vulnerability
-**Time:** 23:40 UTC
-
-**Summary:**  
-Hackers exploited a vulnerability in GL.iNet's GoodCloud remote management service to install malware on some customer routers and KVM devices, the maker of travel routers and remote-access KVM hardware said in a security notice updated today.  The company identified and fixed the flaw on Friday and blocked the access the attacker used, so devices can no longer be infected through this route.
-
-🔗 [Read Full Article](https://thehackernews.com/2026/11/hackers-exploited-glinet-cloud-flaw-to.html)
-
-
----
-
-### 📰 AI-Assisted Cyber Attacks Trigger Unauthorized Payments at Indian Banks and Fintech Firms
-**Category:** 📰 News
-**Time:** 23:40 UTC
-
-**Summary:**  
-The Indian Computer Emergency Response Team (CERT-In) has warned that threat actors are carrying out artificial intelligence (AI)-assisted cyber attacks targeting information and communication technology (ICT) assets in the country.  This unsanctioned activity has resulted in unauthorized financial transactions at banking and financial services entities, as well as technology service providers
-
-🔗 [Read Full Article](https://thehackernews.com/2026/11/ai-assisted-cyberattacks-trigger.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/11/hackers-exploit-n-able-mailassure-flaw.html)
 
 
 ---
