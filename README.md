@@ -6,38 +6,74 @@ vulnerabilities, and exploitation activity for continuous learning.
 ---
 ## 📅 2026-11-25
 
-### 📰 Hackers Compromise 24 Check Point Management Servers in Suspected AI-Driven Attack Campaign
-**Category:** 📰 News
-**Time:** 07:55 UTC
+### 📰 Hackers Exploit Two GeoServer Flaws as Researchers Warn of Unauthenticated RCE Chains
+**Category:** 🔴 Vulnerability
+**Time:** 21:27 UTC
 
 **Summary:**  
-An unknown threat actor has been using artificial intelligence (AI)-driven offensive tooling in a campaign targeting Check Point Security Management servers, impacting 22 distinct organizations across the world.  The intrusion activity, tracked by GreyNoise under the moniker GreyNoise Threat 13 (GT13), is assessed to have targeted organizations in the financial services, energy, government,
+Threat actors are actively exploiting two newly patched security flaws in GeoServer, according to watchTowr.  The vulnerabilities in question are CVE-2026-120705 and CVE-2026-129243, details of which are below -     CVE-2026-120705 (CVSS score: 8.6) - An arbitrary file read vulnerability that could enable an attacker to access local text files readable by the GeoServer process or fetch
 
-🔗 [Read Full Article](https://thehackernews.com/2026/11/hackers-compromise-24-check-point.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/11/hackers-exploit-two-geoserver-flaws-as.html)
 
 
 ---
 
-### 📰 Com-Affiliated Hackers Hijack Cloud Accounts via Vishing for Data Theft and Extortion
+### 📰 U.S. Treasury's Financial Crimes Agency Takes Some Systems Offline After Cyber Intrusion
 **Category:** 📰 News
-**Time:** 07:55 UTC
+**Time:** 21:27 UTC
 
 **Summary:**  
-Palo Alto Networks Unit 42 has disclosed that it's tracking and has responded to "numerous waves of vishing attacks" orchestrated by Com-affiliated threat actors since August 2026 that have led to data theft and extortion attempts.  The attacks have targeted financial services, healthcare, and legal services located in the U.S., the U.K., and Australia. Other targets include construction,
+The U.S. Treasury Department's Financial Crimes Enforcement Network (FinCEN) has been hit by a cybersecurity incident that resulted in "unauthorized access to a limited subset of its systems," the bureau said on Tuesday. As a precaution, it has taken some systems offline.  The bureau collects suspicious activity reports and other Bank Secrecy Act (BSA) filings from banks and other financial
 
-🔗 [Read Full Article](https://thehackernews.com/2026/11/com-affiliated-hackers-hijack-cloud.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/11/us-treasurys-fincen-takes-some-systems.html)
 
 
 ---
 
-### 📰 WordPress Blocks Six Backdoored WP Connect Plugins Before Malicious Releases Go Live
+### 📰 Credential Remediation Is Slow When You Don’t Know What Will Break
 **Category:** 📰 News
-**Time:** 07:55 UTC
+**Time:** 21:27 UTC
 
 **Summary:**  
-WordPress has removed six WordPress plugins developed by WP Connect after they were backdoored on November 22, 2026, to enable arbitrary code execution on sites that have them installed, following a suspected compromise of the developer's account.  The WordPress plugins team has independently detected and blocked the threat before it could be officially released. Visiting each plugin listing now
+TL;DR     More than 64% still valid after four years: GitGuardian’s State of Secrets Sprawl 2026 found that most valid secrets discovered in 2022 still worked in January 2026, because teams stall on what a revoke will break.   Validity-only triage misses 46% of critical secrets: Prioritize by impact instead, weighing what a credential can access and whether it leaked publicly, and update the
 
-🔗 [Read Full Article](https://thehackernews.com/2026/11/wordpress-blocks-six-backdoored-wp.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/11/credential-remediation-is-slow-when-you.html)
+
+
+---
+
+### 📰 Drupal Fail2Install Exploit Details Emerge as Critical RCE Flaw Faces Active Exploitation
+**Category:** 🔴 Vulnerability
+**Time:** 21:27 UTC
+
+**Summary:**  
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a critical flaw impacting Drupal to its Known Exploited Vulnerabilities (KEV) catalog, requiring federal agencies to apply the fixes by November 27, 2026.  The vulnerability, tracked as CVE-2026-132165 aka Fail2Install (CVSS score: 9.8), is a case of remote code execution (RCE) impacting Drupal core.  "Drupal Core
+
+🔗 [Read Full Article](https://thehackernews.com/2026/11/drupal-fail2install-exploit-details.html)
+
+
+---
+
+### 📰 Ex-OpenAI Employee Accused of Bugging Company Offices Granted $1 Million Bail
+**Category:** 📰 News
+**Time:** 21:27 UTC
+
+**Summary:**  
+A former OpenAI employee accused of concealing a covert recording device at the company's San Francisco offices will be allowed to be released from jail on a $1 million bond, a San Francisco federal court judge ruled Tuesday.  Abdulrahman Alfozan, a 35-year-old Saudi national, was arrested on October 9, 2026, for allegedly bugging the artificial intelligence (AI) company's offices with the aim
+
+🔗 [Read Full Article](https://thehackernews.com/2026/11/ex-openai-employee-accused-of-bugging.html)
+
+
+---
+
+### 📰 Hackers Exploited CVSS 10.0 Hex.pm RCE Flaw to Compromise 6 Package Registry Servers
+**Category:** 🔴 Vulnerability
+**Time:** 21:27 UTC
+
+**Summary:**  
+An attacker ran operating system commands on Monday on six production servers of Hex.pm, the package registry that Elixir and Erlang developers fetch their dependencies from.  The flaw used in the attack had been in the registry's code since February 2016, and the team that maintains the service had every server on a patched build within about 15 minutes of the first malicious request.  Checks
+
+🔗 [Read Full Article](https://thehackernews.com/2026/11/hackers-exploited-cvss-100-hexpm-rce.html)
 
 
 ---
