@@ -4,76 +4,52 @@ This repository tracks real-world cybersecurity threats,
 vulnerabilities, and exploitation activity for continuous learning.
 
 ---
-## 📅 2026-11-25
+## 📅 2026-11-26
 
-### 📰 Hackers Exploit Two GeoServer Flaws as Researchers Warn of Unauthenticated RCE Chains
+### 📰 Drupal Warns of New Highly Critical Site Takeover Vulnerability Under Active Exploitation
 **Category:** 🔴 Vulnerability
-**Time:** 21:27 UTC
+**Time:** 07:46 UTC
 
 **Summary:**  
-Threat actors are actively exploiting two newly patched security flaws in GeoServer, according to watchTowr.  The vulnerabilities in question are CVE-2026-120705 and CVE-2026-129243, details of which are below -     CVE-2026-120705 (CVSS score: 8.6) - An arbitrary file read vulnerability that could enable an attacker to access local text files readable by the GeoServer process or fetch
+Drupal has warned of a new "highly critical" security flaw impacting Drupal core that it said has been exploited in the wild.  The vulnerability, tracked as CVE-2026-136716 (CVSS score: N/A), has been described as a case of improper checking for unusual or exceptional conditions. It also relates to CVE-2026-132165 aka Fail2Install in that it addresses remaining vulnerable installation states
 
-🔗 [Read Full Article](https://thehackernews.com/2026/11/hackers-exploit-two-geoserver-flaws-as.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/11/drupal-warns-of-new-highly-critical.html)
 
 
 ---
 
-### 📰 U.S. Treasury's Financial Crimes Agency Takes Some Systems Offline After Cyber Intrusion
-**Category:** 📰 News
-**Time:** 21:27 UTC
-
-**Summary:**  
-The U.S. Treasury Department's Financial Crimes Enforcement Network (FinCEN) has been hit by a cybersecurity incident that resulted in "unauthorized access to a limited subset of its systems," the bureau said on Tuesday. As a precaution, it has taken some systems offline.  The bureau collects suspicious activity reports and other Bank Secrecy Act (BSA) filings from banks and other financial
-
-🔗 [Read Full Article](https://thehackernews.com/2026/11/us-treasurys-fincen-takes-some-systems.html)
-
-
----
-
-### 📰 Credential Remediation Is Slow When You Don’t Know What Will Break
-**Category:** 📰 News
-**Time:** 21:27 UTC
-
-**Summary:**  
-TL;DR     More than 64% still valid after four years: GitGuardian’s State of Secrets Sprawl 2026 found that most valid secrets discovered in 2022 still worked in January 2026, because teams stall on what a revoke will break.   Validity-only triage misses 46% of critical secrets: Prioritize by impact instead, weighing what a credential can access and whether it leaked publicly, and update the
-
-🔗 [Read Full Article](https://thehackernews.com/2026/11/credential-remediation-is-slow-when-you.html)
-
-
----
-
-### 📰 Drupal Fail2Install Exploit Details Emerge as Critical RCE Flaw Faces Active Exploitation
+### 📰 Hackers Exploit 10 Vulnerabilities Across Mitel, Juniper, Vates, and Danfoss Products
 **Category:** 🔴 Vulnerability
-**Time:** 21:27 UTC
+**Time:** 07:46 UTC
 
 **Summary:**  
-The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a critical flaw impacting Drupal to its Known Exploited Vulnerabilities (KEV) catalog, requiring federal agencies to apply the fixes by November 27, 2026.  The vulnerability, tracked as CVE-2026-132165 aka Fail2Install (CVSS score: 9.8), is a case of remote code execution (RCE) impacting Drupal core.  "Drupal Core
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added 10 security flaws to its Known Exploited Vulnerabilities (KEV) catalog, including five vulnerabilities impacting Mitel MiCollab that were disclosed last week.  The Mitel MiCollab vulnerabilities are listed below -     CVE-2026-133275 (CVSS score: 5.3) - An arbitrary file upload vulnerability in the Audio, Web and
 
-🔗 [Read Full Article](https://thehackernews.com/2026/11/drupal-fail2install-exploit-details.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/11/hackers-exploit-10-vulnerabilities.html)
 
 
 ---
 
-### 📰 Ex-OpenAI Employee Accused of Bugging Company Offices Granted $1 Million Bail
+### 📰 1Password Hacked, Customer Data and Source Code Stolen in GitHub Account Breach
 **Category:** 📰 News
-**Time:** 21:27 UTC
+**Time:** 07:46 UTC
 
 **Summary:**  
-A former OpenAI employee accused of concealing a covert recording device at the company's San Francisco offices will be allowed to be released from jail on a $1 million bond, a San Francisco federal court judge ruled Tuesday.  Abdulrahman Alfozan, a 35-year-old Saudi national, was arrested on October 9, 2026, for allegedly bugging the artificial intelligence (AI) company's offices with the aim
+Popular password management software 1Password on Wednesday disclosed a security incident involving its backend systems that led to the unauthorized access of some customer information, but emphasized that customer password vaults and other secrets were not accessed.  "While we took immediate steps to contain the incident, the attacker gained access to some of our backend systems and accessed a
 
-🔗 [Read Full Article](https://thehackernews.com/2026/11/ex-openai-employee-accused-of-bugging.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/11/1password-hacked-customer-data-and.html)
 
 
 ---
 
-### 📰 Hackers Exploited CVSS 10.0 Hex.pm RCE Flaw to Compromise 6 Package Registry Servers
-**Category:** 🔴 Vulnerability
-**Time:** 21:27 UTC
+### 📰 13 Malicious NuGet Packages Turn Fake .NET Job Assessments Into Malware Delivery Traps
+**Category:** 📰 News
+**Time:** 07:46 UTC
 
 **Summary:**  
-An attacker ran operating system commands on Monday on six production servers of Hex.pm, the package registry that Elixir and Erlang developers fetch their dependencies from.  The flaw used in the attack had been in the registry's code since February 2016, and the team that maintains the service had every server on a patched build within about 15 minutes of the first malicious request.  Checks
+Cybersecurity researchers have discovered 13 malicious NuGet packages that are designed to target Windows .NET developers under the guise of a fake take-home job assessment.  "Most of the packages pose as WinUI 3 and WPF [Windows Presentation Foundation] button controls," Socket security researcher Kush Pandya said in a technical write-up. "In the versions we analyzed, building or running a
 
-🔗 [Read Full Article](https://thehackernews.com/2026/11/hackers-exploited-cvss-100-hexpm-rce.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/11/13-malicious-nuget-packages-turn-fake.html)
 
 
 ---
