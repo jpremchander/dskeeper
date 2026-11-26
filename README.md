@@ -6,50 +6,38 @@ vulnerabilities, and exploitation activity for continuous learning.
 ---
 ## 📅 2026-11-26
 
-### 📰 Drupal Warns of New Highly Critical Site Takeover Vulnerability Under Active Exploitation
-**Category:** 🔴 Vulnerability
-**Time:** 07:46 UTC
-
-**Summary:**  
-Drupal has warned of a new "highly critical" security flaw impacting Drupal core that it said has been exploited in the wild.  The vulnerability, tracked as CVE-2026-136716 (CVSS score: N/A), has been described as a case of improper checking for unusual or exceptional conditions. It also relates to CVE-2026-132165 aka Fail2Install in that it addresses remaining vulnerable installation states
-
-🔗 [Read Full Article](https://thehackernews.com/2026/11/drupal-warns-of-new-highly-critical.html)
-
-
----
-
-### 📰 Hackers Exploit 10 Vulnerabilities Across Mitel, Juniper, Vates, and Danfoss Products
-**Category:** 🔴 Vulnerability
-**Time:** 07:46 UTC
-
-**Summary:**  
-The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added 10 security flaws to its Known Exploited Vulnerabilities (KEV) catalog, including five vulnerabilities impacting Mitel MiCollab that were disclosed last week.  The Mitel MiCollab vulnerabilities are listed below -     CVE-2026-133275 (CVSS score: 5.3) - An arbitrary file upload vulnerability in the Audio, Web and
-
-🔗 [Read Full Article](https://thehackernews.com/2026/11/hackers-exploit-10-vulnerabilities.html)
-
-
----
-
-### 📰 1Password Hacked, Customer Data and Source Code Stolen in GitHub Account Breach
+### 📰 ThreatsDay: 10M NGINX Services at Risk, 250+ Malicious Extensions, AI Server Hijacking + 17 More Stories
 **Category:** 📰 News
-**Time:** 07:46 UTC
+**Time:** 21:14 UTC
 
 **Summary:**  
-Popular password management software 1Password on Wednesday disclosed a security incident involving its backend systems that led to the unauthorized access of some customer information, but emphasized that customer password vaults and other secrets were not accessed.  "While we took immediate steps to contain the incident, the attacker gained access to some of our backend systems and accessed a
+A website can look perfectly fine to the person running it. Log out, visit the same page, and things might look different. Something similar is happening with browser extensions, where even the way you find and install one can change what it does. Checking whether software works as expected only tells you so much.  Then there’s the question of who gets to use what. Stolen logins are opening
 
-🔗 [Read Full Article](https://thehackernews.com/2026/11/1password-hacked-customer-data-and.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/11/threatsday-250-rogue-extensions-10m.html)
 
 
 ---
 
-### 📰 13 Malicious NuGet Packages Turn Fake .NET Job Assessments Into Malware Delivery Traps
+### 📰 North Korea-Linked PolinRider Poisons Over 7,600 GitHub Repositories to Spread Malware
 **Category:** 📰 News
-**Time:** 07:46 UTC
+**Time:** 21:14 UTC
 
 **Summary:**  
-Cybersecurity researchers have discovered 13 malicious NuGet packages that are designed to target Windows .NET developers under the guise of a fake take-home job assessment.  "Most of the packages pose as WinUI 3 and WPF [Windows Presentation Foundation] button controls," Socket security researcher Kush Pandya said in a technical write-up. "In the versions we analyzed, building or running a
+The threat actors behind the PolinRider campaign have been observed planting a Python loader in GitHub repositories, as evidence emerges that the activity may have started as far back as February 2025.  "The loader hides in a small utils package or in conftest.py," SafeDep said in a report published this week. "When Python imports the file, the loader reads the newest transaction that an
 
-🔗 [Read Full Article](https://thehackernews.com/2026/11/13-malicious-nuget-packages-turn-fake.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/11/north-korea-linked-polinrider-poisons.html)
+
+
+---
+
+### 📰 Most Wanted: The Phishing Kits and Techniques Getting Past Security Controls
+**Category:** 📰 News
+**Time:** 21:14 UTC
+
+**Summary:**  
+Every phishing attack has to get past email security, web filtering, and safe browsing before it reaches an employee. Some kits manage that far more often than others, and those are the kits that security teams need to know about.  At Push Security, we measure this as breakthrough rate: The share of attacks that get past email security, web gateways, and safe browsing to reach the user.  How an
+
+🔗 [Read Full Article](https://thehackernews.com/2026/11/most-wanted-phishing-kits-and.html)
 
 
 ---
