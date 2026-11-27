@@ -4,40 +4,28 @@ This repository tracks real-world cybersecurity threats,
 vulnerabilities, and exploitation activity for continuous learning.
 
 ---
-## 📅 2026-11-26
+## 📅 2026-11-27
 
-### 📰 ThreatsDay: 10M NGINX Services at Risk, 250+ Malicious Extensions, AI Server Hijacking + 17 More Stories
+### 📰 Switzerland Confirms AI-Assisted Cyberattacks Breached Critical Infrastructure Operators
 **Category:** 📰 News
-**Time:** 21:14 UTC
+**Time:** 07:46 UTC
 
 **Summary:**  
-A website can look perfectly fine to the person running it. Log out, visit the same page, and things might look different. Something similar is happening with browser extensions, where even the way you find and install one can change what it does. Checking whether software works as expected only tells you so much.  Then there’s the question of who gets to use what. Stolen logins are opening
+Attackers using AI agents have broken into computer systems at Swiss organizations in four of five confirmed attacks, the first such cases in the country, the country's cybersecurity agency said yesterday.  Three of the attacks targeted critical infrastructure operators, and two of those succeeded, with no major disruptions reported. The victims have not been named, and it is not known who is
 
-🔗 [Read Full Article](https://thehackernews.com/2026/11/threatsday-250-rogue-extensions-10m.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/11/switzerland-confirms-ai-assisted.html)
 
 
 ---
 
-### 📰 North Korea-Linked PolinRider Poisons Over 7,600 GitHub Repositories to Spread Malware
-**Category:** 📰 News
-**Time:** 21:14 UTC
+### 📰 Unpatched Cacti Zero-Day Enables RCE in Just Four HTTP Requests via Guest Access
+**Category:** 🔴 Vulnerability
+**Time:** 07:46 UTC
 
 **Summary:**  
-The threat actors behind the PolinRider campaign have been observed planting a Python loader in GitHub repositories, as evidence emerges that the activity may have started as far back as February 2025.  "The loader hides in a small utils package or in conftest.py," SafeDep said in a report published this week. "When Python imports the file, the loader reads the newest transaction that an
+Details have emerged about a new zero-day vulnerability in Cacti, an open-source network monitoring tool, that could be exploited to achieve remote code execution.  The proof-of-concept (PoC) exploit, which has yet to be assigned a CVE identifier, has been tracked as 4HTTP2SHELL and 4HTTP2ROOT.  "I found a path from a fresh, unauthenticated HTTP session to command execution as the Cacti server
 
-🔗 [Read Full Article](https://thehackernews.com/2026/11/north-korea-linked-polinrider-poisons.html)
-
-
----
-
-### 📰 Most Wanted: The Phishing Kits and Techniques Getting Past Security Controls
-**Category:** 📰 News
-**Time:** 21:14 UTC
-
-**Summary:**  
-Every phishing attack has to get past email security, web filtering, and safe browsing before it reaches an employee. Some kits manage that far more often than others, and those are the kits that security teams need to know about.  At Push Security, we measure this as breakthrough rate: The share of attacks that get past email security, web gateways, and safe browsing to reach the user.  How an
-
-🔗 [Read Full Article](https://thehackernews.com/2026/11/most-wanted-phishing-kits-and.html)
+🔗 [Read Full Article](https://thehackernews.com/2026/11/unpatched-cacti-zero-day-enables-rce-in.html)
 
 
 ---
